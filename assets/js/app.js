@@ -1,75 +1,173 @@
-// Produtos reais serão cadastrados aqui após confirmação de nome, marca, categoria e disponibilidade.
-const products = [];
-const button = document.querySelector(".menu-toggle"),
-  nav = document.querySelector("#nav");
-button.addEventListener("click", () => {
-  const open = button.getAttribute("aria-expanded") !== "true";
-  button.setAttribute("aria-expanded", String(open));
-  nav.classList.toggle("open", open);
+// Produtos confirmados; inclua image somente depois de conferir a foto exata.
+// Os registros sem imagem ficam fora da vitrine.
+const products = [
+  { id: "kaiak-masculino", brand: "Natura", name: "Kaiak Masculino tradicional", category: "Perfumaria", image: "assets/images/products/natura-kaiak-masculino-100ml.jpg", audience: "masculino" },
+  { id: "tododia-algodao", brand: "Natura", name: "Sabonetes Tododia Algodão, caixa com 5 unidades", category: "Corpo e banho", image: "assets/images/products/natura-tododia-sabonetes-algodao-5x90g.jpg" },
+  { id: "luna", brand: "Natura", name: "Luna tradicional", category: "Perfumaria", image: "assets/images/products/natura-luna-75ml.jpg", audience: "feminino" },
+  { id: "tododia-macadamia", brand: "Natura", name: "Hidratante corporal Tododia Macadâmia, 400 ml", category: "Corpo e banho", image: "assets/images/products/natura-tododia-macadamia-400ml.jpg" },
+  { id: "lumina-antioleosidade", brand: "Natura", name: "Shampoo Lumina anti-oleosidade", category: "Cabelos", image: "assets/images/products/natura-lumina-shampoo-antioleosidade-300ml.jpg" },
+  { id: "homem-sagaz", brand: "Natura", name: "Homem Sagaz", category: "Perfumaria", image: "assets/images/products/natura-homem-sagaz-100ml.jpg", audience: "masculino" },
+  { id: "peppermint", brand: "dōTERRA", name: "Óleo essencial Peppermint", category: "Bem-estar", image: "assets/images/products/Frasco dōTERRA Peppermint minimalista.png" },
+  { id: "lavanda", brand: "dōTERRA", name: "Óleo essencial Lavanda", category: "Bem-estar", image: "assets/images/products/Óleo essencial de lavanda dōTERRA.png" },
+  { id: "hydra-glow", brand: "Eudora", name: "Base Niina Secrets Hydra Glow, 30 ml", category: "Maquiagem", image: "assets/images/products/Base Hidra Glow Niina Secrets-1.png" },
+  { id: "timewise-matte-3d", brand: "Mary Kay", name: "Base TimeWise Matte 3D", category: "Maquiagem", image: "assets/images/products/Base Mary Kay TimeWise Matte 3D.png" },
+  { id: "herbia-cristal", brand: "Herbia", name: "Desodorante Cristal", category: "Corpo e banho", image: "assets/images/products/Desodorante cristal Herbia em vidro elegante.png" },
+  { id: "nature-roll-on-rosa", brand: "Natura", name: "Desodorante roll-on Naturé rosa", category: "Corpo e banho", image: "assets/images/products/Desodorante Natura Naturé Kids rosa coral-2.png" },
+  { id: "acqua-di-cleo-difusor", brand: "Acqua Di Cleo", name: "Difusor 110 ml", category: "Bem-estar", image: "assets/images/products/Difusor Acqua Di Cleo 110 ml.png" },
+  { id: "cuide-se-bem-deleite", brand: "O Boticário", name: "Sabonetes em barra Cuide-se Bem Deleite Especial", category: "Corpo e banho", image: "assets/images/products/Duo Deleite em caixa de leite.png" },
+  { id: "jequiti-cebolinha", brand: "Jequiti", name: "Cebolinha 50 ml", category: "Perfumaria", image: "assets/images/products/Frasco Jequiti Cebolinha 50 ml.png" },
+  { id: "avon-super-shock-max", brand: "Avon", name: "Máscara Super Shock Max", category: "Maquiagem", image: "assets/images/products/Máscara Avon Super Shock Max.png" },
+  { id: "chronos-derma-45", brand: "Natura", name: "Chronos Derma 45+ Dia FPS 30", category: "Bem-estar", image: "assets/images/products/Natura Chronos Derma 45+ Dia FPS 30.png" },
+  { id: "natura-solar-fps-50", brand: "Natura", name: "Natura Solar FPS 50", category: "Bem-estar", image: "assets/images/products/Natura Solar FPS 50 em tubo.png" },
+  { id: "biospor-shampoo", brand: "Biozenthi", name: "Shampoo Biospor", category: "Cabelos", image: "assets/images/products/Packshot premium do shampoo Biospor.png" },
+  { id: "tododia-sem-perfume", brand: "Natura", name: "Desodorante roll-on Tododia sem perfume", category: "Corpo e banho", image: "assets/images/products/Roll-on Natura Tododia sem perfume.png" },
+  { id: "herbia-rosa-mosqueta", brand: "Herbia", name: "Óleo de Rosa Mosqueta", category: "Bem-estar", image: "assets/images/products/Óleo de Rosa Mosqueta Herbia.png" },
+];
+const assetBase = new URL("../../", document.querySelector('script[src$="app.js"]').src);
+const menuButton = document.querySelector(".menu-toggle");
+const menuNav = document.querySelector("#nav");
+if (menuButton && menuNav) menuButton.addEventListener("click", () => {
+  const open = menuButton.getAttribute("aria-expanded") !== "true";
+  menuButton.setAttribute("aria-expanded", String(open));
+  menuNav.classList.toggle("open", open);
 });
-const grid = document.querySelector("#products");
-if (grid) {
-  const brand = document.querySelector("#brand-filter"),
-    search = document.querySelector("#search"),
-    empty = document.querySelector("#empty");
-  function render() {
-    const result = products.filter(
-      (p) =>
-        p.category === grid.dataset.category &&
-        (!brand.value || p.brand === brand.value) &&
-        p.name
-          .toLocaleLowerCase("pt-BR")
-          .includes(search.value.toLocaleLowerCase("pt-BR")),
-    );
-    grid.replaceChildren();
-    result.forEach((p) => {
-      const card = document.createElement("article");
-      card.className = "card";
-      const name = document.createElement("h3");
-      name.textContent = p.name;
-      const label = document.createElement("p");
-      label.textContent = p.brand;
-      const link = document.createElement("a");
-      link.textContent = "Consultar no WhatsApp ↗";
-      link.href =
-        "https://wa.me/5547997854773?text=" +
-        encodeURIComponent(
-          "Olá, Carol! Gostaria de saber mais sobre " + p.name + ".",
-        );
-      card.append(label, name, link);
-      grid.append(card);
-    });
-    empty.hidden = result.length > 0;
-    empty.textContent = products.length
-      ? "Nenhum produto encontrado para os filtros selecionados."
-      : "O catálogo de produtos está sendo preparado. Entre em contato para conhecer as opções disponíveis.";
+// Navegação progressiva: os links originais permanecem disponíveis sem JavaScript.
+if (menuNav && menuButton) {
+  const brandRoutes = { "Natura": "natura", "Avon": "avon", "Mary Kay": "mary-kay", "Eudora": "eudora", "dōTERRA": "doterra", "Jequiti": "jequiti", "O Boticário": "o-boticario", "Biozenthi": "biozenthi", "Herbia": "herbia", "Acqua Di Cleo": "acqua-di-cleo" };
+  const routes = { feminino: "pages/feminino.html", masculino: "pages/masculino.html", marcas: "pages/marcas.html" };
+  const media = window.matchMedia("(max-width: 959px)");
+  const entries = [];
+  let active = null, closeTimer, restoringMegaFocus = false;
+  const url = (path) => new URL(path, assetBase).href;
+  function closePanel(restore = false) {
+    clearTimeout(closeTimer);
+    if (!active) return;
+    const previous = active; active = null; previous.panel.hidden = true;
+    previous.trigger.setAttribute("aria-expanded", "false"); previous.wrapper.classList.remove("is-open");
+    if (restore) { restoringMegaFocus = true; previous.trigger.focus(); restoringMegaFocus = false; }
   }
-  brand.addEventListener("change", render);
-  search.addEventListener("input", render);
-  render();
+  function openPanel(entry) {
+    clearTimeout(closeTimer);
+    if (active === entry) return;
+    closePanel(); active = entry; entry.panel.hidden = false;
+    entry.trigger.setAttribute("aria-expanded", "true"); entry.wrapper.classList.add("is-open");
+  }
+  function addLink(parent, label, href) {
+    const a = document.createElement("a"); a.href = href; a.textContent = label; parent.append(a); return a;
+  }
+  function heading(parent, label) { const h = document.createElement("h3"); h.textContent = label; parent.append(h); }
+  const catalogLink = document.createElement("a");
+  catalogLink.href = url("pages/todos-os-produtos.html");
+  catalogLink.textContent = "Todos os produtos";
+  const aboutLink = [...menuNav.querySelectorAll(":scope > a")].find((link) => link.getAttribute("href").endsWith("/sobre.html"));
+  if (aboutLink) aboutLink.before(catalogLink); else menuNav.append(catalogLink);
+  for (const key of ["feminino", "masculino", "marcas"]) {
+    const original = [...menuNav.querySelectorAll(":scope > a")].find((a) => a.getAttribute("href").endsWith(key + ".html"));
+    if (!original) continue;
+    const wrapper = document.createElement("div"); wrapper.className = "mega-item";
+    original.before(wrapper); wrapper.append(original);
+    const trigger = document.createElement("button"); trigger.type = "button"; trigger.className = "mega-trigger";
+    trigger.setAttribute("aria-label", `Abrir menu ${original.textContent.trim()}`); trigger.setAttribute("aria-expanded", "false"); trigger.setAttribute("aria-controls", `mega-${key}`); trigger.textContent = "⌄"; wrapper.append(trigger);
+    const panel = document.createElement("div"); panel.id = `mega-${key}`; panel.className = "mega-panel"; panel.hidden = true;
+    const content = document.createElement("div"); content.className = "mega-content";
+    const top = document.createElement("div"); top.className = "mega-top";
+    const title = document.createElement("strong"); title.textContent = original.textContent.trim(); top.append(title);
+    const close = document.createElement("button"); close.type = "button"; close.className = "mega-close"; close.textContent = "Fechar ×"; close.setAttribute("aria-label", `Fechar menu ${title.textContent}`); top.append(close); content.append(top);
+    const columns = document.createElement("div"); columns.className = "mega-columns";
+    const scope = key === "marcas" ? products : products.filter((product) => product.audience === key);
+    const categories = [...new Set(scope.map((product) => product.category))].sort((a,b) => a.localeCompare(b,"pt-BR"));
+    const brands = [...new Set(scope.map((product) => product.brand))].filter((name) => brandRoutes[name]).sort((a,b) => a.localeCompare(b,"pt-BR"));
+    if (key !== "marcas") {
+      const section = document.createElement("section"); heading(section, "Categorias");
+      categories.forEach((category) => addLink(section, category, url(routes[key]))); columns.append(section);
+    }
+    const brandSection = document.createElement("section"); heading(brandSection, "Marcas");
+    if (key === "marcas") {
+      const label = document.createElement("label"); label.className = "mega-search"; label.textContent = "Buscar marca";
+      const input = document.createElement("input"); input.type = "search"; input.placeholder = "Nome da marca"; label.append(input); brandSection.append(label);
+      const links = document.createElement("div"); links.className = "mega-brand-list";
+      brands.forEach((name) => { const a = addLink(links, name, url(`pages/marcas/${brandRoutes[name]}.html`)); a.dataset.brandName = name; });
+      const noResults = document.createElement("p"); noResults.className = "mega-no-results"; noResults.hidden = true; noResults.textContent = "Nenhuma marca encontrada.";
+      input.addEventListener("input", () => { let visible = 0; links.querySelectorAll("a").forEach((a) => { const matches = a.dataset.brandName.toLocaleLowerCase("pt-BR").includes(input.value.trim().toLocaleLowerCase("pt-BR")); a.hidden = !matches; if (matches) visible++; }); noResults.hidden = visible > 0; });
+      brandSection.append(links, noResults);
+    } else {
+      brands.forEach((name) => { const destination = new URL(routes[key], assetBase); destination.searchParams.set("marca", name); addLink(brandSection, name, destination.href); });
+    }
+    columns.append(brandSection); content.append(columns);
+    const all = addLink(content, key === "marcas" ? "Ver todas as marcas →" : "Ver todo o catálogo →", url(routes[key])); all.className = "mega-all";
+    const generalCatalog = addLink(content, "Todos os produtos →", url("pages/todos-os-produtos.html")); generalCatalog.className = "mega-all";
+    panel.append(content); wrapper.append(panel);
+    const entry = { wrapper, trigger, panel }; entries.push(entry);
+    wrapper.addEventListener("pointerenter", (event) => { if (!media.matches && event.pointerType === "mouse") openPanel(entry); });
+    wrapper.addEventListener("pointerleave", (event) => { if (!media.matches && event.pointerType === "mouse") { clearTimeout(closeTimer); closeTimer = setTimeout(() => { if (!wrapper.contains(document.activeElement)) closePanel(); }, 180); } });
+    trigger.addEventListener("focus", () => { if (!restoringMegaFocus) openPanel(entry); });
+    trigger.addEventListener("click", (event) => { event.stopPropagation(); if (active === entry && (trigger.dataset.wasOpen === "true" || event.detail === 0)) closePanel(); else openPanel(entry); delete trigger.dataset.wasOpen; });
+    trigger.addEventListener("pointerdown", () => { trigger.dataset.wasOpen = String(active === entry); });
+    close.addEventListener("click", () => closePanel(true));
+  }
+  menuNav.classList.add("has-mega");
+  menuNav.addEventListener("focusout", (event) => { if (active && !active.wrapper.contains(event.relatedTarget)) closePanel(); });
+  document.addEventListener("pointerdown", (event) => { if (!menuNav.contains(event.target)) closePanel(); });
+  document.addEventListener("keydown", (event) => { if (event.key === "Escape") { if (active) { event.preventDefault(); closePanel(true); } else if (menuNav.classList.contains("open")) { menuNav.classList.remove("open"); menuButton.setAttribute("aria-expanded", "false"); menuButton.focus(); } } });
+  menuButton.addEventListener("click", () => { if (!menuNav.classList.contains("open")) closePanel(); });
 }
 
-// Paginas de marca e categoria compartilham products.
+function productCard(product) {
+  const card = document.createElement("article"); card.className = "favorite-card";
+  const picture = document.createElement("div"); picture.className = "favorite-image";
+  const image = document.createElement("img"); image.src = new URL(product.image, assetBase).href; image.alt = `${product.name} - ${product.brand}`; image.loading = "lazy"; image.decoding = "async"; picture.append(image);
+  const body = document.createElement("div"); body.className = "favorite-body";
+  const brand = document.createElement("span"); brand.className = "favorite-brand"; brand.textContent = product.brand;
+  const name = document.createElement("h3"); name.textContent = product.name;
+  const category = document.createElement("p"); category.className = "favorite-category"; category.textContent = product.category;
+  const link = document.createElement("a"); link.className = "favorite-link"; link.textContent = "Consultar com a Carol ↗";
+  link.href = "https://wa.me/5547997854773?text=" + encodeURIComponent(`Olá, Carol! Gostaria de saber mais sobre ${product.brand} ${product.name}.`);
+  body.append(brand, name, category, link); card.append(picture, body); return card;
+}
+function loadProducts(items) {
+  return Promise.all(items.filter((p) => p.image).map((p) => new Promise((resolve) => {
+    const image = new Image(); image.onload = () => resolve(p); image.onerror = () => resolve(null); image.src = new URL(p.image, assetBase).href;
+  }))).then((results) => results.filter(Boolean));
+}
+const grid = document.querySelector("#products");
+if (grid) {
+  const brand = document.querySelector("#brand-filter"), search = document.querySelector("#search"), empty = document.querySelector("#empty"), count = document.querySelector("#catalog-count");
+  const category = document.querySelector("#category-filter"), clear = document.querySelector("#clear-filters");
+  let available = [];
+  function render() {
+    const query = search.value.trim().toLocaleLowerCase("pt-BR");
+    const result = available.filter((p) => (!brand.value || p.brand === brand.value) && (!category || !category.value || p.category === category.value) && p.name.toLocaleLowerCase("pt-BR").includes(query));
+    grid.replaceChildren(...result.map(productCard));
+    count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
+    empty.hidden = result.length > 0;
+    empty.textContent = available.length ? "Nenhum produto encontrado para os filtros selecionados." : "O catálogo de produtos está sendo preparado.";
+  }
+  brand.addEventListener("change", render); search.addEventListener("input", render); render();
+  if (category) category.addEventListener("change", render);
+  if (clear) clear.addEventListener("click", () => { brand.value = ""; category.value = ""; search.value = ""; render(); });
+  loadProducts(grid.dataset.category ? products.filter((p) => p.audience === grid.dataset.category) : products).then((items) => {
+    available = items; const names = [...new Set(items.map((p) => p.brand))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+    if (category) {
+      const types = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+      category.replaceChildren(new Option("Todas as categorias", "")); types.forEach((type) => category.add(new Option(type, type))); category.disabled = !types.length;
+    }
+    brand.replaceChildren(new Option("Todas as marcas", "")); names.forEach((name) => brand.add(new Option(name, name))); brand.disabled = !names.length; const requestedBrand = new URL(window.location.href).searchParams.get("marca"); if (names.includes(requestedBrand)) brand.value = requestedBrand; render();
+  });
+}
 const brandGrid = document.querySelector("#brand-products");
 if (brandGrid) {
-  const filter = document.querySelector("#type-filter");
-  const empty = document.querySelector("#brand-empty");
-  const brandProducts = products.filter((p) => p.brand === brandGrid.dataset.brand);
-  const types = [...new Set(brandProducts.map((p) => p.type).filter(Boolean))].sort((a, b) => a.localeCompare(b, "pt-BR"));
-  types.forEach((type) => { const option = document.createElement("option"); option.value = type; option.textContent = type; filter.append(option); });
-  filter.disabled = types.length === 0;
+  const filter = document.querySelector("#type-filter"), empty = document.querySelector("#brand-empty"), count = document.querySelector("#brand-count");
+  let available = [];
   function renderBrand() {
-    const result = brandProducts.filter((p) => !filter.value || p.type === filter.value);
-    brandGrid.replaceChildren();
-    result.forEach((p) => {
-      const card = document.createElement("article"); card.className = "card";
-      if (p.type) { const type = document.createElement("span"); type.className = "eyebrow"; type.textContent = p.type; card.append(type); }
-      const name = document.createElement("h3"); name.textContent = p.name; card.append(name); brandGrid.append(card);
-    });
-    empty.hidden = result.length > 0;
-    empty.textContent = brandProducts.length ? "Nenhum produto encontrado para o tipo selecionado." : "O catálogo de produtos está sendo preparado.";
+    const result = available.filter((p) => !filter.value || p.category === filter.value);
+    brandGrid.replaceChildren(...result.map(productCard)); count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
+    empty.hidden = result.length > 0; empty.textContent = available.length ? "Nenhum produto encontrado para o tipo selecionado." : "O catálogo de produtos está sendo preparado.";
   }
   filter.addEventListener("change", renderBrand); renderBrand();
+  loadProducts(products.filter((p) => p.brand === brandGrid.dataset.brand)).then((items) => {
+    available = items; const types = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+    filter.replaceChildren(new Option("Todos os tipos", "")); types.forEach((type) => filter.add(new Option(type, type))); filter.disabled = !types.length; renderBrand();
+  });
 }
 
 const carousel = document.querySelector(".carousel");
@@ -258,20 +356,6 @@ if (categoryExplorer) {
   categoryExplorer.addEventListener("keydown", (event) => { if (event.key === "Escape" && isOpen) { event.preventDefault(); closeCategory(true); } });
 }
 
-// Produtos confirmados; inclua image somente depois de conferir a foto exata.
-// Os registros sem imagem ficam fora da vitrine.
-const favoriteCandidates = [
-  { id: "kaiak-masculino", brand: "Natura", name: "Kaiak Masculino tradicional", category: "Perfumaria" },
-  { id: "tododia-algodao", brand: "Natura", name: "Sabonetes Tododia Algodão, caixa com 5 unidades", category: "Corpo e banho" },
-  { id: "luna", brand: "Natura", name: "Luna tradicional", category: "Perfumaria" },
-  { id: "tododia-macadamia", brand: "Natura", name: "Hidratante corporal Tododia Macadâmia, 400 ml", category: "Corpo e banho" },
-  { id: "lumina-antioleosidade", brand: "Natura", name: "Shampoo Lumina anti-oleosidade", category: "Cabelos" },
-  { id: "homem-sagaz", brand: "Natura", name: "Homem Sagaz", category: "Perfumaria" },
-  { id: "peppermint", brand: "dōTERRA", name: "Óleo essencial Peppermint", category: "Bem-estar" },
-  { id: "lavanda", brand: "dōTERRA", name: "Óleo essencial Lavanda", category: "Bem-estar" },
-  { id: "hydra-glow", brand: "Eudora", name: "Base Niina Secrets Hydra Glow, 30 ml", category: "Maquiagem" },
-  { id: "timewise-matte-3d", brand: "Mary Kay", name: "Base TimeWise Matte 3D", category: "Maquiagem" },
-];
 const favorites = document.querySelector(".favorites");
 if (favorites) {
   const grid = favorites.querySelector(".favorites-grid");
@@ -303,7 +387,10 @@ if (favorites) {
   filters.forEach((button) => button.addEventListener("click", () => { selected = button.dataset.favoriteFilter; renderFavorites(); }));
   renderFavorites();
   // Só apresenta imagens que carregam; preserva a ordem dos registros.
-  Promise.all(favoriteCandidates.filter((product) => product.image).map((product) => new Promise((resolve) => {
+  Promise.all(products.filter((product) => product.image).map((product) => new Promise((resolve) => {
     const image = new Image(); image.onload = () => resolve(product); image.onerror = () => resolve(null); image.src = product.image;
   }))).then((results) => { available = results.filter(Boolean); renderFavorites(); });
 }
+
+// Atualiza o ano do rodapé compartilhado.
+document.querySelectorAll("[data-footer-year]").forEach((year) => { year.textContent = String(new Date().getFullYear()); });

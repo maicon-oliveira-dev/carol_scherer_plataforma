@@ -17,7 +17,7 @@
     ><header
       ><div class="wrap head"
         ><a class="logo" href="../index.html"
-          >Carol Scherer<small>Cosméticos & bem-estar</small></a
+          ><img src="../assets/images/logo-carol-scherer.png" alt="Carol Scherer Cosméticos" width="1254" height="1254" /></a
         ><button class="menu-toggle" aria-expanded="false" aria-controls="nav"
           >Menu</button
         ><nav id="nav" aria-label="Navegação principal"
@@ -31,13 +31,14 @@
         ></div
       ></header
     ><main
-      ><section class="section"
-        ><div class="wrap"
-          ><span class="eyebrow">Seleção feminino</span
-          ><h1>Cuidados para você.</h1
-          ><p class="intro"
-            >Explore o catálogo por marca. Consulte a Carol sobre produtos
-            disponíveis e pronta entrega.</p
+      ><section class="feminine-hero" aria-labelledby="feminine-hero-title">
+        <img class="feminine-hero-image" src="../assets/images/banner_feminino_pagina/Perfumes e cuidados sobre mármore.png" alt="" />
+        <div class="feminine-hero-content"><span class="eyebrow">Seleção feminino</span>
+          <h1 id="feminine-hero-title">Cuidados para você.</h1>
+          <p>Explore o catálogo por marca. Consulte a Carol sobre produtos disponíveis e pronta entrega.</p>
+          <a class="button feminine-hero-cta" href="#catalogo-feminino">Explorar seleção &rarr;</a>
+        </div>
+      </section><section class="section" id="catalogo-feminino"><div class="wrap"
           ><div class="filters"
             ><label
               >Marca<br /><select id="brand-filter"
@@ -56,7 +57,7 @@
               >Buscar<br /><input
                 id="search"
                 placeholder="Buscar produto" /></label></div
-          ><div id="products" class="grid" data-category="feminino"></div
+          ><p id="catalog-count" aria-live="polite">0 produtos exibidos</p><div id="products" class="grid catalog-grid" data-category="feminino"></div
           ><div id="empty" class="notice"
             >O catálogo de produtos está sendo preparado. Entre em contato para
             conhecer as opções disponíveis.</div
@@ -71,11 +72,12 @@
       ><a class="button" href="https://wa.me/5547997854773"
         >Conversar pelo WhatsApp ↗</a
       ></section
-    ><footer class="wrap footer"
-      ><span>© Carol Scherer Cosméticos · São Bento do Sul — SC</span
-      ><a href="https://www.instagram.com/carolscherercosmeticos/"
-        >@carolscherercosmeticos ↗</a
-      ></footer
-    ></body
+    ><footer class="site-footer"><div class="wrap site-footer-inner">
+  <div class="site-footer-main">
+    <div class="site-footer-brand"><span class="site-footer-name">Carol Scherer <span>Cosméticos</span></span><p>Beleza e bem-estar com atendimento personalizado.</p></div>
+    <nav class="site-footer-nav" aria-label="Navegação do rodapé"><h2>Explore</h2><a href="../index.html">Início</a><a href="../pages/todos-os-produtos.html">Todos os produtos</a><a href="../pages/feminino.html">Feminino</a><a href="../pages/masculino.html">Masculino</a><a href="../pages/marcas.html">Marcas</a><a href="../pages/sobre.html">Sobre</a></nav>
+    <div class="site-footer-contact"><h2>Estamos por perto</h2><p>Converse com a Carol sobre os produtos.</p><a class="site-footer-button" href="https://wa.me/5547997854773">Fale pelo WhatsApp <span aria-hidden="true">&nearr;</span></a><a class="site-footer-social" href="https://www.instagram.com/carolscherercosmeticos/">Instagram <span aria-hidden="true">&nearr;</span></a><p class="site-footer-location"><span aria-hidden="true">&#9671;</span> São Bento do Sul &mdash; SC</p></div>
+  </div><div class="site-footer-bottom"><span>&copy; <span data-footer-year>2026</span> Carol Scherer Cosméticos</span><span>Beleza e bem-estar</span></div>
+</div></footer></body
   ></html
 >
