@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="pt-BR"
+  ><head
+    ><meta charset="utf-8" /><meta
+      name="viewport"
+      content="width=device-width,initial-scale=1" /><title
+      >Início | Carol Scherer Cosméticos</title
+    ><meta
+      name="description"
+      content="Carol Scherer, consultora de beleza e bem-estar em São Bento do Sul. Conheça marcas e converse sobre produtos disponíveis." /><link
+      rel="stylesheet"
+      href="assets/css/style.css" /><script
+      defer
+      src="assets/js/app.js"
+    ></script></head
+  ><body class="home"
+    ><header class="site-header">
+      <div class="wrap head">
+        <a
+          class="logo"
+          href="index.html"
+          aria-label="Carol Scherer Cosméticos — início"
+          >Carol Scherer<small>Cosméticos &amp; bem-estar</small></a
+        >
+        <a
+          class="button header-whatsapp"
+          href="https://wa.me/5547997854773"
+          aria-label="Converse com a Carol pelo WhatsApp"
+          ><span class="header-whatsapp-full">Fale com a Carol</span
+          ><span class="header-whatsapp-short">WhatsApp</span
+          ><span aria-hidden="true">↗</span></a
+        >
+        <button
+          class="menu-toggle"
+          aria-expanded="false"
+          aria-controls="nav"
+          type="button"
+          >Menu</button
+        >
+        <nav id="nav" aria-label="Navegação principal">
+          <a href="index.html" aria-current="page">Início</a>
+          <a href="pages/feminino.html">Feminino</a>
+          <a href="pages/masculino.html">Masculino</a>
+          <a href="pages/marcas.html">Marcas</a>
+          <a href="pages/sobre.html">Sobre</a>
+        </nav>
+      </div> </header
+    ><main
+      ><section
+        class="carousel"
+        aria-label="Destaques da Carol Scherer"
+        aria-roledescription="carrossel"
+        tabindex="0"
+      >
+        <h1 class="carousel-sr-only"
+          >Carol Scherer Cosméticos: beleza e bem-estar</h1
+        >
+        <div class="carousel-controls" hidden>
+          <button
+            type="button"
+            class="carousel-pause"
+            data-carousel-pause
+            aria-label="Pausar rotação"
+            aria-controls="carousel-slides"
+            title="Pausar rotação"
+          >
+            <svg
+              aria-hidden="true"
+              focusable="false"
+              viewBox="0 0 24 24"
+              width="16"
+              height="16"
+            >
+              <path
+                data-carousel-pause-icon
+                d="M6 4h4v16H6z M14 4h4v16h-4z"
+                fill="currentColor"
+              />
+            </svg>
+            <span class="carousel-sr-only" data-carousel-pause-label
+              >Pausar rotação</span
+            >
+          </button>
+          <button
+            type="button"
+            class="carousel-arrow carousel-arrow--prev"
+            data-carousel-prev
+            aria-label="Slide anterior"
+            aria-controls="carousel-slides"
+            ><svg
+              aria-hidden="true"
+              focusable="false"
+              viewBox="0 0 24 24"
+              width="20"
+              height="20"
+            >
+              <path
+                d="m14 6-6 6 6 6"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              /></svg
+          ></button>
+          <div
+            class="carousel-dots"
+            role="group"
+            aria-label="Escolher destaque"
+          >
+            <button
+              type="button"
+              data-carousel-dot="0"
+              aria-label="Mostrar slide 1 de 4: Carol e atendimento personalizado"
+              aria-controls="slide-atendimento"
+              aria-current="true"
+            ></button>
+            <button
+              type="button"
+              data-carousel-dot="1"
+              aria-label="Mostrar slide 2 de 4: Beleza feminina"
+              aria-controls="slide-feminino"
+            ></button>
+            <button
+              type="button"
+              data-carousel-dot="2"
+              aria-label="Mostrar slide 3 de 4: Beleza masculina"
+              aria-controls="slide-masculino"
+            ></button>
+            <button
+              type="button"
+              data-carousel-dot="3"
+              aria-label="Mostrar slide 4 de 4: Marcas e pronta entrega"
+              aria-controls="slide-marcas"
+            ></button>
+          </div>
+          <button
+            type="button"
+            class="carousel-arrow carousel-arrow--next"
+            data-carousel-next
+            aria-label="Próximo slide"
+            aria-controls="carousel-slides"
+            ><svg
+              aria-hidden="true"
+              focusable="false"
+              viewBox="0 0 24 24"
+              width="20"
+              height="20"
+            >
+              <path
+                d="m10 6 6 6-6 6"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              /></svg
+          ></button>
+        </div>
+        <div class="carousel-slides" id="carousel-slides" aria-live="off">
+          <div
+            id="slide-atendimento"
+            class="carousel-slide carousel-slide--atendimento"
+            role="group"
+            aria-roledescription="slide"
+            aria-label="1 de 4: Carol e atendimento personalizado"
+          >
+            <picture class="carousel-image">
+              <!-- Futuro mobile: adicione o arquivo e descomente o source.
+              <source media="(max-width: 959px)" srcset="assets/images/banners/atendimento-mobile.webp" width="750" height="750" />
+              -->
+              <img
+                src="assets/images/banners/atendimento-desktop.png"
+                alt="Perfumaria e cuidados Natura em cenário botânico, com a marca Carol Scherer."
+                width="1672"
+                height="941"
+                fetchpriority="high"
+                decoding="async"
+              />
+            </picture>
+            <div class="carousel-content">
+              <div class="carousel-copy">
+                <span class="eyebrow">Com a Carol</span>
+                <h2>Beleza com um toque pessoal.</h2>
+                <p
+                  >Conte com a Carol para encontrar o cuidado que combina com
+                  você.</p
+                >
+                <a class="button" href="pages/sobre.html"
+                  >Conheça a Carol<span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </div>
+          <div
+            id="slide-feminino"
+            class="carousel-slide carousel-slide--feminino"
+            role="group"
+            aria-roledescription="slide"
+            aria-label="2 de 4: Beleza feminina"
+            hidden
+          >
+            <picture class="carousel-image">
+              <!-- Futuro mobile: adicione o arquivo e descomente o source.
+              <source media="(max-width: 959px)" srcset="assets/images/banners/feminino-mobile.webp" width="750" height="750" />
+              -->
+              <img
+                src="assets/images/banners/feminino-desktop.png"
+                alt="Seleção de perfumes e cosméticos em composição floral rosa, com a marca Carol Scherer."
+                width="1672"
+                height="941"
+                loading="lazy"
+                decoding="async"
+              />
+            </picture>
+            <div class="carousel-content">
+              <div class="carousel-copy">
+                <span class="eyebrow">Beleza feminina</span>
+                <h2>Um momento só seu.</h2>
+                <p>Perfumaria e cuidados para fazer parte da sua rotina.</p>
+                <a class="button" href="pages/feminino.html"
+                  >Explorar feminino<span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </div>
+          <div
+            id="slide-masculino"
+            class="carousel-slide carousel-slide--masculino"
+            role="group"
+            aria-roledescription="slide"
+            aria-label="3 de 4: Beleza masculina"
+            hidden
+          >
+            <picture class="carousel-image">
+              <!-- Futuro mobile: adicione o arquivo e descomente o source.
+              <source media="(max-width: 959px)" srcset="assets/images/banners/masculino-mobile.webp" width="750" height="750" />
+              -->
+              <img
+                src="assets/images/banners/masculino-desktop.png"
+                alt="Perfumes e cuidados masculinos em cenário botânico, com a marca Carol Scherer."
+                width="1672"
+                height="941"
+                loading="lazy"
+                decoding="async"
+              />
+            </picture>
+            <div class="carousel-content">
+              <div class="carousel-copy">
+                <span class="eyebrow">Beleza masculina</span>
+                <h2>Presença em cada detalhe.</h2>
+                <p>Encontre seu próximo cuidado, com a orientação da Carol.</p>
+                <a class="button" href="pages/masculino.html"
+                  >Explorar masculino<span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </div>
+          <div
+            id="slide-marcas"
+            class="carousel-slide carousel-slide--marcas"
+            role="group"
+            aria-roledescription="slide"
+            aria-label="4 de 4: Marcas e pronta entrega"
+            hidden
+          >
+            <picture class="carousel-image">
+              <!-- Futuro mobile: adicione o arquivo e descomente o source.
+              <source media="(max-width: 959px)" srcset="assets/images/banners/marcas-mobile.webp" width="750" height="750" />
+              -->
+              <img
+                src="assets/images/banners/marcas-desktop.png"
+                alt="Cosméticos de diferentes marcas em cenário natural, com a marca Carol Scherer."
+                width="1672"
+                height="941"
+                loading="lazy"
+                decoding="async"
+              />
+            </picture>
+            <div class="carousel-content">
+              <div class="carousel-copy">
+                <span class="eyebrow">Nossas marcas</span>
+                <h2>Escolhas para o seu dia.</h2>
+                <p>Produtos à pronta entrega, sujeitos à disponibilidade.</p>
+                <a class="button" href="pages/marcas.html"
+                  >Conheça as marcas<span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+        <p
+          class="carousel-sr-only carousel-status"
+          aria-live="polite"
+          aria-atomic="true"
+        ></p> </section
+      ><section class="section category-section" aria-labelledby="category-title"><div class="wrap"><span class="eyebrow">Encontre seu cuidado</span><h2 id="category-title">Escolhas para cada momento.</h2><div class="category-explorer"><div class="category-grid"><article class="category-card"><button type="button" class="category-select" data-category="0" aria-expanded="false" aria-controls="category-detail"><span class="category-image"><img src="assets/images/banners_wrap/Banner feminino de perfumes e cuidados-2.png" alt="" loading="lazy"></span><span class="category-card-copy"><span class="eyebrow">Para ela</span><strong>Feminino</strong><span>Conhecer <span aria-hidden="true">&rarr;</span></span></span></button><noscript><a href="pages/feminino.html">Explorar seleção &rarr;</a></noscript></article>
+<article class="category-card"><button type="button" class="category-select" data-category="1" aria-expanded="false" aria-controls="category-detail"><span class="category-image"><img src="assets/images/banners_wrap/Perfumes masculinos sobre pedra escura-2.png" alt="" loading="lazy"></span><span class="category-card-copy"><span class="eyebrow">Para ele</span><strong>Masculino</strong><span>Conhecer <span aria-hidden="true">&rarr;</span></span></span></button><noscript><a href="pages/masculino.html">Explorar seleção &rarr;</a></noscript></article>
+<article class="category-card"><button type="button" class="category-select" data-category="2" aria-expanded="false" aria-controls="category-detail"><span class="category-image"><img src="assets/images/banners_wrap/Portfólio premium de beleza e fragrâncias-1.png" alt="" loading="lazy"></span><span class="category-card-copy"><span class="eyebrow">Beleza e bem-estar</span><strong>Marcas</strong><span>Conhecer <span aria-hidden="true">&rarr;</span></span></span></button><noscript><a href="pages/marcas.html">Conhecer marcas &rarr;</a></noscript></article></div><div class="category-detail" id="category-detail" aria-hidden="true" inert><div class="category-controls" aria-label="Escolher categoria"><button type="button" data-category="0" aria-pressed="false">Feminino</button><button type="button" data-category="1" aria-pressed="false">Masculino</button><button type="button" data-category="2" aria-pressed="false">Marcas</button><button type="button" class="category-close" aria-label="Fechar destaque">Fechar &times;</button></div><article class="category-panel" data-panel="0" data-mobile-image="assets/images/banners_wrap/Composição feminina de perfumes e skincare-1.png" hidden><div class="category-panel-copy"><span class="eyebrow">Para ela</span><h3>Feminino</h3><a class="category-link" href="pages/feminino.html">Explorar seleção <span aria-hidden="true">&rarr;</span></a></div></article>
+<article class="category-panel" data-panel="1" data-mobile-image="assets/images/banners_wrap/Composição masculina de fragrâncias premium-1.png" hidden><div class="category-panel-copy"><span class="eyebrow">Para ele</span><h3>Masculino</h3><a class="category-link" href="pages/masculino.html">Explorar seleção <span aria-hidden="true">&rarr;</span></a></div></article>
+<article class="category-panel" data-panel="2" data-mobile-image="assets/images/banners_wrap/Portfólio premium de beleza e fragrâncias.png" hidden><div class="category-panel-copy"><span class="eyebrow">Beleza e bem-estar</span><h3>Marcas</h3><a class="category-link" href="pages/marcas.html">Conhecer marcas <span aria-hidden="true">&rarr;</span></a></div></article></div></div></div></section
+      ><section class="section favorites" aria-labelledby="favorites-title"><div class="wrap">
+        <span class="eyebrow">Seleção da Carol</span>
+        <h2 id="favorites-title">Os favoritos da Carol</h2>
+        <p class="intro">Conheça a seleção da Carol e converse com ela sobre os produtos.</p>
+        <div class="favorites-filters" role="group" aria-label="Filtrar favoritos por categoria">
+          <button type="button" data-favorite-filter="" aria-pressed="true">Todos</button>
+          <button type="button" data-favorite-filter="Perfumaria" aria-pressed="false">Perfumaria</button>
+          <button type="button" data-favorite-filter="Corpo e banho" aria-pressed="false">Corpo e banho</button>
+          <button type="button" data-favorite-filter="Cabelos" aria-pressed="false">Cabelos</button>
+          <button type="button" data-favorite-filter="Maquiagem" aria-pressed="false">Maquiagem</button>
+          <button type="button" data-favorite-filter="Bem-estar" aria-pressed="false">Bem-estar</button>
+        </div>
+        <p class="favorites-count" aria-live="polite" aria-atomic="true">0 produtos exibidos</p>
+        <div class="favorites-grid"></div>
+        <p class="favorites-empty notice">A seleção de produtos está sendo preparada.</p>
+      </div></section
+      ><section class="section muted"
+        ><div class="wrap"
+          ><span class="eyebrow">Sobre a Carol</span
+          ><h2>Experiência e cuidado em cada escolha.</h2
+          ><p class="intro"
+            >Consultora de beleza e bem-estar em São Bento do Sul, Carol reúne
+            marcas e oferece atendimento próximo para ajudar você a encontrar o
+            que procura.</p
+          ><a href="pages/sobre.html">Conheça a Carol ↗</a></div
+        ></section
+      ></main
+    ><section class="contact"
+      ><span class="eyebrow" style="color: #e9bfc4"
+        >Atendimento personalizado</span
+      ><h2>Vamos encontrar seu próximo cuidado?</h2
+      ><p>Converse com a Carol sobre produtos e disponibilidade.</p
+      ><a class="button" href="https://wa.me/5547997854773"
+        >Conversar pelo WhatsApp ↗</a
+      ></section
+    ><footer class="wrap footer"
+      ><span>© Carol Scherer Cosméticos · São Bento do Sul — SC</span
+      ><a href="https://www.instagram.com/carolscherercosmeticos/"
+        >@carolscherercosmeticos ↗</a
+      ></footer
+    ></body
+  ></html
+>
