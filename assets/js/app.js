@@ -9,21 +9,68 @@ const products = [
   { id: "homem-sagaz", brand: "Natura", name: "Homem Sagaz", category: "Perfumaria", image: "assets/images/products/natura-homem-sagaz-100ml.jpg", audience: "masculino" },
   { id: "peppermint", brand: "dōTERRA", name: "Óleo essencial Peppermint", category: "Bem-estar", image: "assets/images/products/Frasco dōTERRA Peppermint minimalista.png" },
   { id: "lavanda", brand: "dōTERRA", name: "Óleo essencial Lavanda", category: "Bem-estar", image: "assets/images/products/Óleo essencial de lavanda dōTERRA.png" },
-  { id: "hydra-glow", brand: "Eudora", name: "Base Niina Secrets Hydra Glow, 30 ml", category: "Maquiagem", image: "assets/images/products/Base Hidra Glow Niina Secrets-1.png" },
-  { id: "timewise-matte-3d", brand: "Mary Kay", name: "Base TimeWise Matte 3D", category: "Maquiagem", image: "assets/images/products/Base Mary Kay TimeWise Matte 3D.png" },
+  { id: "hydra-glow", brand: "Eudora", name: "Base Niina Secrets Hydra Glow, 30 ml", category: "Maquiagem", image: "assets/images/products/Base Hidra Glow Niina Secrets-1.png", audience: "feminino" },
+  { id: "timewise-matte-3d", brand: "Mary Kay", name: "Base TimeWise Matte 3D", category: "Maquiagem", image: "assets/images/products/Base Mary Kay TimeWise Matte 3D.png", audience: "feminino" },
   { id: "herbia-cristal", brand: "Herbia", name: "Desodorante Cristal", category: "Corpo e banho", image: "assets/images/products/Desodorante cristal Herbia em vidro elegante.png" },
   { id: "nature-roll-on-rosa", brand: "Natura", name: "Desodorante roll-on Naturé rosa", category: "Corpo e banho", image: "assets/images/products/Desodorante Natura Naturé Kids rosa coral-2.png" },
   { id: "acqua-di-cleo-difusor", brand: "Acqua Di Cleo", name: "Difusor 110 ml", category: "Bem-estar", image: "assets/images/products/Difusor Acqua Di Cleo 110 ml.png" },
   { id: "cuide-se-bem-deleite", brand: "O Boticário", name: "Sabonetes em barra Cuide-se Bem Deleite Especial", category: "Corpo e banho", image: "assets/images/products/Duo Deleite em caixa de leite.png" },
   { id: "jequiti-cebolinha", brand: "Jequiti", name: "Cebolinha 50 ml", category: "Perfumaria", image: "assets/images/products/Frasco Jequiti Cebolinha 50 ml.png" },
-  { id: "avon-super-shock-max", brand: "Avon", name: "Máscara Super Shock Max", category: "Maquiagem", image: "assets/images/products/Máscara Avon Super Shock Max.png" },
+  { id: "avon-super-shock-max", brand: "Avon", name: "Máscara Super Shock Max", category: "Maquiagem", image: "assets/images/products/Máscara Avon Super Shock Max.png", audience: "feminino" },
   { id: "chronos-derma-45", brand: "Natura", name: "Chronos Derma 45+ Dia FPS 30", category: "Bem-estar", image: "assets/images/products/Natura Chronos Derma 45+ Dia FPS 30.png" },
   { id: "natura-solar-fps-50", brand: "Natura", name: "Natura Solar FPS 50", category: "Bem-estar", image: "assets/images/products/Natura Solar FPS 50 em tubo.png" },
   { id: "biospor-shampoo", brand: "Biozenthi", name: "Shampoo Biospor", category: "Cabelos", image: "assets/images/products/Packshot premium do shampoo Biospor.png" },
   { id: "tododia-sem-perfume", brand: "Natura", name: "Desodorante roll-on Tododia sem perfume", category: "Corpo e banho", image: "assets/images/products/Roll-on Natura Tododia sem perfume.png" },
   { id: "herbia-rosa-mosqueta", brand: "Herbia", name: "Óleo de Rosa Mosqueta", category: "Bem-estar", image: "assets/images/products/Óleo de Rosa Mosqueta Herbia.png" },
+  { id: "boticario-body-splash-acerola-e-vai", brand: "O Boticário", name: "Body Splash Acerola e Vai", category: "Corpo e banho", image: "assets/images/produtos_30_10_2025/Body splash O Boticário Acerola e Vai.png", audience: "feminino" },
+  { id: "eudora-siage-ultra-bond-reset-condicionador", brand: "Eudora", name: "Siàge Ultra Bond Reset, condicionador", category: "Cabelos", image: "assets/images/produtos_30_10_2025/Condicionador Eudora Siàge Ultra Bond Reset-2.png", audience: "feminino" },
+  { id: "mary-kay-gel-colageno-fucsia", brand: "Mary Kay", name: "Gel de colágeno, pote fúcsia", category: "Cuidados faciais", image: "assets/images/produtos_30_10_2025/Gel de colágeno Mary Kay-2.png", audience: "feminino" },
+  { id: "mary-kay-gel-hidratante-colageno-rosa-claro", brand: "Mary Kay", name: "Gel hidratante de colágeno, pote rosa-claro", category: "Cuidados faciais", image: "assets/images/produtos_30_10_2025/Gel hidratante de colágeno Mary Kay.png", audience: "feminino" },
+  { id: "boticario-leau-de-lily-soleil", brand: "O Boticário", name: "L’Eau de Lily Soleil", category: "Perfumaria", image: "assets/images/produtos_30_10_2025/L’Eau de Lily Soleil em fundo marfim.png", audience: "feminino" },
+  { id: "boticario-locao-corporal-acerola-e-vai-400ml", brand: "O Boticário", name: "Loção corporal Acerola e Vai, 400 ml", category: "Corpo e banho", image: "assets/images/produtos_30_10_2025/Loção corporal Acerola e Vai 400 ml.png", audience: "feminino" },
+  { id: "avon-mascara-rosa-aplicador-preto", brand: "Avon", name: "Máscara para cílios rosa com aplicador preto", category: "Maquiagem", image: "assets/images/produtos_30_10_2025/Máscara Avon rosa com aplicador preto.png", audience: "feminino" },
+  { id: "eudora-siage-ultra-bond-reset-mascara", brand: "Eudora", name: "Siàge Ultra Bond Reset, máscara capilar", category: "Cabelos", image: "assets/images/produtos_30_10_2025/Máscara Siàge Ultra Bond Reset-1.png", audience: "feminino" },
+  { id: "doterra-oleo-essencial-bergamota", brand: "dōTERRA", name: "Óleo essencial de bergamota", category: "Bem-estar", image: "assets/images/produtos_30_10_2025/Óleo essencial de bergamota doTERRA.png" },
+  { id: "eudora-siage-ultra-bond-reset-oleo-leve", brand: "Eudora", name: "Siàge Ultra Bond Reset, óleo leve", category: "Cabelos", image: "assets/images/produtos_30_10_2025/Óleo Leve Reset Eudora Siàge-4.png", audience: "feminino" },
+  { id: "boticario-make-b-scandal-blend", brand: "O Boticário", name: "Make B. — Paleta Scandal Blend", category: "Maquiagem", image: "assets/images/produtos_30_10_2025/Paleta Make B. Scandal Blend em destaque.png", audience: "feminino" },
+  { id: "boticario-liz-desodorante-colonia", brand: "O Boticário", name: "Liz Desodorante Colônia", category: "Perfumaria", image: "assets/images/produtos_30_10_2025/Perfume Liz em frasco rosé elegante.png", audience: "feminino" },
+  { id: "mary-kay-patches-gel", brand: "Mary Kay", name: "Máscaras faciais em patches de gel", category: "Cuidados faciais", image: "assets/images/produtos_30_10_2025/Pote amarelo de patches Mary Kay-1.png", audience: "feminino" },
+  { id: "mary-kay-balsamo-limpeza", brand: "Mary Kay", name: "Bálsamo de limpeza", category: "Cuidados faciais", image: "assets/images/produtos_30_10_2025/Pote de bálsamo de limpeza Mary Kay.png", audience: "feminino" },
+  { id: "eudora-siage-ultra-bond-reset-tratamento", brand: "Eudora", name: "Siàge Ultra Bond Reset, tratamento capilar", category: "Cabelos", image: "assets/images/produtos_30_10_2025/Tratamento capilar Eudora Siàge Ultra Bond Reset-3.png", audience: "feminino" },
 ];
 const assetBase = new URL("../../", document.querySelector('script[src$="app.js"]').src);
+
+/* Tema visual persistente: claro é o padrão e dark é uma preferência opcional. */
+const themeStorageKey = "carol-scherer-theme";
+function initializeThemeToggle() {
+  let savedTheme = "light";
+  try { savedTheme = localStorage.getItem(themeStorageKey) || "light"; } catch (_) { /* armazenamento indisponível: mantém claro */ }
+  const root = document.documentElement;
+  root.dataset.theme = savedTheme === "dark" ? "dark" : "light";
+
+  const head = document.querySelector(".head");
+  if (!head) return;
+  const toggle = document.createElement("button");
+  toggle.type = "button";
+  toggle.className = "theme-toggle";
+  toggle.setAttribute("aria-live", "polite");
+  function renderThemeToggle() {
+    const isDark = root.dataset.theme !== "light";
+    toggle.setAttribute("aria-pressed", String(isDark));
+    toggle.setAttribute("aria-label", isDark ? "Mudar para tema claro" : "Mudar para tema escuro");
+    toggle.innerHTML = `<span aria-hidden="true">${isDark ? "Claro" : "Escuro"}</span><span class="theme-toggle-state">${isDark ? "Dark" : "Claro"}</span>`;
+  }
+  toggle.addEventListener("click", () => {
+    root.dataset.theme = root.dataset.theme === "light" ? "dark" : "light";
+    try { localStorage.setItem(themeStorageKey, root.dataset.theme); } catch (_) { /* preferência vale nesta página */ }
+    renderThemeToggle();
+  });
+  const menuToggle = head.querySelector(".menu-toggle");
+  if (menuToggle) menuToggle.before(toggle); else head.append(toggle);
+  renderThemeToggle();
+}
+initializeThemeToggle();
+
 const menuButton = document.querySelector(".menu-toggle");
 const menuNav = document.querySelector("#nav");
 if (menuButton && menuNav) menuButton.addEventListener("click", () => {
@@ -169,6 +216,33 @@ if (brandGrid) {
     filter.replaceChildren(new Option("Todos os tipos", "")); types.forEach((type) => filter.add(new Option(type, type))); filter.disabled = !types.length; renderBrand();
   });
 }
+
+function upgradeSelects() {
+  document.querySelectorAll("select").forEach((select) => {
+    if (select.dataset.premiumSelect) return;
+    select.dataset.premiumSelect = "true";
+    const shell = document.createElement("div"); shell.className = "premium-select";
+    const button = document.createElement("button"); button.type = "button"; button.className = "premium-select-trigger";
+    const list = document.createElement("div"); list.className = "premium-select-list"; list.id = `premium-${select.id}`; list.setAttribute("role", "listbox"); list.hidden = true;
+    button.setAttribute("aria-haspopup", "listbox"); button.setAttribute("aria-controls", list.id); button.setAttribute("aria-expanded", "false");
+    select.before(shell); shell.append(select, button, list); select.classList.add("premium-select-native"); select.tabIndex = -1;
+    const close = () => { list.hidden = true; button.setAttribute("aria-expanded", "false"); shell.classList.remove("is-open"); };
+    const render = () => {
+      const selected = select.selectedOptions[0]; button.textContent = selected ? selected.textContent : ""; button.disabled = select.disabled;
+      list.replaceChildren(...[...select.options].map((option) => {
+        const item = document.createElement("button"); item.type = "button"; item.className = "premium-select-option"; item.setAttribute("role", "option"); item.textContent = option.textContent; item.dataset.value = option.value; item.disabled = option.disabled; item.setAttribute("aria-selected", String(option.selected)); return item;
+      }));
+    };
+    const open = () => { if (button.disabled) return; document.querySelectorAll(".premium-select.is-open").forEach((other) => { if (other !== shell) other.querySelector(".premium-select-trigger").click(); }); list.hidden = false; button.setAttribute("aria-expanded", "true"); shell.classList.add("is-open"); };
+    button.addEventListener("click", () => list.hidden ? open() : close());
+    button.addEventListener("keydown", (event) => { if (["ArrowDown", "ArrowUp", " ", "Enter"].includes(event.key)) { event.preventDefault(); open(); list.querySelector(".premium-select-option:not(:disabled)")?.focus(); } if (event.key === "Escape") close(); });
+    list.addEventListener("click", (event) => { const item = event.target.closest(".premium-select-option"); if (!item || item.disabled) return; select.value = item.dataset.value; select.dispatchEvent(new Event("change", { bubbles: true })); close(); button.focus(); });
+    list.addEventListener("keydown", (event) => { if (event.key === "Escape") { event.preventDefault(); close(); button.focus(); } });
+    select.addEventListener("change", render); new MutationObserver(render).observe(select, { childList: true, subtree: true, attributes: true, attributeFilter: ["disabled"] });
+    document.addEventListener("pointerdown", (event) => { if (!shell.contains(event.target)) close(); }); render();
+  });
+}
+upgradeSelects();
 
 const carousel = document.querySelector(".carousel");
 if (carousel) {
