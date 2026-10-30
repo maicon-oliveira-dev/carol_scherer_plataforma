@@ -1658,6 +1658,84 @@ html[data-theme="light"] .site-footer-button:hover {
   border-color: #bd929d;
   color: #603443;
 }
+/* Navegação clara: rosa inspirado na logo, escurecido para leitura acessível. */
+html[data-theme="light"] {
+  --logo-pink: #c43873;
+  --logo-pink-hover: #9f285a;
+  --color-accent: var(--logo-pink);
+  --color-accent-hover: var(--logo-pink-hover);
+  --color-accent-soft: var(--logo-pink);
+  --color-focus: #c43873;
+}
+html[data-theme="light"] body > header .head nav > a,
+html[data-theme="light"] body > header .has-mega > .mega-item > a,
+html[data-theme="light"] body.home .head nav a[aria-current="page"],
+html[data-theme="light"] body.home .head nav a:hover {
+  color: var(--logo-pink);
+  border-bottom-color: var(--logo-pink);
+}
+html[data-theme="light"] body > header .head nav > a::after,
+html[data-theme="light"] body > header .has-mega > .mega-item > a::after { background: var(--logo-pink); }
+html[data-theme="light"] .mega-panel {
+  background: rgba(255, 250, 248, .99);
+  border-color: #e4c9d2;
+  box-shadow: 0 20px 42px rgba(89, 42, 60, .16), 0 3px 9px rgba(89, 42, 60, .06);
+}
+html[data-theme="light"] .mega-top { border-bottom-color: #e4c9d2; }
+html[data-theme="light"] .mega-top strong,
+html[data-theme="light"] .mega-columns h3,
+html[data-theme="light"] .has-mega .mega-panel a,
+html[data-theme="light"] .has-mega .mega-panel .mega-all,
+html[data-theme="light"] .mega-trigger { color: var(--logo-pink); }
+html[data-theme="light"] .has-mega .mega-panel a:hover { color: var(--logo-pink-hover); }
+html[data-theme="light"] .mega-close {
+  background: #f9e8ef;
+  border-color: #d9a9bb;
+  color: var(--logo-pink);
+}
+html[data-theme="light"] .mega-close:hover { background: #f0d6e0; color: var(--logo-pink-hover); }
+/* Ações e links compartilhados fora dos banners de campanha. */
+html[data-theme="light"] .button {
+  background: #f8e5ec;
+  border-color: #d9a9bb;
+  color: var(--logo-pink);
+  box-shadow: 0 6px 16px rgba(135, 49, 88, .11);
+}
+html[data-theme="light"] .button:hover {
+  background: #efcfdb;
+  border-color: var(--logo-pink);
+  color: var(--logo-pink-hover);
+}
+/* CTAs sobre artes precisam de contraste constante em desktop e mobile. */
+html[data-theme="light"] :is(.feminine-hero-cta, .masculine-hero-cta, .all-products-hero-cta) {
+  background: var(--logo-pink);
+  border-color: var(--logo-pink);
+  color: #fffaf8;
+}
+html[data-theme="light"] :is(.feminine-hero-cta, .masculine-hero-cta, .all-products-hero-cta):hover {
+  background: var(--logo-pink-hover);
+  border-color: var(--logo-pink-hover);
+  color: #fffaf8;
+}
+html[data-theme="light"] :is(.favorite-brand, .favorite-link, .tile a, .card a, .brand-back, .breadcrumbs a:hover, .site-footer-nav a:hover, .site-footer-social:hover) {
+  color: var(--logo-pink);
+}
+html[data-theme="light"] :is(.filters #clear-filters, .favorites-filters button[aria-pressed="true"], .premium-select-option[aria-selected="true"]) {
+  background: var(--logo-pink);
+  border-color: var(--logo-pink);
+  color: #fffaf8;
+}
+html[data-theme="light"] :is(.filters #clear-filters:hover, .favorites-filters button[aria-pressed="true"]:hover, .premium-select-option[aria-selected="true"]:hover) {
+  background: var(--logo-pink-hover);
+  border-color: var(--logo-pink-hover);
+  color: #fffaf8;
+}
+html[data-theme="light"] .favorites-filters button:hover,
+html[data-theme="light"] .premium-select-option:hover,
+html[data-theme="light"] .premium-select-option:focus-visible {
+  color: var(--logo-pink);
+  border-color: #d9a9bb;
+}
 html[data-theme="light"] .favorite-image,
 html[data-theme="light"] .brands-page .brand-card-image { background: #f8eeeb; }
 html[data-theme="light"] .theme-toggle { background: #fffaf8; }
