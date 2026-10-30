@@ -1640,6 +1640,22 @@ html[data-theme="light"] .site-footer { background: #eadbd7; }
 html[data-theme="light"] .contact { background: linear-gradient(135deg, #553d3d, #493235); }
 html[data-theme="light"] .contact .button { background: #efdcd4; color: #573d40; }
 html[data-theme="light"] .contact .button:hover { background: #fffaf8; color: #573d40; }
+html[data-theme="light"] body > header {
+  --header-rose: #f2e2e6;
+  --header-rose-hover: #e8d0d7;
+  --header-rose-ink: #713d50;
+  --header-rose-border: #d9bbc4;
+}
+html[data-theme="light"] .site-footer-button {
+  background: #f2e2e6;
+  border-color: #d9bbc4;
+  color: #713d50;
+}
+html[data-theme="light"] .site-footer-button:hover {
+  background: #e8d0d7;
+  border-color: #bd929d;
+  color: #603443;
+}
 html[data-theme="light"] .favorite-image,
 html[data-theme="light"] .brands-page .brand-card-image { background: #f8eeeb; }
 html[data-theme="light"] .theme-toggle { background: #fffaf8; }
