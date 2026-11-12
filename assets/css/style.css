@@ -929,6 +929,50 @@ input {
 @media (max-width: 959px) { .catalog-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 720px) { .catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; } }
 @media (max-width: 360px) { .catalog-grid { grid-template-columns: 1fr; } }
+
+/* Vitrine Jequiti: bloco único de mídia e conteúdo, isolado dos demais catálogos. */
+#brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(16px, 1.8vw, 26px); width: 100%; }
+#brand-products[data-brand="Jequiti"] .favorite-card { position: relative; z-index: 0; display: flex; flex-direction: column; min-height: 100%; overflow: visible; border-radius: 12px; scroll-margin-top: 112px; }
+#brand-products[data-brand="Jequiti"] .favorite-card:has(.variation-picker.is-open) { z-index: 10; border-color: #bd929d; box-shadow: 0 9px 24px rgba(83, 55, 50, .14); }
+#brand-products[data-brand="Jequiti"] .favorite-image { display: grid; place-items: start center; height: 260px; min-height: 260px; overflow: hidden; padding: 14px 22px 34px; background: #fbf8f7; border-bottom: 1px solid var(--brand-line); border-radius: 11px 11px 0 0; box-sizing: border-box; }
+#brand-products[data-brand="Jequiti"] .favorite-image img { display: block; width: auto; height: auto; max-width: 86%; max-height: calc(100% - 48px); margin: 0; object-fit: contain; object-position: center top; }
+/* As imagens v2 já trazem canvas quadrado com margem interna; amplia apenas sua presença visual. */
+#brand-products[data-brand="Jequiti"] .favorite-image.jequiti-v2-image img { transform: scale(1.28); transform-origin: center top; }
+/* Frascos altos com canvas justo: abre mais respiro visual abaixo sem recortar a embalagem. */
+#brand-products[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_18124_"]),
+#brand-products[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_19804_"]) { padding-top: 6px; padding-bottom: 42px; }
+#brand-products[data-brand="Jequiti"] .favorite-body { position: relative; z-index: 1; display: flex; flex: 1 1 auto; flex-direction: column; min-width: 0; min-height: 230px; overflow: visible; padding: 16px 18px; }
+#brand-products[data-brand="Jequiti"] .favorite-brand { min-height: 16px; }
+#brand-products[data-brand="Jequiti"] .favorite-body h3 { display: -webkit-box; min-height: 66px; margin: 7px 0; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+#brand-products[data-brand="Jequiti"] .favorite-category { margin-bottom: 7px; }
+#brand-products[data-brand="Jequiti"] .product-details { min-height: 36px; margin: 0 0 8px; color: #6d5953; font-size: 12px; line-height: 1.45; }
+#brand-products[data-brand="Jequiti"] .product-description { display: -webkit-box; min-height: 57px; margin: 0 0 8px; overflow: hidden; color: #705e58; font-size: 12px; line-height: 1.58; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+#brand-products[data-brand="Jequiti"] .product-variations { margin: 0 0 8px; color: #914c65; font-size: 12px; font-weight: 700; }
+#brand-products[data-brand="Jequiti"] .variation-picker { position: relative; z-index: 1; margin: 0 0 10px; }
+#brand-products[data-brand="Jequiti"] .variation-picker.is-open { z-index: 2; }
+#brand-products[data-brand="Jequiti"] .variation-picker.is-open::before { content: ""; position: absolute; z-index: 3; top: 100%; right: 0; left: 0; height: 7px; pointer-events: auto; }
+#brand-products[data-brand="Jequiti"] .variation-trigger { display: inline-flex; align-items: center; justify-content: space-between; width: 100%; min-height: 36px; padding: 8px 10px; border: 1px solid #cfa8b5; border-radius: 7px; background: #fffaf8; color: #7b4057; font: 700 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
+#brand-products[data-brand="Jequiti"] .variation-trigger:hover, #brand-products[data-brand="Jequiti"] .variation-picker.is-open .variation-trigger { border-color: #914c65; background: #fdf4f6; }
+#brand-products[data-brand="Jequiti"] .variation-trigger:focus-visible, #brand-products[data-brand="Jequiti"] .variation-option:focus-visible { outline: 3px solid rgba(145, 76, 101, .35); outline-offset: 2px; }
+#brand-products[data-brand="Jequiti"] .variation-selection { margin: 7px 0 0; color: #7b4057; font-size: 12px; font-weight: 700; }
+#brand-products[data-brand="Jequiti"] .variation-menu { position: absolute; z-index: 3; top: calc(100% + 7px); left: 0; display: grid; gap: 4px; width: 100%; max-height: 184px; margin: 0; padding: 6px; overflow-y: auto; border: 1px solid #dfc5cc; border-radius: 9px; background: #fffdfc; box-shadow: 0 10px 22px rgba(83, 55, 50, .14); box-sizing: border-box; animation: variation-menu-enter .16s ease-out both; }
+#brand-products[data-brand="Jequiti"] .variation-picker.opens-up .variation-menu { top: auto; bottom: calc(100% + 7px); animation-name: variation-menu-enter-up; }
+#brand-products[data-brand="Jequiti"] .variation-menu[hidden] { display: none; }
+#brand-products[data-brand="Jequiti"] .variation-option { display: grid; grid-template-columns: 22px 1fr auto; align-items: center; gap: 8px; width: 100%; min-height: 32px; padding: 5px 7px; border: 1px solid transparent; border-radius: 5px; background: transparent; color: #513b36; font: 600 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
+#brand-products[data-brand="Jequiti"] .variation-option:hover, #brand-products[data-brand="Jequiti"] .variation-option.is-selected { border-color: #c88da0; background: #f9eaee; }
+#brand-products[data-brand="Jequiti"] .variation-swatch { width: 18px; height: 18px; border: 1px solid rgba(69, 47, 39, .25); border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .35); }
+#brand-products[data-brand="Jequiti"] .variation-code { color: #765d55; font-size: 11px; font-variant-numeric: tabular-nums; }
+@keyframes variation-menu-enter { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes variation-menu-enter-up { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) { #brand-products[data-brand="Jequiti"] .variation-menu { animation: none; } }
+#brand-products[data-brand="Jequiti"] .favorite-link { flex: 0 0 auto; justify-content: center; margin-top: auto; padding: 11px 14px; border-radius: 7px; background: #914c65; color: #fff; text-align: center; }
+#brand-products[data-brand="Jequiti"] .favorite-link:hover { background: #603e43; color: #fff; }
+html { scroll-padding-top: 112px; }
+body > header { isolation: isolate; }
+html[data-theme="light"] body > header { background: #fffaf8; }
+@media (max-width: 1100px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(3, minmax(0, 1fr)); } #brand-products[data-brand="Jequiti"] .favorite-image { height: 240px; min-height: 240px; } }
+@media (max-width: 760px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; } }
+@media (max-width: 520px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: 1fr; } #brand-products[data-brand="Jequiti"] .favorite-image { height: 230px; min-height: 230px; padding: 14px 20px 34px; } #brand-products[data-brand="Jequiti"] .favorite-body { min-height: 0; } #brand-products[data-brand="Jequiti"] .variation-menu { max-height: min(250px, calc(100vh - 24px)); } }
 .brand-text-mark { display: grid; place-items: center; height: 100%; color: #603e43; font: 28px "Playfair Display", serif; text-align: center; }
 
 /* Navegação expandida no cabeçalho */
