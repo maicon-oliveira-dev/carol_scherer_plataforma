@@ -932,47 +932,47 @@ input {
 
 /* Vitrine Jequiti: bloco único de mídia e conteúdo, isolado dos demais catálogos. */
 #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(16px, 1.8vw, 26px); width: 100%; }
-#brand-products[data-brand="Jequiti"] .favorite-card { position: relative; z-index: 0; display: flex; flex-direction: column; min-height: 100%; overflow: visible; border-radius: 12px; scroll-margin-top: 112px; }
-#brand-products[data-brand="Jequiti"] .favorite-card:has(.variation-picker.is-open) { z-index: 10; border-color: #bd929d; box-shadow: 0 9px 24px rgba(83, 55, 50, .14); }
-#brand-products[data-brand="Jequiti"] .favorite-image { display: grid; place-items: start center; height: 260px; min-height: 260px; overflow: hidden; padding: 14px 22px 34px; background: #fbf8f7; border-bottom: 1px solid var(--brand-line); border-radius: 11px 11px 0 0; box-sizing: border-box; }
-#brand-products[data-brand="Jequiti"] .favorite-image img { display: block; width: auto; height: auto; max-width: 86%; max-height: calc(100% - 48px); margin: 0; object-fit: contain; object-position: center top; }
+.favorite-card[data-brand="Jequiti"] { position: relative; z-index: 0; display: flex; flex-direction: column; min-height: 100%; overflow: visible; border-radius: 12px; scroll-margin-top: 112px; }
+.favorite-card[data-brand="Jequiti"]:has(.variation-picker.is-open) { z-index: 10; border-color: #bd929d; box-shadow: 0 9px 24px rgba(83, 55, 50, .14); }
+.favorite-card[data-brand="Jequiti"] .favorite-image { display: grid; place-items: start center; height: 260px; min-height: 260px; overflow: hidden; padding: 14px 22px 34px; background: #fbf8f7; border-bottom: 1px solid var(--brand-line); border-radius: 11px 11px 0 0; box-sizing: border-box; }
+.favorite-card[data-brand="Jequiti"] .favorite-image img { display: block; width: auto; height: auto; max-width: 86%; max-height: calc(100% - 48px); margin: 0; object-fit: contain; object-position: center top; }
 /* As imagens v2 já trazem canvas quadrado com margem interna; amplia apenas sua presença visual. */
-#brand-products[data-brand="Jequiti"] .favorite-image.jequiti-v2-image img { transform: scale(1.28); transform-origin: center top; }
+.favorite-card[data-brand="Jequiti"] .favorite-image.jequiti-v2-image img { transform: scale(1.28); transform-origin: center top; }
 /* Frascos altos com canvas justo: abre mais respiro visual abaixo sem recortar a embalagem. */
-#brand-products[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_18124_"]),
-#brand-products[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_19804_"]) { padding-top: 6px; padding-bottom: 42px; }
-#brand-products[data-brand="Jequiti"] .favorite-body { position: relative; z-index: 1; display: flex; flex: 1 1 auto; flex-direction: column; min-width: 0; min-height: 230px; overflow: visible; padding: 16px 18px; }
-#brand-products[data-brand="Jequiti"] .favorite-brand { min-height: 16px; }
-#brand-products[data-brand="Jequiti"] .favorite-body h3 { display: -webkit-box; min-height: 66px; margin: 7px 0; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
-#brand-products[data-brand="Jequiti"] .favorite-category { margin-bottom: 7px; }
-#brand-products[data-brand="Jequiti"] .product-details { min-height: 36px; margin: 0 0 8px; color: #6d5953; font-size: 12px; line-height: 1.45; }
-#brand-products[data-brand="Jequiti"] .product-description { display: -webkit-box; min-height: 57px; margin: 0 0 8px; overflow: hidden; color: #705e58; font-size: 12px; line-height: 1.58; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
-#brand-products[data-brand="Jequiti"] .product-variations { margin: 0 0 8px; color: #914c65; font-size: 12px; font-weight: 700; }
-#brand-products[data-brand="Jequiti"] .variation-picker { position: relative; z-index: 1; margin: 0 0 10px; }
-#brand-products[data-brand="Jequiti"] .variation-picker.is-open { z-index: 2; }
-#brand-products[data-brand="Jequiti"] .variation-picker.is-open::before { content: ""; position: absolute; z-index: 3; top: 100%; right: 0; left: 0; height: 7px; pointer-events: auto; }
-#brand-products[data-brand="Jequiti"] .variation-trigger { display: inline-flex; align-items: center; justify-content: space-between; width: 100%; min-height: 36px; padding: 8px 10px; border: 1px solid #cfa8b5; border-radius: 7px; background: #fffaf8; color: #7b4057; font: 700 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
-#brand-products[data-brand="Jequiti"] .variation-trigger:hover, #brand-products[data-brand="Jequiti"] .variation-picker.is-open .variation-trigger { border-color: #914c65; background: #fdf4f6; }
-#brand-products[data-brand="Jequiti"] .variation-trigger:focus-visible, #brand-products[data-brand="Jequiti"] .variation-option:focus-visible { outline: 3px solid rgba(145, 76, 101, .35); outline-offset: 2px; }
-#brand-products[data-brand="Jequiti"] .variation-selection { margin: 7px 0 0; color: #7b4057; font-size: 12px; font-weight: 700; }
-#brand-products[data-brand="Jequiti"] .variation-menu { position: absolute; z-index: 3; top: calc(100% + 7px); left: 0; display: grid; gap: 4px; width: 100%; max-height: 184px; margin: 0; padding: 6px; overflow-y: auto; border: 1px solid #dfc5cc; border-radius: 9px; background: #fffdfc; box-shadow: 0 10px 22px rgba(83, 55, 50, .14); box-sizing: border-box; animation: variation-menu-enter .16s ease-out both; }
-#brand-products[data-brand="Jequiti"] .variation-picker.opens-up .variation-menu { top: auto; bottom: calc(100% + 7px); animation-name: variation-menu-enter-up; }
-#brand-products[data-brand="Jequiti"] .variation-menu[hidden] { display: none; }
-#brand-products[data-brand="Jequiti"] .variation-option { display: grid; grid-template-columns: 22px 1fr auto; align-items: center; gap: 8px; width: 100%; min-height: 32px; padding: 5px 7px; border: 1px solid transparent; border-radius: 5px; background: transparent; color: #513b36; font: 600 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
-#brand-products[data-brand="Jequiti"] .variation-option:hover, #brand-products[data-brand="Jequiti"] .variation-option.is-selected { border-color: #c88da0; background: #f9eaee; }
-#brand-products[data-brand="Jequiti"] .variation-swatch { width: 18px; height: 18px; border: 1px solid rgba(69, 47, 39, .25); border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .35); }
-#brand-products[data-brand="Jequiti"] .variation-code { color: #765d55; font-size: 11px; font-variant-numeric: tabular-nums; }
+.favorite-card[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_18124_"]),
+.favorite-card[data-brand="Jequiti"] .favorite-image:has(img[src*="jequiti_19804_"]) { padding-top: 6px; padding-bottom: 42px; }
+.favorite-card[data-brand="Jequiti"] .favorite-body { position: relative; z-index: 1; display: flex; flex: 1 1 auto; flex-direction: column; min-width: 0; min-height: 230px; overflow: visible; padding: 16px 18px; }
+.favorite-card[data-brand="Jequiti"] .favorite-brand { min-height: 16px; }
+.favorite-card[data-brand="Jequiti"] .favorite-body h3 { display: -webkit-box; min-height: 66px; margin: 7px 0; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+.favorite-card[data-brand="Jequiti"] .favorite-category { margin-bottom: 7px; }
+.favorite-card[data-brand="Jequiti"] .product-details { min-height: 36px; margin: 0 0 8px; color: #6d5953; font-size: 12px; line-height: 1.45; }
+.favorite-card[data-brand="Jequiti"] .product-description { display: -webkit-box; min-height: 57px; margin: 0 0 8px; overflow: hidden; color: #705e58; font-size: 12px; line-height: 1.58; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+.favorite-card[data-brand="Jequiti"] .product-variations { margin: 0 0 8px; color: #914c65; font-size: 12px; font-weight: 700; }
+.favorite-card[data-brand="Jequiti"] .variation-picker { position: relative; z-index: 1; margin: 0 0 10px; }
+.favorite-card[data-brand="Jequiti"] .variation-picker.is-open { z-index: 2; }
+.favorite-card[data-brand="Jequiti"] .variation-picker.is-open::before { content: ""; position: absolute; z-index: 3; top: 100%; right: 0; left: 0; height: 7px; pointer-events: auto; }
+.favorite-card[data-brand="Jequiti"] .variation-trigger { display: inline-flex; align-items: center; justify-content: space-between; width: 100%; min-height: 36px; padding: 8px 10px; border: 1px solid #cfa8b5; border-radius: 7px; background: #fffaf8; color: #7b4057; font: 700 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
+.favorite-card[data-brand="Jequiti"] .variation-trigger:hover, .favorite-card[data-brand="Jequiti"] .variation-picker.is-open .variation-trigger { border-color: #914c65; background: #fdf4f6; }
+.favorite-card[data-brand="Jequiti"] .variation-trigger:focus-visible, .favorite-card[data-brand="Jequiti"] .variation-option:focus-visible { outline: 3px solid rgba(145, 76, 101, .35); outline-offset: 2px; }
+.favorite-card[data-brand="Jequiti"] .variation-selection { margin: 7px 0 0; color: #7b4057; font-size: 12px; font-weight: 700; }
+.favorite-card[data-brand="Jequiti"] .variation-menu { position: absolute; z-index: 3; top: calc(100% + 7px); left: 0; display: grid; gap: 4px; width: 100%; max-height: 184px; margin: 0; padding: 6px; overflow-y: auto; border: 1px solid #dfc5cc; border-radius: 9px; background: #fffdfc; box-shadow: 0 10px 22px rgba(83, 55, 50, .14); box-sizing: border-box; animation: variation-menu-enter .16s ease-out both; }
+.favorite-card[data-brand="Jequiti"] .variation-picker.opens-up .variation-menu { top: auto; bottom: calc(100% + 7px); animation-name: variation-menu-enter-up; }
+.favorite-card[data-brand="Jequiti"] .variation-menu[hidden] { display: none; }
+.favorite-card[data-brand="Jequiti"] .variation-option { display: grid; grid-template-columns: 22px 1fr auto; align-items: center; gap: 8px; width: 100%; min-height: 32px; padding: 5px 7px; border: 1px solid transparent; border-radius: 5px; background: transparent; color: #513b36; font: 600 12px/1.2 "DM Sans", sans-serif; text-align: left; cursor: pointer; }
+.favorite-card[data-brand="Jequiti"] .variation-option:hover, .favorite-card[data-brand="Jequiti"] .variation-option.is-selected { border-color: #c88da0; background: #f9eaee; }
+.favorite-card[data-brand="Jequiti"] .variation-swatch { width: 18px; height: 18px; border: 1px solid rgba(69, 47, 39, .25); border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .35); }
+.favorite-card[data-brand="Jequiti"] .variation-code { color: #765d55; font-size: 11px; font-variant-numeric: tabular-nums; }
 @keyframes variation-menu-enter { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
 @keyframes variation-menu-enter-up { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
-@media (prefers-reduced-motion: reduce) { #brand-products[data-brand="Jequiti"] .variation-menu { animation: none; } }
-#brand-products[data-brand="Jequiti"] .favorite-link { flex: 0 0 auto; justify-content: center; margin-top: auto; padding: 11px 14px; border-radius: 7px; background: #914c65; color: #fff; text-align: center; }
-#brand-products[data-brand="Jequiti"] .favorite-link:hover { background: #603e43; color: #fff; }
+@media (prefers-reduced-motion: reduce) { .favorite-card[data-brand="Jequiti"] .variation-menu { animation: none; } }
+.favorite-card[data-brand="Jequiti"] .favorite-link { flex: 0 0 auto; justify-content: center; margin-top: auto; padding: 11px 14px; border-radius: 7px; background: #914c65; color: #fff; text-align: center; }
+.favorite-card[data-brand="Jequiti"] .favorite-link:hover { background: #603e43; color: #fff; }
 html { scroll-padding-top: 112px; }
 body > header { isolation: isolate; }
 html[data-theme="light"] body > header { background: #fffaf8; }
-@media (max-width: 1100px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(3, minmax(0, 1fr)); } #brand-products[data-brand="Jequiti"] .favorite-image { height: 240px; min-height: 240px; } }
+@media (max-width: 1100px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(3, minmax(0, 1fr)); } .favorite-card[data-brand="Jequiti"] .favorite-image { height: 240px; min-height: 240px; } }
 @media (max-width: 760px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; } }
-@media (max-width: 520px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: 1fr; } #brand-products[data-brand="Jequiti"] .favorite-image { height: 230px; min-height: 230px; padding: 14px 20px 34px; } #brand-products[data-brand="Jequiti"] .favorite-body { min-height: 0; } #brand-products[data-brand="Jequiti"] .variation-menu { max-height: min(250px, calc(100vh - 24px)); } }
+@media (max-width: 520px) { #brand-products[data-brand="Jequiti"] { grid-template-columns: 1fr; } .favorite-card[data-brand="Jequiti"] .favorite-image { height: 230px; min-height: 230px; padding: 14px 20px 34px; } .favorite-card[data-brand="Jequiti"] .favorite-body { min-height: 0; } .favorite-card[data-brand="Jequiti"] .variation-menu { max-height: min(250px, calc(100vh - 24px)); } }
 .brand-text-mark { display: grid; place-items: center; height: 100%; color: #603e43; font: 28px "Playfair Display", serif; text-align: center; }
 
 /* Navegação expandida no cabeçalho */
@@ -1212,6 +1212,27 @@ body > header .head > .button { border-radius: 999px; }
 .brand-filter .premium-select-trigger { min-width: 200px; }
 @media (max-width: 720px) { .brand-filter .premium-select-trigger { min-width: 0; } }
 @media (prefers-reduced-motion: reduce) { .premium-select-trigger, .premium-select-trigger::after, .premium-select-option { transition: none; } }
+
+/* Barra e painel de refinamento reutilizáveis; Jequiti é o primeiro catálogo a adotá-los. */
+.catalog-toolbar { display: grid; grid-template-columns: minmax(220px, 1.4fr) minmax(190px, .8fr) auto; }
+.catalog-refine-trigger, .catalog-refine-apply, .catalog-refine-clear, .catalog-refine-close, .catalog-filter-chip, .catalog-filter-clear-all { font: 700 13px "DM Sans", sans-serif; cursor: pointer; }
+.catalog-refine-trigger { align-self: end; min-height: 52px; padding: 0 18px; border: 1px solid #cfa8b5; border-radius: 10px; background: #fff7f8; color: #7b4057; white-space: nowrap; }
+.catalog-refine-trigger:hover, .catalog-refine-trigger[aria-expanded="true"] { border-color: #914c65; background: #f9eaee; }
+.catalog-refine-trigger:focus-visible, .catalog-refine-close:focus-visible, .catalog-refine-apply:focus-visible, .catalog-refine-clear:focus-visible, .catalog-filter-chip:focus-visible, .catalog-filter-clear-all:focus-visible { outline: 3px solid rgba(145, 76, 101, .35); outline-offset: 2px; }
+.catalog-refine-panel { position: relative; z-index: 20; width: min(760px, 100%); margin: -10px 0 18px auto; padding: 18px; border: 1px solid #dfc5cc; border-radius: 14px; background: #fffdfc; box-shadow: 0 16px 34px rgba(83, 55, 50, .15); }
+.catalog-refine-panel[hidden] { display: none; }
+.catalog-refine-header, .catalog-refine-footer, .catalog-active-filters { display: flex; align-items: center; gap: 10px; }
+.catalog-refine-header { justify-content: space-between; margin-bottom: 16px; }
+.catalog-refine-header h3 { margin: 0; font-size: 18px; }
+.catalog-refine-close { display: grid; width: 36px; height: 36px; place-items: center; border: 1px solid #dfc5cc; border-radius: 50%; background: #fff7f8; color: #7b4057; font-size: 22px; line-height: 1; }
+.catalog-refine-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.catalog-refine-fields > label { display: grid; gap: 8px; color: #684f4a; font: 700 11px "DM Sans", sans-serif; letter-spacing: .09em; text-transform: uppercase; }
+.catalog-refine-footer { justify-content: flex-end; margin-top: 18px; padding-top: 16px; border-top: 1px solid #eadbd6; }
+.catalog-refine-clear, .catalog-filter-clear-all { min-height: 42px; padding: 8px 12px; border: 0; background: transparent; color: #7b4057; text-decoration: underline; }
+.catalog-refine-apply { min-height: 42px; padding: 8px 16px; border: 1px solid #914c65; border-radius: 8px; background: #914c65; color: #fff; }
+.catalog-active-filters { flex-wrap: wrap; margin: -8px 0 18px; }
+.catalog-filter-chip { min-height: 34px; padding: 6px 10px; border: 1px solid #d8b7c1; border-radius: 999px; background: #fff7f8; color: #713d50; }
+@media (max-width: 720px) { .catalog-toolbar { grid-template-columns: 1fr; } .catalog-refine-trigger { width: 100%; } .catalog-refine-panel { width: 100%; margin-top: -12px; box-sizing: border-box; } .catalog-refine-fields { grid-template-columns: 1fr; } .catalog-refine-footer { justify-content: space-between; } }
 
 /* Menus: superfície elevada, espaçamento e estados mais refinados. */
 body > header { box-shadow: 0 4px 18px rgba(83, 55, 50, .045); }
@@ -1784,6 +1805,13 @@ html[data-theme="light"] .favorite-image,
 html[data-theme="light"] .brands-page .brand-card-image { background: #f8eeeb; }
 html[data-theme="light"] .theme-toggle { background: #fffaf8; }
 html[data-theme="light"] .theme-toggle:hover { background: #f1e4e1; }
+html[data-theme="light"] :is(.premium-select-list, .catalog-refine-panel) { background: rgba(255, 250, 248, .985); border-color: #e2cbc5; box-shadow: 0 16px 32px rgba(83, 55, 50, .14); }
+html[data-theme="light"] :is(.premium-select-option, .catalog-refine-fields > label) { color: #603e43; }
+html[data-theme="light"] .premium-select-option:hover, html[data-theme="light"] .premium-select-option:focus-visible { background: #f4e2e2; color: #713d50; }
+html[data-theme="light"] :is(.catalog-refine-trigger, .catalog-refine-close, .catalog-filter-chip) { background: #fff7f8; border-color: #d8b7c1; color: #713d50; }
+html:not([data-theme="light"]) :is(.catalog-refine-panel, .premium-select-list) { background: rgba(35, 28, 32, .985); border-color: var(--color-border-strong); }
+html:not([data-theme="light"]) :is(.catalog-refine-fields > label, .catalog-refine-header h3, .catalog-refine-trigger, .catalog-refine-close, .catalog-filter-chip) { color: var(--color-text); }
+html:not([data-theme="light"]) :is(.catalog-refine-trigger, .catalog-refine-close, .catalog-filter-chip) { background: var(--color-surface-raised); border-color: var(--color-border-strong); }
 @media (max-width: 720px) {
   html[data-theme="light"] .brands-page .brands-grid .card {
     background: linear-gradient(145deg, #6a424d, #51373e);

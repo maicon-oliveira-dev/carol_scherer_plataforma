@@ -2,8 +2,32 @@
 // Os registros sem imagem ficam fora da vitrine.
 const jequitiImage = (folder, file) => `assets/images/catalogos/jequiti/${folder}/${file}`;
 const jequiti = (data) => ({ brand: "Jequiti", audience: "unissex", fragrance: "", shade: "", volume: "", imageStatus: "approved", whatsappMessage: "", ...data });
+const biozenthi = (data) => ({ brand: "Biozenthi", audience: "unissex", fragrance: "", shade: "", volume: "", imageStatus: "approved", whatsappMessage: "", ...data });
+// Catálogo Biozenthi: imagens padronizadas em PNG transparente (1254 x 1254 px).
+const biozenthiCatalog = [
+  ["bellotratto-pomada-modeladora-capilar-916.png", "BelloTratto", "Pomada Modeladora Capilar", "Cabelos", "finalizador capilar"],
+  ["biopsor-creme-hidratante-capilar-1077.png", "BioPsor", "Creme Hidratante Capilar", "Cabelos", "creme capilar"], ["biopsor-creme-hidratante-corporal-1078.png", "BioPsor", "Creme Hidratante Corporal", "Corpo", "hidratante corporal"], ["biopsor-sabonete-liquido-dermocalmante-1086.png", "BioPsor", "Sabonete Líquido Dermocalmante", "Corpo", "sabonete líquido"], ["biopsor-shampoo-dermocalmante-1076.png", "BioPsor", "Shampoo Dermocalmante", "Cabelos", "shampoo"],
+  ["bioscalp-serum-dermoforce-antiqueda-763.png", "BioScalp", "Sérum Dermoforce Antiqueda", "Cabelos", "sérum capilar"], ["bioscalp-shampoo-dermocasp-anticaspa-1767.png", "BioScalp", "Shampoo Dermocasp Anticaspa", "Cabelos", "shampoo"], ["bioscalp-shampoo-dermoforce-antiqueda-115.png", "BioScalp", "Shampoo Dermoforce Antiqueda", "Cabelos", "shampoo"],
+  ["biozenthi-creme-desodorante-pes-83.png", "Biozenthi", "Creme Desodorante para os Pés", "Corpo", "creme para pés"], ["biozenthi-creme-hidratante-maos-cotovelos-433.png", "Biozenthi", "Creme Hidratante para Mãos e Cotovelos", "Corpo", "creme para mãos"], ["biozenthi-desodorante-roll-on-alecrim-melaleuca-1686.png", "Biozenthi", "Desodorante Roll-on Alecrim e Melaleuca", "Corpo", "desodorante roll-on"], ["biozenthi-desodorante-roll-on-lavanda-1211.png", "Biozenthi", "Desodorante Roll-on Lavanda", "Corpo", "desodorante roll-on"], ["biozenthi-desodorante-roll-on-max-389.png", "Biozenthi", "Desodorante Roll-on Max", "Corpo", "desodorante roll-on"], ["biozenthi-desodorante-roll-on-neutro-508.png", "Biozenthi", "Desodorante Roll-on Neutro", "Corpo", "desodorante roll-on"], ["biozenthi-desodorante-roll-on-sensitive-1169.png", "Biozenthi", "Desodorante Roll-on Sensitive", "Corpo", "desodorante roll-on"],
+  ["biozenthi-encrespada-condicionador-1479.png", "Biozenthi Encrespada", "Condicionador para Cabelos Encrespados", "Cabelos", "condicionador"], ["biozenthi-encrespada-leave-in-finalizador-1480.png", "Biozenthi Encrespada", "Leave-in Finalizador para Cabelos Encrespados", "Cabelos", "leave-in"], ["biozenthi-encrespada-shampoo-1474.png", "Biozenthi Encrespada", "Shampoo para Cabelos Encrespados", "Cabelos", "shampoo"], ["biozenthi-hidratante-nutritivo-corporal-789.png", "Biozenthi", "Hidratante Nutritivo Corporal", "Corpo", "hidratante corporal"], ["biozenthi-jaborandi-condicionador-805.png", "Biozenthi Jaborandi", "Condicionador de Jaborandi", "Cabelos", "condicionador"], ["biozenthi-jaborandi-shampoo-79.png", "Biozenthi Jaborandi", "Shampoo de Jaborandi", "Cabelos", "shampoo"], ["biozenthi-kids-condicionador-todos-tipos-cabelo.png", "Biozenthi Kids", "Condicionador para Todos os Tipos de Cabelo", "Cabelos", "condicionador"], ["biozenthi-kids-shampoo-todos-tipos-cabelo.png", "Biozenthi Kids", "Shampoo para Todos os Tipos de Cabelo", "Cabelos", "shampoo"], ["biozenthi-leave-in-fluido-oleo-argan-684.png", "Biozenthi", "Leave-in Fluido Óleo de Argan", "Cabelos", "leave-in"],
+  ["biozenthi-oleo-de-coco-condicionador-1012.png", "Biozenthi Óleo de Coco", "Condicionador Óleo de Coco", "Cabelos", "condicionador"], ["biozenthi-oleo-de-coco-leave-in-reparador-1037.png", "Biozenthi Óleo de Coco", "Leave-in Reparador Óleo de Coco", "Cabelos", "leave-in"], ["biozenthi-oleo-de-coco-shampoo-1011.png", "Biozenthi Óleo de Coco", "Shampoo Óleo de Coco", "Cabelos", "shampoo"], ["biozenthi-oleo-essencial-alecrim-1555.png", "Biozenthi", "Óleo Essencial de Alecrim", "Bem-estar", "óleo essencial"], ["biozenthi-oleo-essencial-lavanda-1656.png", "Biozenthi", "Óleo Essencial de Lavanda", "Bem-estar", "óleo essencial"], ["biozenthi-oleo-essencial-melaleuca-1658.png", "Biozenthi", "Óleo Essencial de Melaleuca", "Bem-estar", "óleo essencial"], ["biozenthi-sabonete-intimo-refrescante-113.png", "Biozenthi", "Sabonete Íntimo Refrescante", "Higiene", "sabonete íntimo"], ["biozenthi-sabonete-liquido-cha-verde-710.png", "Biozenthi", "Sabonete Líquido Chá Verde", "Corpo", "sabonete líquido"],
+  ["epiorganic-condicionador-ervas-funcionais-1199.png", "EpiOrganic", "Condicionador Ervas Funcionais", "Cabelos", "condicionador"], ["epiorganic-creme-dental-limao-siciliano-melaleuca-1597.png", "EpiOrganic", "Creme Dental Limão Siciliano e Melaleuca", "Higiene Bucal", "creme dental"], ["epiorganic-creme-dental-menta-refrescante-1061.png", "EpiOrganic", "Creme Dental Menta Refrescante", "Higiene Bucal", "creme dental"], ["epiorganic-hidratante-facial-niacinamida-acai-vitamina-e.png", "EpiOrganic", "Hidratante Facial Niacinamida, Açaí e Vitamina E", "Skincare", "hidratante facial"], ["epiorganic-shampoo-ervas-funcionais-1198.png", "EpiOrganic", "Shampoo Ervas Funcionais", "Cabelos", "shampoo"],
+  ["gato-divino-creme-hidratante-clorofila-1161.png", "Gato Divino", "Creme Hidratante de Clorofila", "Corpo", "hidratante corporal"], ["gato-divino-desodorante-roll-on-1600.png", "Gato Divino", "Desodorante Roll-on", "Corpo", "desodorante roll-on"], ["gato-divino-protetor-solar-fps-65-1687.png", "Gato Divino", "Protetor Solar FPS 65", "Proteção Solar", "protetor solar"], ["gato-divino-sabonete-liquido-clorofila-1162.png", "Gato Divino", "Sabonete Líquido de Clorofila", "Corpo", "sabonete líquido"],
+  ["italian-make-batom-liquido-florenca-1561.png", "Italian Make", "Batom Líquido Florença", "Maquiagem", "batom líquido"], ["italian-make-batom-liquido-nude-1537.png", "Italian Make", "Batom Líquido Nude", "Maquiagem", "batom líquido"], ["italian-make-batom-liquido-rosa-elegante-1553.png", "Italian Make", "Batom Líquido Rosa Elegante", "Maquiagem", "batom líquido"], ["italian-make-batom-liquido-vermelho-perigo-1546.png", "Italian Make", "Batom Líquido Vermelho Perigo", "Maquiagem", "batom líquido"], ["italian-make-gloss-hidratante-fantasy-1539.png", "Italian Make", "Gloss Hidratante Fantasy", "Maquiagem", "gloss labial"], ["italian-make-gloss-hidratante-magic-1559.png", "Italian Make", "Gloss Hidratante Magic", "Maquiagem", "gloss labial"], ["italian-make-gloss-hidratante-marsala-1562.png", "Italian Make", "Gloss Hidratante Marsala", "Maquiagem", "gloss labial"],
+  ["micozione-pele-1691.png", "Micozione", "Micozione Pele", "Cuidados Especiais", "tratamento para pele"], ["micozione-unhas-577.png", "Micozione", "Micozione Unhas", "Cuidados Especiais", "tratamento para unhas"],
+  ["onface-clinical-creme-facial-diurno-vitaminas-1163.png", "Onface Clinical", "Creme Facial Diurno com Vitaminas", "Skincare", "creme facial"], ["onface-clinical-creme-facial-noturno-antissinais-1074.png", "Onface Clinical", "Creme Facial Noturno Antissinais", "Skincare", "creme facial"], ["onface-esfoliante-facial-argila-verde-calendula-182.png", "Onface", "Esfoliante Facial Argila Verde e Calêndula", "Skincare", "esfoliante facial"], ["onface-filtro-solar-fps-35-1700.png", "Onface", "Filtro Solar FPS 35", "Proteção Solar", "filtro solar"], ["onface-filtro-solar-fps-75-bronze-1063-02.png", "Onface", "Filtro Solar FPS 75 Bronze", "Proteção Solar", "filtro solar"], ["onface-filtro-solar-fps-75-claro-1063-01.png", "Onface", "Filtro Solar FPS 75 Claro", "Proteção Solar", "filtro solar"], ["onface-filtro-solar-fps-75-medio-1063.png", "Onface", "Filtro Solar FPS 75 Médio", "Proteção Solar", "filtro solar"], ["onface-hidratante-facial-acido-hialuronico-vitamina-e-1093.png", "Onface", "Hidratante Facial Ácido Hialurônico e Vitamina E", "Skincare", "hidratante facial"], ["onface-protetor-solar-fps-65-1688.png", "Onface", "Protetor Solar FPS 65", "Proteção Solar", "protetor solar"], ["onface-sabonete-facial-lama-vulcanica-569.png", "Onface", "Sabonete Facial Lama Vulcânica", "Skincare", "sabonete facial"],
+  ["piugene-balance-shampoo-antioleosidade-1765.png", "Piugene Balance", "Shampoo Antioleosidade", "Cabelos", "shampoo"], ["piugene-calm-shampoo-sabonete-1715.png", "Piugene Calm", "Shampoo Sabonete", "Cabelos", "shampoo"], ["piugene-dermo-desodorante-roll-on-1714.png", "Piugene Dermo", "Desodorante Roll-on", "Corpo", "desodorante roll-on"], ["piugene-emulsao-facial-limpeza-suave-1753.png", "Piugene", "Emulsão Facial de Limpeza Suave", "Skincare", "limpador facial"], ["piugene-mascara-facial-argila-preta-1656.png", "Piugene", "Máscara Facial Argila Preta", "Skincare", "máscara facial"], ["piugene-serum-acido-hialuronico-1653.png", "Piugene", "Sérum Ácido Hialurônico", "Skincare", "sérum facial"], ["piugene-serum-niacinamida-1654.png", "Piugene", "Sérum Niacinamida", "Skincare", "sérum facial"], ["piugene-serum-vitamina-c-1655.png", "Piugene", "Sérum Vitamina C", "Skincare", "sérum facial"],
+  ["propodo-creme-alta-hidratacao-pes-1055.png", "Propodo", "Creme de Alta Hidratação para os Pés", "Corpo", "creme para pés"], ["puresun-protetor-solar-bege-claro-1605.png", "PureSun", "Protetor Solar Bege Claro", "Proteção Solar", "protetor solar"], ["puresun-protetor-solar-bege-medio-1606.png", "PureSun", "Protetor Solar Bege Médio", "Proteção Solar", "protetor solar"]
+];
+const biozenthiProducts = biozenthiCatalog.map(([file, line, name, category, productType]) => {
+  const match = file.match(/-(\d+(?:-\d+)?)\.png$/);
+  const code = match ? match[1].replace("-", ".") : "";
+  return biozenthi({ id: `biozenthi-${file.replace(/\.png$/, "")}`, code, name, line, category, subcategory: "", productType, shortDescription: `${name}.`, image: `assets/images/biozenthi_catalogo/${file}` });
+});
+
 // Catálogo Jequiti: sem preços, estoque, carrinho ou checkout.
 const products = [
+  ...biozenthiProducts,
   jequiti({id:"jequiti-100392",code:"100392",name:"Vida Hidratante Corporal Relax Lavanda",line:"Vida",category:"Corpo",subcategory:"hidratante",productType:"hidratante corporal",volume:"190 ml",fragrance:"Floral Refrescante",shortDescription:"Hidratante corporal com óleos essenciais e textura leve.",image:"assets/images/catalogos/jequiti/corpo/jequiti_100392_vida_hidratante_corporal_relax_lavanda_190_ml_v2.png"}),
   jequiti({id:"jequiti-100394",code:"100394",name:"Vida Hidratante Corporal Alegre Flor de Pitaya",line:"Vida",category:"Corpo",subcategory:"hidratante",productType:"hidratante corporal",volume:"190 ml",fragrance:"Floral Vibrante",shortDescription:"Hidratante corporal com óleos essenciais e textura leve.",image:"assets/images/catalogos/jequiti/corpo/jequiti_100394_vida_hidratante_corporal_alegre_flor_de_pitaya_190_ml_v2.png"}),
   jequiti({id:"jequiti-100794",code:"100794",name:"Hidratante Corporal Hidratação Noturna",line:"Jequiti",category:"Corpo",subcategory:"hidratante",productType:"hidratante corporal",volume:"400 ml",shortDescription:"Promove sensação de relaxamento para um sono mais tranquilo.",image:"assets/images/catalogos/jequiti/corpo/jequiti_100794_hidratante_corporal_hidratacao_noturna_400_ml_v2.png"}),
@@ -48,6 +72,18 @@ const products = [
   jequiti({id:"jequiti-101103",code:"101103",name:"Estojo Aire",line:"Aire",category:"Perfumaria",subcategory:"estojo",audience:"masculino",productType:"estojo",volume:"2 x 25 ml",shortDescription:"Contém Desodorante Colônia Masculina Aire Altitude e Aire Azure.",image:jequitiImage("perfumaria","jequiti_101103_estojo_aire_2x25_ml.png")}),
   ...[["100291","Creme Facial Uniformizador","creme facial","50 g","jequiti_100291_sensi_creme_facial_uniformizador_50_g.png"],["100292","Sérum Efeito Clareador","sérum","30 ml","jequiti_100292_sensi_serum_efeito_clareador_30_ml_v2.png"],["18703","Gel de Limpeza Revigorante","gel de limpeza","100 g","jequiti_18703_sensi_gel_de_limpeza_revigorante_100_g.png"],["18705","Creme Facial Diurno Multirreparador","creme facial","50 g","jequiti_18705_sensi_creme_facial_diurno_multirreparador_50_g.png"],["18706","Creme Facial Noturno Regenerador","creme facial","50 g","jequiti_18706_sensi_creme_facial_noturno_regenerador_50_g.png"],["18707","Sérum Efeito Lipofilling","sérum","30 ml","jequiti_18707_sensi_serum_efeito_lipofilling_30_ml_v2.png"]].map(([code,name,productType,volume,file])=>jequiti({id:`jequiti-${code}`,code,name:`Sensi ${name}`,line:"Sensi",category:"Skincare",subcategory:"facial",audience:"unissex",productType,volume,shortDescription:`${name} para a rotina de skincare.`,image:jequitiImage("skincare",file)})),
 ];
+const catalogContexts = {
+  all: { primaryFilters: ["search", "brand", "category", "type"] },
+  feminine: { primaryFilters: ["search", "brand", "category", "type"], audience: ["feminino", "unissex"] },
+  masculine: { primaryFilters: ["search", "brand", "category", "type"], audience: ["masculino", "unissex"] },
+  biozenthi: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line"], showOnlyUsefulFilters: true },
+  jequiti: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line", "fragrance", "shade", "volume"], showOnlyUsefulFilters: true },
+  brandSmall: { primaryFilters: ["search", "type"], refinementFilters: ["category"], showOnlyUsefulFilters: true },
+};
+function getProductSearchText(product) {
+  return [product.name, product.shortDescription, product.code, product.codeRange, product.line, product.category, product.productType, product.fragrance, product.shade, product.volume, ...(product.variations || []).flatMap((variation) => [variation.name, variation.code])]
+    .filter(Boolean).join(" ").toLocaleLowerCase("pt-BR");
+}
 const assetBase = new URL("../../", document.querySelector('script[src$="app.js"]').src);
 
 /* Tema visual persistente: claro é o padrão e dark é uma preferência opcional. */
@@ -171,6 +207,7 @@ if (menuNav && menuButton) {
 
 function productCard(product) {
   const card = document.createElement("article"); card.className = "favorite-card";
+  card.dataset.brand = product.brand;
   const picture = document.createElement("div"); picture.className = "favorite-image";
   if (product.brand === "Jequiti" && /_v2\.png(?:$|[?#])/.test(product.image)) picture.classList.add("jequiti-v2-image");
   const image = document.createElement("img"); image.src = new URL(product.image, assetBase).href; image.alt = `${product.name} - ${product.brand}`; image.loading = "lazy"; image.decoding = "async"; picture.append(image);
@@ -184,7 +221,7 @@ function productCard(product) {
   const link = document.createElement("a"); link.className = "favorite-link"; link.textContent = "Consultar com a Carol ↗";
   const whatsappHref = (selectedVariation) => {
     const code = selectedVariation?.code || product.code || product.codeRange;
-    const lines = [`Olá, Carol! Tenho interesse neste produto:`, "", `Produto: ${product.name}`, `Código Jequiti: ${code}`];
+    const lines = [`Olá, Carol! Tenho interesse neste produto:`, "", `Produto: ${product.name}`, `Código: ${code}`];
     if (selectedVariation) { lines.push(`Tom: ${selectedVariation.name}`); if (product.volume) lines.push(`Volume: ${product.volume}`); }
     else if (product.variations?.length) { lines.push(`Tons disponíveis: ${product.toneRange || "J10 a J120"}`, ...(product.volume ? [`Volume: ${product.volume}`] : []), "", "Informe o tom desejado no atendimento."); }
     else { if (product.shade) lines.push(`Tom: ${product.shade}`); if (product.fragrance) lines.push(`Fragrância: ${product.fragrance}`); if (product.volume) lines.push(`Volume: ${product.volume}`); }
@@ -250,58 +287,74 @@ const grid = document.querySelector("#products");
 if (grid) {
   const brand = document.querySelector("#brand-filter"), search = document.querySelector("#search"), empty = document.querySelector("#empty"), count = document.querySelector("#catalog-count");
   const category = document.querySelector("#category-filter"), clear = document.querySelector("#clear-filters");
+  const context = grid.dataset.category === "feminino" ? catalogContexts.feminine : grid.dataset.category === "masculino" ? catalogContexts.masculine : catalogContexts.all;
+  const filterShell = grid.closest("section")?.querySelector(".filters");
+  const addSelect = (id, label) => { const field = document.createElement("label"); field.textContent = label; const select = document.createElement("select"); select.id = id; select.disabled = true; field.append(select); clear ? clear.before(field) : filterShell?.append(field); return select; };
+  const type = context.primaryFilters.includes("type") ? document.querySelector("#type-filter") || addSelect("type-filter", "Tipo") : null;
+  const contextCategory = context.primaryFilters.includes("category") ? category || addSelect("category-filter", "Categoria") : null;
   let available = [];
   function render() {
     const query = search.value.trim().toLocaleLowerCase("pt-BR");
-    const result = available.filter((p) => (!brand.value || p.brand === brand.value) && (!category || !category.value || p.category === category.value) && p.name.toLocaleLowerCase("pt-BR").includes(query));
+    const result = available.filter((p) => (!brand.value || p.brand === brand.value) && (!contextCategory || !contextCategory.value || p.category === contextCategory.value) && (!type || !type.value || p.productType === type.value) && getProductSearchText(p).includes(query));
     grid.replaceChildren(...result.map(productCard));
     count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
     empty.hidden = result.length > 0;
     empty.textContent = available.length ? "Nenhum produto encontrado para os filtros selecionados." : "O catálogo de produtos está sendo preparado.";
   }
   brand.addEventListener("change", render); search.addEventListener("input", render); render();
-  if (category) category.addEventListener("change", render);
-  if (clear) clear.addEventListener("click", () => { brand.value = ""; category.value = ""; search.value = ""; render(); });
-  loadProducts(grid.dataset.category ? products.filter((p) => p.audience === grid.dataset.category) : products).then((items) => {
+  if (contextCategory) contextCategory.addEventListener("change", render); if (type) type.addEventListener("change", render);
+  if (clear) clear.addEventListener("click", () => { brand.value = ""; if (contextCategory) contextCategory.value = ""; if (type) type.value = ""; search.value = ""; render(); });
+  loadProducts(context.audience ? products.filter((p) => context.audience.includes(p.audience)) : products).then((items) => {
     available = items; const names = [...new Set(items.map((p) => p.brand))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-    if (category) {
-      const types = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-      category.replaceChildren(new Option("Todas as categorias", "")); types.forEach((type) => category.add(new Option(type, type))); category.disabled = !types.length;
+    if (contextCategory) {
+      const categories = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+      contextCategory.replaceChildren(new Option("Todas as categorias", "")); categories.forEach((categoryName) => contextCategory.add(new Option(categoryName, categoryName))); contextCategory.disabled = !categories.length;
     }
+    if (type) { const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR")); type.replaceChildren(new Option("Todos os tipos", "")); types.forEach((productType) => type.add(new Option(productType, productType))); type.disabled = !types.length; }
     brand.replaceChildren(new Option("Todas as marcas", "")); names.forEach((name) => brand.add(new Option(name, name))); brand.disabled = !names.length; const requestedBrand = new URL(window.location.href).searchParams.get("marca"); if (names.includes(requestedBrand)) brand.value = requestedBrand; render();
   });
 }
 const brandGrid = document.querySelector("#brand-products");
 if (brandGrid) {
   const filter = document.querySelector("#type-filter"), empty = document.querySelector("#brand-empty"), count = document.querySelector("#brand-count");
-  if (brandGrid.dataset.brand === "Jequiti" && !document.querySelector("#jequiti-search")) {
-    filter.closest("label")?.setAttribute("hidden", "");
-    const filters = document.createElement("div"); filters.className = "filters jequiti-filters";
-    const input = document.createElement("input"); input.id = "jequiti-search"; input.type = "search"; input.placeholder = "Buscar produto";
-    const searchLabel = document.createElement("label"); searchLabel.textContent = "Buscar"; searchLabel.append(input); filters.append(searchLabel);
-    [["category","Categoria"],["line","Linha"],["audience","Público"],["type","Tipo"],["fragrance","Fragrância"],["shade","Tom"],["volume","Volume"]].forEach(([id,label]) => { const item=document.createElement("label"); item.textContent=label; const select=document.createElement("select"); select.id=`jequiti-${id}-filter`; select.disabled=true; item.append(select); filters.append(item); });
-    count.before(filters);
+  const brandContext = brandGrid.dataset.brand === "Jequiti" ? catalogContexts.jequiti : brandGrid.dataset.brand === "Biozenthi" ? catalogContexts.biozenthi : catalogContexts.brandSmall;
+  if (brandContext.primaryFilters.includes("search") && !document.querySelector("#catalog-search")) {
+    const oldLabel = filter.closest("label");
+    const toolbar = document.createElement("div"); toolbar.className = "filters catalog-toolbar jequiti-filters";
+    const searchLabel = document.createElement("label"); searchLabel.textContent = "Buscar produto";
+    const input = document.createElement("input"); input.id = "catalog-search"; input.type = "search"; input.placeholder = "Buscar produto"; searchLabel.append(input);
+    const typeLabel = document.createElement("label"); typeLabel.textContent = "Filtrar por tipo"; typeLabel.append(filter);
+    const trigger = document.createElement("button"); trigger.type = "button"; trigger.id = "catalog-refine-trigger"; trigger.className = "catalog-refine-trigger"; trigger.textContent = "Refinar filtros";
+    const panel = document.createElement("section"); panel.id = "catalog-refine-panel"; panel.className = "catalog-refine-panel"; panel.hidden = true;
+    const head = document.createElement("div"); head.className = "catalog-refine-header"; const title = document.createElement("h3"); title.textContent = "Refinar filtros"; const close = document.createElement("button"); close.type = "button"; close.className = "catalog-refine-close"; close.textContent = "×"; close.setAttribute("aria-label", "Fechar refinamento"); head.append(title, close);
+    const fields = document.createElement("div"); fields.className = "catalog-refine-fields";
+    brandContext.refinementFilters.map((id) => [id, ({ category: "Categoria", line: "Linha", fragrance: "Fragrância", shade: "Tom", volume: "Volume" })[id]]).forEach(([id, label]) => { const field = document.createElement("label"); field.textContent = label; const select = document.createElement("select"); select.id = `catalog-${id}-filter`; select.disabled = true; field.append(select); fields.append(field); });
+    const footer = document.createElement("div"); footer.className = "catalog-refine-footer"; const clear = document.createElement("button"); clear.type = "button"; clear.className = "catalog-refine-clear"; clear.textContent = "Limpar filtros"; const apply = document.createElement("button"); apply.type = "button"; apply.className = "catalog-refine-apply"; apply.textContent = "Aplicar filtros"; footer.append(clear, apply); panel.append(head, fields, footer);
+    const chips = document.createElement("div"); chips.className = "catalog-active-filters"; chips.hidden = true; chips.setAttribute("aria-live", "polite");
+    toolbar.append(searchLabel, typeLabel, trigger); count.before(toolbar, panel, chips); oldLabel?.remove(); trigger.setAttribute("aria-controls", panel.id); trigger.setAttribute("aria-expanded", "false"); upgradeSelects();
   }
-  const controls = ["category","line","audience","type","fragrance","shade","volume"].map((name) => document.querySelector(`#jequiti-${name}-filter`)).filter(Boolean);
-  const search = document.querySelector("#jequiti-search");
+  const controls = (brandContext.refinementFilters || []).map((name) => document.querySelector(`#catalog-${name}-filter`)).filter(Boolean);
+  const search = document.querySelector("#catalog-search");
+  const refine = document.querySelector("#catalog-refine-trigger"), panel = document.querySelector("#catalog-refine-panel"), chips = document.querySelector(".catalog-active-filters");
   let available = [];
+  const value = (id) => document.querySelector(`#catalog-${id}-filter`)?.value || "";
+  const setPanel = (open) => { if (!panel || !refine) return; panel.hidden = !open; refine.setAttribute("aria-expanded", String(open)); if (open) panel.querySelector("button, select:not(:disabled)")?.focus(); };
+  const updateRefinementUi = () => { const active = controls.filter((control) => control.value); if (refine) refine.textContent = active.length ? `Refinar filtros · ${active.length}` : "Refinar filtros"; if (!chips) return; chips.replaceChildren(); chips.hidden = !active.length; active.forEach((control) => { const chip = document.createElement("button"); chip.type = "button"; chip.className = "catalog-filter-chip"; const label = control.closest("label")?.childNodes[0]?.textContent?.trim() || "Filtro"; const option = control.selectedOptions[0]?.textContent || ""; chip.textContent = `${label}: ${option} ×`; chip.setAttribute("aria-label", `Remover filtro ${label}: ${option}`); chip.addEventListener("click", () => { control.value = ""; renderBrand(); }); chips.append(chip); }); if (active.length) { const clearAll = document.createElement("button"); clearAll.type = "button"; clearAll.className = "catalog-filter-clear-all"; clearAll.textContent = "Limpar tudo"; clearAll.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); renderBrand(); }); chips.append(clearAll); } };
   function renderBrand() {
     const query = search?.value.trim().toLocaleLowerCase("pt-BR") || "";
     const result = available.filter((p) => {
-      const value = (id) => document.querySelector(`#jequiti-${id}-filter`)?.value || "";
       const hasVariation = (term) => p.variations?.some((variation) => variation.name === term || variation.code === term);
-      const searchableVariations = p.variations?.map((variation) => `${variation.name} ${variation.code}`).join(" ") || "";
-      return (!filter.value || p.category === filter.value) && (!value("category") || p.category === value("category")) && (!value("line") || p.line === value("line")) && (!value("audience") || p.audience === value("audience")) && (!value("type") || p.productType === value("type")) && (!value("fragrance") || p.fragrance === value("fragrance")) && (!value("shade") || p.shade === value("shade") || hasVariation(value("shade"))) && (!value("volume") || p.volume === value("volume")) && (!query || `${p.name} ${p.shortDescription} ${p.code} ${p.codeRange || ""} ${searchableVariations}`.toLocaleLowerCase("pt-BR").includes(query));
+      return (!filter.value || p.productType === filter.value) && (!value("category") || p.category === value("category")) && (!value("line") || p.line === value("line")) && (!value("audience") || p.audience === value("audience")) && (!value("fragrance") || p.fragrance === value("fragrance")) && (!value("shade") || p.shade === value("shade") || hasVariation(value("shade"))) && (!value("volume") || p.volume === value("volume")) && (!query || getProductSearchText(p).includes(query));
     });
     brandGrid.replaceChildren(...result.map(productCard)); count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
-    empty.hidden = result.length > 0; empty.textContent = available.length ? "Nenhum produto encontrado para o tipo selecionado." : "O catálogo de produtos está sendo preparado.";
+    empty.hidden = result.length > 0; empty.textContent = available.length ? "Nenhum produto encontrado para os filtros selecionados." : "O catálogo de produtos está sendo preparado."; updateRefinementUi();
   }
-  filter.addEventListener("change", renderBrand); controls.forEach((control) => control.addEventListener("change", renderBrand)); search?.addEventListener("input", renderBrand); renderBrand();
+  filter.addEventListener("change", renderBrand); search?.addEventListener("input", renderBrand); refine?.addEventListener("click", () => setPanel(panel?.hidden)); document.querySelector(".catalog-refine-close")?.addEventListener("click", () => setPanel(false)); document.querySelector(".catalog-refine-apply")?.addEventListener("click", () => { renderBrand(); setPanel(false); }); document.querySelector(".catalog-refine-clear")?.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); }); document.addEventListener("pointerdown", (event) => { if (panel && !panel.hidden && !panel.contains(event.target) && !refine?.contains(event.target)) setPanel(false); }); document.addEventListener("keydown", (event) => { if (event.key === "Escape" && panel && !panel.hidden) { event.preventDefault(); setPanel(false); refine?.focus(); } }); renderBrand();
   loadProducts(products.filter((p) => p.brand === brandGrid.dataset.brand)).then((items) => {
-    available = items; const types = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+    available = items; const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
     filter.replaceChildren(new Option("Todos os tipos", "")); types.forEach((type) => filter.add(new Option(type, type))); filter.disabled = !types.length;
-    const populate = (id, key, label) => { const select = document.querySelector(`#jequiti-${id}-filter`); if (!select) return; const values=[...new Set(items.flatMap((p)=>key === "shade" ? [p[key], ...(p.variations || []).map((variation)=>variation.name)] : [p[key]]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR")); select.replaceChildren(new Option(label,"")); values.forEach((v)=>select.add(new Option(v,v))); select.disabled=!values.length; };
-    populate("category","category","Todas as categorias"); populate("line","line","Todas as linhas"); populate("audience","audience","Todos os públicos"); populate("type","productType","Todos os tipos"); populate("fragrance","fragrance","Todas as fragrâncias"); populate("shade","shade","Todos os tons"); populate("volume","volume","Todos os volumes"); renderBrand();
+    const populate = (id, key, label) => { const select = document.querySelector(`#catalog-${id}-filter`); if (!select) return; const values=[...new Set(items.flatMap((p)=>key === "shade" ? [p[key], ...(p.variations || []).map((variation)=>variation.name)] : [p[key]]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR")); select.replaceChildren(new Option(label,"")); values.forEach((v)=>select.add(new Option(v,v))); select.disabled=!values.length; const field = select.closest("label"); if (field) field.hidden = values.length <= 1; };
+    const refinementLabels = { category: "Todas as categorias", line: "Todas as linhas", fragrance: "Todas as fragrâncias", shade: "Todos os tons", volume: "Todos os volumes" }; brandContext.refinementFilters.forEach((id) => populate(id, id, refinementLabels[id])); renderBrand();
   });
 }
 
@@ -325,7 +378,7 @@ function upgradeSelects() {
     button.addEventListener("click", () => list.hidden ? open() : close());
     button.addEventListener("keydown", (event) => { if (["ArrowDown", "ArrowUp", " ", "Enter"].includes(event.key)) { event.preventDefault(); open(); list.querySelector(".premium-select-option:not(:disabled)")?.focus(); } if (event.key === "Escape") close(); });
     list.addEventListener("click", (event) => { const item = event.target.closest(".premium-select-option"); if (!item || item.disabled) return; select.value = item.dataset.value; select.dispatchEvent(new Event("change", { bubbles: true })); close(); button.focus(); });
-    list.addEventListener("keydown", (event) => { if (event.key === "Escape") { event.preventDefault(); close(); button.focus(); } });
+    list.addEventListener("keydown", (event) => { const options = [...list.querySelectorAll(".premium-select-option:not(:disabled)")]; const index = options.indexOf(document.activeElement); const focus = (next) => options[(next + options.length) % options.length]?.focus(); if (event.key === "Escape") { event.preventDefault(); close(); button.focus(); } else if (event.key === "ArrowDown") { event.preventDefault(); focus(index + 1); } else if (event.key === "ArrowUp") { event.preventDefault(); focus(index - 1); } else if (event.key === "Home") { event.preventDefault(); options[0]?.focus(); } else if (event.key === "End") { event.preventDefault(); options.at(-1)?.focus(); } else if (["Enter", " "].includes(event.key)) { event.preventDefault(); document.activeElement?.click(); } });
     select.addEventListener("change", render); new MutationObserver(render).observe(select, { childList: true, subtree: true, attributes: true, attributeFilter: ["disabled"] });
     document.addEventListener("pointerdown", (event) => { if (!shell.contains(event.target)) close(); }); render();
   });
