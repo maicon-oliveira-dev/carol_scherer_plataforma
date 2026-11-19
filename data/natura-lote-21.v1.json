@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "180310",
+      "nome": "Creme Aveludado Corporal Natura Aura Alba 200 g",
+      "descricao": "Creme corporal perfumado da linha Aura Alba, com textura aveludada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/180310.jpg"
+    },
+    {
+      "sku": "184481",
+      "nome": "Creme Perfumado de Mãos Natura Aura Alba 40 g",
+      "descricao": "Creme para as mãos de toque aveludado e rápida absorção.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/184481.jpg"
+    },
+    {
+      "sku": "197460",
+      "nome": "Óleo Perfumado Corporal Natura Aura Alba 200 ml",
+      "descricao": "Óleo corporal perfumado para uso com ou sem enxágue.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/197460.jpg"
+    },
+    {
+      "sku": "173021",
+      "nome": "Desodorante Hidratante Corporal Perfumado Ilía Jardim Secreto 200 g",
+      "descricao": "Hidratante corporal com a fragrância de Ilía Jardim Secreto.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/173021.jpg"
+    },
+    {
+      "sku": "140595",
+      "nome": "Desodorante Hidratante Corporal Perfumado Una Artisan 200 g",
+      "descricao": "Hidratante corporal perfumado da linha Una Artisan.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/140595.jpg"
+    },
+    {
+      "sku": "97153",
+      "nome": "Desodorante Hidratante Corporal Perfumado Luna 300 ml",
+      "descricao": "Hidratante corporal com a fragrância clássica de Luna.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97153.jpg"
+    },
+    {
+      "sku": "97169",
+      "nome": "Desodorante Hidratante Corporal Perfumado Luna Radiante 300 ml",
+      "descricao": "Hidratante corporal com a fragrância de Luna Radiante.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97169.jpg"
+    },
+    {
+      "sku": "97171",
+      "nome": "Desodorante Hidratante Corporal Perfumado Luna Absoluta 300 ml",
+      "descricao": "Hidratante corporal com a fragrância de Luna Absoluta.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97171.jpg"
+    },
+    {
+      "sku": "237782",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Pistache em Creme 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de pistache em creme.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237782.jpg"
+    },
+    {
+      "sku": "237764",
+      "nome": "Óleo em Creme para o Corpo Tododia Caramelo Salgado 200 ml",
+      "descricao": "Óleo em creme nutritivo com fragrância de caramelo salgado.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237764.jpg"
+    },
+    {
+      "sku": "237766",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Caramelo Salgado 400 ml",
+      "descricao": "Creme nutritivo para hidratar e perfumar a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237766.jpg"
+    },
+    {
+      "sku": "172099",
+      "nome": "Esfoliante Nutritivo Tododia Jambo Rosa e Flor de Caju 190 g",
+      "descricao": "Esfoliante corporal nutritivo com fragrância de jambo rosa e flor de caju.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172099.jpg"
+    },
+    {
+      "sku": "172410",
+      "nome": "Geleia Desodorante Iluminadora Tododia Jambo Rosa e Flor de Caju 100 g",
+      "descricao": "Geleia corporal perfumada com efeito iluminador.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172410.jpg"
+    },
+    {
+      "sku": "205936",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Morango e Baunilha Dourada 400 ml",
+      "descricao": "Creme de hidratação corporal com fragrância adocicada floral.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/205936.jpg"
+    },
+    {
+      "sku": "206231",
+      "nome": "Óleo Bifásico Corporal Tododia Morango e Baunilha Dourada 120 ml",
+      "descricao": "Óleo corporal bifásico com fragrância de morango e baunilha dourada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/206231.jpg"
+    },
+    {
+      "sku": "72178",
+      "nome": "Creme Nutritivo para as Mãos Tododia Algodão FPS 20 50 ml",
+      "descricao": "Creme de cuidado para as mãos com fragrância de algodão.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/72178.jpg"
+    },
+    {
+      "sku": "72179",
+      "nome": "Creme Nutritivo para as Mãos Tododia Noz Pecã e Cacau FPS 20 50 ml",
+      "descricao": "Creme de cuidado para as mãos com fragrância de noz pecã e cacau.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/72179.jpg"
+    },
+    {
+      "sku": "95937",
+      "nome": "Creme Nutritivo para as Mãos Tododia Cereja e Avelã FPS 20 50 ml",
+      "descricao": "Creme de cuidado para as mãos com fragrância de cereja e avelã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/95937.jpg"
+    },
+    {
+      "sku": "140759",
+      "nome": "Esfoliante em Creme para o Corpo Tododia Macadâmia 200 ml",
+      "descricao": "Esfoliante corporal cremoso com fragrância de macadâmia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/140759.jpg"
+    },
+    {
+      "sku": "5870",
+      "nome": "Sabonete Líquido em Gel Tododia Amora Vermelha e Jabuticaba 290 g/300 ml",
+      "descricao": "Sabonete em gel para limpar e perfumar a pele no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/5870.jpg"
+    }
+  ]
+}

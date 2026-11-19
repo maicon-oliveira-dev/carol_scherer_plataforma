@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "148161",
+      "nome": "Shampoo Cremoso Lumina para Cabelos Cacheados 300 ml",
+      "descricao": "Shampoo cremoso da rotina de definição e hidratação de cabelos cacheados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148161.jpg"
+    },
+    {
+      "sku": "148171",
+      "nome": "Shampoo Hidratante Lumina para Cabelos Crespos 300 ml",
+      "descricao": "Shampoo da rotina de definição e nutrição de cabelos crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148171.jpg"
+    },
+    {
+      "sku": "148404",
+      "nome": "Gelatina de Definição e Brilho Lumina 240 g",
+      "descricao": "Gelatina finalizadora para definição e brilho dos cabelos cacheados e crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148404.jpg"
+    },
+    {
+      "sku": "148409",
+      "nome": "Condicionador Nutritivo Lumina para Cabelos Crespos 300 ml",
+      "descricao": "Condicionador para a rotina de definição e nutrição de cabelos crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148409.jpg"
+    },
+    {
+      "sku": "148411",
+      "nome": "Condicionador Hidratante Lumina para Cabelos Cacheados 300 ml",
+      "descricao": "Condicionador para a rotina de definição e hidratação de cabelos cacheados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148411.jpg"
+    },
+    {
+      "sku": "148417",
+      "nome": "Máscara Reconstrutora Lumina para Cabelos Crespos 250 ml",
+      "descricao": "Máscara de tratamento da rotina de definição e nutrição de cabelos crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148417.jpg"
+    },
+    {
+      "sku": "148436",
+      "nome": "Creme de Pentear Ativador Lumina para Cabelos Crespos 300 ml",
+      "descricao": "Creme de pentear ativador para definir e nutrir cabelos crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148436.jpg"
+    },
+    {
+      "sku": "148437",
+      "nome": "Creme de Pentear de Definição Lumina para Cabelos Cacheados 300 ml",
+      "descricao": "Creme de pentear da rotina de definição e hidratação de cabelos cacheados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148437.jpg"
+    },
+    {
+      "sku": "148440",
+      "nome": "Máscara Recuperadora Lumina para Cabelos Cacheados 250 ml",
+      "descricao": "Máscara da rotina de recuperação, definição e hidratação de cabelos cacheados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148440.jpg"
+    },
+    {
+      "sku": "205931",
+      "nome": "Óleo Bifásico Nutrição de Nanoprecisão Lumina 100 ml",
+      "descricao": "Óleo bifásico da rotina de nutrição capilar para brilho e leveza.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/205931.jpg"
+    },
+    {
+      "sku": "147416",
+      "nome": "Shampoo Purificante Lumina 300 ml",
+      "descricao": "Shampoo de limpeza da rotina de hidratação e proteção antipoluição.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147416.jpg"
+    },
+    {
+      "sku": "147434",
+      "nome": "Spray de Pentear Antipoluição Lumina 150 ml",
+      "descricao": "Spray de pentear da rotina de hidratação e proteção antipoluição.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147434.jpg"
+    },
+    {
+      "sku": "147446",
+      "nome": "Condicionador Protetor Lumina 300 ml",
+      "descricao": "Condicionador da rotina de hidratação e proteção antipoluição.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147446.jpg"
+    },
+    {
+      "sku": "164505",
+      "nome": "Máscara Reparadora Força e Reparação Molecular Lumina 250 ml",
+      "descricao": "Máscara de tratamento para cabelos frágeis e quebradiços.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/164505.jpg"
+    },
+    {
+      "sku": "112777",
+      "nome": "Máscara Fortalecedora Ekos Patauá 200 g",
+      "descricao": "Máscara com patauá para a rotina de fortalecimento dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112777.jpg"
+    },
+    {
+      "sku": "122499",
+      "nome": "Óleo Fortalecedor Finalizador Ekos Patauá 60 ml",
+      "descricao": "Óleo capilar finalizador da rotina de fortalecimento dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/122499.jpg"
+    },
+    {
+      "sku": "112770",
+      "nome": "Creme para Pentear Multibenefícios Ekos Murumuru 150 ml",
+      "descricao": "Creme para pentear da rotina de cuidado com os danos dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112770.jpg"
+    },
+    {
+      "sku": "112892",
+      "nome": "Sérum Noturno Nutritivo Ekos Murumuru 30 ml",
+      "descricao": "Sérum capilar noturno para a rotina de nutrição dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112892.jpg"
+    },
+    {
+      "sku": "113150",
+      "nome": "Máscara Pré-shampoo Ekos Murumuru 100 g",
+      "descricao": "Máscara pré-shampoo da rotina de reconstrução capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/113150.jpg"
+    },
+    {
+      "sku": "173588",
+      "nome": "Shampoo para Cachos e Crespos Tododia Amora e Óleo de Coco 300 ml",
+      "descricao": "Shampoo para limpeza dos cabelos cacheados e crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/173588.jpg"
+    }
+  ]
+}

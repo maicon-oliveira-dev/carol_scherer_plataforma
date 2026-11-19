@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "8297",
+      "nome": "Batom CC Hidratante FPS 25 Una Vermelho 4-C 3,8 g",
+      "descricao": "Batom hidratante com acabamento luminoso e FPS 25.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8297.jpg"
+    },
+    {
+      "sku": "27251",
+      "nome": "Batom CC Hidratante FPS 25 Una Marrom 8-C 3,8 g",
+      "descricao": "Batom hidratante de acabamento luminoso na tonalidade Marrom 8-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/27251.jpg"
+    },
+    {
+      "sku": "92520",
+      "nome": "Batom CC Hidratante FPS 25 Una Rosê 4-C 3,8 g",
+      "descricao": "Batom hidratante de acabamento luminoso na tonalidade Rosê 4-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/92520.jpg"
+    },
+    {
+      "sku": "92529",
+      "nome": "Batom CC Hidratante FPS 25 Una Rouge 8-C 3,8 g",
+      "descricao": "Batom hidratante de acabamento luminoso na tonalidade Rouge 8-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/92529.jpg"
+    },
+    {
+      "sku": "92536",
+      "nome": "Batom CC Hidratante FPS 25 Una Nude 2-C 3,8 g",
+      "descricao": "Batom hidratante de acabamento luminoso na tonalidade Nude 2-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/92536.jpg"
+    },
+    {
+      "sku": "93505",
+      "nome": "Batom CC Hidratante FPS 25 Una Violeta 6-C 3,8 g",
+      "descricao": "Batom hidratante de acabamento luminoso na tonalidade Violeta 6-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/93505.jpg"
+    },
+    {
+      "sku": "148470",
+      "nome": "Batom Líquido Ultra Care 24h Una Vermelho 2-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração, também indicado para uso como blush.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148470.jpg"
+    },
+    {
+      "sku": "148471",
+      "nome": "Batom Líquido Ultra Care 24h Una Nude 1-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração na tonalidade Nude 1-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148471.jpg"
+    },
+    {
+      "sku": "148473",
+      "nome": "Batom Líquido Ultra Care 24h Una Vinho 8-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração na tonalidade Vinho 8-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148473.jpg"
+    },
+    {
+      "sku": "148474",
+      "nome": "Batom Líquido Ultra Care 24h Una Marrom 10-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração na tonalidade Marrom 10-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148474.jpg"
+    },
+    {
+      "sku": "148475",
+      "nome": "Batom Líquido Ultra Care 24h Una Rosê 2-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração na tonalidade Rosê 2-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148475.jpg"
+    },
+    {
+      "sku": "148476",
+      "nome": "Batom Líquido Ultra Care 24h Una Vermelho 4-C 7 ml",
+      "descricao": "Batom líquido hidratante de longa duração na tonalidade Vermelho 4-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/148476.jpg"
+    },
+    {
+      "sku": "164820",
+      "nome": "Gloss Labial Hidratação Ativa Una Vermelho 2 5 ml",
+      "descricao": "Gloss labial com brilho e textura não pegajosa.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/164820.jpg"
+    },
+    {
+      "sku": "164826",
+      "nome": "Gloss Labial Hidratação Ativa Una Rose 1 5 ml",
+      "descricao": "Gloss labial com brilho e textura não pegajosa na tonalidade Rose 1.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/164826.jpg"
+    },
+    {
+      "sku": "17042",
+      "nome": "Caneta Delineadora de Sobrancelhas Una Castanho-claro 1,1 ml",
+      "descricao": "Caneta para preencher e definir as sobrancelhas na tonalidade castanho-claro.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/17042.jpg"
+    },
+    {
+      "sku": "17043",
+      "nome": "Caneta Delineadora de Sobrancelhas Una Castanho 1,1 ml",
+      "descricao": "Caneta para preencher e definir as sobrancelhas na tonalidade castanho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/17043.jpg"
+    },
+    {
+      "sku": "70721",
+      "nome": "Lápis Kajal para Olhos Una Marrom 1,14 g",
+      "descricao": "Lápis marrom de textura cremosa e alta pigmentação.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/70721.jpg"
+    },
+    {
+      "sku": "140742",
+      "nome": "Sérum para Sobrancelhas Extremific Una 4 g",
+      "descricao": "Sérum em gel de toque seco para o cuidado das sobrancelhas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140742.jpg"
+    },
+    {
+      "sku": "209253",
+      "nome": "Blush Matte Faces Berry Fever 2,8 g",
+      "descricao": "Blush matte de cor construível para bochechas e olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209253.jpg"
+    },
+    {
+      "sku": "209256",
+      "nome": "Blush Matte Faces Sunset 2,8 g",
+      "descricao": "Blush matte de cor construível na tonalidade Sunset.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209256.jpg"
+    }
+  ]
+}
