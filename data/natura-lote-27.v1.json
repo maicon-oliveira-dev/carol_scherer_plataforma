@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "110181",
+      "nome": "Base Sérum Nude Me Una 10N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 10N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110181.jpg"
+    },
+    {
+      "sku": "110182",
+      "nome": "Base Sérum Nude Me Una 12F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 12F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110182.jpg"
+    },
+    {
+      "sku": "110183",
+      "nome": "Base Sérum Nude Me Una 15Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 15Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110183.jpg"
+    },
+    {
+      "sku": "110184",
+      "nome": "Base Sérum Nude Me Una 16F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 16F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110184.jpg"
+    },
+    {
+      "sku": "110185",
+      "nome": "Base Sérum Nude Me Una 19N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 19N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110185.jpg"
+    },
+    {
+      "sku": "110186",
+      "nome": "Base Sérum Nude Me Una 20N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 20N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110186.jpg"
+    },
+    {
+      "sku": "110187",
+      "nome": "Base Sérum Nude Me Una 21Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 21Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110187.jpg"
+    },
+    {
+      "sku": "110188",
+      "nome": "Base Sérum Nude Me Una 23F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 23F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110188.jpg"
+    },
+    {
+      "sku": "110190",
+      "nome": "Base Sérum Nude Me Una 25Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 25Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110190.jpg"
+    },
+    {
+      "sku": "110191",
+      "nome": "Base Sérum Nude Me Una 27N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 27N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110191.jpg"
+    },
+    {
+      "sku": "110193",
+      "nome": "Base Sérum Nude Me Una 30F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 30F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110193.jpg"
+    },
+    {
+      "sku": "110194",
+      "nome": "Base Sérum Nude Me Una 31N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 31N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110194.jpg"
+    },
+    {
+      "sku": "110195",
+      "nome": "Base Sérum Nude Me Una 32Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 32Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110195.jpg"
+    },
+    {
+      "sku": "110196",
+      "nome": "Base Sérum Nude Me Una 33N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 33N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110196.jpg"
+    },
+    {
+      "sku": "110197",
+      "nome": "Base Sérum Nude Me Una 35N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 35N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110197.jpg"
+    },
+    {
+      "sku": "110199",
+      "nome": "Base Sérum Nude Me Una 37Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 37Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110199.jpg"
+    },
+    {
+      "sku": "110200",
+      "nome": "Base Sérum Nude Me Una 40Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 40Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110200.jpg"
+    },
+    {
+      "sku": "110202",
+      "nome": "Base Sérum Nude Me Una 44N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 44N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110202.jpg"
+    },
+    {
+      "sku": "110203",
+      "nome": "Base Sérum Nude Me Una 46Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 46Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110203.jpg"
+    },
+    {
+      "sku": "110204",
+      "nome": "Base Sérum Nude Me Una 48F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura construível na tonalidade 48F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110204.jpg"
+    }
+  ]
+}

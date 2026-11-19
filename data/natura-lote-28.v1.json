@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "121958",
+      "nome": "Creme Nuvem Relaxante para o Corpo Tododia Todanoite Chá de Camomila e Lavanda 200 ml",
+      "descricao": "Creme corporal relaxante com fragrância de chá de camomila e lavanda.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/121958.jpg"
+    },
+    {
+      "sku": "121967",
+      "nome": "Creme Noturno para o Corpo Tododia Todanoite Chá de Camomila e Lavanda 200 ml",
+      "descricao": "Creme corporal para o cuidado noturno, com fragrância suave de chá de camomila e lavanda.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/121967.jpg"
+    },
+    {
+      "sku": "88103",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Amora Vermelha e Jabuticaba 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de amora vermelha e jabuticaba.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/88103.jpg"
+    },
+    {
+      "sku": "152300",
+      "nome": "Creme Desodorante Nutritivo Energizante Corporal 2 em 1 Tododia Flor de Gengibre e Tangerina 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de flor de gengibre e tangerina.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/152300.jpg"
+    },
+    {
+      "sku": "237762",
+      "nome": "Sabonete em Óleo Corporal Tododia Néctar de Mel 190 ml",
+      "descricao": "Sabonete com textura em óleo para a limpeza corporal no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237762.jpg"
+    },
+    {
+      "sku": "237771",
+      "nome": "Esfoliante para o Corpo Tododia Pistache em Creme 200 ml",
+      "descricao": "Esfoliante de ação suave com fragrância de pistache em creme.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237771.jpg"
+    },
+    {
+      "sku": "237778",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Néctar de Mel 400 ml",
+      "descricao": "Creme para hidratar e perfumar a pele com fragrância delicada de néctar de mel.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237778.jpg"
+    },
+    {
+      "sku": "209218",
+      "nome": "Esfoliante para o Corpo Tododia Morango e Baunilha Dourada 250 g",
+      "descricao": "Esfoliante corporal com fragrância de morango e baunilha dourada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/209218.jpg"
+    },
+    {
+      "sku": "237784",
+      "nome": "Gel Creme para Mãos Tododia Morango e Baunilha Dourada 50 ml",
+      "descricao": "Gel creme para as mãos com fragrância de morango e baunilha dourada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/237784.jpg"
+    },
+    {
+      "sku": "80967",
+      "nome": "Creme Hidratante para as Mãos Ekos Maracujá 75 g",
+      "descricao": "Creme de maracujá para hidratação e nutrição das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/80967.jpg"
+    },
+    {
+      "sku": "122484",
+      "nome": "Creme Hidratante para as Mãos Ekos Andiroba 75 g",
+      "descricao": "Hidratante de andiroba para o cuidado das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/122484.jpg"
+    },
+    {
+      "sku": "70406",
+      "nome": "Sabonete Líquido para o Corpo Ekos Andiroba 195 ml",
+      "descricao": "Sabonete líquido de andiroba para a limpeza corporal no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70406.jpg"
+    },
+    {
+      "sku": "176908",
+      "nome": "Protetor Solar Corporal Natura Solar FPS 70 / FPUVA 25 200 ml",
+      "descricao": "Protetor solar corporal de 200 ml com FPS 70 e FPUVA 25.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/176908.jpg"
+    },
+    {
+      "sku": "176914",
+      "nome": "Protetor Solar Corporal Natura Solar FPS 50 / FPUVA 20 200 ml",
+      "descricao": "Protetor solar corporal de 200 ml com FPS 50 e FPUVA 20.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/176914.jpg"
+    },
+    {
+      "sku": "178864",
+      "nome": "Protetor Solar Corporal Natura Solar FPS 50 / FPUVA 20 120 ml",
+      "descricao": "Protetor solar corporal de 120 ml com FPS 50 e FPUVA 20.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/178864.jpg"
+    },
+    {
+      "sku": "140683",
+      "nome": "Óleo Desodorante Corporal Sève Amêndoas e Orquídea Negra 200 ml",
+      "descricao": "Óleo corporal com fragrância de amêndoas e orquídea negra.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/140683.jpg"
+    },
+    {
+      "sku": "189402",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Macadâmia 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de macadâmia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189402.jpg"
+    },
+    {
+      "sku": "189406",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Cereja e Avelã 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de cereja e avelã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189406.jpg"
+    },
+    {
+      "sku": "189413",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Sem Perfume 70 ml",
+      "descricao": "Antitranspirante em roll-on sem perfume.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189413.jpg"
+    },
+    {
+      "sku": "189414",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Alecrim e Sálvia 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de alecrim e sálvia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189414.jpg"
+    }
+  ]
+}

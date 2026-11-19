@@ -1,0 +1,27 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "131465",
+      "nome": "Desodorante Colônia Humor Conexão Masculino 75 ml",
+      "descricao": "Fragrância amadeirada frutal com coco, abacaxi e especiarias.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/131465.jpg"
+    },
+    {
+      "sku": "237757",
+      "nome": "Body Splash Desodorante Colônia Tododia Néctar de Mel 200 ml",
+      "descricao": "Body splash de fragrância quente e delicada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/237757.jpg"
+    },
+    {
+      "sku": "241317",
+      "nome": "Eau de Parfum Ekos Fava 50 ml",
+      "descricao": "Fragrância adocicada e amadeirada com baunilhas amazônica, baiana e bourbon.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/241317.jpg"
+    }
+  ]
+}
