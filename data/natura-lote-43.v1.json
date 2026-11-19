@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "153720",
+      "nome": "Bruma Facial Hidratante Fixadora Una 100 ml",
+      "descricao": "Bruma facial ultraleve que hidrata a pele e ajuda a fixar a maquiagem.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/153720.jpg"
+    }
+  ]
+}

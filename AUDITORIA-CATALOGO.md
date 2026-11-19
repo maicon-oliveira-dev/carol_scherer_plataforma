@@ -1,5 +1,181 @@
 # Auditoria técnica do catálogo Carol Scherer
 
+## Auditoria final de elegibilidade Natura — após o lote 42
+
+Revisão de 19/11/2026. Fonte documental: `17 Centro-Oeste, Sul, ES, MG, RJ e SP.pdf`. As páginas abaixo seguem a numeração do visualizador, com a capa como página 1. As fichas públicas da Natura foram consultadas pelo SKU exato. As imagens foram avaliadas em memória, na resolução nativa.
+
+### Conciliação
+
+O cruzamento dos 41 manifestos ativos com os **1.087 SKUs únicos do PDF** encontrou **682 SKUs ativos e únicos**, dos quais **662 cosméticos unitários recorrentes** e **20 presentes legados**. Todos os ativos têm ocorrência no PDF. O conjunto de 68 candidatos não tem duplicidade interna nem colisões com os 682 ativos.
+
+| Situação | SKUs |
+| --- | ---: |
+| Aprovados para a última implementação | 2 |
+| Pendentes de imagem | 21 |
+| Pendentes de identificação, variante ou descrição | 25 |
+| Pendentes de recorrência ou disponibilidade | 17 |
+| Refis fora da estratégia | 157 |
+| Excluídos definitivamente | 183 |
+| **Total fora do catálogo** | **405** |
+
+Das 180 exclusões anteriores, nenhuma exceção foi comprovada. A revisão das fichas acrescentou três edições especiais à lista de exclusões. Os 157 refis continuam fora da estratégia.
+
+### Aprovados e plano de implementação
+
+| Lote proposto | SKU | Nome oficial | Apresentação | Descrição | Categoria | Página do PDF | Referência oficial |
+| --- | --- | --- | --- | --- | --- | ---: | --- |
+| 43 | `153720` | Bruma Facial Hidratante Fixadora Una 100 ml | Spray facial de 100 ml | Bruma facial ultraleve que hidrata a pele e ajuda a fixar a maquiagem. | Maquiagem | 112 | [Imagem nativa de 1.200 × 1.200 px](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwb2493629/Produtos/NATBRA-153720_1.jpg) · [Ficha oficial](https://www.natura.com.br/p/produto/NATBRA-153720) |
+| 44 | `150225` | Desodorante Antitranspirante Roll-On Natura Homem Clássico | Roll-on de 75 ml, conforme o rótulo oficial | Desodorante antitranspirante roll-on com a fragrância amadeirada e especiada de Natura Homem Clássico. | Cuidados Masculinos | 169 | [Imagem nativa de 1.200 × 1.200 px](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw9e269df6/NATBRA-150225_1.jpg) · [Ficha oficial](https://www.natura.com.br/p/produto/NATBRA-150225) |
+
+Os dois JPEGs mostram a embalagem inteira, centralizada e nítida, com margens e quatro cantos brancos. A reinspeção distinguiu o reflexo localizado sob os frascos do fundo branco. O lote 43 teria um item de Maquiagem e o lote 44 teria um item de Cuidados Masculinos. Após autorização e validação da implementação, a projeção é de **684 cards**, com **664 cosméticos unitários recorrentes** e **20 presentes legados**. A disponibilidade regional é uma checagem separada da indicação pública consultada, que não vincula a oferta a um CEP.
+
+### Reavaliação individual dos 68 pendentes
+
+O link de cada SKU aponta para a ficha pública usada como evidência. Nos itens bloqueados, o motivo indica o que falta comprovar. As três edições especiais têm exclusão definitiva.
+
+| SKU | Categoria | Página do PDF | Classificação final | Motivo |
+| --- | --- | --- | --- | --- |
+| [178907](https://www.natura.com.br/p/produto/NATBRA-178907) | Perfumaria | 73 | Pendente de imagem | Frasco deslocado para acomodar a caixa. As alternativas são editoriais. |
+| [128756](https://www.natura.com.br/p/produto/NATBRA-128756) | Perfumaria | 76 | Pendente de imagem | As referências encontradas apresentam fundo colorido ou composição editorial. |
+| [148477](https://www.natura.com.br/p/produto/NATBRA-148477) | Perfumaria | 80 | Pendente de imagem | Frasco dentro de estojo na referência principal. As alternativas são editoriais. |
+| [148478](https://www.natura.com.br/p/produto/NATBRA-148478) | Perfumaria | 80 | Pendente de imagem | Frasco dentro de estojo na referência principal. As alternativas são editoriais. |
+| [148479](https://www.natura.com.br/p/produto/NATBRA-148479) | Perfumaria | 80 | Pendente de imagem | Frasco dentro de estojo na referência principal. As alternativas são editoriais. |
+| [203374](https://www.natura.com.br/p/produto/NATBRA-203374) | Perfumaria | 92 | Pendente de imagem | Frasco deslocado ao lado da caixa. As alternativas têm cenário editorial. |
+| [180469](https://www.natura.com.br/p/produto/NATBRA-180469) | Corpo e Banho | 140 | Pendente de imagem | O tubo Dourado Suave divide o quadro com amostra de cor. As alternativas têm fundo colorido ou aplicação. |
+| [180473](https://www.natura.com.br/p/produto/NATBRA-180473) | Corpo e Banho | 140 | Pendente de imagem | O tubo Acobreado Intenso divide o quadro com amostra de cor. As alternativas têm fundo colorido ou aplicação. |
+| [200649](https://www.natura.com.br/p/produto/NATBRA-200649) | Cabelos | 196 | Pendente de imagem | A foto quadrada tem reflexo cinza amplo que ocupa a faixa inferior do fundo. |
+| [173581](https://www.natura.com.br/p/produto/NATBRA-173581) | Cabelos | 200 | Pendente de imagem | O creme para cachos divide o quadro com texto fora da embalagem. As alternativas têm fundo colorido. |
+| [173584](https://www.natura.com.br/p/produto/NATBRA-173584) | Cabelos | 200 | Pendente de imagem | O creme para crespos divide o quadro com texto fora da embalagem. As alternativas têm fundo colorido. |
+| [173587](https://www.natura.com.br/p/produto/NATBRA-173587) | Cabelos | 200 | Pendente de imagem | O condicionador divide o quadro com texto fora da embalagem. As alternativas têm fundo colorido. |
+| [183272](https://www.natura.com.br/p/produto/NATBRA-183272) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183273](https://www.natura.com.br/p/produto/NATBRA-183273) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183276](https://www.natura.com.br/p/produto/NATBRA-183276) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183277](https://www.natura.com.br/p/produto/NATBRA-183277) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183279](https://www.natura.com.br/p/produto/NATBRA-183279) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183280](https://www.natura.com.br/p/produto/NATBRA-183280) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [183281](https://www.natura.com.br/p/produto/NATBRA-183281) | Rosto | 133 | Pendente de imagem | A foto de produto tem 1.254 × 1.254 px. As referências de 1.200 × 1.200 px são editoriais ou de aplicação. |
+| [181513](https://www.natura.com.br/p/produto/NATBRA-181513) | Maquiagem | 111 | Pendente de imagem | A foto integral tem 1.500 × 1.500 px. As alternativas não reproduzem o stick isolado no padrão exigido. |
+| [153720](https://www.natura.com.br/p/produto/NATBRA-153720) | Maquiagem | 112 | Aprovado | Frasco inteiro e centralizado em JPEG nativo de 1.200 × 1.200 px. A nova inspeção confirmou fundo branco nas margens e reflexo restrito à projeção do frasco. |
+| [95757](https://www.natura.com.br/p/produto/NATBRA-95757) | Maquiagem | 120 | Pendente de imagem | O PNG de 1.200 × 1.200 px corta a embalagem ou o aplicador nas bordas. O JPEG alternativo é editorial. |
+| [150225](https://www.natura.com.br/p/produto/NATBRA-150225) | Cuidados Masculinos | 169 | Aprovado | Frasco da variante Clássico inteiro e centralizado em JPEG nativo de 1.200 × 1.200 px. Reflexo localizado sob o frasco e margens brancas. |
+| [209252](https://www.natura.com.br/p/produto/NATBRA-209252) | Maquiagem | 106 | Pendente de identificação | Variante Preto no seletor oficial, mas o texto da ficha identifica delineador marrom. Falta descrição oficial inequívoca para Preto. |
+| [214702](https://www.natura.com.br/p/produto/NATBRA-214702) | Maquiagem | 106 | Pendente de identificação | O tom Preto consta na ficha. O PDF informa até 8 h e a ficha diz até 12 h. Falta reconciliar a especificação. |
+| [214703](https://www.natura.com.br/p/produto/NATBRA-214703) | Maquiagem | 106 | Pendente de identificação | O tom Médio consta na ficha. O PDF informa até 8 h e a ficha diz até 12 h. Falta reconciliar a especificação. |
+| [214704](https://www.natura.com.br/p/produto/NATBRA-214704) | Maquiagem | 106 | Pendente de identificação | O tom Loiro consta na ficha. O PDF informa até 8 h e a ficha diz até 12 h. Falta reconciliar a especificação. |
+| [214692](https://www.natura.com.br/p/produto/NATBRA-214692) | Maquiagem | 101 | Pendente de identificação | O seletor indica Pink Universal. A duração de hidratação informada no PDF e na ficha oficial diverge. Falta reconciliar a especificação da variante. |
+| [214694](https://www.natura.com.br/p/produto/NATBRA-214694) | Maquiagem | 91, 101, 103 | Pendente de identificação | O seletor indica Golden Galaxy. A duração de hidratação informada no PDF e na ficha oficial diverge. Falta reconciliar a especificação da variante. |
+| [215522](https://www.natura.com.br/p/produto/NATBRA-215522) | Maquiagem | 91, 101, 103 | Pendente de identificação | O seletor indica Cosmic Nude. A duração de hidratação informada no PDF e na ficha oficial diverge. Falta reconciliar a especificação da variante. |
+| [215523](https://www.natura.com.br/p/produto/NATBRA-215523) | Maquiagem | 101 | Pendente de identificação | O seletor indica Brown Star. A duração de hidratação informada no PDF e na ficha oficial diverge. Falta reconciliar a especificação da variante. |
+| [216422](https://www.natura.com.br/p/produto/NATBRA-216422) | Maquiagem | 102 | Pendente de identificação | O seletor indica Under red. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216426](https://www.natura.com.br/p/produto/NATBRA-216426) | Maquiagem | 102 | Pendente de identificação | O seletor indica Brown Mystic. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216427](https://www.natura.com.br/p/produto/NATBRA-216427) | Maquiagem | 102 | Pendente de identificação | O seletor indica Rosa Kiss Me. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216433](https://www.natura.com.br/p/produto/NATBRA-216433) | Maquiagem | 102 | Pendente de identificação | O seletor indica Bege Fresh. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216434](https://www.natura.com.br/p/produto/NATBRA-216434) | Maquiagem | 102 | Pendente de identificação | O seletor indica Coral Fun. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216440](https://www.natura.com.br/p/produto/NATBRA-216440) | Maquiagem | 102 | Pendente de identificação | O seletor indica Broken Brown. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216442](https://www.natura.com.br/p/produto/NATBRA-216442) | Maquiagem | 102 | Pendente de identificação | O seletor indica Vinho Rocks. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216446](https://www.natura.com.br/p/produto/NATBRA-216446) | Maquiagem | 102 | Pendente de identificação | O seletor indica Vermelho Hot. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [216454](https://www.natura.com.br/p/produto/NATBRA-216454) | Maquiagem | 102 | Pendente de identificação | O seletor indica Hey Honey. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [236342](https://www.natura.com.br/p/produto/NATBRA-236342) | Maquiagem | 102 | Pendente de identificação | O seletor indica Pink Paradise. A descrição genérica atribui acabamento cobre metálico à variante. Falta ficha que confirme o acabamento e a cor exatos. |
+| [209244](https://www.natura.com.br/p/produto/NATBRA-209244) | Maquiagem | 102 | Pendente de identificação | O seletor indica Cookie Nude. A descrição chama a cor de mel. Falta confirmação da descrição da variante. |
+| [209250](https://www.natura.com.br/p/produto/NATBRA-209250) | Maquiagem | 102 | Pendente de identificação | O seletor indica Red Love. A descrição chama a cor de mel. Falta confirmação da descrição da variante. |
+| [209257](https://www.natura.com.br/p/produto/NATBRA-209257) | Maquiagem | 102 | Pendente de identificação | O seletor indica Chocolate Mousse. A descrição chama a cor de mel. Falta confirmação da descrição da variante. |
+| [213292](https://www.natura.com.br/p/produto/NATBRA-213292) | Perfumaria | 92 | Pendente de identificação | A legenda do PDF traz o nome incompleto da fragrância. A ficha traz Flor de Vindicá. Falta confirmação da legenda ou errata oficial. |
+| [110201](https://www.natura.com.br/p/produto/NATBRA-110201) | Maquiagem | 114 | Pendente de identificação | Falta confirmação explícita de que a ficha e o arquivo de produto correspondem ao tom 43N indicado no PDF. |
+| [140024](https://www.natura.com.br/p/produto/NATBRA-140024) | Maquiagem | 118 | Pendente de identificação | O PDF identifica Rouge 6-M. A ficha indica Vermelho 6-M. Falta confirmação de equivalência oficial para o SKU. |
+| [164825](https://www.natura.com.br/p/produto/NATBRA-164825) | Maquiagem | 118 | Pendente de identificação | Falta confirmação explícita de Marrom na ficha pública da variante exata. |
+| [95563](https://www.natura.com.br/p/produto/NATBRA-95563) | Perfumaria | 70 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [16872](https://www.natura.com.br/p/produto/NATBRA-16872) | Corpo e Banho | 67 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [16871](https://www.natura.com.br/p/produto/NATBRA-16871) | Corpo e Banho | 70 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [204459](https://www.natura.com.br/p/produto/NATBRA-204459) | Corpo e Banho | 79 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [113409](https://www.natura.com.br/p/produto/NATBRA-113409) | Cabelos | 202 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [167173](https://www.natura.com.br/p/produto/NATBRA-167173) | Infantil | 177 | Pendente de recorrência/disponibilidade | A ficha oficial indicava indisponibilidade na consulta. Falta confirmar retorno regular e disponibilidade regional. |
+| [91204](https://www.natura.com.br/p/produto/NATBRA-91204) | Perfumaria | 94, 140 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [91192](https://www.natura.com.br/p/produto/NATBRA-91192) | Corpo e Banho | 147 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [103593](https://www.natura.com.br/p/produto/NATBRA-103593) | Corpo e Banho | 140 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [180477](https://www.natura.com.br/p/produto/NATBRA-180477) | Corpo e Banho | 140 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [189409](https://www.natura.com.br/p/produto/NATBRA-189409) | Corpo e Banho | 170 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [180471](https://www.natura.com.br/p/produto/NATBRA-180471) | Maquiagem | 140 | Pendente de recorrência/disponibilidade | A ficha confirma a variante Manga Rosa e Água de Coco. Falta comprovar recorrência da oferta fora da campanha. |
+| [190389](https://www.natura.com.br/p/produto/NATBRA-190389) | Cabelos | 201 | Pendente de recorrência/disponibilidade | A ficha vincula o produto à linha Sol, Mar e Piscina. Falta comprovar oferta recorrente fora da temporada. |
+| [190391](https://www.natura.com.br/p/produto/NATBRA-190391) | Cabelos | 201 | Pendente de recorrência/disponibilidade | A ficha indica indisponibilidade. Também falta confirmar recorrência da linha Sol, Mar e Piscina. |
+| [192102](https://www.natura.com.br/p/produto/NATBRA-192102) | Cabelos | 201 | Pendente de recorrência/disponibilidade | A ficha vincula o produto à linha Sol, Mar e Piscina. Falta comprovar oferta recorrente fora da temporada. |
+| [199381](https://www.natura.com.br/p/produto/NATBRA-199381) | Corpo e Banho | 171 | Pendente de recorrência/disponibilidade | A ficha está acessível. Falta comprovar que a variante Manga Rosa e Água de Coco é recorrente fora da campanha. |
+| [251531](https://www.natura.com.br/p/produto/NATBRA-251531) | Corpo e Banho | 163 | Pendente de recorrência/disponibilidade | A ficha associa o iluminador solar a ações de verão. Falta evidência de recorrência fora da campanha. |
+| [237759](https://www.natura.com.br/p/produto/NATBRA-237759) | Maquiagem | 142 | Excluído definitivamente | A ficha oficial identifica o gloss avulso como edição especial. O critério atual exclui essa apresentação. |
+| [237765](https://www.natura.com.br/p/produto/NATBRA-237765) | Maquiagem | 142 | Excluído definitivamente | A ficha oficial identifica o gloss avulso como edição especial. O critério atual exclui essa apresentação. |
+| [237760](https://www.natura.com.br/p/produto/NATBRA-237760) | Maquiagem | 143 | Excluído definitivamente | A ficha oficial identifica o gloss avulso como edição especial. O critério atual exclui essa apresentação. |
+
+Os sete casos anteriores foram reavaliados individualmente. `209252` segue bloqueado pela divergência de cor. `214702`, `214703` e `214704` seguem bloqueados pela divergência de duração. `237759`, `237765` e `237760` foram excluídos por edição especial.
+
+### Exclusões definitivas
+
+A revisão manteve os 180 registros anteriores. A tabela preserva a distribuição por motivo e registra os três novos casos. As classificações de exclusividade de ciclo, sazonalidade e oferta temporária foram mantidas quando a revista indicava enquadramento promocional ou sazonal e não havia comprovação de recorrência para o SKU exato.
+
+| Motivo | Quantidade | SKUs |
+| --- | ---: | --- |
+| Exclusividade de ciclo, sazonalidade, estoque ou oferta temporária | 25 | `103433`, `107374`, `109154`, `116855`, `117796`, `137954`, `137956`, `137958`, `138473`, `140028`, `148174`, `148425`, `148435`, `15669`, `157257`, `160192`, `160240`, `171117`, `181132`, `3379`, `48387`, `6319`, `65830`, `76541`, `92789` |
+| Acessórios, embalagens, sacolas e itens de casa fora do escopo | 50 | `105713`, `105714`, `105715`, `105716`, `105717`, `109002`, `121966`, `129745`, `148397`, `152267`, `154848`, `154849`, `154850`, `154851`, `161145`, `161146`, `161148`, `161999`, `167994`, `170770`, `195636`, `195640`, `195641`, `195642`, `201327`, `218960`, `218961`, `218962`, `224018`, `224727`, `224729`, `224733`, `224736`, `224738`, `2271`, `228003`, `229539`, `229549`, `231354`, `231355`, `231393`, `231394`, `241996`, `254588`, `266797`, `266801`, `278985`, `55105`, `55107`, `58406` |
+| Kits, conjuntos e combos | 33 | `109352`, `115762`, `148448`, `150219`, `168620`, `169427`, `187033`, `187034`, `187035`, `197576`, `207390`, `207887`, `211334`, `221669`, `228238`, `233555`, `235586`, `241044`, `249319`, `259840`, `259929`, `264627`, `264637`, `264657`, `264659`, `273740`, `273743`, `278819`, `278980`, `278981`, `279395`, `279396`, `280422` |
+| Caixas ou pacotes com várias unidades | 38 | `112788`, `117749`, `121965`, `121969`, `124393`, `129797`, `129799`, `134574`, `134575`, `148159`, `151023`, `152301`, `152302`, `162087`, `166022`, `181138`, `184829`, `197208`, `199393`, `203372`, `205939`, `206217`, `212717`, `214468`, `235241`, `237756`, `237758`, `237781`, `26384`, `2829`, `2830`, `2832`, `34089`, `72147`, `87512`, `90965`, `92795`, `95840` |
+| Miniaturas e versões reduzidas | 12 | `150303`, `150304`, `203317`, `203333`, `203348`, `231254`, `255953`, `255954`, `255955`, `255956`, `255957`, `255958` |
+| Apresentação múltipla ou com acessório | 4 | `177282`, `75234`, `92798`, `92799` |
+| Kits com chaveiro | 2 | `210503`, `211663` |
+| Presentes e itens exclusivos da campanha de Natal | 13 | `231359`, `235284`, `235286`, `235287`, `235288`, `241296`, `241298`, `247697`, `249301`, `264719`, `264726`, `264731`, `264735` |
+| Estojo de maquiagem vendido separadamente (acessório) | 1 | `71663` |
+| Escopo adulto materno | 2 | `75233`, `92808` |
+| Edições especiais confirmadas na ficha oficial | 3 | `237759`, `237765`, `237760` |
+
+### Refis fora da estratégia
+
+Os **157 refis** seguem separados, sem recomendação de importação. O código `139243`, da página 153, permanece neste grupo pela identificação oficial como refil. A relação usa a primeira ocorrência de cada código no PDF.
+
+| Página do PDF | SKUs |
+| ---: | --- |
+| 73 | `189575` |
+| 92 | `73567`, `73569` |
+| 97 | `110687`, `56763`, `56948`, `85390`, `89259` |
+| 108 | `8992`, `9009`, `9025`, `9045`, `9125`, `9149`, `9304`, `9431` |
+| 115 | `173591`, `173592`, `173593`, `173594`, `173595`, `173596`, `173597`, `173598`, `173599`, `173600`, `173601`, `173602`, `173603`, `173604`, `173605`, `173606`, `173607`, `173608`, `173609`, `173610`, `173611`, `173612`, `173992`, `173993` |
+| 116 | `110678`, `110679`, `110680`, `110681`, `110682`, `110683`, `110684`, `110685`, `72020`, `92576`, `92584`, `92595` |
+| 117 | `24865` |
+| 127 | `134585`, `134589`, `134591`, `134595` |
+| 128 | `134587`, `134590`, `134700`, `134723` |
+| 129 | `134594`, `134694` |
+| 130 | `169244` |
+| 131 | `168818`, `168819`, `169234`, `169235`, `169238` |
+| 132 | `91819` |
+| 138 | `121961`, `2815`, `2817`, `2821`, `87516` |
+| 139 | `100605`, `152290`, `172100` |
+| 141 | `103382`, `117798`, `181339` |
+| 145 | `206230` |
+| 151 | `205946` |
+| 153 | `139243`, `203381` |
+| 154 | `70390` |
+| 156 | `203397`, `216414` |
+| 158 | `162093`, `97433` |
+| 159 | `97431` |
+| 160 | `213691`, `242813`, `70394`, `70397` |
+| 166 | `18624`, `199914`, `25543` |
+| 172 | `28175` |
+| 178 | `106418`, `92791`, `92794`, `92802` |
+| 188 | `148175`, `148405`, `167285`, `167294` |
+| 189 | `148177`, `148399` |
+| 190 | `210526`, `210528`, `210530` |
+| 191 | `147406`, `147410`, `147412` |
+| 192 | `174187`, `174194` |
+| 194 | `147442`, `147445`, `148162`, `148169`, `148400`, `148403`, `148413`, `148432` |
+| 195 | `200643`, `200645`, `200648` |
+| 196 | `147402`, `147408`, `147414`, `200647` |
+| 197 | `164509`, `164512` |
+| 198 | `221577`, `221579` |
+| 199 | `154860`, `154868` |
+| 200 | `154859`, `154861`, `154862`, `154863`, `154864`, `154865`, `154867`, `156234`, `156236`, `173582`, `173585`, `173586`, `173589` |
+| 201 | `196323`, `196327` |
+| 202 | `112766`, `112768` |
+| 203 | `112760`, `112762` |
+
+A implementação dos dois lotes propostos aguarda autorização.
+
+
 
 ## Auditoria final do saldo Natura — após os lotes 34 a 37
 

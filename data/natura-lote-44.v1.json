@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "150225",
+      "nome": "Desodorante Antitranspirante Roll-On Natura Homem Clássico",
+      "descricao": "Desodorante antitranspirante roll-on com a fragrância amadeirada e especiada de Natura Homem Clássico.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/150225.jpg"
+    }
+  ]
+}
