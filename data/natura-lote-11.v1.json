@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "72468",
+      "nome": "Deo Parfum K Max Masculino 100 ml",
+      "descricao": "Fragrância aromática intensa com ervas, especiarias e notas ambaradas de cedro.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/72468.jpg"
+    },
+    {
+      "sku": "228528",
+      "nome": "Desodorante Colônia Kaiak 21K Masculino 100 ml",
+      "descricao": "Fragrância masculina de frescor aromático.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/228528.jpg"
+    },
+    {
+      "sku": "236375",
+      "nome": "Desodorante Colônia Kaiak 21K Feminino 100 ml",
+      "descricao": "Fragrância feminina floral aquosa frutal.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/236375.jpg"
+    },
+    {
+      "sku": "44452",
+      "nome": "Desodorante Colônia Luna Feminino 75 ml",
+      "descricao": "Fragrância feminina clássica da linha Luna.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/44452.jpg"
+    },
+    {
+      "sku": "171364",
+      "nome": "Desodorante Colônia Luna Divina Feminino 75 ml",
+      "descricao": "Fragrância feminina Luna Divina em desodorante colônia.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/171364.jpg"
+    },
+    {
+      "sku": "68944",
+      "nome": "Desodorante Colônia Kriska Shock Feminino 100 ml",
+      "descricao": "Fragrância feminina adocicada de intensidade moderada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/68944.jpg"
+    },
+    {
+      "sku": "169821",
+      "nome": "Desodorante Colônia Humor Envolve 75 ml",
+      "descricao": "Fragrância compartilhável de perfil floral envolvente.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/169821.jpg"
+    },
+    {
+      "sku": "86723",
+      "nome": "Desodorante Colônia Humor Primeiro 75 ml",
+      "descricao": "Fragrância de perfil frutal moderado.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/86723.jpg"
+    },
+    {
+      "sku": "95947",
+      "nome": "Desodorante Colônia Humor Beija Eu 75 ml",
+      "descricao": "Fragrância com ameixa, sândalo e um toque de cacau.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/95947.jpg"
+    },
+    {
+      "sku": "73562",
+      "nome": "Desodorante Colônia Ekos Frescor Castanha Feminino 150 ml",
+      "descricao": "Frescor feminino da linha Ekos Castanha.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/73562.jpg"
+    },
+    {
+      "sku": "73563",
+      "nome": "Desodorante Colônia Ekos Frescor Pitanga Feminino 150 ml",
+      "descricao": "Frescor feminino da linha Ekos Pitanga.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/73563.jpg"
+    },
+    {
+      "sku": "73564",
+      "nome": "Desodorante Colônia Ekos Frescor Maracujá Feminino 150 ml",
+      "descricao": "Frescor feminino da linha Ekos Maracujá.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/73564.jpg"
+    },
+    {
+      "sku": "73565",
+      "nome": "Desodorante Colônia Ekos Frescor Açaí Feminino 150 ml",
+      "descricao": "Frescor feminino da linha Ekos Açaí.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/73565.jpg"
+    },
+    {
+      "sku": "199392",
+      "nome": "Desodorante Colônia Ekos Frescor Cupuaçu Feminino 150 ml",
+      "descricao": "Frescor frutal adocicado cítrico com notas de cupuaçu, copaíba e mandarina.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/199392.jpg"
+    },
+    {
+      "sku": "152286",
+      "nome": "Body Splash Desodorante Colônia Tododia Flor de Gengibre e Tangerina 200 ml",
+      "descricao": "Body splash energizante com fragrância de flor de gengibre e tangerina.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/152286.jpg"
+    },
+    {
+      "sku": "181136",
+      "nome": "Body Splash Desodorante Colônia Tododia Amora e Flor de Pêssego 200 ml",
+      "descricao": "Body splash para perfumação diária com amora e flor de pêssego.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/181136.jpg"
+    },
+    {
+      "sku": "196313",
+      "nome": "Body Splash Desodorante Colônia Tododia Jambo Rosa e Flor de Caju 200 ml",
+      "descricao": "Body splash para perfumação diária com jambo rosa e flor de caju.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/196313.jpg"
+    },
+    {
+      "sku": "205937",
+      "nome": "Body Splash Desodorante Colônia Tododia Morango e Baunilha Dourada 200 ml",
+      "descricao": "Body splash para perfumação diária com morango e baunilha dourada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/205937.jpg"
+    },
+    {
+      "sku": "72195",
+      "nome": "Body Splash Desodorante Colônia Tododia Macadâmia 200 ml",
+      "descricao": "Body splash para perfumação diária com fragrância de macadâmia.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/72195.jpg"
+    },
+    {
+      "sku": "95841",
+      "nome": "Body Splash Desodorante Colônia Tododia Cereja e Avelã 200 ml",
+      "descricao": "Body splash para perfumação diária com fragrância de cereja e avelã.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/95841.jpg"
+    }
+  ]
+}

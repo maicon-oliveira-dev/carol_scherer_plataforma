@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "167286",
+      "nome": "Shampoo Restaurador Lumina 300 ml",
+      "descricao": "Shampoo de limpeza equilibrada para cabelos lisos ou alisados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/167286.jpg"
+    },
+    {
+      "sku": "167288",
+      "nome": "Spray de Aminoácidos Pré-secagem Lumina 150 ml",
+      "descricao": "Spray pré-secagem para o cuidado antifrizz de cabelos lisos ou alisados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/167288.jpg"
+    },
+    {
+      "sku": "167289",
+      "nome": "Máscara Restauradora Lumina 250 ml",
+      "descricao": "Máscara de tratamento para restauração de cabelos lisos ou alisados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/167289.jpg"
+    },
+    {
+      "sku": "167291",
+      "nome": "Condicionador Restaurador Lumina 300 ml",
+      "descricao": "Condicionador para restaurar os fios lisos ou alisados e ajudar a reduzir o frizz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/167291.jpg"
+    },
+    {
+      "sku": "210525",
+      "nome": "Shampoo Estimulante Lumina 300 ml",
+      "descricao": "Shampoo da rotina de fortalecimento e cuidado com o couro cabeludo.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/210525.jpg"
+    },
+    {
+      "sku": "210527",
+      "nome": "Condicionador Fortificante Lumina 300 ml",
+      "descricao": "Condicionador da rotina capilar antiqueda e crescimento.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/210527.jpg"
+    },
+    {
+      "sku": "210529",
+      "nome": "Máscara Condicionadora Antiquebra Lumina 250 ml",
+      "descricao": "Máscara condicionadora para o cuidado de fios propensos à quebra.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/210529.jpg"
+    },
+    {
+      "sku": "210531",
+      "nome": "Sérum Noturno Antiqueda Lumina 100 ml",
+      "descricao": "Sérum noturno da linha de cuidado com queda e crescimento dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/210531.jpg"
+    },
+    {
+      "sku": "255761",
+      "nome": "Esfoliante Capilar Pré-shampoo Lumina 70 g",
+      "descricao": "Esfoliante para o couro cabeludo, usado antes do shampoo.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/255761.jpg"
+    },
+    {
+      "sku": "200641",
+      "nome": "Máscara Nutrição Lumina 250 ml",
+      "descricao": "Máscara de nutrição capilar com foco em brilho e leveza.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/200641.jpg"
+    },
+    {
+      "sku": "200656",
+      "nome": "Shampoo Nutrição Lumina 300 ml",
+      "descricao": "Shampoo de limpeza da rotina de nutrição capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/200656.jpg"
+    },
+    {
+      "sku": "200658",
+      "nome": "Condicionador Nutrição Lumina 300 ml",
+      "descricao": "Condicionador para ajudar a nutrir os fios sem pesar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/200658.jpg"
+    },
+    {
+      "sku": "164508",
+      "nome": "Sérum Noturno Reparador Lumina 100 ml",
+      "descricao": "Sérum noturno para o cuidado de cabelos frágeis e quebradiços.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/164508.jpg"
+    },
+    {
+      "sku": "164516",
+      "nome": "Shampoo Reparador Lumina 300 ml",
+      "descricao": "Shampoo para a rotina de limpeza e reparação de cabelos frágeis.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/164516.jpg"
+    },
+    {
+      "sku": "164517",
+      "nome": "Condicionador Reparador Lumina 300 ml",
+      "descricao": "Condicionador para o cuidado de cabelos frágeis e quebradiços.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/164517.jpg"
+    },
+    {
+      "sku": "164518",
+      "nome": "Protetor Térmico Reparador Lumina 150 ml",
+      "descricao": "Protetor térmico da linha de reparação para cabelos frágeis e quebradiços.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/164518.jpg"
+    },
+    {
+      "sku": "112776",
+      "nome": "Tônico Noturno de Crescimento Ekos Patauá 30 ml",
+      "descricao": "Tônico noturno com patauá para a rotina de fortalecimento capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112776.jpg"
+    },
+    {
+      "sku": "113245",
+      "nome": "Condicionador Ekos Patauá 300 ml",
+      "descricao": "Condicionador com patauá para o cuidado e fortalecimento dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/113245.jpg"
+    },
+    {
+      "sku": "113243",
+      "nome": "Shampoo Ekos Murumuru 300 ml",
+      "descricao": "Shampoo da rotina de reconstrução e cuidado com os danos dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/113243.jpg"
+    },
+    {
+      "sku": "113244",
+      "nome": "Condicionador Ekos Murumuru 300 ml",
+      "descricao": "Condicionador da rotina de reconstrução e cuidado com os danos dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/113244.jpg"
+    }
+  ]
+}

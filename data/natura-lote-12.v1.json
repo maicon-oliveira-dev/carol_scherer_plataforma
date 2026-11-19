@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "121970",
+      "nome": "Creme Noturno para o Corpo Tododia Todanoite Chá de Camomila e Lavanda 400 ml",
+      "descricao": "Creme corporal para a rotina noturna com fragrância suave de chá de camomila e lavanda.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/121970.jpg"
+    },
+    {
+      "sku": "159711",
+      "nome": "Sabonete Líquido Cremoso para o Corpo Tododia Todanoite Banho nas Nuvens 290 g/300 ml",
+      "descricao": "Sabonete corporal cremoso da linha Todanoite para a limpeza no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/159711.jpg"
+    },
+    {
+      "sku": "23037",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Algodão 200 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de algodão.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/23037.jpg"
+    },
+    {
+      "sku": "23081",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Macadâmia 200 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de macadâmia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/23081.jpg"
+    },
+    {
+      "sku": "2814",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Macadâmia 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de macadâmia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/2814.jpg"
+    },
+    {
+      "sku": "2816",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Algodão 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de algodão.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/2816.jpg"
+    },
+    {
+      "sku": "2820",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Noz Pecã e Cacau 400 ml",
+      "descricao": "Creme corporal nutritivo com fragrância de noz pecã e cacau.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/2820.jpg"
+    },
+    {
+      "sku": "172097",
+      "nome": "Creme Desodorante Corporal Nutrição Radiante Tododia Jambo Rosa e Flor de Caju 400 ml",
+      "descricao": "Creme hidratante corporal com fragrância de jambo rosa e flor de caju.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172097.jpg"
+    },
+    {
+      "sku": "23218",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Cereja e Avelã 200 ml",
+      "descricao": "Creme para nutrir e perfumar a pele com fragrância de cereja e avelã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/23218.jpg"
+    },
+    {
+      "sku": "99137",
+      "nome": "Creme Desodorante Nutritivo para o Corpo Tododia Cereja e Avelã 400 ml",
+      "descricao": "Creme para nutrir e perfumar a pele com fragrância de cereja e avelã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/99137.jpg"
+    },
+    {
+      "sku": "152297",
+      "nome": "Gel de Banho Energizante Tododia Flor de Gengibre e Tangerina 290 g/300 ml",
+      "descricao": "Gel para limpeza corporal no banho com fragrância de flor de gengibre e tangerina.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/152297.jpg"
+    },
+    {
+      "sku": "172096",
+      "nome": "Sabonete em Óleo Corporal Tododia Jambo Rosa e Flor de Caju 190 ml",
+      "descricao": "Sabonete em óleo para a limpeza corporal no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172096.jpg"
+    },
+    {
+      "sku": "110281",
+      "nome": "Sabonete Líquido em Gel para Mãos e Corpo Tododia Alecrim e Sálvia 390 g",
+      "descricao": "Sabonete em gel para limpeza delicada das mãos e do corpo.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/110281.jpg"
+    },
+    {
+      "sku": "113403",
+      "nome": "Sabonete Líquido Cremoso para o Corpo Tododia Algodão 300 ml",
+      "descricao": "Sabonete cremoso para limpeza delicada e perfumação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/113403.jpg"
+    },
+    {
+      "sku": "95843",
+      "nome": "Sabonete Líquido em Gel Tododia Cereja e Avelã 290 g/300 ml",
+      "descricao": "Sabonete em gel para limpar e perfumar a pele com cereja e avelã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/95843.jpg"
+    },
+    {
+      "sku": "203399",
+      "nome": "Creme Desodorante Hidratante para o Corpo Ekos Tukumã 200 ml",
+      "descricao": "Creme corporal hidratante da linha Ekos Tukumã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203399.jpg"
+    },
+    {
+      "sku": "75493",
+      "nome": "Óleo Bifásico Desodorante Corporal Ekos Tukumã 200 ml",
+      "descricao": "Óleo bifásico para hidratar e perfumar a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/75493.jpg"
+    },
+    {
+      "sku": "98767",
+      "nome": "Sabonete Líquido Esfoliante para o Corpo Ekos Tukumã 185 ml",
+      "descricao": "Sabonete líquido corporal de limpeza e esfoliação.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/98767.jpg"
+    },
+    {
+      "sku": "70401",
+      "nome": "Sabonete Líquido para Mãos Ekos Maracujá 250 ml",
+      "descricao": "Sabonete líquido que limpa e perfuma as mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70401.jpg"
+    },
+    {
+      "sku": "70402",
+      "nome": "Sabonete Líquido para Mãos Ekos Castanha 250 ml",
+      "descricao": "Sabonete líquido que limpa e perfuma as mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70402.jpg"
+    }
+  ]
+}
