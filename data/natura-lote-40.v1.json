@@ -1,0 +1,20 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "235280",
+      "nome": "Batom CC Hidratante FPS 25 Una Nude 10-C 3,8 g",
+      "descricao": "Batom cremoso com FPS 25, acabamento luminoso e aplicação uniforme.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/235280.jpg"
+    },
+    {
+      "sku": "235283",
+      "nome": "Batom CC Hidratante FPS 25 Una Vermelho 1 3,8 g",
+      "descricao": "Batom cremoso com FPS 25, acabamento luminoso e aplicação uniforme.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/235283.jpg"
+    }
+  ]
+}

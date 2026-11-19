@@ -1,0 +1,41 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "199376",
+      "nome": "Desodorante Antitranspirante em Creme Tododia Pele Uniforme 50 g",
+      "descricao": "Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199376.jpg"
+    },
+    {
+      "sku": "199377",
+      "nome": "Desodorante Antitranspirante em Creme Natura Erva Doce 50 g",
+      "descricao": "Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199377.png"
+    },
+    {
+      "sku": "199379",
+      "nome": "Desodorante Antitranspirante em Creme Tododia Leite de Algodão 50 g",
+      "descricao": "Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199379.png"
+    },
+    {
+      "sku": "199385",
+      "nome": "Desodorante Antitranspirante em Creme Tododia Sem Perfume 50 g",
+      "descricao": "Antitranspirante em creme sem fragrância e de secagem rápida.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199385.png"
+    },
+    {
+      "sku": "199387",
+      "nome": "Desodorante Antitranspirante em Creme Tododia Noz Pecã e Cacau 50 g",
+      "descricao": "Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199387.png"
+    }
+  ]
+}

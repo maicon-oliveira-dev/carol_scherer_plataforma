@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "209238",
+      "nome": "Balm Labial Faces Cookie Nude 13,5 ml",
+      "descricao": "Balm labial hidratante com aplicação confortável por ponteira de silicone.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209238.jpg"
+    },
+    {
+      "sku": "209240",
+      "nome": "Balm Labial Faces Praliné Incolor 13,5 ml",
+      "descricao": "Balm labial hidratante com aplicação confortável por ponteira de silicone.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209240.jpg"
+    },
+    {
+      "sku": "209249",
+      "nome": "Balm Labial Faces Cherry Licor 13,5 ml",
+      "descricao": "Balm labial hidratante com aplicação confortável por ponteira de silicone.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209249.jpg"
+    },
+    {
+      "sku": "209254",
+      "nome": "Balm Labial Faces Caramel Macchiato 13,5 ml",
+      "descricao": "Balm labial hidratante com aplicação confortável por ponteira de silicone.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209254.jpg"
+    },
+    {
+      "sku": "216439",
+      "nome": "Batom Cremoso Faces Cobre Mystic 3,5 g",
+      "descricao": "Batom de textura cremosa e pigmentação uniforme, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216439.jpg"
+    },
+    {
+      "sku": "216453",
+      "nome": "Batom Cremoso Faces Cobre Sunset 3,5 g",
+      "descricao": "Batom de textura cremosa e pigmentação uniforme, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216453.jpg"
+    },
+    {
+      "sku": "236326",
+      "nome": "Batom Líquido Matte Faces Chocolate Mousse 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236326.jpg"
+    },
+    {
+      "sku": "236327",
+      "nome": "Batom Líquido Matte Faces Brown Night 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236327.jpg"
+    },
+    {
+      "sku": "236333",
+      "nome": "Batom Líquido Matte Faces Red Love 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236333.jpg"
+    },
+    {
+      "sku": "236334",
+      "nome": "Batom Líquido Matte Faces Cereja Likes 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236334.jpg"
+    },
+    {
+      "sku": "236339",
+      "nome": "Batom Líquido Matte Faces Marsala Night 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236339.jpg"
+    },
+    {
+      "sku": "236340",
+      "nome": "Batom Líquido Matte Faces Bege Beauty 4,5 ml",
+      "descricao": "Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236340.jpg"
+    },
+    {
+      "sku": "243260",
+      "nome": "Batom Matte Faces Nude 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/243260.jpg"
+    },
+    {
+      "sku": "244462",
+      "nome": "Batom Matte Faces Naked Nude 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/244462.jpg"
+    },
+    {
+      "sku": "245312",
+      "nome": "Batom Matte Faces Perfect Pink 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/245312.jpg"
+    },
+    {
+      "sku": "245313",
+      "nome": "Batom Matte Faces Marsala 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/245313.jpg"
+    },
+    {
+      "sku": "245314",
+      "nome": "Batom Matte Faces Cookie Nude 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/245314.jpg"
+    },
+    {
+      "sku": "245315",
+      "nome": "Batom Matte Faces Queen of Red 3,5 g",
+      "descricao": "Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/245315.jpg"
+    },
+    {
+      "sku": "232065",
+      "nome": "Lápis Duo para Boca e Olhos Una Preto e Vermelho 1 g",
+      "descricao": "Lápis cremoso de duas pontas, para contornar ou esfumar olhos e lábios.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/232065.jpg"
+    },
+    {
+      "sku": "232066",
+      "nome": "Palette Multifuncional Natura Una Elegance 9 g",
+      "descricao": "Paleta com oito cores matte e cintilantes para olhos, sobrancelhas e rosto.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/232066.jpg"
+    }
+  ]
+}

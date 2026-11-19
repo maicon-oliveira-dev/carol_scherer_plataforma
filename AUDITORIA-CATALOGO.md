@@ -1,6 +1,315 @@
 # Auditoria técnica do catálogo Carol Scherer
 
 
+## Auditoria final do saldo Natura — após os lotes 34 a 37
+
+Auditoria de 19/11/2026. Fonte: `17 Centro-Oeste, Sul, ES, MG, RJ e SP.pdf`. A página corresponde à posição no visualizador, com a capa contada como página 1.
+
+**1.087 SKUs únicos no PDF, dos quais 633 já estão no catálogo.** O Chrome renderizou 633 cartões com códigos únicos. O conjunto coincidiu com os 36 manifestos ativos. São 613 cosméticos unitários e 20 presentes legados. Os **454 códigos não importados** foram classificados individualmente. Entre eles há **49 plenamente aprovados para preparação**, sem duplicidade com os ativos, e **68 pendentes**. Os demais são 157 refis e 180 exclusões definitivas para a estratégia atual.
+
+| Categoria | Aprovados | Pendência de imagem | Pendência de identificação | Pendência de recorrência ou disponibilidade | Refis | Excluídos definitivamente | Total fora do catálogo |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Perfumaria | 2 | 6 | 1 | 2 | 2 | 15 | 28 |
+| Corpo e Banho | 5 | 2 | 0 | 9 | 35 | 51 | 102 |
+| Cabelos | 0 | 4 | 0 | 4 | 54 | 15 | 77 |
+| Rosto | 0 | 7 | 0 | 0 | 17 | 0 | 24 |
+| Maquiagem | 42 | 3 | 24 | 4 | 45 | 21 | 139 |
+| Infantil | 0 | 0 | 0 | 1 | 4 | 24 | 29 |
+| Cuidados Masculinos | 0 | 1 | 0 | 0 | 0 | 1 | 2 |
+| Fora de categoria / campanhas | 0 | 0 | 0 | 0 | 0 | 53 | 53 |
+| **Total** | **49** | **23** | **25** | **20** | **157** | **180** | **454** |
+
+Os sete pendentes anteriores já estão incluídos nas colunas de pendência e permanecem separados nominalmente abaixo. A revisão enumera 119 SKUs fora do catálogo que estavam no saldo documental ou em ambiguidade histórica. Desses, 49 passaram, 68 seguem em revisão e dois foram excluídos por acompanharem chaveiro. O saldo documental anterior e os ambíguos foram consolidados nesta rodada, sem transformar indisponibilidade pública em exclusão permanente. Os 20 presentes legados ficam entre os importados. Nenhuma contagem os inclui entre os novos candidatos.
+
+### Próximo grupo recomendado
+
+**49 produtos tecnicamente importáveis, em cinco lotes homogêneos de até 20.** A recomendação é preparar primeiro o lote 38 e seguir na ordem 39, 40, 41 e 42. O saldo de 68 em revisão só pode gerar novos lotes após resolução. As fichas oficiais foram conferidas pelo SKU exato e, para variantes, pelo seletor da ficha. Os originais foram decodificados e revisados visualmente em memória em 1.200 × 1.200 px, sem gravação em disco. Os arquivos aprovados mostram o produto inteiro, centralizado, com fundo branco e boa nitidez. Sombras e reflexos naturais leves fazem parte das fotos.
+
+Na página 171, o selo de exclusividade acompanha a oferta dos kits. Os cinco cremes aprovados têm ficha regular avulsa. O rótulo de `199387` confirma Noz Pecã e Cacau. A ficha de `260649` e `260651` usa Body Splash e o PDF usa Body Mist para a mesma apresentação de 200 ml. Os dois têm venda avulsa, e a exclusividade do ciclo está no conjunto com gloss. Os quatro itens Una Elegance da página 123 têm apresentações avulsas e nenhuma indicação de exclusividade ou edição limitada nas fichas conferidas. O lápis Duo é um único produto de duas pontas.
+
+#### Lote 38 — Maquiagem (20)
+
+| SKU | Nome e variante | Apresentação | Descrição proposta | Categoria | PDF | Imagem oficial |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `8847` | Pó Compacto Matte Faces Claro 20 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwf4139500/Produtos/NATBRA-8847_1.jpg) |
+| `8848` | Pó Compacto Matte Faces Claro 24 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw8e41080b/Produtos/NATBRA-8848_1.jpg) |
+| `8882` | Pó Compacto Matte Faces Médio 22 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwf474b5a3/Produtos/NATBRA-8882_1.jpg) |
+| `8883` | Pó Compacto Matte Faces Médio 24 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw38bf3dca/Produtos/NATBRA-8883_1.jpg) |
+| `8884` | Pó Compacto Matte Faces Médio 26 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw1f2f495f/Produtos/NATBRA-8884_1.jpg) |
+| `8885` | Pó Compacto Matte Faces Castanho 20 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw9770e5d3/Produtos/NATBRA-8885_1.jpg) |
+| `8888` | Pó Compacto Matte Faces Castanho 22 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwab330942/Produtos/NATBRA-8888_1.jpg) |
+| `8889` | Pó Compacto Matte Faces Escuro 20 6,5 g | 6,5 g | Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho. | Maquiagem | 108 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw60aabb3d/Produtos/NATBRA-8889_1.jpg) |
+| `181509` | Base Stick FPS 50 Una 23F 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw49cfbdee/Produtos/NATBRA-181509_1.jpg) |
+| `181510` | Base Stick FPS 50 Una 37Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw013a2253/Produtos/NATBRA-181510_1.jpg) |
+| `181511` | Base Stick FPS 50 Una 43N 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwef684f14/Produtos/NATBRA-181511_1.jpg) |
+| `181514` | Base Stick FPS 50 Una 25Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw9ec7454b/Produtos/NATBRA-181514_1.jpg) |
+| `181515` | Base Stick FPS 50 Una 21Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwd531986c/Produtos/NATBRA-181515_1.jpg) |
+| `181516` | Base Stick FPS 50 Una 32Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw796dd60f/Produtos/NATBRA-181516_1.jpg) |
+| `181517` | Base Stick FPS 50 Una 35Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw30af9dd1/Produtos/NATBRA-181517_1.jpg) |
+| `181518` | Base Stick FPS 50 Una 15Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw39b541ad/Produtos/NATBRA-181518_1.jpg) |
+| `181519` | Base Stick FPS 50 Una 40Q 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw0c7ef5a2/Produtos/NATBRA-181519_1.jpg) |
+| `181520` | Base Stick FPS 50 Una 29N 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw6cb3aeb2/Produtos/NATBRA-181520_1.jpg) |
+| `181521` | Base Stick FPS 50 Una 31N 12 g | 12 g | Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média. | Maquiagem | 111 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwb2404605/Produtos/NATBRA-181521_1.jpg) |
+| `209237` | Lápis Labial Faces Hey Honey 1,1 g | 1,1 g | Lápis labial de textura cremosa e alta pigmentação para contorno ou uso como batom. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw452e7bfc/Produtos/NATBRA-209237_1.jpg) |
+
+#### Lote 39 — Maquiagem (20)
+
+| SKU | Nome e variante | Apresentação | Descrição proposta | Categoria | PDF | Imagem oficial |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `209238` | Balm Labial Faces Cookie Nude 13,5 ml | 13,5 ml | Balm labial hidratante com aplicação confortável por ponteira de silicone. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw64d488cd/Produtos/NATBRA-209238_1.jpg) |
+| `209240` | Balm Labial Faces Praliné Incolor 13,5 ml | 13,5 ml | Balm labial hidratante com aplicação confortável por ponteira de silicone. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw027e8eb2/Produtos/NATBRA-209240_1.jpg) |
+| `209249` | Balm Labial Faces Cherry Licor 13,5 ml | 13,5 ml | Balm labial hidratante com aplicação confortável por ponteira de silicone. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw924f0a03/Produtos/NATBRA-209249_1.jpg) |
+| `209254` | Balm Labial Faces Caramel Macchiato 13,5 ml | 13,5 ml | Balm labial hidratante com aplicação confortável por ponteira de silicone. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwd9ce8c31/Produtos/NATBRA-209254_1.jpg) |
+| `216439` | Batom Cremoso Faces Cobre Mystic 3,5 g | 3,5 g | Batom de textura cremosa e pigmentação uniforme, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw4d1e5d1b/Produtos/NATBRA-216439_1.jpg) |
+| `216453` | Batom Cremoso Faces Cobre Sunset 3,5 g | 3,5 g | Batom de textura cremosa e pigmentação uniforme, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw19593bf9/Produtos/NATBRA-216453_1.jpg) |
+| `236326` | Batom Líquido Matte Faces Chocolate Mousse 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw3cd4eb88/Produtos/NATBRA-236326_1.jpg) |
+| `236327` | Batom Líquido Matte Faces Brown Night 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw27972036/Produtos/NATBRA-236327_1.jpg) |
+| `236333` | Batom Líquido Matte Faces Red Love 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw18ffbe17/Produtos/NATBRA-236333_1.jpg) |
+| `236334` | Batom Líquido Matte Faces Cereja Likes 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw9369904b/Produtos/NATBRA-236334_1.jpg) |
+| `236339` | Batom Líquido Matte Faces Marsala Night 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw82c2dde4/Produtos/NATBRA-236339_1.jpg) |
+| `236340` | Batom Líquido Matte Faces Bege Beauty 4,5 ml | 4,5 ml | Batom líquido de alta pigmentação e acabamento matte, aplicável também nas bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwabbd2f0a/Produtos/NATBRA-236340_1.jpg) |
+| `243260` | Batom Matte Faces Nude 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw4f4fc444/Produtos/NATBRA-243260_1.jpg) |
+| `244462` | Batom Matte Faces Naked Nude 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw81c66e1e/Produtos/NATBRA-244462_1.jpg) |
+| `245312` | Batom Matte Faces Perfect Pink 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwf62016fe/Produtos/NATBRA-245312_1.jpg) |
+| `245313` | Batom Matte Faces Marsala 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw685f01ee/Produtos/NATBRA-245313_1.jpg) |
+| `245314` | Batom Matte Faces Cookie Nude 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwf090da29/Produtos/NATBRA-245314_1.jpg) |
+| `245315` | Batom Matte Faces Queen of Red 3,5 g | 3,5 g | Batom de alta cobertura, acabamento fosco e textura suave, para lábios e bochechas. | Maquiagem | 102 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw1b391778/Produtos/NATBRA-245315_1.jpg) |
+| `232065` | Lápis Duo para Boca e Olhos Una Preto e Vermelho 1 g | 1 g | Lápis cremoso de duas pontas, para contornar ou esfumar olhos e lábios. | Maquiagem | 123 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwc9c02903/Produtos/NATBRA-232065_1.jpg) |
+| `232066` | Palette Multifuncional Natura Una Elegance 9 g | 9 g | Paleta com oito cores matte e cintilantes para olhos, sobrancelhas e rosto. | Maquiagem | 123 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwcf848d2e/Produtos/NATBRA-232066_1.jpg) |
+
+#### Lote 40 — Maquiagem (2)
+
+| SKU | Nome e variante | Apresentação | Descrição proposta | Categoria | PDF | Imagem oficial |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `235280` | Batom CC Hidratante FPS 25 Una Nude 10-C 3,8 g | 3,8 g | Batom cremoso com FPS 25, acabamento luminoso e aplicação uniforme. | Maquiagem | 123 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw652d7cfc/Produtos/NATBRA-235280_1.jpg) |
+| `235283` | Batom CC Hidratante FPS 25 Una Vermelho 1 3,8 g | 3,8 g | Batom cremoso com FPS 25, acabamento luminoso e aplicação uniforme. | Maquiagem | 123 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw03148917/Produtos/NATBRA-235283_1.jpg) |
+
+#### Lote 41 — Corpo e Banho (5)
+
+| SKU | Nome e variante | Apresentação | Descrição proposta | Categoria | PDF | Imagem oficial |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `199376` | Desodorante Antitranspirante em Creme Tododia Pele Uniforme 50 g | 50 g | Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor. | Corpo e Banho | 171 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwcc9be671/Produtos/NATBRA-199376_1.jpg) |
+| `199377` | Desodorante Antitranspirante em Creme Natura Erva Doce 50 g | 50 g | Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor. | Corpo e Banho | 171 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw9faff0ba/Produtos/NATBRA-199377_1.png) |
+| `199379` | Desodorante Antitranspirante em Creme Tododia Leite de Algodão 50 g | 50 g | Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor. | Corpo e Banho | 171 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw4aaf08e8/Produtos/NATBRA-199379_1.png) |
+| `199385` | Desodorante Antitranspirante em Creme Tododia Sem Perfume 50 g | 50 g | Antitranspirante em creme sem fragrância e de secagem rápida. | Corpo e Banho | 171 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwa502e933/Produtos/NATBRA-199385_1.png) |
+| `199387` | Desodorante Antitranspirante em Creme Tododia Noz Pecã e Cacau 50 g | 50 g | Antitranspirante em creme de secagem rápida para proteção contra suor e mau odor. | Corpo e Banho | 171 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwd342d35e/Produtos/NATBRA-199387_1.png) |
+
+#### Lote 42 — Perfumaria (2)
+
+| SKU | Nome e variante | Apresentação | Descrição proposta | Categoria | PDF | Imagem oficial |
+| --- | --- | --- | --- | --- | ---: | --- |
+| `260649` | Body Splash Faces Be Juicy 200 ml | 200 ml | Fragrância amadeirada frutal com frutas vermelhas e maçã. | Perfumaria | 91 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw4cc741c4/Produtos/NATBRA-260649_1.jpg) |
+| `260651` | Body Splash Faces Be Sweet 200 ml | 200 ml | Fragrância adocicada com amêndoas, baunilha e mandarina. | Perfumaria | 91 | [Imagem](https://production.na01.natura.com/dw/image/v2/BFKR_PRD/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw11343c03/Produtos/NATBRA-260651_1.jpg) |
+
+### Reavaliação separada dos sete pendentes
+
+| SKU | PDF | Resultado atualizado |
+| --- | ---: | --- |
+| `209252` | 106 | O PDF e o seletor confirmam Preto, mas o texto público ainda descreve lápis marrom. Pendente de descrição da variante. |
+| `214702`, `214703`, `214704` | 106 | Os dados do SKU confirmam F3 Preto, F2 Médio e F1 Loiro. A revista informa até 8 horas e a ficha continua informando até 12 horas. Pendentes por divergência da apresentação comercial da duração. |
+| `237759`, `237765`, `237760` | 142, 143 | Os três glosses continuam descritos como edição especial na ficha oficial. Pendentes de prova de recorrência. |
+
+### Outros SKUs em revisão
+
+| Situação | SKUs | Motivo |
+| --- | --- | --- |
+| Imagem — Perfumaria | `178907`, `128756`, `148477`, `148478`, `148479`, `203374` | Frasco com caixa, cenário ou fundo editorial nas referências examinadas. |
+| Imagem — Corpo e Banho | `180469`, `180473` | Amostra de cor junto à embalagem, deslocando o produto do centro. |
+| Imagem — Cabelos | `200649`, `173581`, `173584`, `173587` | Base acinzentada ou texto gráfico fora da embalagem nas imagens de fundo claro. |
+| Imagem — Rosto | `183272`, `183273`, `183276`, `183277`, `183279`, `183280`, `183281` | Foto principal de 1.254 × 1.254 px. As alternativas de dimensão exata são editoriais. |
+| Imagem — Maquiagem | `181513`, `153720`, `95757` | Foto integral de 1.500 × 1.500 px no stick 181513, reflexo acinzentado na bruma e embalagem cortada ou cena editorial nas referências do delineador. |
+| Imagem — Cuidados Masculinos | `150225` | Reflexo chega à borda inferior da referência principal. |
+| Identificação — Perfumaria | `213292` | A legenda visível no PDF diverge de Flor de Vindicá na ficha oficial. |
+| Identificação — Gloss Faces | `214692`, `214694`, `215522`, `215523` | PDF informa até 21 horas de hidratação e ficha informa até 24. A descrição oficial também repete o texto da cor Cosmic Nude em outras variantes. |
+| Identificação — Batom Cremoso Faces | `216422`, `216426`, `216427`, `216433`, `216434`, `216440`, `216442`, `216446`, `216454`, `236342` | Seletor identifica as cores, mas a descrição pública diz “cobre metálico” para variantes com outras tonalidades. |
+| Identificação — Lápis Labial Faces | `209244`, `209250`, `209257` | Texto público descreve delineador cor mel para as variantes Cookie Nude, Red Love e Chocolate Mousse. |
+| Identificação — Una | `110201`, `140024`, `164825` | A ficha pública não explicita as tonalidades 43N e Marrom dos SKUs 110201 e 164825. O 140024 diverge entre Rouge 6-M e Vermelho 6-M. |
+| Disponibilidade pública | `95563`, `16872`, `16871`, `204459`, `113409`, `167173`, `190391` | Indisponíveis nas fichas consultadas. O 190391 também integra a linha sazonal em revisão. |
+| Recorrência | `91204`, `91192`, `103593`, `180477`, `189409`, `180471`, `190389`, `192102`, `199381`, `251531` | Família Manga Rosa e Água de Coco associada a sol, mar e piscina ou protetor iluminador com comunicação de verão. A recorrência ainda não foi confirmada. |
+
+### Refis e exclusões definitivas nesta estratégia
+
+<details>
+
+<summary>157 refis separados da estratégia</summary>
+
+- P. 73 — `189575`
+- P. 92 — `73567`, `73569`
+- P. 97 — `56763`, `56948`, `85390`, `89259`, `110687`
+- P. 108 — `8992`, `9009`, `9025`, `9045`, `9125`, `9149`, `9304`, `9431`
+- P. 115 — `173591`, `173592`, `173593`, `173594`, `173595`, `173596`, `173597`, `173598`, `173599`, `173600`, `173601`, `173602`, `173603`, `173604`, `173605`, `173606`, `173607`, `173608`, `173609`, `173610`, `173611`, `173612`, `173992`, `173993`
+- P. 116 — `72020`, `92576`, `92584`, `92595`, `110678`, `110679`, `110680`, `110681`, `110682`, `110683`, `110684`, `110685`
+- P. 117 — `24865`
+- P. 127 — `134585`, `134589`, `134591`, `134595`
+- P. 128 — `134587`, `134590`, `134700`, `134723`
+- P. 129 — `134594`, `134694`
+- P. 130 — `169244`
+- P. 131 — `168818`, `168819`, `169234`, `169235`, `169238`
+- P. 132 — `91819`
+- P. 138 — `2815`, `2817`, `2821`, `87516`, `121961`
+- P. 139 — `100605`, `152290`, `172100`
+- P. 141 — `103382`, `117798`, `181339`
+- P. 145 — `206230`
+- P. 151 — `205946`
+- P. 153 — `203381`, `139243`
+- P. 154 — `70390`
+- P. 156 — `203397`, `216414`
+- P. 158 — `97433`, `162093`
+- P. 159 — `97431`
+- P. 160 — `70394`, `70397`, `213691`, `242813`
+- P. 166 — `18624`, `25543`, `199914`
+- P. 172 — `28175`
+- P. 178 — `92791`, `92794`, `92802`, `106418`
+- P. 188 — `148175`, `148405`, `167285`, `167294`
+- P. 189 — `148177`, `148399`
+- P. 190 — `210526`, `210528`, `210530`
+- P. 191 — `147406`, `147410`, `147412`
+- P. 192 — `174187`, `174194`
+- P. 194 — `147442`, `147445`, `148162`, `148169`, `148400`, `148403`, `148413`, `148432`
+- P. 195 — `200643`, `200645`, `200648`
+- P. 196 — `147402`, `147408`, `147414`, `200647`
+- P. 197 — `164509`, `164512`
+- P. 198 — `221577`, `221579`
+- P. 199 — `154860`, `154868`
+- P. 200 — `154859`, `154861`, `154862`, `154863`, `154864`, `154865`, `154867`, `156234`, `156236`, `173582`, `173585`, `173586`, `173589`
+- P. 201 — `196323`, `196327`
+- P. 202 — `112766`, `112768`
+- P. 203 — `112760`, `112762`
+
+</details>
+
+<details>
+
+<summary>180 excluídos por formato, campanha ou escopo</summary>
+
+#### Acessórios, embalagens, sacolas e itens de casa fora do escopo (50)
+
+- P. 35 — `254588`, `278985`
+- P. 38 — `148397`, `154848`, `154849`, `154850`, `154851`, `161999`, `231354`, `231393`
+- P. 39 — `161145`, `161146`, `161148`, `167994`, `231355`, `231394`
+- P. 61 — `228003`
+- P. 82 — `266801`
+- P. 94 — `2271`
+- P. 111 — `58406`
+- P. 113 — `55105`
+- P. 116 — `105714`, `105715`, `105716`, `105717`, `109002`
+- P. 117 — `55107`, `105713`
+- P. 138 — `121966`
+- P. 141 — `266797`
+- P. 185 — `201327`
+- P. 190 — `224018`
+- P. 206 — `129745`, `170770`, `195636`, `195641`, `195642`, `218960`, `218961`, `218962`, `224727`, `224729`, `224736`, `229539`, `229549`, `241996`
+- P. 207 — `152267`, `195640`, `224733`, `224738`
+
+#### Caixas ou pacotes com várias unidades (38)
+
+- P. 57 — `151023`
+- P. 73 — `184829`
+- P. 138 — `121965`
+- P. 142 — `237756`, `237758`
+- P. 143 — `237781`
+- P. 144 — `152301`, `152302`, `214468`
+- P. 148 — `2829`, `2830`, `2832`, `87512`, `181138`
+- P. 149 — `72147`, `90965`, `95840`, `117749`, `121969`, `205939`
+- P. 152 — `199393`, `206217`
+- P. 157 — `235241`
+- P. 158 — `162087`
+- P. 159 — `124393`
+- P. 161 — `129797`, `129799`, `134574`, `134575`, `197208`, `203372`, `212717`
+- P. 172 — `26384`, `34089`
+- P. 178 — `92795`
+- P. 180 — `112788`, `166022`
+- P. 193 — `148159`
+
+#### Exclusividade de ciclo, sazonalidade, estoque ou oferta temporária (25)
+
+- P. 59 — `171117`
+- P. 85 — `107374`
+- P. 108 — `65830`, `109154`, `137954`, `137956`, `137958`, `138473`
+- P. 109 — `3379`, `6319`, `157257`
+- P. 141 — `103433`, `117796`, `181132`
+- P. 167 — `15669`, `48387`
+- P. 175 — `116855`, `160192`
+- P. 176 — `76541`, `92789`, `160240`
+- P. 185 — `148174`, `148425`, `148435`
+- P. 197 — `140028`
+
+#### Estojo de maquiagem vendido separadamente (acessório) (1)
+
+- P. 117 — `71663`
+
+#### Escopo adulto materno (2)
+
+- P. 177 — `75233`, `92808`
+
+#### Apresentação múltipla ou com acessório (4)
+
+- P. 177 — `92798`, `92799`
+- P. 178 — `75234`
+- P. 181 — `177282`
+
+#### Kits, conjuntos e combos (33)
+
+- P. 40 — `264659`
+- P. 41 — `264637`
+- P. 42 — `264657`
+- P. 43 — `264627`
+- P. 44 — `233555`
+- P. 45 — `241044`
+- P. 88 — `249319`
+- P. 96 — `278980`, `278981`
+- P. 97 — `280422`
+- P. 137 — `168620`
+- P. 148 — `273740`
+- P. 149 — `273743`
+- P. 151 — `259840`
+- P. 153 — `150219`
+- P. 171 — `279395`, `279396`
+- P. 176 — `109352`
+- P. 178 — `115762`
+- P. 179 — `169427`, `187033`, `187034`, `187035`, `197576`, `207390`, `207887`
+- P. 181 — `259929`
+- P. 185 — `228238`
+- P. 187 — `221669`
+- P. 189 — `148448`
+- P. 193 — `235586`
+- P. 199 — `211334`
+- P. 201 — `278819`
+
+#### Miniaturas e versões reduzidas (12)
+
+- P. 67 — `255953`, `255954`, `255955`, `255956`, `255957`, `255958`
+- P. 89 — `203317`, `203333`, `203348`
+- P. 145 — `231254`
+- P. 189 — `150304`
+- P. 191 — `150303`
+
+#### Presentes e itens exclusivos da campanha de Natal (13)
+
+- P. 28 — `264719`
+- P. 29 — `241298`
+- P. 30 — `231359`
+- P. 31 — `249301`
+- P. 32 — `247697`
+- P. 33 — `264726`
+- P. 34 — `241296`
+- P. 36 — `264731`, `264735`
+- P. 37 — `235284`, `235286`, `235287`, `235288`
+
+#### Cosmético com chaveiro incluso (2)
+
+- P. 102 — `210503`, `211663`
+
+</details>
+
+Os glosses `210503` e `211663` passaram a exclusão definitiva nesta estratégia porque a revista e as fichas confirmam chaveiro incluso. Os SKUs de presente, kit, refil, miniatura, promoção exclusiva, sazonalidade confirmada, edição limitada, acessórios, casa ou embalagens continuam fora da fila.
+
+### Pendências para publicação
+
+A disponibilidade regional da consultoria segue sem confirmação. Os cinco lotes são propostas independentes e aguardam autorização. Preservar **Consultar com a Carol ↗**, com nome e SKU no WhatsApp. Os registros permanecem restritos a SKU, nome, descrição, categoria e imagem, sem preço, estoque, links de loja ou checkout. Somente este relatório foi atualizado.
+
+
+
 ## Auditoria completa Natura — situação após os lotes 31 e 33
 
 Auditoria de 19/11/2026 no checkout local. Fonte: `17 Centro-Oeste, Sul, ES, MG, RJ e SP.pdf`. A numeração usa a posição no visualizador, com a capa como página 1.

@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "8847",
+      "nome": "Pó Compacto Matte Faces Claro 20 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8847.jpg"
+    },
+    {
+      "sku": "8848",
+      "nome": "Pó Compacto Matte Faces Claro 24 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8848.jpg"
+    },
+    {
+      "sku": "8882",
+      "nome": "Pó Compacto Matte Faces Médio 22 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8882.jpg"
+    },
+    {
+      "sku": "8883",
+      "nome": "Pó Compacto Matte Faces Médio 24 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8883.jpg"
+    },
+    {
+      "sku": "8884",
+      "nome": "Pó Compacto Matte Faces Médio 26 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8884.jpg"
+    },
+    {
+      "sku": "8885",
+      "nome": "Pó Compacto Matte Faces Castanho 20 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8885.jpg"
+    },
+    {
+      "sku": "8888",
+      "nome": "Pó Compacto Matte Faces Castanho 22 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8888.jpg"
+    },
+    {
+      "sku": "8889",
+      "nome": "Pó Compacto Matte Faces Escuro 20 6,5 g",
+      "descricao": "Pó compacto de textura leve e acabamento matte que ajuda a uniformizar o tom e reduzir o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8889.jpg"
+    },
+    {
+      "sku": "181509",
+      "nome": "Base Stick FPS 50 Una 23F 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181509.jpg"
+    },
+    {
+      "sku": "181510",
+      "nome": "Base Stick FPS 50 Una 37Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181510.jpg"
+    },
+    {
+      "sku": "181511",
+      "nome": "Base Stick FPS 50 Una 43N 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181511.jpg"
+    },
+    {
+      "sku": "181514",
+      "nome": "Base Stick FPS 50 Una 25Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181514.jpg"
+    },
+    {
+      "sku": "181515",
+      "nome": "Base Stick FPS 50 Una 21Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181515.jpg"
+    },
+    {
+      "sku": "181516",
+      "nome": "Base Stick FPS 50 Una 32Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181516.jpg"
+    },
+    {
+      "sku": "181517",
+      "nome": "Base Stick FPS 50 Una 35Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181517.jpg"
+    },
+    {
+      "sku": "181518",
+      "nome": "Base Stick FPS 50 Una 15Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181518.jpg"
+    },
+    {
+      "sku": "181519",
+      "nome": "Base Stick FPS 50 Una 40Q 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181519.jpg"
+    },
+    {
+      "sku": "181520",
+      "nome": "Base Stick FPS 50 Una 29N 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181520.jpg"
+    },
+    {
+      "sku": "181521",
+      "nome": "Base Stick FPS 50 Una 31N 12 g",
+      "descricao": "Base cremosa em bastão com ácido hialurônico, acabamento natural e cobertura de leve a média.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/181521.jpg"
+    },
+    {
+      "sku": "209237",
+      "nome": "Lápis Labial Faces Hey Honey 1,1 g",
+      "descricao": "Lápis labial de textura cremosa e alta pigmentação para contorno ou uso como batom.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209237.jpg"
+    }
+  ]
+}

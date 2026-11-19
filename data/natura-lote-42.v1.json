@@ -1,0 +1,20 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "260649",
+      "nome": "Body Splash Faces Be Juicy 200 ml",
+      "descricao": "Fragrância amadeirada frutal com frutas vermelhas e maçã.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/260649.jpg"
+    },
+    {
+      "sku": "260651",
+      "nome": "Body Splash Faces Be Sweet 200 ml",
+      "descricao": "Fragrância adocicada com amêndoas, baunilha e mandarina.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/260651.jpg"
+    }
+  ]
+}
