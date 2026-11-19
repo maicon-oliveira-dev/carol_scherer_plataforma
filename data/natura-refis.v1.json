@@ -1,0 +1,223 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "73569",
+      "nome": "Refil Desodorante Colônia Frescor Feminino Maracujá Ekos 150 ml",
+      "descricao": "Desodorante colônia refrescante com notas agridoces de maracujá e fundo de musk.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/73569.jpg"
+    },
+    {
+      "sku": "56763",
+      "nome": "Desodorante Corporal Refil Kaiak Feminino 100 ml",
+      "descricao": "Refil do desodorante corporal Kaiak Feminino, com fragrância cítrica e fresca.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/56763.jpg"
+    },
+    {
+      "sku": "56948",
+      "nome": "Refil Desodorante Corporal Kaiak Masculino 100 ml",
+      "descricao": "Refil do desodorante corporal Kaiak Masculino, com a fragrância aromática e refrescante da linha.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/56948.jpg"
+    },
+    {
+      "sku": "97433",
+      "nome": "Refil Óleo Trifásico Desodorante Corporal Ekos Andiroba 200 ml",
+      "descricao": "Óleo corporal trifásico de andiroba que hidrata e perfuma a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97433.jpg"
+    },
+    {
+      "sku": "199914",
+      "nome": "Refil Óleo Desodorante Corporal Sève Amêndoas e Orquídea Negra 200 ml",
+      "descricao": "Óleo corporal com óleo de amêndoas e fragrância de amêndoas e orquídea negra. Deixa a pele macia e perfumada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/199914.jpg"
+    },
+    {
+      "sku": "148175",
+      "nome": "Refil Shampoo Revitalizante para Cabelos Opacos ou com Coloração Lumina",
+      "descricao": "Shampoo que limpa suavemente e ajuda a preservar a cor e o brilho dos cabelos coloridos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148175.jpg"
+    },
+    {
+      "sku": "148405",
+      "nome": "Refil Condicionador Protetor para Cabelos Opacos ou com Coloração Lumina",
+      "descricao": "Condicionador para cabelos opacos ou com coloração que ajuda a reduzir o desbotamento e a porosidade.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148405.jpg"
+    },
+    {
+      "sku": "210530",
+      "nome": "Refil Máscara Antiquebra Antiqueda e Crescimento Lumina 250 ml",
+      "descricao": "Máscara capilar que nutre e ajuda a fortalecer os fios contra a quebra.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/210530.jpg"
+    },
+    {
+      "sku": "147406",
+      "nome": "Refil Creme de Pentear Selador de Cutículas Cabelos Secos ou Ressecados Lumina",
+      "descricao": "Creme de pentear para cabelos secos ou ressecados que ajuda a selar as cutículas e proteger as pontas.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147406.jpg"
+    },
+    {
+      "sku": "147442",
+      "nome": "Refil Shampoo Equilibrante Antioleosidade Lumina",
+      "descricao": "Shampoo que limpa suavemente e ajuda a controlar a oleosidade da raiz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147442.jpg"
+    },
+    {
+      "sku": "147445",
+      "nome": "Refil Condicionador Suave Antioleosidade Lumina",
+      "descricao": "Condicionador suave da linha Antioleosidade que condiciona sem ressecar o couro cabeludo.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147445.jpg"
+    },
+    {
+      "sku": "148169",
+      "nome": "Refil Shampoo Hidratante para Cabelos Crespos Lumina 300 ml",
+      "descricao": "Shampoo de limpeza equilibrada com fórmula hidratante para cabelos crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148169.jpg"
+    },
+    {
+      "sku": "147408",
+      "nome": "Refil Shampoo Reequilibrante Anticaspa Lumina",
+      "descricao": "Shampoo anticaspa que limpa o couro cabeludo e ajuda a reduzir a descamação.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147408.jpg"
+    },
+    {
+      "sku": "221577",
+      "nome": "Refil Condicionador Tododia Framboesa e Jojoba 280ml",
+      "descricao": "Condicionador de framboesa e jojoba que ajuda a alinhar os fios e reduzir o frizz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/221577.jpg"
+    },
+    {
+      "sku": "221579",
+      "nome": "Refil Shampoo Tododia Framboesa e Jojoba 300ml",
+      "descricao": "Shampoo de framboesa e jojoba para a rotina de cabelos lisos, com ação antifrizz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/221579.jpg"
+    },
+    {
+      "sku": "154860",
+      "nome": "Refil Condicionador Hidratante Tododia Maçã e Aloe Vera 280 ml",
+      "descricao": "Condicionador de maçã e aloe vera que hidrata e ajuda a manter os fios leves e brilhantes.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154860.jpg"
+    },
+    {
+      "sku": "154868",
+      "nome": "Refil Shampoo Hidratante Maçã Verde e Aloe Vera 300 ml",
+      "descricao": "Shampoo de maçã verde e aloe vera que limpa e hidrata os fios sem pesar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154868.jpg"
+    },
+    {
+      "sku": "154859",
+      "nome": "Refil Condicionador Nutritivo Tododia Pêssego e Amêndoa 280 ml",
+      "descricao": "Condicionador nutritivo que ajuda a desembaraçar os fios e reduzir o frizz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154859.jpg"
+    },
+    {
+      "sku": "154861",
+      "nome": "Refil Condicionador Reparador Tododia Flor de Cereja e Abacate 280 ml",
+      "descricao": "Condicionador reparador para cabelos danificados por processos químicos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154861.jpg"
+    },
+    {
+      "sku": "154862",
+      "nome": "Refil Máscara Concentrada Cronocapilar Tododia Hidrata 250 ml",
+      "descricao": "Máscara de hidratação com pantenol e aloe vera para devolver brilho e movimento aos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154862.jpg"
+    },
+    {
+      "sku": "154863",
+      "nome": "Refil Máscara Concentrada Cronocapilar Tododia Nutre 250 ml",
+      "descricao": "Máscara nutritiva com óleos de coco e amêndoas que ajuda a recuperar a maciez dos fios ressecados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154863.jpg"
+    },
+    {
+      "sku": "154864",
+      "nome": "Refil Máscara Concentrada Cronocapilar Tododia Repara 250 ml",
+      "descricao": "Máscara com arginina e óleo de abacate para o cuidado dos fios danificados por procedimentos químicos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154864.jpg"
+    },
+    {
+      "sku": "154865",
+      "nome": "Refil Shampoo Reparador Tododia Flor de Cereja e Abacate 300 ml",
+      "descricao": "Shampoo que limpa suavemente os fios e auxilia na recuperação de cabelos danificados após processos químicos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154865.jpg"
+    },
+    {
+      "sku": "154867",
+      "nome": "Refil Shampoo Nutritivo Tododia Pêssego e Amêndoa 300 ml",
+      "descricao": "Shampoo nutritivo que ajuda a proteger os fios contra o ressecamento e realçar o brilho.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154867.jpg"
+    },
+    {
+      "sku": "156234",
+      "nome": "Refil Creme para Pentear Reparador Tododia Flor de Cereja e Abacate 180 ml",
+      "descricao": "Creme para pentear que ajuda a proteger as pontas e cuidar de cabelos danificados após química.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/156234.jpg"
+    },
+    {
+      "sku": "156236",
+      "nome": "Refil Creme para Pentear Nutritivo Tododia Pêssego e Amêndoa 180 ml",
+      "descricao": "Creme para pentear com óleo de amêndoas que facilita o desembaraço, reduz o frizz e dá brilho aos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/156236.jpg"
+    },
+    {
+      "sku": "112766",
+      "nome": "Refil Shampoo Ekos Patauá",
+      "descricao": "Shampoo com óleo de patauá que limpa suavemente e ajuda a fortalecer os fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112766.jpg"
+    },
+    {
+      "sku": "112768",
+      "nome": "Refil Condicionador Ekos Patauá",
+      "descricao": "Condicionador com óleo de patauá que facilita o desembaraço e ajuda a fortalecer os fios contra a quebra.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112768.jpg"
+    },
+    {
+      "sku": "169244",
+      "nome": "Refil Sérum Intensivo Redutor de Oleosidade Chronos Derma 30 ml",
+      "descricao": "Sérum facial que ajuda a controlar o excesso de oleosidade e o brilho da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169244.jpg"
+    },
+    {
+      "sku": "8992",
+      "nome": "Refil Pó Compacto Matte Faces Claro 20",
+      "descricao": "Pó compacto de textura leve e acabamento matte. A variante Claro 20 uniformiza a pele e reduz o brilho.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/8992.jpg"
+    },
+    {
+      "sku": "72020",
+      "nome": "Refil Blush Intense Me Una Uva Matte",
+      "descricao": "Blush Uva Matte de textura ultrafina e cor construível em camadas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/72020.jpg"
+    }
+  ]
+}
