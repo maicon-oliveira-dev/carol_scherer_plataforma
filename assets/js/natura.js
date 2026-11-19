@@ -74,7 +74,9 @@
     "data/natura-lote-27.v1.json",
     "data/natura-lote-28.v1.json",
     "data/natura-lote-29.v1.json",
-    "data/natura-lote-30.v1.json"
+    "data/natura-lote-30.v1.json",
+    "data/natura-lote-31.v1.json",
+    "data/natura-lote-33.v1.json"
   ];
 
   function element(tag, className, text) {

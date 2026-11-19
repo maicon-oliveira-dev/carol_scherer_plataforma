@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "122112",
+      "nome": "Corretivo Cobertura Extrema 24h Una 27N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 27N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122112.jpg"
+    },
+    {
+      "sku": "122113",
+      "nome": "Corretivo Cobertura Extrema 24h Una 21N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 21N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122113.jpg"
+    },
+    {
+      "sku": "122114",
+      "nome": "Corretivo Cobertura Extrema 24h Una 24N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 24N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122114.jpg"
+    },
+    {
+      "sku": "122115",
+      "nome": "Corretivo Cobertura Extrema 24h Una 32N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 32N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122115.jpg"
+    },
+    {
+      "sku": "122116",
+      "nome": "Corretivo Cobertura Extrema 24h Una 35N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 35N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122116.jpg"
+    },
+    {
+      "sku": "122117",
+      "nome": "Corretivo Cobertura Extrema 24h Una 19N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 19N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122117.jpg"
+    },
+    {
+      "sku": "122118",
+      "nome": "Corretivo Cobertura Extrema 24h Una 37N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 37N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122118.jpg"
+    },
+    {
+      "sku": "122119",
+      "nome": "Corretivo Cobertura Extrema 24h Una 46N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 46N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122119.jpg"
+    },
+    {
+      "sku": "122120",
+      "nome": "Corretivo Cobertura Extrema 24h Una 15N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 15N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122120.jpg"
+    },
+    {
+      "sku": "122121",
+      "nome": "Corretivo Cobertura Extrema 24h Una 30N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 30N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122121.jpg"
+    },
+    {
+      "sku": "122122",
+      "nome": "Corretivo Cobertura Extrema 24h Una 10N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 10N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122122.jpg"
+    },
+    {
+      "sku": "122123",
+      "nome": "Corretivo Cobertura Extrema 24h Una 43N 8 ml",
+      "descricao": "Corretivo de acabamento matte para disfarçar sinais de cansaço e imperfeições, na tonalidade 43N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/122123.jpg"
+    },
+    {
+      "sku": "205974",
+      "nome": "Corretivo Hidratante 24h Una 21N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 21N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205974.jpg"
+    },
+    {
+      "sku": "205976",
+      "nome": "Corretivo Hidratante 24h Una 37N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 37N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205976.jpg"
+    },
+    {
+      "sku": "205977",
+      "nome": "Corretivo Hidratante 24h Una 19N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 19N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205977.jpg"
+    },
+    {
+      "sku": "205979",
+      "nome": "Corretivo Hidratante 24h Una 46N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 46N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205979.jpg"
+    },
+    {
+      "sku": "205980",
+      "nome": "Corretivo Hidratante 24h Una 10N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 10N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205980.jpg"
+    },
+    {
+      "sku": "205981",
+      "nome": "Corretivo Hidratante 24h Una 15N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 15N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205981.jpg"
+    },
+    {
+      "sku": "205983",
+      "nome": "Corretivo Hidratante 24h Una 35N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 35N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205983.jpg"
+    },
+    {
+      "sku": "205985",
+      "nome": "Corretivo Hidratante 24h Una 43N 4 ml",
+      "descricao": "Corretivo hidratante de acabamento natural e cobertura média construível, na tonalidade 43N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205985.jpg"
+    }
+  ]
+}
