@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "169229",
+      "nome": "Sérum intensivo redutor de oleosidade 30 ml Chronos Derma",
+      "descricao": "Sérum facial para ajudar a reduzir a oleosidade e o brilho da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169229.jpg"
+    },
+    {
+      "sku": "69725",
+      "nome": "Protetor antioleosidade redutor de poros FPS 30 / FPUVA 10 50 ml Chronos Derma",
+      "descricao": "Protetor solar facial para peles oleosas, com ação de controle do brilho.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/69725.jpg"
+    },
+    {
+      "sku": "253366",
+      "nome": "Sabonete em gel limpeza profunda antioleosidade 300 g Chronos Derma",
+      "descricao": "Sabonete facial em gel para limpeza profunda e controle da oleosidade.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/253366.jpg"
+    },
+    {
+      "sku": "204450",
+      "nome": "Máscara detox esfoliante redutora de poros 90 g Chronos Derma",
+      "descricao": "Máscara facial esfoliante para o cuidado da pele oleosa e da aparência dos poros.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/204450.jpg"
+    },
+    {
+      "sku": "204449",
+      "nome": "Hidratante antioleosidade matificante 40 g Chronos Derma",
+      "descricao": "Hidratante facial com ácido azelaico e acabamento matificante.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/204449.jpg"
+    },
+    {
+      "sku": "135043",
+      "nome": "Essência de tratamento revitalização e luminosidade 100 ml Chronos Derma",
+      "descricao": "Essência facial de pré-tratamento para uma rotina de revitalização e luminosidade.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135043.jpg"
+    },
+    {
+      "sku": "169247",
+      "nome": "Sérum intensivo lifting e firmeza 30 ml Chronos Derma",
+      "descricao": "Sérum facial para o cuidado da firmeza e da elasticidade da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169247.jpg"
+    },
+    {
+      "sku": "169233",
+      "nome": "Sérum intensivo preenchedor hidratante 30 ml Chronos Derma",
+      "descricao": "Sérum com foco na hidratação e no cuidado de peles desidratadas.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169233.jpg"
+    },
+    {
+      "sku": "127754",
+      "nome": "Sérum intensivo para bolsas e olheiras 15 ml Chronos Derma",
+      "descricao": "Sérum para a área dos olhos, voltado à aparência de bolsas e olheiras.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/127754.jpg"
+    },
+    {
+      "sku": "169258",
+      "nome": "Super sérum para olhos redutor de rugas e flacidez 15 ml Chronos Derma",
+      "descricao": "Sérum para a área dos olhos, voltado ao cuidado com rugas e firmeza.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169258.jpg"
+    },
+    {
+      "sku": "169264",
+      "nome": "Super sérum redutor de rugas 30 ml Chronos Derma",
+      "descricao": "Sérum facial antissinais para o cuidado com a aparência das rugas.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169264.jpg"
+    },
+    {
+      "sku": "169222",
+      "nome": "Sérum intensivo multiclareador 30 ml Chronos Derma",
+      "descricao": "Sérum facial para o cuidado com marcas escurecidas e tom irregular.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169222.jpg"
+    },
+    {
+      "sku": "91849",
+      "nome": "Hidratante acqua renovador 40 g Chronos Derma",
+      "descricao": "Hidratante facial para repor a hidratação da pele na rotina diária.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/91849.jpg"
+    },
+    {
+      "sku": "167236",
+      "nome": "Balm labial reparador hidratante 15 ml Chronos Derma",
+      "descricao": "Balm para hidratar e cuidar dos lábios ressecados.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/167236.jpg"
+    },
+    {
+      "sku": "135057",
+      "nome": "Triplo esfoliante peeling antissinais 50 g Chronos Derma",
+      "descricao": "Esfoliante facial para ajudar a uniformizar a textura da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135057.jpg"
+    },
+    {
+      "sku": "133503",
+      "nome": "Água micelar demaquilante suave 150 ml Chronos Derma",
+      "descricao": "Água micelar para remover maquiagem e impurezas sem enxágue.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/133503.jpg"
+    },
+    {
+      "sku": "171365",
+      "nome": "Sabonete em óleo limpeza demaquilante 125 ml Chronos Derma",
+      "descricao": "Óleo de limpeza facial que remove maquiagem à prova d’água e protetor solar.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/171365.jpg"
+    },
+    {
+      "sku": "137976",
+      "nome": "Demaquilante bifásico intensivo 150 ml Chronos Derma",
+      "descricao": "Demaquilante facial bifásico para remover maquiagem, inclusive à prova d’água.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/137976.jpg"
+    },
+    {
+      "sku": "135060",
+      "nome": "Sabonete em espuma limpeza suave 150 ml Chronos Derma",
+      "descricao": "Espuma de limpeza facial suave para diferentes tipos de pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135060.jpg"
+    },
+    {
+      "sku": "134189",
+      "nome": "Multiprotetor antissinais FPS 50 / FPUVA 18 50 ml Chronos Derma",
+      "descricao": "Protetor solar facial com FPS 50 para a rotina de cuidado antissinais.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134189.jpg"
+    }
+  ]
+}

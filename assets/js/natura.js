@@ -47,7 +47,10 @@
   const manifestPaths = [
     "data/natura-piloto.v1.json",
     "data/natura-lote-2.v1.json",
-    "data/natura-lote-3.v1.json"
+    "data/natura-lote-3.v1.json",
+    "data/natura-lote-4.v1.json",
+    "data/natura-lote-5.v1.json",
+    "data/natura-lote-6.v1.json"
   ];
 
   function element(tag, className, text) {
