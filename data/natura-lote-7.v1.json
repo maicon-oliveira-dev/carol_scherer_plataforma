@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "209243",
+      "nome": "Blush Matte Faces Apple Bloom 2,8 g",
+      "descricao": "Blush de acabamento matte com cor construível nas bochechas e nos olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209243.jpg"
+    },
+    {
+      "sku": "220914",
+      "nome": "Máscara Incolor Faces 7 ml",
+      "descricao": "Máscara incolor para definir, pentear e modelar cílios e sobrancelhas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/220914.jpg"
+    },
+    {
+      "sku": "209255",
+      "nome": "Delineador Caneta Preto Faces 1,2 ml",
+      "descricao": "Delineador preto com ponta fina para traços precisos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209255.jpg"
+    },
+    {
+      "sku": "209241",
+      "nome": "Paleta de Sombras Tons Quentes Faces 8,4 g",
+      "descricao": "Paleta unitária com tons quentes fáceis de misturar e esfumar.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209241.jpg"
+    },
+    {
+      "sku": "216455",
+      "nome": "Paleta de Sombras Tons Frios Faces 8,4 g",
+      "descricao": "Paleta unitária com tons frios fáceis de misturar e esfumar.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216455.jpg"
+    },
+    {
+      "sku": "209242",
+      "nome": "Lápis de Olhos Marrom Faces 1,3 g",
+      "descricao": "Lápis marrom de textura macia e traço preciso.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209242.jpg"
+    },
+    {
+      "sku": "216706",
+      "nome": "Máscara Megafantástica Faces 7 ml",
+      "descricao": "Máscara para alongar, definir e dar volume aos cílios.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216706.jpg"
+    },
+    {
+      "sku": "216703",
+      "nome": "Máscara Volume Fever Faces 7 ml",
+      "descricao": "Máscara para volume e definição dos cílios com aplicação em camadas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216703.jpg"
+    },
+    {
+      "sku": "216707",
+      "nome": "Gel Modelador de Sobrancelhas Incolor Faces 6 g",
+      "descricao": "Gel incolor com aplicador integrado para pentear e modelar as sobrancelhas.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/216707.jpg"
+    },
+    {
+      "sku": "204760",
+      "nome": "Blush Líquido Radiance Una Nude 2C 5 ml",
+      "descricao": "Blush líquido nude 2C com ácido hialurônico e bioativo de cupuaçu.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/204760.jpg"
+    },
+    {
+      "sku": "59313",
+      "nome": "Primer Blur Una 30 ml",
+      "descricao": "Primer de efeito matte que suaviza a aparência de imperfeições e ajuda a prolongar a maquiagem.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/59313.jpg"
+    },
+    {
+      "sku": "165814",
+      "nome": "Pó Solto Facial Translúcido Luminoso Una 8 g",
+      "descricao": "Pó translúcido com vitamina C e acabamento luminoso para finalizar a maquiagem.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/165814.jpg"
+    },
+    {
+      "sku": "165384",
+      "nome": "Pó Solto Facial Translúcido Matte Natural Una 8 g",
+      "descricao": "Pó translúcido com niacinamida e acabamento matte natural para ajudar a controlar a oleosidade.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/165384.jpg"
+    },
+    {
+      "sku": "174921",
+      "nome": "Máscara para Cílios Multi HD Una 9 g",
+      "descricao": "Máscara para volume, definição e alongamento dos cílios.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/174921.jpg"
+    },
+    {
+      "sku": "192103",
+      "nome": "Máscara de Cílios Extreme Multibenefícios Una 8 ml",
+      "descricao": "Máscara de longa duração com pigmentos pretos para cobrir os cílios.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/192103.jpg"
+    },
+    {
+      "sku": "34262",
+      "nome": "Caneta Delineadora para Olhos Una 1 ml",
+      "descricao": "Caneta para delineado fino, preciso e ultrapreto.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/34262.jpg"
+    },
+    {
+      "sku": "205934",
+      "nome": "PRO Palette de Sombras Una Nude 2C 7 g",
+      "descricao": "Paleta unitária de sombras nude 2C com acabamentos variados.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205934.jpg"
+    },
+    {
+      "sku": "214404",
+      "nome": "PRO Palette de Sombras Una Âmbar 7 g",
+      "descricao": "Paleta unitária de sombras na combinação Âmbar, com acabamentos variados.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/214404.jpg"
+    },
+    {
+      "sku": "171115",
+      "nome": "PRO Palette de Sombras Una Rubi 7 g",
+      "descricao": "Paleta unitária de sombras na combinação Rubi, com acabamentos variados.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/171115.jpg"
+    },
+    {
+      "sku": "171114",
+      "nome": "PRO Palette de Sombras Una Bronze 7 g",
+      "descricao": "Paleta unitária de sombras na combinação Bronze, com acabamentos variados.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/171114.jpg"
+    }
+  ]
+}
