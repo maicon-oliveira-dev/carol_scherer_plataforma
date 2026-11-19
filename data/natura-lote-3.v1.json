@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "155607",
+      "nome": "Desodorante Colônia Kaiak Sonar Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática ambarada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/155607.jpg"
+    },
+    {
+      "sku": "108405",
+      "nome": "Desodorante Colônia Kaiak Oceano Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática amadeirada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108405.jpg"
+    },
+    {
+      "sku": "108402",
+      "nome": "Desodorante Colônia Kaiak Aventura Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática cítrica amadeirada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108402.jpg"
+    },
+    {
+      "sku": "108401",
+      "nome": "Desodorante Colônia Kaiak Urbe Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108401.jpg"
+    },
+    {
+      "sku": "108400",
+      "nome": "Desodorante Colônia Kaiak Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática aquosa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108400.jpg"
+    },
+    {
+      "sku": "108403",
+      "nome": "Desodorante Colônia Kaiak Pulso Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com fragrância aromática verde ambarada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108403.jpg"
+    },
+    {
+      "sku": "57525",
+      "nome": "Deo Parfum Natura K Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância aromática intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/57525.jpg"
+    },
+    {
+      "sku": "71601",
+      "nome": "Desodorante Colônia Natura Biografia Masculino 100 ml",
+      "descricao": "Desodorante colônia masculino de 100 ml com notas frescas e herbais em uma fragrância amadeirada aromática.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/71601.jpg"
+    },
+    {
+      "sku": "27263",
+      "nome": "Deo Parfum Essencial Mirra Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada adocicada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/27263.jpg"
+    },
+    {
+      "sku": "17052",
+      "nome": "Deo Parfum Essencial Oud Vanilla Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada adocicada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/17052.jpg"
+    },
+    {
+      "sku": "18888",
+      "nome": "Deo Parfum Essencial Oud Pimenta Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/18888.jpg"
+    },
+    {
+      "sku": "76424",
+      "nome": "Deo Parfum Essencial Oud Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76424.jpg"
+    },
+    {
+      "sku": "103349",
+      "nome": "Deo Parfum Essencial Único Feminino 90 ml",
+      "descricao": "Deo parfum feminino de 90 ml com fragrância floral amadeirada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/103349.jpg"
+    },
+    {
+      "sku": "76421",
+      "nome": "Deo Parfum Essencial Feminino 100 ml",
+      "descricao": "Deo parfum feminino de 100 ml com fragrância floral intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76421.jpg"
+    },
+    {
+      "sku": "76423",
+      "nome": "Deo Parfum Essencial Exclusivo Feminino 100 ml",
+      "descricao": "Deo parfum feminino de 100 ml com fragrância floral cítrica intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76423.jpg"
+    },
+    {
+      "sku": "167756",
+      "nome": "Deo Parfum Essencial Sentir Feminino 100 ml",
+      "descricao": "Deo parfum feminino de 100 ml com fragrância floral frutal de pera e framboesa, com toque especiado de pataqueira.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/167756.jpg"
+    },
+    {
+      "sku": "54522",
+      "nome": "Deo Parfum Ilía Feminino 50 ml",
+      "descricao": "Deo parfum feminino de 50 ml com fragrância floral intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/54522.png"
+    },
+    {
+      "sku": "122470",
+      "nome": "Deo Parfum Ilía Completa Feminino 50 ml",
+      "descricao": "Deo parfum feminino de 50 ml com fragrância floral intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/122470.jpg"
+    },
+    {
+      "sku": "102419",
+      "nome": "Deo Parfum Ilía Ser Feminino 50 ml",
+      "descricao": "Deo parfum feminino de 50 ml com fragrância floral intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/102419.jpg"
+    },
+    {
+      "sku": "83314",
+      "nome": "Deo Parfum Ilía Secreto Feminino 50 ml",
+      "descricao": "Deo parfum feminino de 50 ml com fragrância floral intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/83314.jpg"
+    }
+  ]
+}

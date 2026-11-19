@@ -1,29 +1,23 @@
 (() => {
   "use strict";
 
-  const store = "https://www.minhaloja.natura.com";
-  const fields = ["sku", "nome", "descricao", "categoria", "imagemOficial", "linkLojaCarol"];
+  const fields = ["sku", "nome", "descricao", "categoria", "imagemOficial"];
   const imagePath = /^assets\/images\/catalogos\/natura\/[a-z0-9][a-z0-9_-]*\.(?:avif|jpe?g|png|webp)$/i;
 
-  function validate(manifest) {
+  function validate(manifest, seen = new Set()) {
     if (!manifest || manifest.versao !== 1 || typeof manifest.ativo !== "boolean" ||
         !Array.isArray(manifest.produtos)) {
       throw new Error("Manifesto Natura v1 invalido.");
     }
 
     const { produtos } = manifest;
-    if (produtos.length !== 20 && (manifest.ativo || produtos.length !== 0)) {
-      throw new Error("O lote piloto deve conter exatamente 20 produtos.");
-    }
-
-    const seen = new Set();
     produtos.forEach((product, index) => {
       const row = index + 1;
       if (!product || Object.keys(product).length !== fields.length ||
           !fields.every((field) => Object.hasOwn(product, field) &&
             typeof product[field] === "string" && product[field].trim() &&
             product[field] === product[field].trim())) {
-        throw new Error(`Produto Natura ${row}: esperado o conjunto de seis campos obrigatorios.`);
+        throw new Error(`Produto Natura ${row}: esperado o conjunto de cinco campos obrigatorios.`);
       }
 
       const sku = product.sku.normalize("NFC").toUpperCase();
@@ -32,10 +26,9 @@
       }
       seen.add(sku);
 
-      const expectedLink = `${store}/p/produto/NATBRA-${encodeURIComponent(product.sku)}?consultoria=carolinescherer`;
       if (fields.some((field) => /[<>]/.test(product[field])) ||
-          !imagePath.test(product.imagemOficial) || product.linkLojaCarol !== expectedLink) {
-        throw new Error(`Produto Natura ${row}: texto, imagem ou link invalido.`);
+          !imagePath.test(product.imagemOficial)) {
+        throw new Error(`Produto Natura ${row}: texto ou imagem invalida.`);
       }
     });
 
@@ -51,7 +44,11 @@
   const count = document.querySelector("#brand-count");
   const notice = document.querySelector("#brand-empty");
   const root = new URL("../../", document.currentScript.src);
-  const manifestUrl = new URL("data/natura-piloto.v1.json", root);
+  const manifestPaths = [
+    "data/natura-piloto.v1.json",
+    "data/natura-lote-2.v1.json",
+    "data/natura-lote-3.v1.json"
+  ];
 
   function element(tag, className, text) {
     const node = document.createElement(tag);
@@ -87,17 +84,24 @@
     return article;
   }
 
-  async function render() {
-    const response = await fetch(manifestUrl, { cache: "no-cache" });
+  async function appendBatch(path, seen) {
+    const response = await fetch(new URL(path, root), { cache: "no-cache" });
     if (!response.ok) throw new Error("Manifesto Natura indisponivel.");
 
-    const products = validate(await response.json());
+    const products = validate(await response.json(), seen);
     if (!products.length) return;
 
     const cards = await Promise.all(products.map(card));
-    grid.replaceChildren(...cards);
-    count.textContent = `${cards.length} produtos exibidos`;
+    grid.append(...cards);
+    count.textContent = `${grid.childElementCount} produtos exibidos`;
     notice.hidden = true;
+  }
+
+  async function render() {
+    const seen = new Set();
+    for (const path of manifestPaths) {
+      await appendBatch(path, seen);
+    }
   }
 
   render().catch((error) => {
