@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "92952",
+      "nome": "Sabonete em espuma relaxante Mamãe e Bebê 200 ml",
+      "descricao": "Sabonete em espuma para limpeza suave no banho do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92952.jpg"
+    },
+    {
+      "sku": "92806",
+      "nome": "Hidratante relaxante Mamãe e Bebê 200 ml",
+      "descricao": "Hidratante corporal da linha relaxante para a rotina de cuidados do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92806.jpg"
+    },
+    {
+      "sku": "106422",
+      "nome": "Sabonete líquido sem fragrância Mamãe e Bebê 200 ml",
+      "descricao": "Sabonete líquido sem fragrância para limpeza delicada da pele do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/106422.jpg"
+    },
+    {
+      "sku": "106423",
+      "nome": "Hidratante sem fragrância Mamãe e Bebê 200 ml",
+      "descricao": "Hidratante corporal sem fragrância para a pele do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/106423.jpg"
+    },
+    {
+      "sku": "97955",
+      "nome": "Creme preventivo de assaduras Mamãe e Bebê 60 g",
+      "descricao": "Creme para a rotina de proteção da pele na troca de fraldas.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/97955.jpg"
+    },
+    {
+      "sku": "166870",
+      "nome": "Shampoo Cachinhos e Crespinhos Mamãe e Bebê 200 ml",
+      "descricao": "Shampoo para a limpeza suave dos cabelos cacheados e crespos do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/166870.jpg"
+    },
+    {
+      "sku": "166871",
+      "nome": "Condicionador Cachinhos e Crespinhos Mamãe e Bebê 200 ml",
+      "descricao": "Condicionador para o cuidado e desembaraço dos cabelos cacheados e crespos do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/166871.jpg"
+    },
+    {
+      "sku": "92786",
+      "nome": "Água de colônia sem álcool Mamãe e Bebê 100 ml",
+      "descricao": "Água de colônia sem álcool com a fragrância clássica Mamãe e Bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92786.jpg"
+    },
+    {
+      "sku": "92800",
+      "nome": "Sabonete líquido Mamãe e Bebê 200 ml",
+      "descricao": "Sabonete líquido da linha clássica para a limpeza suave no banho do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92800.jpg"
+    },
+    {
+      "sku": "92804",
+      "nome": "Hidratante Mamãe e Bebê 200 ml",
+      "descricao": "Hidratante corporal da linha clássica para o cuidado diário da pele do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92804.jpg"
+    },
+    {
+      "sku": "92790",
+      "nome": "Shampoo Mamãe e Bebê 200 ml",
+      "descricao": "Shampoo com a fragrância clássica da linha para limpar delicadamente os cabelos do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92790.jpg"
+    },
+    {
+      "sku": "92793",
+      "nome": "Condicionador Mamãe e Bebê 200 ml",
+      "descricao": "Condicionador com a fragrância clássica da linha para facilitar o desembaraço.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92793.jpg"
+    },
+    {
+      "sku": "102402",
+      "nome": "Condicionador para cabelos cacheados e crespos Naturé 250 ml",
+      "descricao": "Condicionador infantil para maciez e hidratação de cabelos cacheados e crespos.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102402.jpg"
+    },
+    {
+      "sku": "128757",
+      "nome": "Colônia Corre Corre Naturé 100 ml",
+      "descricao": "Colônia infantil Naturé com fragrância frutal.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/128757.jpg"
+    },
+    {
+      "sku": "102404",
+      "nome": "Creme para pentear cabelos cacheados e crespos Naturé 250 ml",
+      "descricao": "Creme infantil para pentear cabelos cacheados e crespos, com foco em maciez e controle do frizz.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102404.jpg"
+    },
+    {
+      "sku": "102406",
+      "nome": "Shampoo 2 em 1 Naturé 250 ml",
+      "descricao": "Shampoo infantil dois em um para limpar e condicionar os cabelos.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102406.jpg"
+    },
+    {
+      "sku": "106496",
+      "nome": "Hidratante corporal Naturé 125 ml",
+      "descricao": "Hidratante corporal infantil com toque seco.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/106496.jpg"
+    },
+    {
+      "sku": "166873",
+      "nome": "Condicionador restaurador Naturé 250 ml",
+      "descricao": "Condicionador infantil da linha restauradora para o cuidado dos fios.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/166873.jpg"
+    },
+    {
+      "sku": "166872",
+      "nome": "Shampoo revitalizante Naturé 250 ml",
+      "descricao": "Shampoo infantil da linha revitalizante para a limpeza dos cabelos.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/166872.jpg"
+    },
+    {
+      "sku": "166874",
+      "nome": "Spray desembaraçante Naturé 150 ml",
+      "descricao": "Spray infantil para facilitar o desembaraço dos cabelos.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/166874.jpg"
+    }
+  ]
+}
