@@ -76,7 +76,11 @@
     "data/natura-lote-29.v1.json",
     "data/natura-lote-30.v1.json",
     "data/natura-lote-31.v1.json",
-    "data/natura-lote-33.v1.json"
+    "data/natura-lote-33.v1.json",
+    "data/natura-lote-34.v1.json",
+    "data/natura-lote-35.v1.json",
+    "data/natura-lote-36.v1.json",
+    "data/natura-lote-37.v1.json"
   ];
 
   function element(tag, className, text) {
@@ -115,21 +119,27 @@
 
   async function appendBatch(path, seen) {
     const response = await fetch(new URL(path, root), { cache: "no-cache" });
-    if (!response.ok) throw new Error("Manifesto Natura indisponivel.");
+    if (!response.ok) throw new Error(`Manifesto Natura indisponivel (HTTP ${response.status}).`);
 
-    const products = validate(await response.json(), seen);
-    if (!products.length) return;
-
-    const cards = await Promise.all(products.map(card));
-    grid.append(...cards);
-    count.textContent = `${grid.childElementCount} produtos exibidos`;
-    notice.hidden = true;
+    const batchSeen = new Set(seen);
+    const products = validate(await response.json(), batchSeen);
+    if (products.length) {
+      const cards = await Promise.all(products.map(card));
+      grid.append(...cards);
+      count.textContent = `${grid.childElementCount} produtos exibidos`;
+      notice.hidden = true;
+    }
+    return batchSeen;
   }
 
   async function render() {
-    const seen = new Set();
+    let seen = new Set();
     for (const path of manifestPaths) {
-      await appendBatch(path, seen);
+      try {
+        seen = await appendBatch(path, seen);
+      } catch (error) {
+        console.error(`Catalogo Natura: falha no manifesto ${path}`, error);
+      }
     }
   }
 

@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "237773",
+      "nome": "Balm Labial Tododia Morango e Baunilha Dourada 10 ml",
+      "descricao": "Balm com manteiga de karité e vitamina E, aroma de morango e baunilha dourada e pigmentação leve.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/237773.jpg"
+    }
+  ]
+}

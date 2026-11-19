@@ -1,0 +1,132 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "205978",
+      "nome": "Corretivo Hidratante 24h Una 32N 4 ml",
+      "descricao": "Corretivo hidratante de cobertura média para disfarçar olheiras e uniformizar a área dos olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205978.jpg"
+    },
+    {
+      "sku": "205982",
+      "nome": "Corretivo Hidratante 24h Una 24N 4 ml",
+      "descricao": "Corretivo hidratante de cobertura média para disfarçar olheiras e uniformizar a área dos olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205982.jpg"
+    },
+    {
+      "sku": "205984",
+      "nome": "Corretivo Hidratante 24h Una 30N 4 ml",
+      "descricao": "Corretivo hidratante de cobertura média para disfarçar olheiras e uniformizar a área dos olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205984.jpg"
+    },
+    {
+      "sku": "127762",
+      "nome": "Base Matte Powder Una 40Q 20 g",
+      "descricao": "Base de alta cobertura e textura aveludada, com acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/127762.jpg"
+    },
+    {
+      "sku": "127763",
+      "nome": "Base Matte Powder Una 29N 20 g",
+      "descricao": "Base de alta cobertura e textura aveludada, com acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/127763.jpg"
+    },
+    {
+      "sku": "127776",
+      "nome": "Base Matte Powder Una 32Q 20 g",
+      "descricao": "Base de alta cobertura e textura aveludada, com acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/127776.jpg"
+    },
+    {
+      "sku": "127777",
+      "nome": "Base Matte Powder Una 35Q 20 g",
+      "descricao": "Base de alta cobertura e textura aveludada, com acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/127777.jpg"
+    },
+    {
+      "sku": "191620",
+      "nome": "Base Líquida HD Una 29N 30 ml",
+      "descricao": "Base líquida de alta cobertura, textura leve e acabamento natural.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191620.jpg"
+    },
+    {
+      "sku": "191626",
+      "nome": "Base Líquida HD Una 35Q 30 ml",
+      "descricao": "Base líquida de alta cobertura, textura leve e acabamento natural.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191626.jpg"
+    },
+    {
+      "sku": "191631",
+      "nome": "Base Líquida HD Una 44N 30 ml",
+      "descricao": "Base líquida de alta cobertura, textura leve e acabamento natural.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191631.jpg"
+    },
+    {
+      "sku": "191632",
+      "nome": "Base Líquida HD Una 47Q 30 ml",
+      "descricao": "Base líquida de alta cobertura, textura leve e acabamento natural.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191632.jpg"
+    },
+    {
+      "sku": "205321",
+      "nome": "Batom Líquido Blur Una Nº 2 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205321.jpg"
+    },
+    {
+      "sku": "205325",
+      "nome": "Batom Líquido Blur Marrom 2 Una 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205325.jpg"
+    },
+    {
+      "sku": "205330",
+      "nome": "Batom Líquido Blur Coral 3 Una 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205330.jpg"
+    },
+    {
+      "sku": "205331",
+      "nome": "Batom Líquido Blur Malva 6 Una 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205331.jpg"
+    },
+    {
+      "sku": "205333",
+      "nome": "Batom Líquido Blur Vermelho 3 Una 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205333.jpg"
+    },
+    {
+      "sku": "205334",
+      "nome": "Batom Líquido Blur Rose 2 Una 5 ml",
+      "descricao": "Batom líquido de longa duração e alta pigmentação, com acabamento blur e ação hidratante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205334.jpg"
+    },
+    {
+      "sku": "180470",
+      "nome": "Balm Labial Tododia Acerola e Hibisco 2,7 g",
+      "descricao": "Balm labial com emolientes de origem natural, cobertura leve e brilho delicado.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/180470.jpg"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "209236",
+      "nome": "Iluminador Baked Faces Sparkle Golden 2,8 g",
+      "descricao": "Iluminador multifuncional para bochechas e olhos, com brilho e cobertura construível.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209236.jpg"
+    },
+    {
+      "sku": "209247",
+      "nome": "Iluminador Baked Faces Sparkle Prisma 2,8 g",
+      "descricao": "Iluminador multifuncional para bochechas e olhos, com brilho e cobertura construível.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209247.jpg"
+    },
+    {
+      "sku": "209248",
+      "nome": "Iluminador Baked Faces Sparkle Shine 2,8 g",
+      "descricao": "Iluminador multifuncional para bochechas e olhos, com brilho e cobertura construível.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/209248.jpg"
+    },
+    {
+      "sku": "214462",
+      "nome": "Blush Baked Iluminador Faces Bronze Burst 2,8 g",
+      "descricao": "Blush iluminador de acabamento luminoso e cobertura construível, para bochechas e olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/214462.jpg"
+    },
+    {
+      "sku": "236347",
+      "nome": "Blush Baked Iluminador Faces Peach Burst 2,8 g",
+      "descricao": "Blush iluminador de acabamento luminoso e cobertura construível, para bochechas e olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/236347.jpg"
+    },
+    {
+      "sku": "258438",
+      "nome": "Blush Baked Iluminador Faces Pink Burst 2,8 g",
+      "descricao": "Blush iluminador de acabamento luminoso e cobertura construível, para bochechas e olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/258438.jpg"
+    },
+    {
+      "sku": "166328",
+      "nome": "Base Líquida Faces Checkmatte 24F 25 ml",
+      "descricao": "Base líquida matte de longa duração e cobertura média, com ácido salicílico e vitamina E.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166328.jpg"
+    },
+    {
+      "sku": "166330",
+      "nome": "Base Líquida Faces Checkmatte 20N 25 ml",
+      "descricao": "Base líquida matte de longa duração e cobertura média, com ácido salicílico e vitamina E.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166330.jpg"
+    },
+    {
+      "sku": "166337",
+      "nome": "Base Líquida Faces Checkmatte 35Q 25 ml",
+      "descricao": "Base líquida matte de longa duração e cobertura média, com ácido salicílico e vitamina E.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166337.jpg"
+    },
+    {
+      "sku": "166344",
+      "nome": "Base Líquida Faces Checkmatte 29N 25 ml",
+      "descricao": "Base líquida matte de longa duração e cobertura média, com ácido salicílico e vitamina E.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166344.jpg"
+    },
+    {
+      "sku": "205322",
+      "nome": "Blush Líquido Radiance Una Nude 2-C Intenso 5 ml",
+      "descricao": "Blush líquido com ácido hialurônico, textura fácil de espalhar e acabamento radiante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205322.jpg"
+    },
+    {
+      "sku": "205326",
+      "nome": "Blush Líquido Radiance Una Vermelho 5 ml",
+      "descricao": "Blush líquido com ácido hialurônico, textura fácil de espalhar e acabamento radiante.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205326.jpg"
+    },
+    {
+      "sku": "110189",
+      "nome": "Base Sérum Nude Me Una 24F 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura ajustável.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110189.jpg"
+    },
+    {
+      "sku": "110192",
+      "nome": "Base Sérum Nude Me Una 29N 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura ajustável.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110192.jpg"
+    },
+    {
+      "sku": "110198",
+      "nome": "Base Sérum Nude Me Una 35Q 30 ml",
+      "descricao": "Base de textura sérum leve, acabamento natural e cobertura ajustável.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/110198.jpg"
+    },
+    {
+      "sku": "205975",
+      "nome": "Corretivo Hidratante 24h Una 27N 4 ml",
+      "descricao": "Corretivo hidratante de cobertura média para disfarçar olheiras e uniformizar a área dos olhos.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/205975.jpg"
+    }
+  ]
+}

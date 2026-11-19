@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "248628",
+      "nome": "Sabonete Líquido Corporal Masculino Kaiak 21K 100 ml",
+      "descricao": "Sabonete corporal em gel com espuma perfumada e sensação refrescante de pele limpa.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/248628.jpg"
+    }
+  ]
+}
