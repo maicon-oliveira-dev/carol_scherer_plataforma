@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "134592",
+      "nome": "Gel Creme Antissinais Renovação e Prevenção 30+ Dia FPS 30 Chronos Derma 40 g",
+      "descricao": "Cuidado diurno 30+ para a aparência dos primeiros sinais, com FPS 30.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134592.jpg"
+    },
+    {
+      "sku": "134593",
+      "nome": "Gel Creme Antissinais Renovação e Prevenção 30+ Noite Chronos Derma 40 g",
+      "descricao": "Gel creme noturno da rotina de renovação e prevenção 30+.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134593.jpg"
+    },
+    {
+      "sku": "134725",
+      "nome": "Gel Creme Antissinais Firmeza e Luminosidade 45+ Dia FPS 30 Chronos Derma 40 g",
+      "descricao": "Gel creme diurno da rotina de firmeza e luminosidade 45+, com FPS 30.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134725.jpg"
+    },
+    {
+      "sku": "135032",
+      "nome": "Gel Creme Antissinais Firmeza e Luminosidade 45+ Noite Chronos Derma 40 g",
+      "descricao": "Gel creme noturno da rotina de firmeza e luminosidade 45+.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135032.jpg"
+    },
+    {
+      "sku": "134693",
+      "nome": "Creme Antissinais Preenchimento e Revitalização 60+ Dia FPS 30 Chronos Derma 40 g",
+      "descricao": "Creme diurno da rotina 60+ de preenchimento e revitalização, com FPS 30.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134693.jpg"
+    },
+    {
+      "sku": "135036",
+      "nome": "Creme Antissinais Preenchimento e Revitalização 60+ Noite Chronos Derma 40 g",
+      "descricao": "Creme noturno da rotina 60+ de preenchimento e revitalização.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135036.jpg"
+    },
+    {
+      "sku": "134697",
+      "nome": "Creme Antissinais Restauração e Cuidado 70+ Dia FPS 30 Chronos Derma 40 g",
+      "descricao": "Creme diurno da rotina de restauração e cuidado 70+, com FPS 30.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134697.jpg"
+    },
+    {
+      "sku": "135027",
+      "nome": "Creme Antissinais Restauração e Cuidado 70+ Noite Chronos Derma 40 g",
+      "descricao": "Creme noturno da rotina 70+ voltado à suavidade da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135027.jpg"
+    },
+    {
+      "sku": "134695",
+      "nome": "Creme Antissinais Fortalecimento e Nutrição 80+ Dia FPS 30 Chronos Derma 40 g",
+      "descricao": "Creme diurno da rotina 80+ de fortalecimento e nutrição, com FPS 30.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134695.jpg"
+    },
+    {
+      "sku": "135039",
+      "nome": "Creme Antissinais Fortalecimento e Nutrição 80+ Noite Chronos Derma 40 g",
+      "descricao": "Creme noturno da rotina 80+ de fortalecimento e nutrição.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/135039.jpg"
+    },
+    {
+      "sku": "187709",
+      "nome": "Duo Essência de Tratamento Multiclareadora e Radiância Chronos Derma 100 ml",
+      "descricao": "Essência facial em um frasco para o cuidado com a uniformidade do tom e a luminosidade da pele.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/187709.jpg"
+    },
+    {
+      "sku": "169217",
+      "nome": "Balm para Olhos Redutor de Rugas Chronos Derma 15 g",
+      "descricao": "Balm de cuidado com linhas finas e rugas na área dos olhos.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/169217.jpg"
+    },
+    {
+      "sku": "134586",
+      "nome": "Sabonete em Mousse Limpeza Intensiva Chronos Derma 85 g",
+      "descricao": "Sabonete facial em mousse que limpa sem ressecar.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/134586.jpg"
+    },
+    {
+      "sku": "152289",
+      "nome": "Bruma Facial Energizante Tododia Flor de Gengibre e Tangerina 100 ml",
+      "descricao": "Bruma facial para deixar a pele fresca e macia.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/152289.jpg"
+    },
+    {
+      "sku": "176905",
+      "nome": "Protetor Solar Facial Natura Solar Pele Normal a Seca FPS 70 / FPUVA 25 50 ml",
+      "descricao": "Protetor solar facial para pele normal a seca, com FPS 70.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/176905.jpg"
+    },
+    {
+      "sku": "178858",
+      "nome": "Protetor Solar Facial Stick Natura Solar FPS 50 / FPUVA 17 15 g",
+      "descricao": "Protetor solar facial em bastão com FPS 50.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/178858.jpg"
+    },
+    {
+      "sku": "186435",
+      "nome": "Protetor Solar Facial Natura Solar Pele Mista a Oleosa FPS 70 / FPUVA 25 50 ml",
+      "descricao": "Protetor solar facial para pele mista a oleosa, com FPS 70.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/186435.jpg"
+    },
+    {
+      "sku": "176909",
+      "nome": "Protetor Solar Facial Natura Solar Pele Mista a Oleosa FPS 50 / FPUVA 20 50 ml",
+      "descricao": "Protetor solar facial para pele mista a oleosa, com FPS 50.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/176909.jpg"
+    },
+    {
+      "sku": "176913",
+      "nome": "Protetor Solar Facial Natura Solar Pele Normal a Seca FPS 50 / FPUVA 20 50 ml",
+      "descricao": "Protetor solar facial para pele normal a seca, com FPS 50.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/176913.jpg"
+    },
+    {
+      "sku": "236332",
+      "nome": "Bálsamo Demaquilante Faces 45 g",
+      "descricao": "Bálsamo facial de textura cremosa para limpar, retirar maquiagem e hidratar.",
+      "categoria": "Rosto",
+      "imagemOficial": "assets/images/catalogos/natura/236332.jpg"
+    }
+  ]
+}

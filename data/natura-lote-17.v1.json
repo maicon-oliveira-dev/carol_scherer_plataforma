@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "95773",
+      "nome": "Batom Matte Powder Una Nude 4-M 3,4 g",
+      "descricao": "Batom de alta cobertura, textura aveludada e acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95773.jpg"
+    },
+    {
+      "sku": "95774",
+      "nome": "Batom Matte Powder Una Rosê 4-M 3,4 g",
+      "descricao": "Batom de alta cobertura e acabamento matte aveludado.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95774.jpg"
+    },
+    {
+      "sku": "95775",
+      "nome": "Batom Matte Powder Una Rouge 6-M 3,4 g",
+      "descricao": "Batom de alta cobertura com textura aveludada.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95775.jpg"
+    },
+    {
+      "sku": "95776",
+      "nome": "Batom Matte Powder Una Marrom 4-M 3,4 g",
+      "descricao": "Batom marrom de acabamento matte aveludado.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95776.jpg"
+    },
+    {
+      "sku": "95777",
+      "nome": "Batom Matte Powder Una Rouge 2-M 3,4 g",
+      "descricao": "Batom de alta cobertura e acabamento matte aveludado.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95777.jpg"
+    },
+    {
+      "sku": "95778",
+      "nome": "Batom Matte Powder Una Marrom 2-M 3,4 g",
+      "descricao": "Batom marrom de alta cobertura com textura aveludada.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95778.jpg"
+    },
+    {
+      "sku": "95780",
+      "nome": "Batom Matte Powder Una Violeta 6-M 3,4 g",
+      "descricao": "Batom violeta de acabamento matte aveludado.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95780.jpg"
+    },
+    {
+      "sku": "95782",
+      "nome": "Batom Matte Powder Una Vinho 4-M 3,4 g",
+      "descricao": "Batom vinho de alta cobertura e acabamento matte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/95782.jpg"
+    },
+    {
+      "sku": "140019",
+      "nome": "Batom Líquido Matte Intransferível Una Nude 2-C Intenso 7 ml",
+      "descricao": "Batom líquido matte intransferível na tonalidade Nude 2-C Intenso.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140019.jpg"
+    },
+    {
+      "sku": "140022",
+      "nome": "Batom Líquido Matte Intransferível Una Nude 2-C 7 ml",
+      "descricao": "Batom líquido matte intransferível na tonalidade Nude 2-C.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140022.jpg"
+    },
+    {
+      "sku": "140023",
+      "nome": "Batom Líquido Matte Intransferível Una Marrom 10-M 7 ml",
+      "descricao": "Batom líquido matte intransferível na tonalidade Marrom 10-M.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140023.jpg"
+    },
+    {
+      "sku": "140030",
+      "nome": "Batom Líquido Matte Intransferível Una Vermelho 1 7 ml",
+      "descricao": "Batom líquido matte intransferível na tonalidade Vermelho 1.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140030.jpg"
+    },
+    {
+      "sku": "140059",
+      "nome": "Batom Líquido Matte Intransferível Una Rosê 2-M 7 ml",
+      "descricao": "Batom líquido matte intransferível na tonalidade Rosê 2-M.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/140059.jpg"
+    },
+    {
+      "sku": "204429",
+      "nome": "Lápis Labial Retrátil PRO Una Marrom 10 350 mg",
+      "descricao": "Lápis de contorno labial de alta precisão com acabamento semimatte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/204429.jpg"
+    },
+    {
+      "sku": "204430",
+      "nome": "Lápis Labial Retrátil PRO Una Nude 2-C 350 mg",
+      "descricao": "Lápis de contorno labial de alta precisão com acabamento semimatte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/204430.jpg"
+    },
+    {
+      "sku": "204432",
+      "nome": "Lápis Labial Retrátil PRO Una Vermelho 1 350 mg",
+      "descricao": "Lápis labial retrátil de cor intensa e acabamento semimatte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/204432.jpg"
+    },
+    {
+      "sku": "204434",
+      "nome": "Lápis Labial Retrátil PRO Una Nude 2-C Intenso 350 mg",
+      "descricao": "Lápis labial retrátil para contorno preciso e acabamento semimatte.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/204434.jpg"
+    },
+    {
+      "sku": "164824",
+      "nome": "Gloss Labial Volume Imediato Una Incolor 5 ml",
+      "descricao": "Gloss incolor com brilho e efeito de volume nos lábios.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/164824.jpg"
+    },
+    {
+      "sku": "192148",
+      "nome": "Gloss Multifuncional Una Celebrar 7 g",
+      "descricao": "Gloss multifuncional com vitamina E.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/192148.jpg"
+    },
+    {
+      "sku": "70720",
+      "nome": "Lápis Kajal para Olhos Una Preto 1,14 g",
+      "descricao": "Lápis preto de textura cremosa e alta pigmentação.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/70720.jpg"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "176907",
+      "nome": "Protetor Solar Infantil Natura Solar FPS 50 / FPUVA 17 200 ml",
+      "descricao": "Protetor solar infantil com FPS 50.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/176907.jpg"
+    },
+    {
+      "sku": "204448",
+      "nome": "Desodorante Roll-on Naturé Rock’n’Roll 70 ml",
+      "descricao": "Desodorante infantil em roll-on com fragrância aromática de musc.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/204448.jpg"
+    },
+    {
+      "sku": "204443",
+      "nome": "Desodorante Roll-on Naturé Love It 70 ml",
+      "descricao": "Desodorante infantil em roll-on com fragrância frutal floral.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/204443.jpg"
+    },
+    {
+      "sku": "92788",
+      "nome": "Água de Colônia Relaxante Mamãe e Bebê 100 ml",
+      "descricao": "Água de colônia da linha relaxante Mamãe e Bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/92788.jpg"
+    },
+    {
+      "sku": "252007",
+      "nome": "Sabonete Líquido Mamãe e Bebê 400 ml",
+      "descricao": "Sabonete líquido da linha clássica para limpeza suave da cabeça aos pés.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/252007.jpg"
+    },
+    {
+      "sku": "252008",
+      "nome": "Shampoo Mamãe e Bebê 400 ml",
+      "descricao": "Shampoo de limpeza suave com a fragrância clássica da linha.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/252008.jpg"
+    },
+    {
+      "sku": "252009",
+      "nome": "Hidratante Mamãe e Bebê 400 ml",
+      "descricao": "Hidratante corporal da linha clássica para a rotina de cuidados do bebê.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/252009.jpg"
+    },
+    {
+      "sku": "102395",
+      "nome": "Shampoo para Cabelos Lisos e Ondulados Naturé 250 ml",
+      "descricao": "Shampoo infantil para a limpeza de cabelos lisos e ondulados.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102395.jpg"
+    },
+    {
+      "sku": "102397",
+      "nome": "Condicionador para Cabelos Lisos e Ondulados Naturé 250 ml",
+      "descricao": "Condicionador infantil para maciez e hidratação de cabelos lisos e ondulados.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102397.jpg"
+    },
+    {
+      "sku": "102400",
+      "nome": "Shampoo para Cabelos Cacheados e Crespos Naturé 250 ml",
+      "descricao": "Shampoo infantil para a limpeza de cabelos cacheados e crespos.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102400.jpg"
+    },
+    {
+      "sku": "102417",
+      "nome": "Sabonete Líquido Naturé 250 ml",
+      "descricao": "Sabonete líquido infantil para limpar a pele sem ressecar.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/102417.jpg"
+    },
+    {
+      "sku": "106421",
+      "nome": "Colônia Catavento Naturé 100 ml",
+      "descricao": "Colônia infantil com essência de lavanda.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/106421.jpg"
+    },
+    {
+      "sku": "128758",
+      "nome": "Colônia Pula Pula Naturé 100 ml",
+      "descricao": "Colônia infantil de perfil frutal aquoso.",
+      "categoria": "Infantil",
+      "imagemOficial": "assets/images/catalogos/natura/128758.jpg"
+    }
+  ]
+}
