@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "191617",
+      "nome": "Base Líquida HD Una 10N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 10N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191617.jpg"
+    },
+    {
+      "sku": "191618",
+      "nome": "Base Líquida HD Una 25Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 25Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191618.jpg"
+    },
+    {
+      "sku": "191619",
+      "nome": "Base Líquida HD Una 27N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 27N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191619.jpg"
+    },
+    {
+      "sku": "191621",
+      "nome": "Base Líquida HD Una 30N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 30N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191621.jpg"
+    },
+    {
+      "sku": "191622",
+      "nome": "Base Líquida HD Una 31N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 31N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191622.jpg"
+    },
+    {
+      "sku": "191623",
+      "nome": "Base Líquida HD Una 33Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 33Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191623.jpg"
+    },
+    {
+      "sku": "191624",
+      "nome": "Base Líquida HD Una 49N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 49N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191624.jpg"
+    },
+    {
+      "sku": "191625",
+      "nome": "Base Líquida HD Una 35N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 35N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191625.jpg"
+    },
+    {
+      "sku": "191627",
+      "nome": "Base Líquida HD Una 36Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 36Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191627.jpg"
+    },
+    {
+      "sku": "191628",
+      "nome": "Base Líquida HD Una 12F 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 12F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191628.jpg"
+    },
+    {
+      "sku": "191629",
+      "nome": "Base Líquida HD Una 40Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 40Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191629.jpg"
+    },
+    {
+      "sku": "191630",
+      "nome": "Base Líquida HD Una 43N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 43N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191630.jpg"
+    },
+    {
+      "sku": "191633",
+      "nome": "Base Líquida HD Una 48F 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 48F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191633.jpg"
+    },
+    {
+      "sku": "191634",
+      "nome": "Base Líquida HD Una 15Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 15Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191634.jpg"
+    },
+    {
+      "sku": "191635",
+      "nome": "Base Líquida HD Una 16F 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 16F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191635.jpg"
+    },
+    {
+      "sku": "191636",
+      "nome": "Base Líquida HD Una 19N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 19N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191636.jpg"
+    },
+    {
+      "sku": "191637",
+      "nome": "Base Líquida HD Una 20N 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 20N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191637.jpg"
+    },
+    {
+      "sku": "191638",
+      "nome": "Base Líquida HD Una 21Q 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 21Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191638.jpg"
+    },
+    {
+      "sku": "191639",
+      "nome": "Base Líquida HD Una 23F 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 23F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/191639.jpg"
+    },
+    {
+      "sku": "193846",
+      "nome": "Base Líquida HD Una 24F 30 ml",
+      "descricao": "Base líquida de alta cobertura e acabamento natural na tonalidade 24F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/193846.jpg"
+    }
+  ]
+}

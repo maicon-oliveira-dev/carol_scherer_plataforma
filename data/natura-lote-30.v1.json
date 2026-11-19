@@ -1,0 +1,132 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "173009",
+      "nome": "Desodorante Hidratante Corporal Perfumado Luna Intensa 200 g",
+      "descricao": "Hidratante corporal com a fragrância Luna Intensa.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/173009.jpg"
+    },
+    {
+      "sku": "110686",
+      "nome": "Desodorante Corporal Masculino Natura Homem 100 ml",
+      "descricao": "Desodorante em spray para a perfumação e a proteção contra o mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/110686.jpg"
+    },
+    {
+      "sku": "16623",
+      "nome": "Desodorante Corporal Masculino Kaiak Oceano 100 ml",
+      "descricao": "Desodorante corporal com a fragrância Kaiak Oceano Masculino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/16623.jpg"
+    },
+    {
+      "sku": "56747",
+      "nome": "Desodorante Corporal Masculino Kaiak 100 ml",
+      "descricao": "Desodorante corporal com a fragrância clássica Kaiak Masculino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/56747.jpg"
+    },
+    {
+      "sku": "85393",
+      "nome": "Desodorante Corporal Masculino Natura Sr. N 100 ml",
+      "descricao": "Desodorante corporal com a fragrância Natura Sr. N.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/85393.jpg"
+    },
+    {
+      "sku": "88454",
+      "nome": "Desodorante Corporal Masculino Natura Biografia 100 ml",
+      "descricao": "Desodorante corporal com a fragrância Biografia Masculino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/88454.jpg"
+    },
+    {
+      "sku": "172407",
+      "nome": "Óleo em Creme Ultranutritivo Restaurador Desodorante Corporal Tododia Jambo Rosa e Flor de Caju 200 ml",
+      "descricao": "Óleo em creme para nutrição corporal com fragrância de jambo rosa e flor de caju.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172407.jpg"
+    },
+    {
+      "sku": "172411",
+      "nome": "Manteiga Desodorante Corporal Uniformizadora de Tom Tododia Jambo Rosa e Flor de Caju 200 g",
+      "descricao": "Manteiga para hidratação e cuidado da uniformidade do tom da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/172411.jpg"
+    },
+    {
+      "sku": "205941",
+      "nome": "Creme Merengue para o Corpo Tododia Morango e Baunilha Dourada 250 g",
+      "descricao": "Creme corporal de textura merengue e fragrância adocicada floral.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/205941.jpg"
+    },
+    {
+      "sku": "203480",
+      "nome": "Creme Firmador para o Bumbum Ekos Cupuaçu 200 g",
+      "descricao": "Creme corporal da rotina de firmeza e cuidado do contorno do bumbum.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203480.jpg"
+    },
+    {
+      "sku": "69825",
+      "nome": "Polpa Esfoliante para o Corpo Ekos Castanha 200 g",
+      "descricao": "Polpa corporal de castanha para esfoliação, hidratação e renovação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/69825.jpg"
+    },
+    {
+      "sku": "123735",
+      "nome": "Bálsamo Concentrado para o Corpo Ekos Tukumã 200 g",
+      "descricao": "Bálsamo concentrado de hidratação corporal da linha Ekos Tukumã.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/123735.jpg"
+    },
+    {
+      "sku": "140682",
+      "nome": "Esfoliante em Pó para o Corpo Ekos Açaí 100 g",
+      "descricao": "Esfoliante em pó para a rotina de cuidado corporal da linha Açaí.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/140682.jpg"
+    },
+    {
+      "sku": "216697",
+      "nome": "Sérum Uniformizador para o Corpo Ekos Pitanga 200 g",
+      "descricao": "Sérum corporal da linha Pitanga para o cuidado com a uniformidade do tom da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/216697.jpg"
+    },
+    {
+      "sku": "178865",
+      "nome": "Gel Hidratante Pós-sol Natura Solar 120 g",
+      "descricao": "Gel corporal hidratante para o cuidado da pele após a exposição ao sol.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/178865.jpg"
+    },
+    {
+      "sku": "229386",
+      "nome": "Duo Bronze Sérum Ativador de Bronzeado Natura Solar 170 ml",
+      "descricao": "Sérum tonalizante para o corpo com efeito bronzeado gradual sem exposição ao sol.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/229386.jpg"
+    },
+    {
+      "sku": "189566",
+      "nome": "Creme Desodorante Corporal Perfumado Sève Amêndoas e Orquídea Negra 200 g",
+      "descricao": "Creme corporal perfumado com fragrância de amêndoas e orquídea negra.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189566.jpg"
+    },
+    {
+      "sku": "189568",
+      "nome": "Creme Desodorante Corporal Perfumado Sève Amêndoas Doces 200 g",
+      "descricao": "Creme corporal hidratante e perfumado com fragrância de amêndoas doces.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189568.jpg"
+    }
+  ]
+}
