@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "166326",
+      "nome": "Base Líquida Checkmatte Faces 32Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 32Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166326.jpg"
+    },
+    {
+      "sku": "166327",
+      "nome": "Base Líquida Checkmatte Faces 31N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 31N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166327.jpg"
+    },
+    {
+      "sku": "166329",
+      "nome": "Base Líquida Checkmatte Faces 19N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 19N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166329.jpg"
+    },
+    {
+      "sku": "166331",
+      "nome": "Base Líquida Checkmatte Faces 44N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 44N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166331.jpg"
+    },
+    {
+      "sku": "166332",
+      "nome": "Base Líquida Checkmatte Faces 12F 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 12F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166332.jpg"
+    },
+    {
+      "sku": "166333",
+      "nome": "Base Líquida Checkmatte Faces 27N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 27N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166333.jpg"
+    },
+    {
+      "sku": "166334",
+      "nome": "Base Líquida Checkmatte Faces 40Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 40Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166334.jpg"
+    },
+    {
+      "sku": "166335",
+      "nome": "Base Líquida Checkmatte Faces 16F 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 16F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166335.jpg"
+    },
+    {
+      "sku": "166336",
+      "nome": "Base Líquida Checkmatte Faces 43N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 43N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166336.jpg"
+    },
+    {
+      "sku": "166338",
+      "nome": "Base Líquida Checkmatte Faces 10N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 10N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166338.jpg"
+    },
+    {
+      "sku": "166339",
+      "nome": "Base Líquida Checkmatte Faces 46Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 46Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166339.jpg"
+    },
+    {
+      "sku": "166340",
+      "nome": "Base Líquida Checkmatte Faces 25Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 25Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166340.jpg"
+    },
+    {
+      "sku": "166341",
+      "nome": "Base Líquida Checkmatte Faces 15Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 15Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166341.jpg"
+    },
+    {
+      "sku": "166342",
+      "nome": "Base Líquida Checkmatte Faces 37Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 37Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166342.jpg"
+    },
+    {
+      "sku": "166343",
+      "nome": "Base Líquida Checkmatte Faces 30F 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 30F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166343.jpg"
+    },
+    {
+      "sku": "166345",
+      "nome": "Base Líquida Checkmatte Faces 21Q 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 21Q.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166345.jpg"
+    },
+    {
+      "sku": "166346",
+      "nome": "Base Líquida Checkmatte Faces 35N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 35N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166346.jpg"
+    },
+    {
+      "sku": "166347",
+      "nome": "Base Líquida Checkmatte Faces 33N 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 33N.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166347.jpg"
+    },
+    {
+      "sku": "166348",
+      "nome": "Base Líquida Checkmatte Faces 48F 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 48F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166348.jpg"
+    },
+    {
+      "sku": "166349",
+      "nome": "Base Líquida Checkmatte Faces 23F 25 ml",
+      "descricao": "Base líquida de cobertura média, acabamento matte e longa duração, na tonalidade 23F.",
+      "categoria": "Maquiagem",
+      "imagemOficial": "assets/images/catalogos/natura/166349.jpg"
+    }
+  ]
+}

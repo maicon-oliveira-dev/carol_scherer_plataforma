@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "247692",
+      "nome": "Creme Desodorante Hidratante Antiatrito Corporal Kaiak 21K 100 ml",
+      "descricao": "Creme corporal hidratante para áreas sujeitas ao atrito, resistente à água e ao suor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/247692.jpg"
+    },
+    {
+      "sku": "16870",
+      "nome": "Desodorante Hidratante Corporal Perfumado Essencial Feminino 200 g",
+      "descricao": "Hidratante corporal com a fragrância feminina da linha Essencial.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/16870.jpg"
+    },
+    {
+      "sku": "251885",
+      "nome": "Creme Aveludado Corporal Aura Alba Dourada 200 g",
+      "descricao": "Creme corporal perfumado com textura aveludada.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/251885.jpg"
+    },
+    {
+      "sku": "56744",
+      "nome": "Desodorante Corporal Humor Primeiro 100 ml",
+      "descricao": "Desodorante para perfumar e ajudar a proteger o corpo do mau odor da transpiração.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/56744.jpg"
+    },
+    {
+      "sku": "56754",
+      "nome": "Desodorante Corporal Kaiak Feminino 100 ml",
+      "descricao": "Desodorante corporal com a fragrância Kaiak Feminino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/56754.jpg"
+    },
+    {
+      "sku": "69200",
+      "nome": "Desodorante Corporal Luna Feminino 100 ml",
+      "descricao": "Desodorante corporal com a fragrância feminina clássica Luna.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/69200.jpg"
+    },
+    {
+      "sku": "88453",
+      "nome": "Desodorante Corporal Biografia Feminino 100 ml",
+      "descricao": "Desodorante corporal com a fragrância Biografia Feminino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/88453.jpg"
+    },
+    {
+      "sku": "83641",
+      "nome": "Sabonete Líquido Íntimo Suave Conforto Tododia 200 ml",
+      "descricao": "Sabonete líquido para limpeza íntima suave.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/83641.jpg"
+    },
+    {
+      "sku": "203478",
+      "nome": "Creme Desodorante Hidratante para o Corpo Ekos Cupuaçu 400 ml",
+      "descricao": "Creme de hidratação corporal da linha de firmeza e cuidado da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203478.jpg"
+    },
+    {
+      "sku": "204786",
+      "nome": "Creme Esfoliante para o Bumbum Ekos Cupuaçu 190 g",
+      "descricao": "Creme esfoliante para renovar a textura e deixar a pele macia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/204786.jpg"
+    },
+    {
+      "sku": "177404",
+      "nome": "Protetor Solar Bifásico Natura Solar FPS 30 / FPUVA 19 200 ml",
+      "descricao": "Protetor solar corporal bifásico com FPS 30.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/177404.jpg"
+    },
+    {
+      "sku": "189391",
+      "nome": "Desodorante Antitranspirante Roll-on Kaiak Feminino 75 ml",
+      "descricao": "Antitranspirante em roll-on com a fragrância Kaiak Feminino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189391.jpg"
+    },
+    {
+      "sku": "189393",
+      "nome": "Desodorante Antitranspirante Roll-on Kaiak Aventura Feminino 75 ml",
+      "descricao": "Antitranspirante em roll-on com a fragrância Kaiak Aventura Feminino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189393.jpg"
+    },
+    {
+      "sku": "248320",
+      "nome": "Desodorante Antitranspirante Roll-on Kaiak 21K Feminino 75 ml",
+      "descricao": "Antitranspirante em roll-on com a fragrância Kaiak 21K Feminino.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/248320.jpg"
+    },
+    {
+      "sku": "204445",
+      "nome": "Desodorante Roll-on Zero Alumínio Tododia 70 ml",
+      "descricao": "Desodorante em roll-on sem alumínio para proteger contra o mau odor.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/204445.jpg"
+    },
+    {
+      "sku": "181134",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Amora e Flor de Pêssego 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de amora e flor de pêssego.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/181134.jpg"
+    },
+    {
+      "sku": "189401",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Algodão 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de algodão.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189401.jpg"
+    },
+    {
+      "sku": "189404",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Amora Vermelha e Jabuticaba 70 ml",
+      "descricao": "Antitranspirante em roll-on com fragrância de amora vermelha e jabuticaba.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189404.jpg"
+    },
+    {
+      "sku": "189412",
+      "nome": "Desodorante Antitranspirante Roll-on Natura Erva Doce 70 ml",
+      "descricao": "Antitranspirante em roll-on com a fragrância clássica Erva Doce.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/189412.jpg"
+    },
+    {
+      "sku": "190850",
+      "nome": "Desodorante Antitranspirante Roll-on Tododia Pele Uniforme 70 ml",
+      "descricao": "Antitranspirante em roll-on da linha de cuidado Tododia Pele Uniforme.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/190850.jpg"
+    }
+  ]
+}

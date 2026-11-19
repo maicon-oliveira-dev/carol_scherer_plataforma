@@ -1,0 +1,90 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "250229",
+      "nome": "Perfume para Cabelos Natura Aura Alba 30 ml",
+      "descricao": "Perfume capilar com a fragrância Natura Aura Alba.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/250229.jpg"
+    },
+    {
+      "sku": "154872",
+      "nome": "Máscara Concentrada Cronocapilar Nutre Tododia Pêssego e Amêndoa 250 ml",
+      "descricao": "Máscara concentrada para a etapa de nutrição do cronograma capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154872.jpg"
+    },
+    {
+      "sku": "154875",
+      "nome": "Máscara Concentrada Cronocapilar Repara Tododia Flor de Cereja e Abacate 250 ml",
+      "descricao": "Máscara concentrada para a etapa de reparação do cronograma capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154875.jpg"
+    },
+    {
+      "sku": "154876",
+      "nome": "Condicionador Reparador Tododia Flor de Cereja e Abacate 280 ml",
+      "descricao": "Condicionador da rotina de reparação pós-química.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154876.jpg"
+    },
+    {
+      "sku": "155601",
+      "nome": "Shampoo Reparador Tododia Flor de Cereja e Abacate 300 ml",
+      "descricao": "Shampoo para limpeza dos fios na rotina de reparação pós-química.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/155601.jpg"
+    },
+    {
+      "sku": "156233",
+      "nome": "Creme para Pentear Reparador Tododia Flor de Cereja e Abacate 180 ml",
+      "descricao": "Creme para pentear da rotina de reparação pós-química.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/156233.jpg"
+    },
+    {
+      "sku": "156237",
+      "nome": "Creme para Pentear Nutritivo Tododia Pêssego e Amêndoa 180 ml",
+      "descricao": "Creme para pentear da rotina de nutrição, brilho e maciez.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/156237.jpg"
+    },
+    {
+      "sku": "173583",
+      "nome": "Spray Reativador para Cachos e Crespos Tododia Amora e Óleo de Coco 200 ml",
+      "descricao": "Spray finalizador para reativar a definição de cachos e crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/173583.jpg"
+    },
+    {
+      "sku": "173590",
+      "nome": "Gelatina para Cachos e Crespos Tododia Amora e Óleo de Coco 240 g",
+      "descricao": "Gelatina finalizadora para cabelos cacheados e crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/173590.jpg"
+    },
+    {
+      "sku": "174032",
+      "nome": "Essência para Cabelos Tododia Flor de Ameixa 60 ml",
+      "descricao": "Essência capilar com fragrância de flor de ameixa.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/174032.jpg"
+    },
+    {
+      "sku": "176406",
+      "nome": "Essência para Cabelos Tododia Cereja e Avelã 60 ml",
+      "descricao": "Essência capilar com fragrância de cereja e avelã.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/176406.jpg"
+    },
+    {
+      "sku": "112771",
+      "nome": "Máscara Reconstrutora Ekos Murumuru 200 g",
+      "descricao": "Máscara capilar para a rotina de reconstrução e cuidado com danos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/112771.jpg"
+    }
+  ]
+}
