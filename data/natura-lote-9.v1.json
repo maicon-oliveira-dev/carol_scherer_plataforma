@@ -1,0 +1,83 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "151018",
+      "nome": "Shampoo 2 em 1 Natura Homem 300 ml",
+      "descricao": "Shampoo que limpa e condiciona os fios sem pesar.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/151018.jpg"
+    },
+    {
+      "sku": "159952",
+      "nome": "Espuma de barbear Natura Homem 200 ml / 180 g",
+      "descricao": "Espuma para o barbear com sensação de frescor na pele.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/159952.jpg"
+    },
+    {
+      "sku": "160210",
+      "nome": "Shampoo anticaspa Natura Homem 300 ml",
+      "descricao": "Shampoo para a limpeza dos cabelos e o cuidado com a caspa visível.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/160210.jpg"
+    },
+    {
+      "sku": "151020",
+      "nome": "Desodorante hidratante corporal Natura Homem 300 ml",
+      "descricao": "Hidratante corporal de rápida absorção e toque seco.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/151020.jpg"
+    },
+    {
+      "sku": "204440",
+      "nome": "Desodorante roll-on Natura Homem Zero Alumínio 75 ml",
+      "descricao": "Desodorante masculino em roll-on sem alumínio, para proteção contra o mau odor.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/204440.jpg"
+    },
+    {
+      "sku": "150227",
+      "nome": "Desodorante antitranspirante roll-on Natura Homem Dom",
+      "descricao": "Antitranspirante masculino em roll-on com fragrância Natura Homem Dom.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/150227.jpg"
+    },
+    {
+      "sku": "150229",
+      "nome": "Desodorante antitranspirante roll-on Natura Homem Essence",
+      "descricao": "Antitranspirante masculino em roll-on com fragrância Natura Homem Essence.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/150229.jpg"
+    },
+    {
+      "sku": "189392",
+      "nome": "Desodorante antitranspirante roll-on Kaiak Aventura Masculino 75 ml",
+      "descricao": "Antitranspirante masculino em roll-on com fragrância Kaiak Aventura.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/189392.jpg"
+    },
+    {
+      "sku": "189398",
+      "nome": "Desodorante antitranspirante roll-on Kaiak Urbe Masculino 75 ml",
+      "descricao": "Antitranspirante masculino em roll-on com fragrância Kaiak Urbe.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/189398.jpg"
+    },
+    {
+      "sku": "247693",
+      "nome": "Desodorante antitranspirante roll-on Kaiak 21K Masculino 75 ml",
+      "descricao": "Antitranspirante masculino em roll-on com fragrância Kaiak 21K.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/247693.jpg"
+    },
+    {
+      "sku": "189390",
+      "nome": "Desodorante antitranspirante roll-on Kaiak Masculino 75 ml",
+      "descricao": "Antitranspirante masculino em roll-on com a fragrância clássica Kaiak.",
+      "categoria": "Cuidados Masculinos",
+      "imagemOficial": "assets/images/catalogos/natura/189390.jpg"
+    }
+  ]
+}
