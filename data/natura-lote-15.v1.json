@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "203379",
+      "nome": "Creme Desodorante Hidratante para o Corpo Ekos Castanha 200 ml",
+      "descricao": "Creme corporal de castanha para hidratar e nutrir a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203379.jpg"
+    },
+    {
+      "sku": "70403",
+      "nome": "Sabonete Líquido para Mãos Ekos Pitanga 250 ml",
+      "descricao": "Sabonete líquido para limpar e perfumar as mãos com pitanga.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70403.jpg"
+    },
+    {
+      "sku": "203476",
+      "nome": "Creme Hidratante para as Mãos Ekos Cupuaçu 75 g",
+      "descricao": "Creme de cupuaçu para hidratação e nutrição das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203476.jpg"
+    },
+    {
+      "sku": "69817",
+      "nome": "Creme Hidratante para os Pés Ekos Castanha 75 g",
+      "descricao": "Creme de castanha para hidratação e nutrição dos pés.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/69817.jpg"
+    },
+    {
+      "sku": "70983",
+      "nome": "Creme Hidratante para as Mãos Ekos Castanha 75 g",
+      "descricao": "Creme de castanha para o cuidado e a hidratação das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70983.jpg"
+    },
+    {
+      "sku": "230122",
+      "nome": "Óleo Monofásico Desodorante Corporal Ekos Baunilha Amazônica 200 ml",
+      "descricao": "Óleo monofásico para hidratar e perfumar a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/230122.jpg"
+    },
+    {
+      "sku": "110650",
+      "nome": "Óleo Trifásico Desodorante Corporal Ekos Açaí 200 ml",
+      "descricao": "Óleo trifásico corporal de açaí da linha de cuidado com o brilho da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/110650.jpg"
+    },
+    {
+      "sku": "174594",
+      "nome": "Creme Desodorante Hidratante Iluminador para o Corpo Ekos Açaí 250 ml",
+      "descricao": "Creme corporal que hidrata e dá luminosidade à pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/174594.jpg"
+    },
+    {
+      "sku": "203398",
+      "nome": "Creme Desodorante Hidratante para o Corpo Ekos Açaí 400 ml",
+      "descricao": "Creme corporal hidratante da linha Ekos Açaí.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203398.jpg"
+    },
+    {
+      "sku": "212716",
+      "nome": "Creme Hidratante para as Mãos Ekos Pitanga 75 g",
+      "descricao": "Creme para hidratar e perfumar as mãos com pitanga.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/212716.jpg"
+    },
+    {
+      "sku": "213690",
+      "nome": "Creme Desodorante Hidratante para o Corpo Ekos Pitanga 400 ml",
+      "descricao": "Creme corporal que hidrata e perfuma a pele com pitanga.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/213690.jpg"
+    },
+    {
+      "sku": "226557",
+      "nome": "Óleo Trifásico Desodorante Corporal Ekos Pitanga 200 ml",
+      "descricao": "Óleo trifásico para o cuidado e a perfumação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/226557.jpg"
+    },
+    {
+      "sku": "70407",
+      "nome": "Sabonete Líquido para o Corpo Ekos Pitanga 195 ml",
+      "descricao": "Sabonete líquido para limpar e perfumar a pele no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70407.jpg"
+    },
+    {
+      "sku": "70409",
+      "nome": "Sabonete Líquido Esfoliante para o Corpo Ekos Pitanga 185 ml",
+      "descricao": "Sabonete líquido para limpeza e esfoliação corporal.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70409.jpg"
+    },
+    {
+      "sku": "97261",
+      "nome": "Sabonete Líquido Esfoliante para o Corpo Ekos Açaí 185 ml",
+      "descricao": "Sabonete líquido de açaí para limpeza e esfoliação corporal.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97261.jpg"
+    },
+    {
+      "sku": "97269",
+      "nome": "Creme Hidratante para as Mãos Ekos Açaí 75 g",
+      "descricao": "Creme hidratante de açaí para o cuidado das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97269.jpg"
+    },
+    {
+      "sku": "19081",
+      "nome": "Óleo Desodorante Corporal Sève Amêndoas Doces 200 ml",
+      "descricao": "Óleo corporal com fragrância de amêndoas doces.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/19081.jpg"
+    },
+    {
+      "sku": "20214",
+      "nome": "Óleo Desodorante Corporal Sève Pimenta Rosa 200 ml",
+      "descricao": "Óleo corporal com fragrância de pimenta rosa.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/20214.jpg"
+    },
+    {
+      "sku": "38854",
+      "nome": "Óleo Desodorante Corporal Sève Amêndoas Doces Intensa 200 ml",
+      "descricao": "Óleo corporal da variante Amêndoas Doces Intensa.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/38854.jpg"
+    },
+    {
+      "sku": "26441",
+      "nome": "Sabonete Cremoso para as Mãos Natura Erva Doce 250 ml",
+      "descricao": "Sabonete cremoso para limpeza das mãos com a fragrância clássica Erva Doce.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/26441.jpg"
+    }
+  ]
+}

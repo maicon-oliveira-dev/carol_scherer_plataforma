@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "147401",
+      "nome": "Condicionador Suave Antioleosidade Lumina 300 ml",
+      "descricao": "Condicionador suave da rotina de cuidado com a oleosidade do couro cabeludo.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147401.jpg"
+    },
+    {
+      "sku": "147449",
+      "nome": "Shampoo Equilibrante Antioleosidade Lumina 300 ml",
+      "descricao": "Shampoo para limpeza e equilíbrio da oleosidade do couro cabeludo.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147449.jpg"
+    },
+    {
+      "sku": "148419",
+      "nome": "Spray Umidificador Reativador Lumina 150 ml",
+      "descricao": "Spray para reativar a definição dos cabelos cacheados e crespos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148419.jpg"
+    },
+    {
+      "sku": "147404",
+      "nome": "Shampoo Detox Lumina 300 ml",
+      "descricao": "Shampoo para limpeza profunda e preparação dos fios para o tratamento.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147404.jpg"
+    },
+    {
+      "sku": "147420",
+      "nome": "Shampoo Reequilibrante Anticaspa Lumina 300 ml",
+      "descricao": "Shampoo da rotina anticaspa para limpar sem ressecar os fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147420.jpg"
+    },
+    {
+      "sku": "147457",
+      "nome": "Tônico de Tratamento Intensivo Anticaspa Lumina 100 ml",
+      "descricao": "Tônico capilar da rotina de cuidado intensivo anticaspa.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147457.jpg"
+    },
+    {
+      "sku": "148167",
+      "nome": "Essência Finalizadora para Cabelos Lumina 30 ml",
+      "descricao": "Essência finalizadora para a rotina de acabamento dos cabelos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148167.jpg"
+    },
+    {
+      "sku": "148459",
+      "nome": "Protetor Térmico Lumina 150 ml",
+      "descricao": "Protetor térmico para finalização e cuidado antifrizz.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148459.jpg"
+    },
+    {
+      "sku": "171367",
+      "nome": "Essência Sublime Lumina 30 ml",
+      "descricao": "Essência capilar da linha de finalizadores Lumina.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/171367.jpg"
+    },
+    {
+      "sku": "221578",
+      "nome": "Leave-in Liso + Liso Tododia Framboesa e Jojoba 110 ml",
+      "descricao": "Finalizador sem enxágue para alinhar os fios e prolongar o efeito liso.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/221578.jpg"
+    },
+    {
+      "sku": "221580",
+      "nome": "Condicionador Liso + Liso Tododia Framboesa e Jojoba 280 ml",
+      "descricao": "Condicionador da rotina Liso + Liso para alinhamento e brilho.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/221580.jpg"
+    },
+    {
+      "sku": "221581",
+      "nome": "Shampoo Liso + Liso Tododia Framboesa e Jojoba 300 ml",
+      "descricao": "Shampoo para a limpeza dos fios na rotina de alinhamento Liso + Liso.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/221581.jpg"
+    },
+    {
+      "sku": "154866",
+      "nome": "Shampoo Hidratante Tododia Maçã Verde e Aloe Vera 300 ml",
+      "descricao": "Shampoo para limpar e equilibrar os fios na rotina hidratante.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154866.jpg"
+    },
+    {
+      "sku": "154873",
+      "nome": "Condicionador Hidratante Tododia Maçã Verde e Aloe Vera 280 ml",
+      "descricao": "Condicionador para hidratar e devolver maciez aos fios sem pesar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154873.jpg"
+    },
+    {
+      "sku": "156235",
+      "nome": "Spray Hidratante Tododia Maçã Verde e Aloe Vera 200 ml",
+      "descricao": "Spray hidratante com ação antifrizz para fios mais soltos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/156235.jpg"
+    },
+    {
+      "sku": "154869",
+      "nome": "Shampoo Nutritivo Tododia Pêssego e Amêndoa 300 ml",
+      "descricao": "Shampoo da rotina de nutrição com brilho e maciez.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154869.jpg"
+    },
+    {
+      "sku": "154870",
+      "nome": "Condicionador Nutritivo Tododia Pêssego e Amêndoa 280 ml",
+      "descricao": "Condicionador para nutrir os fios e melhorar a maciez.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154870.jpg"
+    },
+    {
+      "sku": "154871",
+      "nome": "Máscara Concentrada Cronocapilar Hidrata Tododia 250 ml",
+      "descricao": "Máscara concentrada para a etapa de hidratação do cronograma capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/154871.jpg"
+    },
+    {
+      "sku": "196324",
+      "nome": "Shampoo Detox Tododia Chá de Hortelã e Gengibre 300 ml",
+      "descricao": "Shampoo detox da rotina de equilíbrio e controle da oleosidade.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/196324.jpg"
+    },
+    {
+      "sku": "196328",
+      "nome": "Condicionador Detox Tododia Chá de Hortelã e Gengibre 280 ml",
+      "descricao": "Condicionador da rotina detox para o cuidado dos fios e o equilíbrio da oleosidade.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/196328.jpg"
+    }
+  ]
+}
