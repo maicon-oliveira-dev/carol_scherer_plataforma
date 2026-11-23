@@ -40,9 +40,6 @@
     return;
   }
 
-  const grid = document.querySelector("#natura-products");
-  const count = document.querySelector("#brand-count");
-  const notice = document.querySelector("#brand-empty");
   const root = new URL("../../", document.currentScript.src);
   const manifestPaths = [
     "data/natura-piloto.v1.json",
@@ -91,67 +88,64 @@
     "data/natura-refis.v1.json"
   ];
 
-  function element(tag, className, text) {
-    const node = document.createElement(tag);
-    node.className = className;
-    if (text !== undefined) node.textContent = text;
-    return node;
-  }
+  // SKUs de público comprovado na auditoria, sem os presentes legados.
+  const auditedAudiences = {
+    feminino: [
+      "88453", "16870", "56763", "56754", "189391", "189393", "248320", "69200", "95638", "95643",
+      "95644", "71600", "73569", "73562", "73563", "73564", "73565", "199392", "250231", "103349",
+      "76421", "76423", "167756", "27264", "17049", "18887", "76425", "165813", "214410", "86727",
+      "131462", "54522", "122470", "102419", "83314", "173020", "108410", "108407", "108408", "236375",
+      "68943", "41795", "68944", "86935", "2550", "56417", "204451", "44452", "171364", "128615",
+      "232063", "2458", "2446",
+    ],
+    masculino: [
+      "88454", "56948", "16623", "56747", "110686", "85393", "189392", "189398", "247693", "189390",
+      "248628", "151018", "159952", "160210", "151020", "204440", "150227", "150229", "150225", "201466",
+      "160273", "151019", "152331", "152277", "151021", "151022", "71601", "103348", "76420", "95560",
+      "76422", "165811", "167755", "27263", "17052", "18888", "76424", "214411", "86725", "86728",
+      "95949", "131465", "72468", "155607", "108405", "108402", "108401", "108400", "108403", "228528",
+      "89834", "176285", "53255", "81951", "71770", "201463", "59847", "57525", "30410",
+    ],
+  };
+  const audienceBySku = new Map(Object.entries(auditedAudiences)
+    .flatMap(([audience, skus]) => skus.map((sku) => [sku, audience])));
 
-  async function card(product) {
-    const image = new Image();
-    image.alt = product.nome;
-    image.src = new URL(product.imagemOficial, root).href;
-    await image.decode();
-
-    const article = element("article", "favorite-card");
-    article.dataset.brand = "Natura";
-    const picture = element("div", "favorite-image");
-    picture.append(image);
-
-    const body = element("div", "favorite-body");
-    const contact = element("a", "favorite-link", "Consultar com a Carol ↗");
-    const message = ["Olá, Carol! Tenho interesse neste produto:", "", `Produto: ${product.nome}`];
-    if (product.sku) message.push(`Código: ${product.sku}`);
-    contact.href = "https://wa.me/5547997854773?text=" + encodeURIComponent(message.join("\n"));
-    body.append(
-      element("h3", "", product.nome),
-      element("p", "favorite-category", product.categoria),
-      element("p", "product-details", `SKU: ${product.sku}`),
-      element("p", "product-description", product.descricao),
-      contact
-    );
-    article.append(picture, body);
-    return article;
-  }
-
-  async function appendBatch(path, seen) {
+  async function fetchManifest(path) {
     const response = await fetch(new URL(path, root), { cache: "no-cache" });
     if (!response.ok) throw new Error(`Manifesto Natura indisponivel (HTTP ${response.status}).`);
-
-    const batchSeen = new Set(seen);
-    const products = validate(await response.json(), batchSeen);
-    if (products.length) {
-      const cards = await Promise.all(products.map(card));
-      grid.append(...cards);
-      count.textContent = `${grid.childElementCount} produtos exibidos`;
-      notice.hidden = true;
-    }
-    return batchSeen;
+    return response.json();
   }
 
-  async function render() {
+  async function load() {
+    const manifests = await Promise.allSettled(manifestPaths.map(fetchManifest));
+    const products = [];
     let seen = new Set();
-    for (const path of manifestPaths) {
+
+    manifests.forEach((result, index) => {
+      const path = manifestPaths[index];
       try {
-        seen = await appendBatch(path, seen);
+        if (result.status === "rejected") throw result.reason;
+        const batchSeen = new Set(seen);
+        const batch = validate(result.value, batchSeen);
+        if (!batch.length) return;
+        const presentation = path === "data/natura-refis.v1.json" ? "Refil" : "Produto regular";
+        products.push(...batch.map((product) => ({
+          brand: "Natura",
+          code: product.sku,
+          audience: audienceBySku.get(product.sku),
+          name: product.nome,
+          category: product.categoria,
+          shortDescription: product.descricao,
+          image: product.imagemOficial,
+          presentation,
+        })));
+        seen = batchSeen;
       } catch (error) {
         console.error(`Catalogo Natura: falha no manifesto ${path}`, error);
       }
-    }
+    });
+    return products;
   }
 
-  render().catch((error) => {
-    console.error("Catalogo Natura:", error);
-  });
+  window.loadNaturaCatalog = load;
 })();

@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "103348",
+      "nome": "Deo Parfum Natura Essencial Único Masculino 90 ml",
+      "descricao": "Deo parfum masculino de 90 ml com fragrância amadeirada intensa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/103348.jpg"
+    },
+    {
+      "sku": "76420",
+      "nome": "Deo Parfum Natura Essencial Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada aromática.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76420.jpg"
+    },
+    {
+      "sku": "95560",
+      "nome": "Deo Parfum Natura Essencial Supreme Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada ambarada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/95560.jpg"
+    },
+    {
+      "sku": "76422",
+      "nome": "Deo Parfum Natura Essencial Exclusivo Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76422.jpg"
+    },
+    {
+      "sku": "165811",
+      "nome": "Deo Parfum Natura Essencial Atrai Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/165811.jpg"
+    },
+    {
+      "sku": "167755",
+      "nome": "Deo Parfum Natura Essencial Sentir Masculino 100 ml",
+      "descricao": "Deo parfum masculino de 100 ml com fragrância amadeirada aromática, com sândalo e piper.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/167755.jpg"
+    },
+    {
+      "sku": "89834",
+      "nome": "Deo Parfum Natura Homem Cor.agio 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância amadeirada ambarada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/89834.jpg"
+    },
+    {
+      "sku": "176285",
+      "nome": "Deo Parfum Natura Homem Evolut.io 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância amadeirada ambarada adocicada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/176285.jpg"
+    },
+    {
+      "sku": "53255",
+      "nome": "Desodorante Colônia Natura Homem 100 ml",
+      "descricao": "Desodorante colônia de 100 ml com fragrância amadeirada aromática cítrica.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/53255.jpg"
+    },
+    {
+      "sku": "81951",
+      "nome": "Deo Parfum Natura Homem Sagaz 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância amadeirada adocicada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/81951.jpg"
+    },
+    {
+      "sku": "71770",
+      "nome": "Deo Parfum Natura Homem Dom 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância adocicada amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/71770.jpg"
+    },
+    {
+      "sku": "201463",
+      "nome": "Deo Parfum Natura Homem Identidad 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância amadeirada frutal.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/201463.jpg"
+    },
+    {
+      "sku": "201466",
+      "nome": "Body Spray Natura Homem Identidad Corpo e Cabelo 200 ml",
+      "descricao": "Body spray de 200 ml da linha Natura Homem Identidad para perfumar corpo e cabelo.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/201466.jpg"
+    },
+    {
+      "sku": "59847",
+      "nome": "Deo Parfum Natura Homem Essence 100 ml",
+      "descricao": "Deo parfum de 100 ml com fragrância amadeirada ambarada especiada, com cedro, patchouli e cacau.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/59847.jpg"
+    },
+    {
+      "sku": "160273",
+      "nome": "Sabonete Facial Esfoliante Natura Homem 75 ml",
+      "descricao": "Sabonete facial esfoliante de 75 ml que ajuda a remover o excesso de oleosidade da pele.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/160273.jpg"
+    },
+    {
+      "sku": "151019",
+      "nome": "Multicorretor Antissinais Natura Homem 40 g",
+      "descricao": "Multicorretor de 40 g para o cuidado de rugas e linhas de expressão.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/151019.jpg"
+    },
+    {
+      "sku": "152331",
+      "nome": "Óleo para Barba Natura Homem 30 ml",
+      "descricao": "Óleo de 30 ml para hidratar e amaciar a barba.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/152331.jpg"
+    },
+    {
+      "sku": "152277",
+      "nome": "Gel para Barbear Natura Homem 75 g",
+      "descricao": "Gel translúcido de 75 g que facilita o desenho da barba.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/152277.jpg"
+    },
+    {
+      "sku": "151021",
+      "nome": "Creme para Barbear Multifuncional Natura Homem 75 ml",
+      "descricao": "Creme multifuncional de 75 ml que ajuda a reduzir a irritação durante o barbear.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/151021.jpg"
+    },
+    {
+      "sku": "151022",
+      "nome": "Balm Pós-Barba Multifuncional Natura Homem 75 ml",
+      "descricao": "Balm de 75 ml que hidrata, acalma e revitaliza a pele após o barbear.",
+      "categoria": "Cuidados pessoais",
+      "imagemOficial": "assets/images/catalogos/natura/151022.jpg"
+    }
+  ]
+}

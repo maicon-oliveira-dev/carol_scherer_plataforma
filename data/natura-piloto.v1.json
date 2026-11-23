@@ -1,166 +1,146 @@
 {
   "versao": 1,
-  "ativo": true,
+  "ativo": false,
   "produtos": [
     {
       "sku": "264620",
       "nome": "Presente Natura Essencial Sentir Intenso Masculino",
       "categoria": "Presentes",
       "descricao": "Deo parfum masculino 100 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264620.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264620?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264620.jpg"
     },
     {
       "sku": "264652",
       "nome": "Presente Natura Essencial Sentir Intenso Masculino com Miniatura",
       "categoria": "Presentes",
       "descricao": "Deo parfum masculino 100 ml, miniatura de 25 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264652.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264652?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264652.jpg"
     },
     {
       "sku": "265500",
       "nome": "Presente Natura Essencial Sentir Intenso Feminino",
       "categoria": "Presentes",
       "descricao": "Deo parfum feminino 100 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/265500.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-265500?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/265500.jpg"
     },
     {
       "sku": "264624",
       "nome": "Presente Natura Essencial Sentir Intenso Feminino com Miniatura",
       "categoria": "Presentes",
       "descricao": "Deo parfum feminino 100 ml, miniatura de 25 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264624.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264624?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264624.jpg"
     },
     {
       "sku": "230825",
       "nome": "Presente Natura Ekos Sabonetes",
       "categoria": "Presentes",
       "descricao": "Caixa com quatro sabonetes em barra puro vegetal de 100 g: castanha, maracujá, açaí e tukumã.",
-      "imagemOficial": "assets/images/catalogos/natura/230825.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-230825?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/230825.jpg"
     },
     {
       "sku": "264741",
       "nome": "Presente Natura Tododia Flor de Pera e Melissa",
       "categoria": "Presentes",
       "descricao": "Body splash 200 ml, creme nutritivo corporal 400 ml, caixa com cinco sabonetes e envelope de presente.",
-      "imagemOficial": "assets/images/catalogos/natura/264741.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264741?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264741.jpg"
     },
     {
       "sku": "241041",
       "nome": "Presente Natura Aura Alba",
       "categoria": "Presentes",
       "descricao": "Deo parfum 75 ml, perfume para cabelos 30 ml e caixa especial presenteável.",
-      "imagemOficial": "assets/images/catalogos/natura/241041.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-241041?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/241041.jpg"
     },
     {
       "sku": "241297",
       "nome": "Presente Natura Homem",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia 100 ml, shampoo 2 em 1 100 ml, desodorante corporal 100 ml e caixa especial presenteável.",
-      "imagemOficial": "assets/images/catalogos/natura/241297.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-241297?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/241297.jpg"
     },
     {
       "sku": "264656",
       "nome": "Presente Natura Luna Radiante",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia feminino 75 ml, óleo corporal 150 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264656.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264656?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264656.jpg"
     },
     {
       "sku": "274242",
       "nome": "Presente Natura Tododia Macadâmia",
       "categoria": "Presentes",
       "descricao": "Body splash feminino 200 ml, caixa com cinco sabonetes e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/274242.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-274242?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/274242.jpg"
     },
     {
       "sku": "264641",
       "nome": "Presente Natura Essencial Safran Feminino",
       "categoria": "Presentes",
       "descricao": "Deo parfum feminino 100 ml, sabonete líquido corporal iluminador 100 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264641.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264641?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264641.jpg"
     },
     {
       "sku": "264615",
       "nome": "Presente Natura Essencial Safran Masculino",
       "categoria": "Presentes",
       "descricao": "Deo parfum masculino 100 ml, hidratante corporal perfumado 125 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264615.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264615?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264615.jpg"
     },
     {
       "sku": "241302",
       "nome": "Presente Natura Essencial Masculino",
       "categoria": "Presentes",
       "descricao": "Deo parfum masculino 100 ml, desodorante corporal 100 ml, shower gel 100 g, nécessaire e caixa especial.",
-      "imagemOficial": "assets/images/catalogos/natura/241302.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-241302?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/241302.jpg"
     },
     {
       "sku": "241300",
       "nome": "Presente Natura Essencial Feminino",
       "categoria": "Presentes",
       "descricao": "Deo parfum feminino, desodorante corporal 100 ml, creme para mãos 40 g, clutch e caixa especial.",
-      "imagemOficial": "assets/images/catalogos/natura/241300.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-241300?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/241300.jpg"
     },
     {
       "sku": "264612",
       "nome": "Presente Natura Humor Elevado",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia 75 ml, calda hidratante corporal 120 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264612.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264612?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264612.jpg"
     },
     {
       "sku": "264662",
       "nome": "Presente Natura Ekos Baunilha Amazônica",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia frescor 150 ml, creme corporal 400 ml e envelope de presente Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264662.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264662?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264662.jpg"
     },
     {
       "sku": "264746",
       "nome": "Presente Natura Kaiak Aventura Feminino",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia 100 ml, creme hidratante refrescante 390 ml e sacola de presente P Natal Natura.",
-      "imagemOficial": "assets/images/catalogos/natura/264746.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264746?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264746.jpg"
     },
     {
       "sku": "264718",
       "nome": "Presente Natura Kaiak Urbe Masculino",
       "categoria": "Presentes",
       "descricao": "Desodorante colônia 100 ml, miniatura 25 ml, shampoo cabelo e corpo 100 ml e sacola de presente.",
-      "imagemOficial": "assets/images/catalogos/natura/264718.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-264718?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/264718.jpg"
     },
     {
       "sku": "233613",
       "nome": "Presente Natura Tododia Miniaturas",
       "categoria": "Presentes",
       "descricao": "Body splash 60 ml, sabonete líquido em gel 80 g, creme nutritivo 80 ml e caixa especial presenteável.",
-      "imagemOficial": "assets/images/catalogos/natura/233613.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-233613?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/233613.jpg"
     },
     {
       "sku": "241299",
       "nome": "Presente Natura Mamãe e Bebê Miniaturas",
       "categoria": "Presentes",
       "descricao": "Água de colônia sem álcool 50 ml, sabonete líquido 50 ml, hidratante 50 ml e caixa especial presenteável.",
-      "imagemOficial": "assets/images/catalogos/natura/241299.jpg",
-      "linkLojaCarol": "https://www.minhaloja.natura.com/p/produto/NATBRA-241299?consultoria=carolinescherer"
+      "imagemOficial": "assets/images/catalogos/natura/241299.jpg"
     }
   ]
 }

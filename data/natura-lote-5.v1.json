@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "86013",
+      "nome": "Sabonete líquido em gel Tododia Alecrim e Sálvia 290 g/300 ml",
+      "descricao": "Gel de banho que limpa delicadamente e perfuma a pele com alecrim e sálvia.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/86013.jpg"
+    },
+    {
+      "sku": "113404",
+      "nome": "Sabonete líquido cremoso para o corpo Tododia Macadâmia 300 ml",
+      "descricao": "Sabonete cremoso para limpeza delicada e perfumação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/113404.jpg"
+    },
+    {
+      "sku": "203401",
+      "nome": "Creme desodorante hidratante para o corpo Ekos Castanha 400 ml",
+      "descricao": "Creme corporal de hidratação intensiva com castanha, para nutrir a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203401.jpg"
+    },
+    {
+      "sku": "174338",
+      "nome": "Óleo trifásico desodorante corporal Ekos Castanha 200 ml",
+      "descricao": "Óleo corporal trifásico de castanha para hidratação e cuidado da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/174338.jpg"
+    },
+    {
+      "sku": "95133",
+      "nome": "Creme hidratante para as mãos Ekos Castanha 40 g",
+      "descricao": "Creme de castanha para hidratar e nutrir as mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/95133.jpg"
+    },
+    {
+      "sku": "216416",
+      "nome": "Creme desodorante hidratante para o corpo Ekos Baunilha Amazônica 400 ml",
+      "descricao": "Creme corporal de hidratação intensiva com perfumação de baunilha amazônica.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/216416.jpg"
+    },
+    {
+      "sku": "216412",
+      "nome": "Creme hidratante para as mãos Ekos Baunilha Amazônica 75 g",
+      "descricao": "Creme para hidratar e perfumar as mãos com baunilha amazônica.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/216412.jpg"
+    },
+    {
+      "sku": "203390",
+      "nome": "Creme desodorante hidratante para o corpo Ekos Tukumã 400 ml",
+      "descricao": "Hidratante corporal de tukumã da linha de cuidado com a firmeza e os sinais da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203390.jpg"
+    },
+    {
+      "sku": "19904",
+      "nome": "Creme hidratante para as mãos Ekos Tukumã 75 g",
+      "descricao": "Creme hidratante de tukumã para o cuidado das mãos.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/19904.jpg"
+    },
+    {
+      "sku": "162090",
+      "nome": "Esfoliante térmico relaxante Ekos Andiroba 100 g",
+      "descricao": "Esfoliante corporal de andiroba para uma massagem relaxante durante o cuidado com a pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/162090.jpg"
+    },
+    {
+      "sku": "97427",
+      "nome": "Óleo trifásico desodorante corporal Ekos Andiroba 200 ml",
+      "descricao": "Óleo corporal trifásico de andiroba para o ritual de cuidado e perfumação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97427.jpg"
+    },
+    {
+      "sku": "163709",
+      "nome": "Polpa desodorante hidratante para o corpo Ekos Andiroba 400 ml",
+      "descricao": "Polpa de andiroba para hidratação corporal, em frasco de 400 ml.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/163709.jpg"
+    },
+    {
+      "sku": "166359",
+      "nome": "Polpa desodorante hidratante para o corpo Ekos Andiroba 200 ml",
+      "descricao": "Polpa de andiroba para hidratação corporal, em bisnaga de 200 ml.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/166359.jpg"
+    },
+    {
+      "sku": "73214",
+      "nome": "Fluido de massagem para o corpo Ekos Andiroba 100 g",
+      "descricao": "Fluido corporal de andiroba para massagem e cuidado relaxante da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/73214.jpg"
+    },
+    {
+      "sku": "97428",
+      "nome": "Óleo trifásico desodorante corporal Ekos Maracujá 200 ml",
+      "descricao": "Óleo corporal trifásico de maracujá para cuidado e perfumação da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/97428.jpg"
+    },
+    {
+      "sku": "95035",
+      "nome": "Fluido de massagem para o corpo Ekos Maracujá 100 g",
+      "descricao": "Fluido corporal de maracujá para massagem e cuidado da pele.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/95035.jpg"
+    },
+    {
+      "sku": "70405",
+      "nome": "Sabonete líquido esfoliante para o corpo Ekos Maracujá 185 ml",
+      "descricao": "Sabonete líquido de maracujá que limpa e esfolia a pele no banho.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70405.jpg"
+    },
+    {
+      "sku": "203382",
+      "nome": "Creme desodorante hidratante para o corpo Ekos Maracujá 200 ml",
+      "descricao": "Hidratante corporal de maracujá da linha dermocalmante, em bisnaga de 200 ml.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203382.jpg"
+    },
+    {
+      "sku": "203383",
+      "nome": "Creme desodorante hidratante para o corpo Ekos Maracujá 400 ml",
+      "descricao": "Hidratante corporal de maracujá da linha dermocalmante, em frasco de 400 ml.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/203383.jpg"
+    },
+    {
+      "sku": "70410",
+      "nome": "Sabonete líquido para o corpo Ekos Maracujá 195 ml",
+      "descricao": "Sabonete líquido corporal para limpar e perfumar a pele com maracujá.",
+      "categoria": "Corpo e Banho",
+      "imagemOficial": "assets/images/catalogos/natura/70410.jpg"
+    }
+  ]
+}

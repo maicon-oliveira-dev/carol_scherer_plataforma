@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "148433",
+      "nome": "Condicionador protetor da cor Lumina 300 ml",
+      "descricao": "Condiciona cabelos opacos ou coloridos, com foco em brilho e proteção da cor.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148433.jpg"
+    },
+    {
+      "sku": "148176",
+      "nome": "Shampoo revitalizante Lumina 300 ml",
+      "descricao": "Limpa cabelos opacos ou coloridos e integra a rotina de brilho e proteção da cor.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148176.jpg"
+    },
+    {
+      "sku": "148410",
+      "nome": "Máscara de blindagem Lumina 220 ml",
+      "descricao": "Tratamento intensivo para brilho e cuidado da cor em cabelos opacos ou coloridos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148410.jpg"
+    },
+    {
+      "sku": "148449",
+      "nome": "Spray antidesbotamento e brilho Lumina 150 ml",
+      "descricao": "Finalizador em spray para brilho e cuidado da cor em cabelos coloridos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148449.jpg"
+    },
+    {
+      "sku": "148412",
+      "nome": "Máscara regeneradora Lumina 250 ml",
+      "descricao": "Tratamento reconstrutor para cabelos quimicamente danificados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148412.jpg"
+    },
+    {
+      "sku": "148421",
+      "nome": "Sérum regenerador progressivo Lumina 100 ml",
+      "descricao": "Sérum de tratamento para a rotina de reconstrução de cabelos quimicamente danificados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148421.jpg"
+    },
+    {
+      "sku": "148170",
+      "nome": "Shampoo reestruturante Lumina 300 ml",
+      "descricao": "Limpa os fios e prepara cabelos quimicamente danificados para o tratamento reconstrutor.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148170.jpg"
+    },
+    {
+      "sku": "148442",
+      "nome": "Condicionador provitalidade Lumina 300 ml",
+      "descricao": "Condiciona cabelos quimicamente danificados como parte da rotina de reconstrução.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148442.jpg"
+    },
+    {
+      "sku": "147439",
+      "nome": "Óleo leve reparador Lumina 100 ml",
+      "descricao": "Óleo capilar para nutrir e cuidar de fios ressecados e pontas duplas.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147439.jpg"
+    },
+    {
+      "sku": "147418",
+      "nome": "Máscara reparadora Lumina 250 ml",
+      "descricao": "Tratamento de nutrição e reparação para cabelos ressecados e com pontas duplas.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147418.jpg"
+    },
+    {
+      "sku": "147453",
+      "nome": "Creme de pentear selador de cutículas Lumina 250 ml",
+      "descricao": "Creme de pentear para nutrir e ajudar a selar as cutículas de fios ressecados.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147453.jpg"
+    },
+    {
+      "sku": "147411",
+      "nome": "Shampoo nutritivo Lumina 300 ml",
+      "descricao": "Limpa os cabelos ressecados e integra a rotina de nutrição e reparação.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147411.jpg"
+    },
+    {
+      "sku": "147440",
+      "nome": "Condicionador polinutrição Lumina 300 ml",
+      "descricao": "Condiciona e nutre os fios ressecados e com pontas duplas.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/147440.jpg"
+    },
+    {
+      "sku": "176398",
+      "nome": "Leave-in densificador antissinais Lumina 150 ml",
+      "descricao": "Finalizador sem enxágue da linha antissinais, com foco na densidade dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/176398.jpg"
+    },
+    {
+      "sku": "174206",
+      "nome": "Shampoo de tratamento antissinais Lumina 300 ml",
+      "descricao": "Shampoo de limpeza e tratamento da linha antissinais capilar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/174206.jpg"
+    },
+    {
+      "sku": "176050",
+      "nome": "Sérum de prevenção antissinais Lumina 100 ml",
+      "descricao": "Sérum da rotina antissinais voltado ao cuidado do couro cabeludo e dos fios.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/176050.jpg"
+    },
+    {
+      "sku": "174212",
+      "nome": "Condicionador antissinais Lumina 300 ml",
+      "descricao": "Condicionador da linha antissinais para hidratar os fios sem pesar.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/174212.jpg"
+    },
+    {
+      "sku": "174196",
+      "nome": "Máscara antissinais Lumina 250 ml",
+      "descricao": "Máscara de tratamento para complementar a rotina de cuidado capilar antissinais.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/174196.jpg"
+    },
+    {
+      "sku": "148450",
+      "nome": "Leave-in matizador Lumina 150 ml",
+      "descricao": "Finalizador sem enxágue para matização e cuidado de cabelos loiros ou grisalhos.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148450.jpg"
+    },
+    {
+      "sku": "148158",
+      "nome": "Shampoo matizador Lumina 300 ml",
+      "descricao": "Limpa cabelos loiros ou grisalhos e integra a rotina de matização progressiva.",
+      "categoria": "Cabelos",
+      "imagemOficial": "assets/images/catalogos/natura/148158.jpg"
+    }
+  ]
+}

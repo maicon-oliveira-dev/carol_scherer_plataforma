@@ -1,5 +1,290 @@
 # Auditoria técnica do catálogo Carol Scherer
 
+## Retirada dos 20 presentes legados Natura
+
+O piloto `data/natura-piloto.v1.json` foi desativado com `"ativo": false`. A lista de 20 SKUs coincide com a auditoria abaixo. O total esperado passa de 715 para 695 cards Natura, com 664 cosméticos unitários recorrentes e 31 refis. Para voltar aos 715 cards, defina `"ativo": true` no piloto.
+
+## Auditoria de navegação e filtros dos catálogos
+
+### Diagnóstico e contagens
+
+Foram conferidos **836 cards de produto distintos por marca** no Chrome local: 715 Natura, 50 Jequiti e 71 Biozenthi. Na Natura são 664 cosméticos unitários recorrentes, 31 refis e 20 presentes legados. As listagens gerais e os destaques reutilizam cards já contados. O inventário considera os produtos atualmente renderizados, com os 715 SKUs da Natura cruzados com os 44 manifestos ativos. Cada card agrupado por tom na Jequiti conta uma vez.
+
+| Página | Cards atuais | Dados, estrutura e filtros | CTA e visual |
+| --- | ---: | --- | --- |
+| `pages/marcas/natura.html` | 715 | `#natura-products`, carregador próprio `assets/js/natura.js`, 44 manifestos ativos. Sem busca ou filtro de produto. `app.js` fornece a navegação global. | CTA WhatsApp com nome e SKU. Grade `favorites-grid`, moldura quadrada branca e imagem centralizada. |
+| `pages/marcas/jequiti.html` | 50 | `#brand-products`, registros internos de `app.js`. Busca e tipo; refino por categoria, linha, fragrância, tom e volume. Três cards têm seleção de tom. | CTA WhatsApp com nome, código ou faixa e detalhes da variação. Moldura `rgb(251, 248, 247)` e altura fixa responsiva, 220 × 240 px na amostra desktop. Das 50 imagens principais, 18 são quadradas de 1.254 px. |
+| `pages/marcas/biozenthi.html` | 71 | `#brand-products`, dados da tabela `biozenthiCatalog` de `app.js`. Busca e tipo; refino por categoria e linha. | CTA WhatsApp com nome. Três registros têm código vazio. PNGs RGBA de 1.254 × 1.254 px; moldura quadrada com fundo rosado claro na configuração observada. |
+| `pages/todos-os-produtos.html` | 121 | `#products`, Biozenthi 71 e Jequiti 50 via `app.js`. Busca, marca, categoria e tipo. | Mesmo renderizador e CTA das duas marcas. A Natura está ausente da fonte desta página. |
+| `pages/feminino.html` | 112 | `#products`, Biozenthi 71 e Jequiti 41. Busca, marca, categoria e tipo. O escopo inclui `feminino` e o valor `unissex`, inclusive quando herdado. | Mesmo renderizador e CTA da página geral. |
+| `pages/masculino.html` | 96 | `#products`, Biozenthi 71 e Jequiti 25. Busca, marca, categoria e tipo. O escopo inclui `masculino` e o valor `unissex`, inclusive quando herdado. | Mesmo renderizador e CTA da página geral. |
+| `index.html`, destaques | 121 | Grade própria, Biozenthi 71 e Jequiti 50 via `app.js`. Botões por categoria com comparação literal. `Corpo e banho` não corresponde ao valor `Corpo`. | Mesmo rótulo de CTA, com mensagem própria que inclui marca e nome. |
+| `pages/marcas.html` | 0 produtos, 10 links de marca | Diretório de marcas com edição estática. Há sete vitrines de marca vazias. | Navegação para páginas de marca. |
+| `pages/marcas/{acqua-di-cleo,avon,doterra,eudora,herbia,mary-kay,o-boticario}.html` | 0 em cada rota | `#brand-products` e `app.js`; os filtros permanecem sem opções úteis por falta de registros publicados. | Sem CTA de produto renderizado. |
+
+O fluxo de compra observado nos cards das três marcas é consulta por WhatsApp, sem checkout. A Natura também mantém os registros sem preço, estoque ou link de loja. O menu global exibe os links de público usando os dados de `app.js`. Seus links de categoria nos painéis Feminino e Masculino chegam à rota de público sem aplicar a categoria clicada. A página institucional `pages/sobre.html` está fora do inventário de produtos.
+
+### Mapa por marca, categoria e público
+
+Público foi atribuído por indicação explícita no nome, na descrição ou na fonte estruturada, incluindo a categoria Natura `Cuidados Masculinos`, a linha Natura Homem e linhas infantis identificáveis. `unissex` escrito em registros Jequiti foi aceito. O padrão herdado de `app.js` foi tratado como ausência de evidência. Maquiagem, tipo de cabelo, fragrância e embalagem isoladamente não definem público. Nenhum registro Biozenthi tem indicação masculina ou feminina na fonte atual. Dois itens da linha Biozenthi Kids foram classificados como infantis.
+
+As linhas Natura foram extraídas do nome ou da descrição; para o refil `154868`, a linha Tododia foi conferida na auditoria de refis. Jequiti e Biozenthi usam o campo `line` existente. O tipo Natura vem do manifesto de refis ou do cadastro do piloto. Os 50 cards Jequiti e 71 Biozenthi são regulares no sentido de catálogo corrente, incluindo os estojos Jequiti `99994` e `101103`. O subtipo comercial de estojo continua distinto da apresentação Refil e do presente legado Natura.
+
+| Marca | Total | Masculino | Feminino | Infantil | Unissex | Sem classificação |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Natura | 715 | 65 | 60 | 34 | 0 | 556 |
+| Jequiti | 50 | 9 | 25 | 0 | 8 | 8 |
+| Biozenthi | 71 | 0 | 0 | 2 | 0 | 69 |
+
+| Marca | Categoria de origem | Total | Masculino | Feminino | Infantil | Unissex | Sem classificação | Refis | Presentes legados |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Natura | Cabelos | 115 | 0 | 0 | 0 | 0 | 115 | 23 | 0 |
+| Natura | Corpo e Banho | 147 | 6 | 8 | 0 | 0 | 133 | 4 | 0 |
+| Natura | Cuidados Masculinos | 13 | 13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Natura | Cuidados pessoais | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Natura | Infantil | 33 | 0 | 0 | 33 | 0 | 0 | 0 | 0 |
+| Natura | Maquiagem | 240 | 0 | 0 | 0 | 0 | 240 | 2 | 0 |
+| Natura | Perfumaria | 99 | 33 | 45 | 0 | 0 | 21 | 1 | 0 |
+| Natura | Presentes | 20 | 6 | 7 | 1 | 0 | 6 | 0 | 20 |
+| Natura | Rosto | 41 | 0 | 0 | 0 | 0 | 41 | 1 | 0 |
+| Jequiti | Corpo | 8 | 0 | 0 | 0 | 0 | 8 | 0 | 0 |
+| Jequiti | Maquiagem | 14 | 0 | 14 | 0 | 0 | 0 | 0 | 0 |
+| Jequiti | Perfumaria | 22 | 9 | 11 | 0 | 2 | 0 | 0 | 0 |
+| Jequiti | Skincare | 6 | 0 | 0 | 0 | 6 | 0 | 0 | 0 |
+| Biozenthi | Bem-estar | 3 | 0 | 0 | 0 | 0 | 3 | 0 | 0 |
+| Biozenthi | Cabelos | 21 | 0 | 0 | 2 | 0 | 19 | 0 | 0 |
+| Biozenthi | Corpo | 16 | 0 | 0 | 0 | 0 | 16 | 0 | 0 |
+| Biozenthi | Cuidados Especiais | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+| Biozenthi | Higiene | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+| Biozenthi | Higiene Bucal | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+| Biozenthi | Maquiagem | 7 | 0 | 0 | 0 | 0 | 7 | 0 | 0 |
+| Biozenthi | Proteção Solar | 8 | 0 | 0 | 0 | 0 | 8 | 0 | 0 |
+| Biozenthi | Skincare | 11 | 0 | 0 | 0 | 0 | 11 | 0 | 0 |
+
+#### Identificação de produtos com público evidenciado
+
+Inventário por SKU, código do fornecedor ou identificador local quando o código está ausente. Em três cards Jequiti, a faixa identifica um card e os códigos entre parênteses identificam os tons.
+
+| Marca | Categoria | Linha | Apresentação | Público | Cards | Identificadores |
+| --- | --- | --- | --- | --- | ---: | --- |
+| Biozenthi | Cabelos | Biozenthi Kids | Regular | Infantil | 2 | `biozenthi-biozenthi-kids-condicionador-todos-tipos-cabelo`, `biozenthi-biozenthi-kids-shampoo-todos-tipos-cabelo` |
+| Jequiti | Maquiagem | Aviva | Regular | Feminino | 14 | `100585`, `100587`, `100588`, `100931`, `100932`, `100852–100863` (100852, 100853, 100854, 100855, 100856, 100857, 100858, 100859, 100860, 100861, 100862, 100863), `100864`, `100866`, `100947–100949` (100947, 100948, 100949), `100951–100952` (100951, 100952), `101066`, `101139`, `80606`, `99994` |
+| Jequiti | Perfumaria | Adriane Galisteu | Regular | Feminino | 1 | `80702` |
+| Jequiti | Perfumaria | Aire | Regular | Masculino | 4 | `10075`, `102461`, `102464`, `101103` |
+| Jequiti | Perfumaria | Candy Land | Regular | Feminino | 3 | `19342`, `99951`, `99952` |
+| Jequiti | Perfumaria | Deluxe | Regular | Feminino | 2 | `100130`, `17885` |
+| Jequiti | Perfumaria | Fabio Jr | Regular | Masculino | 1 | `102463` |
+| Jequiti | Perfumaria | Fléur | Regular | Feminino | 2 | `10077`, `10080` |
+| Jequiti | Perfumaria | Patricia Abravanel | Regular | Feminino | 1 | `102462` |
+| Jequiti | Perfumaria | Portiolli | Regular | Masculino | 3 | `102455`, `11128`, `19159` |
+| Jequiti | Perfumaria | Radiance | Regular | Feminino | 1 | `102453` |
+| Jequiti | Perfumaria | Rebeca Abravanel | Regular | Feminino | 1 | `101619` |
+| Jequiti | Perfumaria | Refresca | Regular | Unissex | 2 | `19640`, `19642` |
+| Jequiti | Perfumaria | Uzon | Regular | Masculino | 1 | `19352` |
+| Jequiti | Skincare | Sensi | Regular | Unissex | 6 | `100291`, `100292`, `18703`, `18705`, `18706`, `18707` |
+| Natura | Corpo e Banho | Biografia | Regular | Feminino | 1 | `88453` |
+| Natura | Corpo e Banho | Biografia | Regular | Masculino | 1 | `88454` |
+| Natura | Corpo e Banho | Essencial | Regular | Feminino | 1 | `16870` |
+| Natura | Corpo e Banho | Kaiak | Refil | Feminino | 1 | `56763` |
+| Natura | Corpo e Banho | Kaiak | Refil | Masculino | 1 | `56948` |
+| Natura | Corpo e Banho | Kaiak | Regular | Feminino | 4 | `56754`, `189391`, `189393`, `248320` |
+| Natura | Corpo e Banho | Kaiak | Regular | Masculino | 2 | `16623`, `56747` |
+| Natura | Corpo e Banho | Luna | Regular | Feminino | 1 | `69200` |
+| Natura | Corpo e Banho | Natura Homem | Regular | Masculino | 1 | `110686` |
+| Natura | Corpo e Banho | Sr. N | Regular | Masculino | 1 | `85393` |
+| Natura | Cuidados Masculinos | Kaiak | Regular | Masculino | 5 | `189392`, `189398`, `247693`, `189390`, `248628` |
+| Natura | Cuidados Masculinos | Natura Homem | Regular | Masculino | 8 | `151018`, `159952`, `160210`, `151020`, `204440`, `150227`, `150229`, `150225` |
+| Natura | Cuidados pessoais | Natura Homem | Regular | Masculino | 7 | `201466`, `160273`, `151019`, `152331`, `152277`, `151021`, `151022` |
+| Natura | Infantil | Mamãe e Bebê | Regular | Infantil | 16 | `92952`, `92806`, `106422`, `106423`, `97955`, `166870`, `166871`, `92786`, `92800`, `92804`, `92790`, `92793`, `92788`, `252007`, `252008`, `252009` |
+| Natura | Infantil | Natura Solar | Regular | Infantil | 1 | `176907` |
+| Natura | Infantil | Naturé | Regular | Infantil | 16 | `102402`, `128757`, `102404`, `102406`, `106496`, `166873`, `166872`, `166874`, `204448`, `204443`, `102395`, `102397`, `102400`, `102417`, `106421`, `128758` |
+| Natura | Perfumaria | Águas de Natura | Regular | Feminino | 3 | `95638`, `95643`, `95644` |
+| Natura | Perfumaria | Biografia | Regular | Feminino | 1 | `71600` |
+| Natura | Perfumaria | Biografia | Regular | Masculino | 1 | `71601` |
+| Natura | Perfumaria | Ekos Frescor | Refil | Feminino | 1 | `73569` |
+| Natura | Perfumaria | Ekos Frescor | Regular | Feminino | 6 | `73562`, `73563`, `73564`, `73565`, `199392`, `250231` |
+| Natura | Perfumaria | Essencial | Regular | Feminino | 10 | `103349`, `76421`, `76423`, `167756`, `27264`, `17049`, `18887`, `76425`, `165813`, `214410` |
+| Natura | Perfumaria | Essencial | Regular | Masculino | 11 | `103348`, `76420`, `95560`, `76422`, `165811`, `167755`, `27263`, `17052`, `18888`, `76424`, `214411` |
+| Natura | Perfumaria | Humor | Regular | Feminino | 2 | `86727`, `131462` |
+| Natura | Perfumaria | Humor | Regular | Masculino | 4 | `86725`, `86728`, `95949`, `131465` |
+| Natura | Perfumaria | Ilía | Regular | Feminino | 5 | `54522`, `122470`, `102419`, `83314`, `173020` |
+| Natura | Perfumaria | K Max | Regular | Masculino | 1 | `72468` |
+| Natura | Perfumaria | Kaiak | Regular | Feminino | 4 | `108410`, `108407`, `108408`, `236375` |
+| Natura | Perfumaria | Kaiak | Regular | Masculino | 7 | `155607`, `108405`, `108402`, `108401`, `108400`, `108403`, `228528` |
+| Natura | Perfumaria | Kriska | Regular | Feminino | 3 | `68943`, `41795`, `68944` |
+| Natura | Perfumaria | Luna | Regular | Feminino | 7 | `86935`, `2550`, `56417`, `204451`, `44452`, `171364`, `128615` |
+| Natura | Perfumaria | Natura Homem | Regular | Masculino | 7 | `89834`, `176285`, `53255`, `81951`, `71770`, `201463`, `59847` |
+| Natura | Perfumaria | Natura K | Regular | Masculino | 1 | `57525` |
+| Natura | Perfumaria | Sr. N | Regular | Masculino | 1 | `30410` |
+| Natura | Perfumaria | Una | Regular | Feminino | 3 | `232063`, `2458`, `2446` |
+| Natura | Presentes | Essencial | Presente legado | Feminino | 4 | `265500`, `264624`, `264641`, `241300` |
+| Natura | Presentes | Essencial | Presente legado | Masculino | 4 | `264620`, `264652`, `264615`, `241302` |
+| Natura | Presentes | Kaiak | Presente legado | Feminino | 1 | `264746` |
+| Natura | Presentes | Kaiak | Presente legado | Masculino | 1 | `264718` |
+| Natura | Presentes | Luna | Presente legado | Feminino | 1 | `264656` |
+| Natura | Presentes | Mamãe e Bebê | Presente legado | Infantil | 1 | `241299` |
+| Natura | Presentes | Natura Homem | Presente legado | Masculino | 1 | `241297` |
+| Natura | Presentes | Tododia | Presente legado | Feminino | 1 | `274242` |
+
+#### Itens sem classificação de público
+
+Os 633 cards abaixo continuam elegíveis para a visualização Todos e para filtros de categoria, linha e apresentação. A classificação de público fica pendente até haver evidência editorial por item ou linha.
+
+| Marca | Categoria | Linha | Apresentação | Público | Cards | Identificadores |
+| --- | --- | --- | --- | --- | ---: | --- |
+| Biozenthi | Bem-estar | Biozenthi | Regular | Sem classificação | 3 | `1555`, `1656`, `1658` |
+| Biozenthi | Cabelos | BelloTratto | Regular | Sem classificação | 1 | `916` |
+| Biozenthi | Cabelos | BioPsor | Regular | Sem classificação | 2 | `1077`, `1076` |
+| Biozenthi | Cabelos | BioScalp | Regular | Sem classificação | 3 | `763`, `1767`, `115` |
+| Biozenthi | Cabelos | Biozenthi Encrespada | Regular | Sem classificação | 3 | `1479`, `1480`, `1474` |
+| Biozenthi | Cabelos | Biozenthi Jaborandi | Regular | Sem classificação | 2 | `805`, `79` |
+| Biozenthi | Cabelos | Biozenthi Óleo de Coco | Regular | Sem classificação | 3 | `1012`, `1037`, `1011` |
+| Biozenthi | Cabelos | Biozenthi | Regular | Sem classificação | 1 | `684` |
+| Biozenthi | Cabelos | EpiOrganic | Regular | Sem classificação | 2 | `1199`, `1198` |
+| Biozenthi | Cabelos | Piugene Balance | Regular | Sem classificação | 1 | `1765` |
+| Biozenthi | Cabelos | Piugene Calm | Regular | Sem classificação | 1 | `1715` |
+| Biozenthi | Corpo | BioPsor | Regular | Sem classificação | 2 | `1078`, `1086` |
+| Biozenthi | Corpo | Biozenthi | Regular | Sem classificação | 9 | `83`, `433`, `1686`, `1211`, `389`, `508`, `1169`, `789`, `710` |
+| Biozenthi | Corpo | Gato Divino | Regular | Sem classificação | 3 | `1161`, `1600`, `1162` |
+| Biozenthi | Corpo | Piugene Dermo | Regular | Sem classificação | 1 | `1714` |
+| Biozenthi | Corpo | Propodo | Regular | Sem classificação | 1 | `1055` |
+| Biozenthi | Cuidados Especiais | Micozione | Regular | Sem classificação | 2 | `1691`, `577` |
+| Biozenthi | Higiene Bucal | EpiOrganic | Regular | Sem classificação | 2 | `1597`, `1061` |
+| Biozenthi | Higiene | Biozenthi | Regular | Sem classificação | 1 | `113` |
+| Biozenthi | Maquiagem | Italian Make | Regular | Sem classificação | 7 | `1561`, `1537`, `1553`, `1546`, `1539`, `1559`, `1562` |
+| Biozenthi | Proteção Solar | Gato Divino | Regular | Sem classificação | 1 | `65.1687` |
+| Biozenthi | Proteção Solar | Onface | Regular | Sem classificação | 5 | `35.1700`, `1063.02`, `1063.01`, `1063`, `65.1688` |
+| Biozenthi | Proteção Solar | PureSun | Regular | Sem classificação | 2 | `1605`, `1606` |
+| Biozenthi | Skincare | EpiOrganic | Regular | Sem classificação | 1 | `biozenthi-epiorganic-hidratante-facial-niacinamida-acai-vitamina-e` |
+| Biozenthi | Skincare | Onface Clinical | Regular | Sem classificação | 2 | `1163`, `1074` |
+| Biozenthi | Skincare | Onface | Regular | Sem classificação | 3 | `182`, `1093`, `569` |
+| Biozenthi | Skincare | Piugene | Regular | Sem classificação | 5 | `1753`, `1656`, `1653`, `1654`, `1655` |
+| Jequiti | Corpo | Eu Provoco | Regular | Sem classificação | 1 | `18124` |
+| Jequiti | Corpo | Jequiti | Regular | Sem classificação | 1 | `100794` |
+| Jequiti | Corpo | Sensi | Regular | Sem classificação | 4 | `17655`, `19804`, `99850`, `99851` |
+| Jequiti | Corpo | Vida | Regular | Sem classificação | 2 | `100392`, `100394` |
+| Natura | Cabelos | Aura Alba | Regular | Sem classificação | 1 | `250229` |
+| Natura | Cabelos | Ekos | Refil | Sem classificação | 2 | `112766`, `112768` |
+| Natura | Cabelos | Ekos | Regular | Sem classificação | 10 | `112776`, `113245`, `113243`, `113244`, `112777`, `122499`, `112770`, `112892`, `113150`, `112771` |
+| Natura | Cabelos | Lumina | Refil | Sem classificação | 8 | `148175`, `148405`, `210530`, `147406`, `147442`, `147445`, `148169`, `147408` |
+| Natura | Cabelos | Lumina | Regular | Sem classificação | 59 | `148433`, `148176`, `148410`, `148449`, `148412`, `148421`, `148170`, `148442`, `147439`, `147418`, `147453`, `147411`, `147440`, `176398`, `174206`, `176050`, `174212`, `174196`, `148450`, `148158`, `167286`, `167288`, `167289`, `167291`, `210525`, `210527`, `210529`, `210531`, `255761`, `200641`, `200656`, `200658`, `164508`, `164516`, `164517`, `164518`, `147401`, `147449`, `148419`, `147404`, `147420`, `147457`, `148167`, `148459`, `171367`, `148161`, `148171`, `148404`, `148409`, `148411`, `148417`, `148436`, `148437`, `148440`, `205931`, `147416`, `147434`, `147446`, `164505` |
+| Natura | Cabelos | Tododia | Refil | Sem classificação | 13 | `221577`, `221579`, `154860`, `154868`, `154859`, `154861`, `154862`, `154863`, `154864`, `154865`, `154867`, `156234`, `156236` |
+| Natura | Cabelos | Tododia | Regular | Sem classificação | 22 | `221578`, `221580`, `221581`, `154866`, `154873`, `156235`, `154869`, `154870`, `154871`, `196324`, `196328`, `173588`, `154872`, `154875`, `154876`, `155601`, `156233`, `156237`, `173583`, `173590`, `174032`, `176406` |
+| Natura | Corpo e Banho | Aura Alba | Regular | Sem classificação | 4 | `180310`, `184481`, `197460`, `251885` |
+| Natura | Corpo e Banho | Ekos | Refil | Sem classificação | 1 | `97433` |
+| Natura | Corpo e Banho | Ekos | Regular | Sem classificação | 49 | `203401`, `174338`, `95133`, `216416`, `216412`, `203390`, `19904`, `162090`, `97427`, `163709`, `166359`, `73214`, `97428`, `95035`, `70405`, `203382`, `203383`, `70410`, `203399`, `75493`, `98767`, `70401`, `70402`, `203379`, `70403`, `203476`, `69817`, `70983`, `230122`, `110650`, `174594`, `203398`, `212716`, `213690`, `226557`, `70407`, `70409`, `97261`, `97269`, `203478`, `204786`, `80967`, `122484`, `70406`, `203480`, `69825`, `123735`, `140682`, `216697` |
+| Natura | Corpo e Banho | Erva Doce | Regular | Sem classificação | 3 | `26441`, `189412`, `199377` |
+| Natura | Corpo e Banho | Humor | Regular | Sem classificação | 1 | `56744` |
+| Natura | Corpo e Banho | Ilía | Regular | Sem classificação | 1 | `173021` |
+| Natura | Corpo e Banho | Kaiak | Regular | Sem classificação | 1 | `247692` |
+| Natura | Corpo e Banho | Luna | Regular | Sem classificação | 4 | `97153`, `97169`, `97171`, `173009` |
+| Natura | Corpo e Banho | Natura Solar | Regular | Sem classificação | 6 | `177404`, `176908`, `176914`, `178864`, `178865`, `229386` |
+| Natura | Corpo e Banho | Sève | Refil | Sem classificação | 1 | `199914` |
+| Natura | Corpo e Banho | Sève | Regular | Sem classificação | 6 | `19081`, `20214`, `38854`, `140683`, `189566`, `189568` |
+| Natura | Corpo e Banho | Todanoite | Regular | Sem classificação | 4 | `121970`, `159711`, `121958`, `121967` |
+| Natura | Corpo e Banho | Tododia | Regular | Sem classificação | 51 | `86013`, `113404`, `23037`, `23081`, `2814`, `2816`, `2820`, `172097`, `23218`, `99137`, `152297`, `172096`, `110281`, `113403`, `95843`, `237782`, `237764`, `237766`, `172099`, `172410`, `205936`, `206231`, `72178`, `72179`, `95937`, `140759`, `5870`, `83641`, `204445`, `181134`, `189401`, `189404`, `190850`, `88103`, `152300`, `237762`, `237771`, `237778`, `209218`, `237784`, `189402`, `189406`, `189413`, `189414`, `172407`, `172411`, `205941`, `199376`, `199379`, `199385`, `199387` |
+| Natura | Corpo e Banho | Una | Regular | Sem classificação | 1 | `140595` |
+| Natura | Maquiagem | Faces | Refil | Sem classificação | 1 | `8992` |
+| Natura | Maquiagem | Faces | Regular | Sem classificação | 68 | `209243`, `220914`, `209255`, `209241`, `216455`, `209242`, `216706`, `216703`, `216707`, `209253`, `209256`, `166326`, `166327`, `166329`, `166331`, `166332`, `166333`, `166334`, `166335`, `166336`, `166338`, `166339`, `166340`, `166341`, `166342`, `166343`, `166345`, `166346`, `166347`, `166348`, `166349`, `209236`, `209247`, `209248`, `214462`, `236347`, `258438`, `166328`, `166330`, `166337`, `166344`, `8847`, `8848`, `8882`, `8883`, `8884`, `8885`, `8888`, `8889`, `209237`, `209238`, `209240`, `209249`, `209254`, `216439`, `216453`, `236326`, `236327`, `236333`, `236334`, `236339`, `236340`, `243260`, `244462`, `245312`, `245313`, `245314`, `245315` |
+| Natura | Maquiagem | Tododia | Regular | Sem classificação | 2 | `180470`, `237773` |
+| Natura | Maquiagem | Una | Refil | Sem classificação | 1 | `72020` |
+| Natura | Maquiagem | Una | Regular | Sem classificação | 168 | `204760`, `59313`, `165814`, `165384`, `174921`, `192103`, `34262`, `205934`, `214404`, `171115`, `171114`, `95773`, `95774`, `95775`, `95776`, `95777`, `95778`, `95780`, `95782`, `140019`, `140022`, `140023`, `140030`, `140059`, `204429`, `204430`, `204432`, `204434`, `164824`, `192148`, `70720`, `8297`, `27251`, `92520`, `92529`, `92536`, `93505`, `148470`, `148471`, `148473`, `148474`, `148475`, `148476`, `164820`, `164826`, `17042`, `17043`, `70721`, `140742`, `110181`, `110182`, `110183`, `110184`, `110185`, `110186`, `110187`, `110188`, `110190`, `110191`, `110193`, `110194`, `110195`, `110196`, `110197`, `110199`, `110200`, `110202`, `110203`, `110204`, `191617`, `191618`, `191619`, `191621`, `191622`, `191623`, `191624`, `191625`, `191627`, `191628`, `191629`, `191630`, `191633`, `191634`, `191635`, `191636`, `191637`, `191638`, `191639`, `193846`, `122112`, `122113`, `122114`, `122115`, `122116`, `122117`, `122118`, `122119`, `122120`, `122121`, `122122`, `122123`, `205974`, `205976`, `205977`, `205979`, `205980`, `205981`, `205983`, `205985`, `127757`, `127760`, `127761`, `127764`, `127766`, `127768`, `127772`, `127775`, `134778`, `135022`, `135023`, `135024`, `135025`, `135026`, `135028`, `135030`, `135034`, `135035`, `135042`, `135047`, `205322`, `205326`, `110189`, `110192`, `110198`, `205975`, `205978`, `205982`, `205984`, `127762`, `127763`, `127776`, `127777`, `191620`, `191626`, `191631`, `191632`, `205321`, `205325`, `205330`, `205331`, `205333`, `205334`, `181509`, `181510`, `181511`, `181514`, `181515`, `181516`, `181517`, `181518`, `181519`, `181520`, `181521`, `232065`, `232066`, `235280`, `235283`, `153720` |
+| Natura | Perfumaria | Aura Alba | Regular | Sem classificação | 1 | `226559` |
+| Natura | Perfumaria | Ekos | Regular | Sem classificação | 1 | `241317` |
+| Natura | Perfumaria | Faces | Regular | Sem classificação | 2 | `260649`, `260651` |
+| Natura | Perfumaria | Humor | Regular | Sem classificação | 4 | `102422`, `169821`, `86723`, `95947` |
+| Natura | Perfumaria | Todanoite | Regular | Sem classificação | 1 | `159712` |
+| Natura | Perfumaria | Tododia | Regular | Sem classificação | 12 | `152286`, `181136`, `196313`, `205937`, `72195`, `95841`, `72221`, `117800`, `237761`, `237763`, `88075`, `237757` |
+| Natura | Presentes | Aura Alba | Presente legado | Sem classificação | 1 | `241041` |
+| Natura | Presentes | Ekos | Presente legado | Sem classificação | 2 | `230825`, `264662` |
+| Natura | Presentes | Humor | Presente legado | Sem classificação | 1 | `264612` |
+| Natura | Presentes | Tododia | Presente legado | Sem classificação | 2 | `264741`, `233613` |
+| Natura | Rosto | Chronos Derma | Refil | Sem classificação | 1 | `169244` |
+| Natura | Rosto | Chronos Derma | Regular | Sem classificação | 33 | `169229`, `69725`, `253366`, `204450`, `204449`, `135043`, `169247`, `169233`, `127754`, `169258`, `169264`, `169222`, `91849`, `167236`, `135057`, `133503`, `171365`, `137976`, `135060`, `134189`, `134592`, `134593`, `134725`, `135032`, `134693`, `135036`, `134697`, `135027`, `134695`, `135039`, `187709`, `169217`, `134586` |
+| Natura | Rosto | Faces | Regular | Sem classificação | 1 | `236332` |
+| Natura | Rosto | Natura Solar | Regular | Sem classificação | 5 | `176905`, `178858`, `186435`, `176909`, `176913` |
+| Natura | Rosto | Tododia | Regular | Sem classificação | 1 | `152289` |
+
+### Presentes legados Natura
+
+Os 20 cards estão integralmente em `data/natura-piloto.v1.json`, categoria `Presentes`. A retirada futura decorre do escopo da vitrine de cosméticos e refis. São itens do piloto identificados por SKU e separados dos manifestos regulares e de refil. Nesta etapa permanecem ativos.
+
+| SKU | Nome atual | Manifesto | Motivo de retirada futura |
+| --- | --- | --- | --- |
+| `264620` | Presente Natura Essencial Sentir Intenso Masculino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264652` | Presente Natura Essencial Sentir Intenso Masculino com Miniatura | `data/natura-piloto.v1.json` | Presente legado com miniatura |
+| `265500` | Presente Natura Essencial Sentir Intenso Feminino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264624` | Presente Natura Essencial Sentir Intenso Feminino com Miniatura | `data/natura-piloto.v1.json` | Presente legado com miniatura |
+| `230825` | Presente Natura Ekos Sabonetes | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264741` | Presente Natura Tododia Flor de Pera e Melissa | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `241041` | Presente Natura Aura Alba | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `241297` | Presente Natura Homem | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264656` | Presente Natura Luna Radiante | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `274242` | Presente Natura Tododia Macadâmia | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264641` | Presente Natura Essencial Safran Feminino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264615` | Presente Natura Essencial Safran Masculino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `241302` | Presente Natura Essencial Masculino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `241300` | Presente Natura Essencial Feminino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264612` | Presente Natura Humor Elevado | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264662` | Presente Natura Ekos Baunilha Amazônica | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264746` | Presente Natura Kaiak Aventura Feminino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `264718` | Presente Natura Kaiak Urbe Masculino | `data/natura-piloto.v1.json` | Presente legado do piloto |
+| `233613` | Presente Natura Tododia Miniaturas | `data/natura-piloto.v1.json` | Presente legado com miniatura |
+| `241299` | Presente Natura Mamãe e Bebê Miniaturas | `data/natura-piloto.v1.json` | Presente legado com miniatura |
+
+Na etapa autorizada, confirmar novamente que o piloto contém exatamente esses 20 SKUs e desativar apenas esse manifesto. Esperado: **695 Natura** (664 regulares e 31 refis), sem apagar arquivos. Comparar o conjunto removido com os 20 SKUs acima e testar reativação. Na futura listagem agregada a base será de **816 cards** após a retirada. A geração dos índices e facetas deve trabalhar com o resultado do carregamento ativo. O validador Natura atual lê e valida também os registros de um manifesto desativado, aspecto a cobrir em testes de unicidade.
+
+### Filtros e navegação propostos
+
+| Filtro | Comportamento | Marcas e rotas | Dados necessários |
+| --- | --- | --- | --- |
+| Todos | Estado padrão, inclui itens com público indefinido. | Três marcas e rotas gerais. | Chave da marca e identificador estável. |
+| Feminino e Masculino | Mostrar somente o público correspondente. Manter links atuais como atalhos com esse filtro inicial. | Três marcas e rotas gerais. | Público evidenciado. Unissex tem seleção própria. |
+| Infantil e Unissex | Valores independentes, acessíveis no seletor e por link direto. | Três marcas e rota geral. | Público evidenciado. |
+| Sem classificação | Expor como opção explícita, também presente em Todos. | Três marcas e rota geral. | Campo de público ausente ou pendente. |
+| Categoria | Combinar com público, marca, apresentação e busca. Preservar rótulo de origem e adotar aliases revisados, por exemplo Corpo e Corpo e Banho. | Três marcas e rotas gerais. | Categoria original e alias canônico. Skincare e Proteção Solar exigem revisão por item antes de mapear a Rosto. |
+| Marca | Limitar o agregado. Pré-selecionar via URL ao chegar pelo menu. | Rotas gerais. | Valores Natura, Jequiti e Biozenthi. |
+| Apresentação | Todas, Regular e Refil. Exibir Refil onde existir. Preservar o filtro técnico atual de tipo como refino. | Todas; opção Refil inicialmente na Natura. | Classificação de apresentação, separada de `productType`. |
+| Busca | Nome sem distinção de maiúsculas ou acentos e SKU exato, incluindo códigos de tom. Manter contador e estado vazio. | Três marcas e rotas gerais. | Nome e SKU/código confirmado; códigos de variantes Jequiti. |
+
+Proponho manter as páginas atuais como URLs de entrada e compartilhar um modelo de filtros. Links e estado podem usar `marca`, `publico`, `categoria`, `apresentacao` e `q`, com valores validados e restauração pelos botões Voltar e Avançar. Os menus e atalhos devem aplicar os mesmos filtros que anunciam. Depois de retirar os presentes, a primeira previsão para visualizações estritas é **78 femininos**, **68 masculinos**, **35 infantis**, **8 unissex** e **627 sem classificação**, entre as três marcas. Os totais dependem de aprovação editorial do mapeamento.
+
+Recomendo busca por nome e SKU desde a primeira versão dos filtros. Criar o texto normalizado uma vez por item e combinar os filtros em memória. Com 700+ cards, os maiores riscos são decodificar todas as imagens para abrir a lista e reconstruir os cards a cada tecla, como o renderizador geral faz hoje. Medir busca, primeira exibição e uso de memória. Preservar os nós ou atualizar somente os resultados afetados, agrupar as mudanças por breve intervalo de digitação e considerar renderização progressiva com imagens abaixo da dobra somente se as medições indicarem necessidade. Para o shampoo e o condicionador Biozenthi Kids para todos os tipos de cabelo e o hidratante facial EpiOrganic de niacinamida, açaí e vitamina E, que estão sem código confirmado, buscar por nome e mostrar CTA com nome, sem gerar SKU. Para Jequiti, manter a relação card–tons e verificar que a busca pelo código seleciona a variação correta sem confundir a imagem geral com a imagem específica.
+
+### Responsividade da proposta
+
+Protótipo de navegação e controles injetado somente na sessão local do Chrome, na página Natura com seus 715 cards. A checagem mediu largura do painel, encaixe dos links e campos, ausência de rolagem horizontal e preservação da moldura quadrada. Os controles eram demonstrativos. A integração funcional entre páginas, a busca e o agregado de 816 cards são validações da implementação.
+
+| Janela | Painel disponível | Colunas de controles | Links e controles dentro do painel | Rolagem horizontal |
+| ---: | ---: | ---: | --- | --- |
+| 360 px | 297 px | 1 | Sim | Ausente |
+| 390 px | 327 px | 2 | Sim | Ausente |
+| 720 px | 657 px | 4 | Sim | Ausente |
+| 1440 px | 1.152 px | 6 | Sim | Ausente |
+
+Para implementação, manter grade, cards, mídia centralizada e CTA atuais em cada marca durante a alteração de navegação. A moldura quadrada branca já existe na Natura. Jequiti e Biozenthi têm diferenças de fundo e proporção registradas acima. Qualquer convergência visual dessas molduras deve ser validada com os casos de variação Jequiti e os PNGs transparentes Biozenthi, preservando imagens e recortes aprovados. O conjunto de controles deve permitir tabulação em ordem, identificação por rótulo, contador com anúncio, estado vazio e limpeza integral. Em telas pequenas, permitir quebra de linha dos atalhos e reservar os refinos avançados para um controle expansível.
+
+### Riscos e sequência de implementação
+
+| Etapa | Mudança e validação | Reversão |
+| --- | --- | --- |
+| 1. Retirar presentes legados | Desativar o manifesto piloto após confirmar a lista de 20. Verificar 695 cards Natura e os 31 refis intactos. | Restaurar `"ativo": true` no piloto. |
+| 2. Estruturar metadados | Criar índice complementar por marca e SKU/ID, com público, linha, apresentação, alias de categoria e fonte. Revisar os casos pendentes antes de migrar. Preservar os cinco campos rígidos dos manifestos Natura. | Desativar o índice e manter os dados e carregadores originais. |
+| 3. Implementar filtros e busca | Introduzir leitura de filtros e busca comum. Conectar as fontes existentes com isolamento de falhas. Testar item sem classificação, filtro combinado e SKU de tom. | Desativar a camada comum e retomar as listagens originais. |
+| 4. Padronizar navegação e responsividade | Fazer os links de marca, categoria e público aplicarem o estado correspondente. Validar URLs diretas, histórico, teclado e quatro larguras. | Repor os destinos e controles anteriores. |
+| 5. Validar todas as páginas | Testar totais, CTA, imagens e ausência de checkout. Exercitar falha de manifesto intermediário Natura, falha de refis e falha de uma fonte individual na listagem geral. Revisar diretório, páginas vazias e destaques. | Reverter a etapa com falha mantendo as demais mudanças validadas. |
+
+Riscos prioritários:
+
+- **Alta — Fonte dividida.** As páginas gerais não carregam Natura. A união deve reutilizar os manifestos ativos e evitar manter uma cópia divergente dos 715 registros.
+- **Alta — Público e tom.** O valor padrão atual induz classificação errada nas duas páginas de público. Jequiti tem três cards de variação, e Biozenthi tem três códigos ausentes que hoje geram mensagem com código indefinido. Corrigir a geração da mensagem apenas após autorização e testar nome, código e tom.
+- **Alta — Resiliência Natura.** A validação exige cinco campos. A carga é sequencial e o lote só é anexado após a decodificação das imagens. Uma falha pode retirar o lote afetado. Preservar o isolamento por manifesto e evitar que o agregado falhe se uma marca estiver indisponível.
+- **Média — Taxonomia e retirada do piloto.** Aliases divergentes quebram filtros literais. O desligamento dos 20 presentes deve atualizar contadores, facetas, menus e busca sem retirar itens das outras marcas.
+- **Média — Responsividade e volume.** Validar desempenho com o agregado real de 816 cards, com teclado e em condições móveis. Fazer regressão nos CTAs, seletor de tons e imagens antes de publicar.
+
+Implementação e retirada dos presentes aguardam autorização.
+
+
 ## Auditoria Natura de refis — proposta de implementação única
 
 Revisão de 19/11/2026. Fonte: `17 Centro-Oeste, Sul, ES, MG, RJ e SP.pdf`. As páginas correspondem à posição no visualizador, contando a capa como página 1. Este levantamento reconcilia somente os 157 códigos de refil identificados na auditoria anterior.

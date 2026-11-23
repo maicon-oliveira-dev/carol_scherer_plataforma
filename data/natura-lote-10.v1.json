@@ -1,0 +1,146 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "214411",
+      "nome": "Deo Parfum Essencial Safran Masculino 100 ml",
+      "descricao": "Fragrância amadeirada ambarada com açafrão, ishpink e madeiras nobres.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/214411.jpg"
+    },
+    {
+      "sku": "27264",
+      "nome": "Deo Parfum Essencial Mirra Feminino 100 ml",
+      "descricao": "Fragrância feminina amadeirada floral.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/27264.jpg"
+    },
+    {
+      "sku": "17049",
+      "nome": "Deo Parfum Essencial Oud Vanilla Feminino 100 ml",
+      "descricao": "Fragrância feminina amadeirada adocicada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/17049.jpg"
+    },
+    {
+      "sku": "18887",
+      "nome": "Deo Parfum Essencial Oud Pimenta Feminino 100 ml",
+      "descricao": "Fragrância feminina amadeirada especiada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/18887.jpg"
+    },
+    {
+      "sku": "76425",
+      "nome": "Deo Parfum Essencial Oud Feminino 100 ml",
+      "descricao": "Fragrância feminina amadeirada floral da linha Essencial Oud.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/76425.jpg"
+    },
+    {
+      "sku": "165813",
+      "nome": "Deo Parfum Essencial Atrai Feminino 100 ml",
+      "descricao": "Fragrância feminina floral ambarada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/165813.jpg"
+    },
+    {
+      "sku": "173020",
+      "nome": "Deo Parfum Ilía Jardim Secreto Feminino 50 ml",
+      "descricao": "Floral frutal que combina buquê floral, frutas cítricas e especiarias.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/173020.jpg"
+    },
+    {
+      "sku": "232063",
+      "nome": "Deo Parfum Una Elegance Feminino 75 ml",
+      "descricao": "Fragrância feminina adocicada ambarada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/232063.jpg"
+    },
+    {
+      "sku": "2458",
+      "nome": "Deo Parfum Una Artisan Feminino 75 ml",
+      "descricao": "Fragrância feminina de perfil chipre intenso.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/2458.jpg"
+    },
+    {
+      "sku": "2446",
+      "nome": "Deo Parfum Una Feminino 75 ml",
+      "descricao": "Fragrância adocicada intensa com praliné, ganache e nuances florais.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/2446.jpg"
+    },
+    {
+      "sku": "86935",
+      "nome": "Deo Parfum Luna Intensa Feminino 50 ml",
+      "descricao": "Deo parfum feminino de intensidade marcante da linha Luna.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/86935.jpg"
+    },
+    {
+      "sku": "2550",
+      "nome": "Desodorante Colônia Luna Radiante Feminino 75 ml",
+      "descricao": "Fragrância feminina Luna Radiante em desodorante colônia.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/2550.jpg"
+    },
+    {
+      "sku": "56417",
+      "nome": "Desodorante Colônia Luna Absoluta Feminino 75 ml",
+      "descricao": "Fragrância feminina Luna Absoluta em desodorante colônia.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/56417.jpg"
+    },
+    {
+      "sku": "204451",
+      "nome": "Desodorante Colônia Luna Nuit Feminino 75 ml",
+      "descricao": "Chipre ambarado com âmbar, patchouli e davana de nuance frutada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/204451.jpg"
+    },
+    {
+      "sku": "108410",
+      "nome": "Desodorante Colônia Kaiak Oceano Feminino 100 ml",
+      "descricao": "Fragrância feminina floral frutal.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108410.jpg"
+    },
+    {
+      "sku": "108407",
+      "nome": "Desodorante Colônia Kaiak Feminino 100 ml",
+      "descricao": "Fragrância feminina cítrica floral da linha clássica Kaiak.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108407.jpg"
+    },
+    {
+      "sku": "108408",
+      "nome": "Desodorante Colônia Kaiak Aventura Feminino 100 ml",
+      "descricao": "Fragrância feminina floral aquosa.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/108408.jpg"
+    },
+    {
+      "sku": "68943",
+      "nome": "Desodorante Colônia Kriska Drama Feminino 100 ml",
+      "descricao": "Fragrância feminina adocicada de intensidade moderada.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/68943.jpg"
+    },
+    {
+      "sku": "41795",
+      "nome": "Desodorante Colônia Kriska Feminino 100 ml",
+      "descricao": "Fragrância feminina adocicada moderada da linha clássica Kriska.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/41795.jpg"
+    },
+    {
+      "sku": "102422",
+      "nome": "Desodorante Colônia Humor Liberta 75 ml",
+      "descricao": "Fragrância compartilhável com pimenta-rosa, copaíba e notas frutais.",
+      "categoria": "Perfumaria",
+      "imagemOficial": "assets/images/catalogos/natura/102422.jpg"
+    }
+  ]
+}

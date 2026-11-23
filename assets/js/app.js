@@ -73,11 +73,10 @@ const products = [
   ...[["100291","Creme Facial Uniformizador","creme facial","50 g","jequiti_100291_sensi_creme_facial_uniformizador_50_g.png"],["100292","Sérum Efeito Clareador","sérum","30 ml","jequiti_100292_sensi_serum_efeito_clareador_30_ml_v2.png"],["18703","Gel de Limpeza Revigorante","gel de limpeza","100 g","jequiti_18703_sensi_gel_de_limpeza_revigorante_100_g.png"],["18705","Creme Facial Diurno Multirreparador","creme facial","50 g","jequiti_18705_sensi_creme_facial_diurno_multirreparador_50_g.png"],["18706","Creme Facial Noturno Regenerador","creme facial","50 g","jequiti_18706_sensi_creme_facial_noturno_regenerador_50_g.png"],["18707","Sérum Efeito Lipofilling","sérum","30 ml","jequiti_18707_sensi_serum_efeito_lipofilling_30_ml_v2.png"]].map(([code,name,productType,volume,file])=>jequiti({id:`jequiti-${code}`,code,name:`Sensi ${name}`,line:"Sensi",category:"Skincare",subcategory:"facial",audience:"unissex",productType,volume,shortDescription:`${name} para a rotina de skincare.`,image:jequitiImage("skincare",file)})),
 ];
 const catalogContexts = {
-  all: { primaryFilters: ["search", "brand", "category", "type"] },
-  feminine: { primaryFilters: ["search", "brand", "category", "type"], audience: ["feminino", "unissex"] },
-  masculine: { primaryFilters: ["search", "brand", "category", "type"], audience: ["masculino", "unissex"] },
   biozenthi: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line"], showOnlyUsefulFilters: true },
   jequiti: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line", "fragrance", "shade", "volume"], showOnlyUsefulFilters: true },
+  natura: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation"] },
+  combined: { primaryFilters: ["search", "category"], refinementFilters: ["category", "brand", "presentation", "line", "fragrance", "shade", "volume"] },
   brandSmall: { primaryFilters: ["search", "type"], refinementFilters: ["category"], showOnlyUsefulFilters: true },
 };
 function getProductSearchText(product) {
@@ -124,6 +123,14 @@ if (menuButton && menuNav) menuButton.addEventListener("click", () => {
   menuButton.setAttribute("aria-expanded", String(open));
   menuNav.classList.toggle("open", open);
 });
+const categoryName = (category) => ({
+  Skincare: "Cuidados com a pele",
+  Rosto: "Cuidados com a pele",
+  Corpo: "Corpo e banho",
+  "Corpo e Banho": "Corpo e banho",
+  "Cuidados Masculinos": "Cuidados masculinos",
+})[category] || category;
+
 // Navegação progressiva: os links originais permanecem disponíveis sem JavaScript.
 if (menuNav && menuButton) {
   const brandRoutes = { "Natura": "natura", "Avon": "avon", "Mary Kay": "mary-kay", "Eudora": "eudora", "dōTERRA": "doterra", "Jequiti": "jequiti", "O Boticário": "o-boticario", "Biozenthi": "biozenthi", "Herbia": "herbia", "Acqua Di Cleo": "acqua-di-cleo" };
@@ -168,11 +175,18 @@ if (menuNav && menuButton) {
     const close = document.createElement("button"); close.type = "button"; close.className = "mega-close"; close.textContent = "Fechar ×"; close.setAttribute("aria-label", `Fechar menu ${title.textContent}`); top.append(close); content.append(top);
     const columns = document.createElement("div"); columns.className = "mega-columns";
     const scope = key === "marcas" ? products : products.filter((product) => product.audience === key);
-    const categories = [...new Set(scope.map((product) => product.category))].sort((a,b) => a.localeCompare(b,"pt-BR"));
-    const brands = [...new Set(scope.map((product) => product.brand))].filter((name) => brandRoutes[name]).sort((a,b) => a.localeCompare(b,"pt-BR"));
+    const naturaCategories = {"feminino":["Corpo e Banho","Perfumaria"],"masculino":["Corpo e Banho","Cuidados Masculinos","Cuidados pessoais","Perfumaria"]};
+    const categories = [...new Set([...scope.map((product) => product.category), ...(naturaCategories[key] || [])].map(categoryName))].sort((a,b) => a.localeCompare(b,"pt-BR"));
+    const brandScope = key === "marcas" ? products : products.filter((product) => product.audience === key || product.audience === "unissex");
+    const brands = [...new Set([...brandScope.map((product) => product.brand), "Natura"])].filter((name) => brandRoutes[name]).sort((a,b) => a.localeCompare(b,"pt-BR"));
     if (key !== "marcas") {
       const section = document.createElement("section"); heading(section, "Categorias");
-      categories.forEach((category) => addLink(section, category, url(routes[key]))); columns.append(section);
+      categories.forEach((category) => {
+        const destination = new URL(routes[key], assetBase);
+        destination.searchParams.set("categoria", category);
+        addLink(section, category, destination.href);
+      });
+      columns.append(section);
     }
     const brandSection = document.createElement("section"); heading(brandSection, "Marcas");
     if (key === "marcas") {
@@ -228,6 +242,7 @@ function productCard(product) {
     return "https://wa.me/5547997854773?text=" + encodeURIComponent(lines.join("\n"));
   };
   link.href = whatsappHref();
+  if (product.brand === "Natura") details.textContent = `SKU: ${product.code}`;
   body.append(brand, name, category, details, description);
   if (product.variations?.length) {
     const picker = document.createElement("div"); picker.className = "variation-picker";
@@ -283,78 +298,96 @@ function loadProducts(items) {
     const image = new Image(); image.onload = () => resolve(p); image.onerror = () => resolve(null); image.src = new URL(p.image, assetBase).href;
   }))).then((results) => results.filter(Boolean));
 }
-const grid = document.querySelector("#products");
-if (grid) {
-  const brand = document.querySelector("#brand-filter"), search = document.querySelector("#search"), empty = document.querySelector("#empty"), count = document.querySelector("#catalog-count");
-  const category = document.querySelector("#category-filter"), clear = document.querySelector("#clear-filters");
-  const context = grid.dataset.category === "feminino" ? catalogContexts.feminine : grid.dataset.category === "masculino" ? catalogContexts.masculine : catalogContexts.all;
-  const filterShell = grid.closest("section")?.querySelector(".filters");
-  const addSelect = (id, label) => { const field = document.createElement("label"); field.textContent = label; const select = document.createElement("select"); select.id = id; select.disabled = true; field.append(select); clear ? clear.before(field) : filterShell?.append(field); return select; };
-  const type = context.primaryFilters.includes("type") ? document.querySelector("#type-filter") || addSelect("type-filter", "Tipo") : null;
-  const contextCategory = context.primaryFilters.includes("category") ? category || addSelect("category-filter", "Categoria") : null;
-  let available = [];
-  function render() {
-    const query = search.value.trim().toLocaleLowerCase("pt-BR");
-    const result = available.filter((p) => (!brand.value || p.brand === brand.value) && (!contextCategory || !contextCategory.value || p.category === contextCategory.value) && (!type || !type.value || p.productType === type.value) && getProductSearchText(p).includes(query));
-    grid.replaceChildren(...result.map(productCard));
-    count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
-    empty.hidden = result.length > 0;
-    empty.textContent = available.length ? "Nenhum produto encontrado para os filtros selecionados." : "O catálogo de produtos está sendo preparado.";
-  }
-  brand.addEventListener("change", render); search.addEventListener("input", render); render();
-  if (contextCategory) contextCategory.addEventListener("change", render); if (type) type.addEventListener("change", render);
-  if (clear) clear.addEventListener("click", () => { brand.value = ""; if (contextCategory) contextCategory.value = ""; if (type) type.value = ""; search.value = ""; render(); });
-  loadProducts(context.audience ? products.filter((p) => context.audience.includes(p.audience)) : products).then((items) => {
-    available = items; const names = [...new Set(items.map((p) => p.brand))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-    if (contextCategory) {
-      const categories = [...new Set(items.map((p) => p.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-      contextCategory.replaceChildren(new Option("Todas as categorias", "")); categories.forEach((categoryName) => contextCategory.add(new Option(categoryName, categoryName))); contextCategory.disabled = !categories.length;
-    }
-    if (type) { const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR")); type.replaceChildren(new Option("Todos os tipos", "")); types.forEach((productType) => type.add(new Option(productType, productType))); type.disabled = !types.length; }
-    brand.replaceChildren(new Option("Todas as marcas", "")); names.forEach((name) => brand.add(new Option(name, name))); brand.disabled = !names.length; const requestedBrand = new URL(window.location.href).searchParams.get("marca"); if (names.includes(requestedBrand)) brand.value = requestedBrand; render();
-  });
-}
-const brandGrid = document.querySelector("#brand-products");
+const brandGrid = document.querySelector("#brand-products, #natura-products, #products");
 if (brandGrid) {
-  const filter = document.querySelector("#type-filter"), empty = document.querySelector("#brand-empty"), count = document.querySelector("#brand-count");
-  const brandContext = brandGrid.dataset.brand === "Jequiti" ? catalogContexts.jequiti : brandGrid.dataset.brand === "Biozenthi" ? catalogContexts.biozenthi : catalogContexts.brandSmall;
+  const filter = document.querySelector("#type-filter");
+  const empty = document.querySelector("#brand-empty, #empty");
+  const count = document.querySelector("#brand-count, #catalog-count");
+  const combined = brandGrid.id === "products";
+  const audience = combined ? brandGrid.dataset.category : "";
+  const brandName = brandGrid.dataset.brand || "Natura";
+  const integrated = combined || brandGrid.id === "natura-products";
+  const brandContext = combined ? catalogContexts.combined : catalogContexts[brandName.toLowerCase()] || catalogContexts.brandSmall;
+  const sharedFilters = combined || integrated || ["Jequiti", "Biozenthi"].includes(brandName);
   if (brandContext.primaryFilters.includes("search") && !document.querySelector("#catalog-search")) {
-    const oldLabel = filter.closest("label");
+    const oldLabel = filter?.closest("label");
     const toolbar = document.createElement("div"); toolbar.className = "filters catalog-toolbar jequiti-filters";
-    const searchLabel = document.createElement("label"); searchLabel.textContent = "Buscar produto";
-    const input = document.createElement("input"); input.id = "catalog-search"; input.type = "search"; input.placeholder = "Buscar produto"; searchLabel.append(input);
-    const typeLabel = document.createElement("label"); typeLabel.textContent = "Filtrar por tipo"; typeLabel.append(filter);
+    const searchLabel = document.createElement("label"); searchLabel.textContent = "Buscar por nome ou código";
+    const input = document.createElement("input"); input.id = "catalog-search"; input.type = "search"; input.placeholder = "Buscar por nome ou código"; searchLabel.append(input);
+    const typeLabel = document.createElement("label"); typeLabel.textContent = "Filtrar por tipo"; if (filter) typeLabel.append(filter);
     const trigger = document.createElement("button"); trigger.type = "button"; trigger.id = "catalog-refine-trigger"; trigger.className = "catalog-refine-trigger"; trigger.textContent = "Refinar filtros";
     const panel = document.createElement("section"); panel.id = "catalog-refine-panel"; panel.className = "catalog-refine-panel"; panel.hidden = true;
     const head = document.createElement("div"); head.className = "catalog-refine-header"; const title = document.createElement("h3"); title.textContent = "Refinar filtros"; const close = document.createElement("button"); close.type = "button"; close.className = "catalog-refine-close"; close.textContent = "×"; close.setAttribute("aria-label", "Fechar refinamento"); head.append(title, close);
     const fields = document.createElement("div"); fields.className = "catalog-refine-fields";
-    brandContext.refinementFilters.map((id) => [id, ({ category: "Categoria", line: "Linha", fragrance: "Fragrância", shade: "Tom", volume: "Volume" })[id]]).forEach(([id, label]) => { const field = document.createElement("label"); field.textContent = label; const select = document.createElement("select"); select.id = `catalog-${id}-filter`; select.disabled = true; field.append(select); fields.append(field); });
+    brandContext.refinementFilters.map((id) => [id, ({ category: "Categoria", brand: "Marca", presentation: "Apresentação", line: "Linha", fragrance: "Fragrância", shade: "Tom", volume: "Volume" })[id]]).forEach(([id, label]) => { const field = document.createElement("label"); field.textContent = label; const select = document.createElement("select"); select.id = `catalog-${id}-filter`; select.disabled = true; field.append(select); fields.append(field); });
     const footer = document.createElement("div"); footer.className = "catalog-refine-footer"; const clear = document.createElement("button"); clear.type = "button"; clear.className = "catalog-refine-clear"; clear.textContent = "Limpar filtros"; const apply = document.createElement("button"); apply.type = "button"; apply.className = "catalog-refine-apply"; apply.textContent = "Aplicar filtros"; footer.append(clear, apply); panel.append(head, fields, footer);
     const chips = document.createElement("div"); chips.className = "catalog-active-filters"; chips.hidden = true; chips.setAttribute("aria-live", "polite");
-    toolbar.append(searchLabel, typeLabel, trigger); count.before(toolbar, panel, chips); oldLabel?.remove(); trigger.setAttribute("aria-controls", panel.id); trigger.setAttribute("aria-expanded", "false"); upgradeSelects();
+    const categoryField = fields.querySelector("#catalog-category-filter")?.closest("label");
+    if (sharedFilters && categoryField) {
+      toolbar.append(searchLabel, categoryField, trigger);
+      if (filter) fields.prepend(typeLabel);
+    } else {
+      toolbar.append(searchLabel, typeLabel, trigger);
+    }
+    const previousToolbar = oldLabel?.closest(".filters");
+    count.before(toolbar, panel, chips);
+    oldLabel?.remove();
+    if (combined) previousToolbar?.remove(); trigger.setAttribute("aria-controls", panel.id); trigger.setAttribute("aria-expanded", "false"); upgradeSelects();
   }
   const controls = (brandContext.refinementFilters || []).map((name) => document.querySelector(`#catalog-${name}-filter`)).filter(Boolean);
+  if (sharedFilters && filter) controls.unshift(filter);
   const search = document.querySelector("#catalog-search");
   const refine = document.querySelector("#catalog-refine-trigger"), panel = document.querySelector("#catalog-refine-panel"), chips = document.querySelector(".catalog-active-filters");
   let available = [];
+  const cards = new WeakMap();
   const value = (id) => document.querySelector(`#catalog-${id}-filter`)?.value || "";
   const setPanel = (open) => { if (!panel || !refine) return; panel.hidden = !open; refine.setAttribute("aria-expanded", String(open)); if (open) panel.querySelector("button, select:not(:disabled)")?.focus(); };
-  const updateRefinementUi = () => { const active = controls.filter((control) => control.value); if (refine) refine.textContent = active.length ? `Refinar filtros · ${active.length}` : "Refinar filtros"; if (!chips) return; chips.replaceChildren(); chips.hidden = !active.length; active.forEach((control) => { const chip = document.createElement("button"); chip.type = "button"; chip.className = "catalog-filter-chip"; const label = control.closest("label")?.childNodes[0]?.textContent?.trim() || "Filtro"; const option = control.selectedOptions[0]?.textContent || ""; chip.textContent = `${label}: ${option} ×`; chip.setAttribute("aria-label", `Remover filtro ${label}: ${option}`); chip.addEventListener("click", () => { control.value = ""; renderBrand(); }); chips.append(chip); }); if (active.length) { const clearAll = document.createElement("button"); clearAll.type = "button"; clearAll.className = "catalog-filter-clear-all"; clearAll.textContent = "Limpar tudo"; clearAll.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); renderBrand(); }); chips.append(clearAll); } };
+  const updateRefinementUi = () => { const active = controls.filter((control) => control.value); if (refine) refine.textContent = active.length ? `Refinar filtros · ${active.length}` : "Refinar filtros"; if (!chips) return; chips.replaceChildren(); chips.hidden = !active.length; active.forEach((control) => { const chip = document.createElement("button"); chip.type = "button"; chip.className = "catalog-filter-chip"; const label = control.closest("label")?.childNodes[0]?.textContent?.trim() || "Filtro"; const option = control.selectedOptions[0]?.textContent || ""; chip.textContent = `${label}: ${option} ×`; chip.setAttribute("aria-label", `Remover filtro ${label}: ${option}`); chip.addEventListener("click", () => { control.value = ""; renderBrand(); }); chips.append(chip); }); if (active.length) { const clearAll = document.createElement("button"); clearAll.type = "button"; clearAll.className = "catalog-filter-clear-all"; clearAll.textContent = "Limpar tudo"; clearAll.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); if (sharedFilters && search) search.value = ""; renderBrand(); }); chips.append(clearAll); } };
   function renderBrand() {
     const query = search?.value.trim().toLocaleLowerCase("pt-BR") || "";
     const result = available.filter((p) => {
       const hasVariation = (term) => p.variations?.some((variation) => variation.name === term || variation.code === term);
-      return (!filter.value || p.productType === filter.value) && (!value("category") || p.category === value("category")) && (!value("line") || p.line === value("line")) && (!value("audience") || p.audience === value("audience")) && (!value("fragrance") || p.fragrance === value("fragrance")) && (!value("shade") || p.shade === value("shade") || hasVariation(value("shade"))) && (!value("volume") || p.volume === value("volume")) && (!query || getProductSearchText(p).includes(query));
+      return (!filter?.value || p.productType === filter.value) && (!value("brand") || p.brand === value("brand")) && (!value("presentation") || p.presentation === value("presentation")) && (!value("category") || (sharedFilters ? categoryName(p.category) : p.category) === value("category")) && (!value("line") || p.line === value("line")) && (!value("audience") || p.audience === value("audience")) && (!value("fragrance") || p.fragrance === value("fragrance")) && (!value("shade") || p.shade === value("shade") || hasVariation(value("shade"))) && (!value("volume") || p.volume === value("volume")) && (!query || getProductSearchText(p).includes(query));
     });
-    brandGrid.replaceChildren(...result.map(productCard)); count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
+    brandGrid.replaceChildren(...result.map((product) => {
+      if (!cards.has(product)) cards.set(product, productCard(product));
+      return cards.get(product);
+    })); count.textContent = `${result.length} ${result.length === 1 ? "produto exibido" : "produtos exibidos"}`;
     empty.hidden = result.length > 0; empty.textContent = available.length ? "Nenhum produto encontrado para os filtros selecionados." : "O catálogo de produtos está sendo preparado."; updateRefinementUi();
   }
-  filter.addEventListener("change", renderBrand); search?.addEventListener("input", renderBrand); refine?.addEventListener("click", () => setPanel(panel?.hidden)); document.querySelector(".catalog-refine-close")?.addEventListener("click", () => setPanel(false)); document.querySelector(".catalog-refine-apply")?.addEventListener("click", () => { renderBrand(); setPanel(false); }); document.querySelector(".catalog-refine-clear")?.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); }); document.addEventListener("pointerdown", (event) => { if (panel && !panel.hidden && !panel.contains(event.target) && !refine?.contains(event.target)) setPanel(false); }); document.addEventListener("keydown", (event) => { if (event.key === "Escape" && panel && !panel.hidden) { event.preventDefault(); setPanel(false); refine?.focus(); } }); renderBrand();
-  loadProducts(products.filter((p) => p.brand === brandGrid.dataset.brand)).then((items) => {
-    available = items; const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-    filter.replaceChildren(new Option("Todos os tipos", "")); types.forEach((type) => filter.add(new Option(type, type))); filter.disabled = !types.length;
-    const populate = (id, key, label) => { const select = document.querySelector(`#catalog-${id}-filter`); if (!select) return; const values=[...new Set(items.flatMap((p)=>key === "shade" ? [p[key], ...(p.variations || []).map((variation)=>variation.name)] : [p[key]]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR")); select.replaceChildren(new Option(label,"")); values.forEach((v)=>select.add(new Option(v,v))); select.disabled=!values.length; const field = select.closest("label"); if (field) field.hidden = values.length <= 1; };
-    const refinementLabels = { category: "Todas as categorias", line: "Todas as linhas", fragrance: "Todas as fragrâncias", shade: "Todos os tons", volume: "Todos os volumes" }; brandContext.refinementFilters.forEach((id) => populate(id, id, refinementLabels[id])); renderBrand();
+  if (sharedFilters) document.querySelector("#catalog-category-filter")?.addEventListener("change", renderBrand);
+  else filter?.addEventListener("change", renderBrand);
+  search?.addEventListener("input", renderBrand); refine?.addEventListener("click", () => setPanel(panel?.hidden)); document.querySelector(".catalog-refine-close")?.addEventListener("click", () => { setPanel(false); refine?.focus(); }); document.querySelector(".catalog-refine-apply")?.addEventListener("click", () => { renderBrand(); setPanel(false); refine?.focus(); }); document.querySelector(".catalog-refine-clear")?.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); }); document.addEventListener("pointerdown", (event) => { if (panel && !panel.hidden && !panel.contains(event.target) && !refine?.contains(event.target)) setPanel(false); }); document.addEventListener("keydown", (event) => { if (event.key === "Escape" && panel && !panel.hidden) { event.preventDefault(); setPanel(false); refine?.focus(); } }); renderBrand();
+  const otherProducts = products.filter((product) => {
+    if (!combined) return product.brand === brandName;
+    return !audience || product.audience === audience || product.audience === "unissex";
+  });
+  const loading = integrated
+    ? Promise.all([otherProducts.filter((product) => product.image), (window.loadNaturaCatalog?.() || Promise.resolve([])).catch((error) => {
+      console.error("Catálogo Natura indisponível.", error);
+      return [];
+    })]).then(([others, natura]) => [
+      ...others.map((product) => ({ ...product, presentation: "Produto regular" })),
+      ...natura.filter((product) => !audience || product.audience === audience),
+    ])
+    : loadProducts(otherProducts);
+  loading.then((items) => {
+    available = items;
+    if (filter) {
+      const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
+      filter.replaceChildren(new Option("Todos os tipos", ""));
+      types.forEach((type) => filter.add(new Option(type, type)));
+      filter.disabled = !types.length;
+    }
+    const populate = (id, key, label) => { const select = document.querySelector(`#catalog-${id}-filter`); if (!select) return; const values=[...new Set(items.flatMap((p)=>key === "shade" ? [p[key], ...(p.variations || []).map((variation)=>variation.name)] : [sharedFilters && key === "category" ? categoryName(p[key]) : p[key]]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR")); select.replaceChildren(new Option(label,"")); values.forEach((v)=>select.add(new Option(v,v))); select.disabled=!values.length; const field = select.closest("label"); if (field) field.hidden = values.length <= 1 && !(sharedFilters && id === "category" && values.length); };
+    const refinementLabels = { category: "Todas as categorias", brand: "Todas as marcas", presentation: "Todas as apresentações", line: "Todas as linhas", fragrance: "Todas as fragrâncias", shade: "Todos os tons", volume: "Todos os volumes" }; brandContext.refinementFilters.forEach((id) => populate(id, id, refinementLabels[id]));
+    const params = new URL(window.location.href).searchParams;
+    for (const [param, id] of [["marca", "brand"], ["categoria", "category"], ["apresentacao", "presentation"]]) {
+      const select = document.querySelector("#catalog-" + id + "-filter");
+      const requested = params.get(param);
+      if (select && Array.from(select.options).some((option) => option.value === requested)) select.value = requested;
+    }
+    renderBrand();
   });
 }
 
@@ -580,7 +613,7 @@ if (favorites) {
   let selected = "";
   let available = [];
   function renderFavorites() {
-    const shown = available.filter((product) => !selected || product.category === selected);
+    const shown = available.filter((product) => !selected || categoryName(product.category) === selected);
     grid.replaceChildren();
     shown.forEach((product) => {
       const card = document.createElement("article"); card.className = "favorite-card";

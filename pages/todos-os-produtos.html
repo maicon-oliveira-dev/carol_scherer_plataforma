@@ -4,12 +4,12 @@
     ><meta charset="utf-8" /><meta
       name="viewport"
       content="width=device-width,initial-scale=1" /><title
-      >Masculino | Carol Scherer Cosméticos</title
+      >Todos os produtos | Carol Scherer Cosméticos</title
     ><meta
       name="description"
       content="Carol Scherer, consultora de beleza e bem-estar em São Bento do Sul. Conheça marcas e converse sobre produtos disponíveis." /><link
       rel="stylesheet"
-      href="../assets/css/style.css" /><script
+      href="../assets/css/style.css" /><script defer src="../assets/js/natura.js"></script><script
       defer
       src="../assets/js/app.js"
     ></script></head
@@ -36,14 +36,9 @@
       <p>Conheça a seleção de produtos e converse com a Carol.</p>
       <a class="button all-products-hero-cta" href="#catalogo-geral">Explorar produtos &rarr;</a></div>
     </section><section class="section" id="catalogo-geral"><div class="wrap">
-      <div class="filters">
-        <label>Marca<br /><select id="brand-filter"><option value="">Todas as marcas</option></select></label>
-        <label>Categoria<br /><select id="category-filter"><option value="">Todas as categorias</option></select></label>
-        <label>Buscar<br /><input id="search" type="search" placeholder="Buscar produto" /></label>
-        <button type="button" class="button" id="clear-filters">Limpar filtros</button>
-      </div>
+      <div class="filters"><label>Tipo<select id="type-filter"><option value="">Todos os tipos</option></select></label></div>
       <p id="catalog-count" aria-live="polite">0 produtos exibidos</p>
-      <div id="products" class="grid catalog-grid"></div>
+      <div id="products" class="grid catalog-grid" data-catalog="combined"></div>
       <div id="empty" class="notice" role="status">O catálogo de produtos está sendo preparado.</div>
     </div></section></main
     ><section class="contact"
