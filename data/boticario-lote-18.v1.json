@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B96743",
+      "nome": "Sérum Antioxidante Iluminador Botik Vitamina C 10% 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B96743.webp"
+    },
+    {
+      "sku": "B87031",
+      "nome": "Refil Sérum de Alta Potência Vitamina C 10% Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Refil",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87031.webp"
+    },
+    {
+      "sku": "B53186",
+      "nome": "Sérum de Alta potência Vitamina C 10% Botik 15 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 15 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "15 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53186.webp"
+    },
+    {
+      "sku": "B87491",
+      "nome": "Gel de Limpeza Facial Micelar Ácido Mandélico + Salicílico Botik 150 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 150 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87491.webp"
+    },
+    {
+      "sku": "B89457",
+      "nome": "Sérum de Alta Potência Ácido Mandélico 10% + Salicílico Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89457.webp"
+    },
+    {
+      "sku": "B87780",
+      "nome": "Loção Hidratante Facial Antioleosidade Ácido Poliglutâmico + Chá Verde Botik 110 ml",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 110 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87780.webp"
+    },
+    {
+      "sku": "B87600",
+      "nome": "Sérum de Alta Potência Ácido Glicólico 8% Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87600.webp"
+    },
+    {
+      "sku": "B47321",
+      "nome": "Sérum de Alta Potência Ácido Mandélico + Tranexâmico 5% Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47321.webp"
+    },
+    {
+      "sku": "B49403",
+      "nome": "Sérum Facial de Alta Potência Botik Retinol Puro 15 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 15 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "15 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49403.webp"
+    },
+    {
+      "sku": "B55403",
+      "nome": "Sérum de Alta Potência Resveratrol e Silício Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55403.webp"
+    },
+    {
+      "sku": "B83550",
+      "nome": "Sérum Facial de Alta Potência Retinol Puro Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83550.webp"
+    },
+    {
+      "sku": "B88471",
+      "nome": "Gel Creme Redutor de Rugas Retinol Puro Botik 30 g",
+      "descricao": "Creme corporal da linha Botik. Apresentação de 30 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Creme corporal",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88471.webp"
+    },
+    {
+      "sku": "B04481",
+      "nome": "Creme Hidratante Firmador Poliglutâmico + Rosa Mosqueta Botik 50 g",
+      "descricao": "Creme corporal da linha Botik. Apresentação de 50 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Creme corporal",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B04481.webp"
+    },
+    {
+      "sku": "B59876",
+      "nome": "Creme Facial Multirreparador Calmante Cica Pantenol e Ceramidas Botik 30 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 30 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59876.webp"
+    },
+    {
+      "sku": "B59875",
+      "nome": "Água Micelar Reparadora Botik Cica Pantenol e Ceramidas 200 ml",
+      "descricao": "Hidratante corporal da linha Botik. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59875.webp"
+    },
+    {
+      "sku": "B84808",
+      "nome": "Reparador Labial Botik Cica Pantenol e Ceramidas 7,5 ml",
+      "descricao": "Hidratante corporal da linha Botik. Apresentação de 7,5 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Hidratante corporal",
+      "volume": "7,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84808.webp"
+    },
+    {
+      "sku": "B59480",
+      "nome": "Protetor Solar para As Mãos FPS 30 Boti Sun Boti.Sun 45 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 45 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "45 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59480.webp"
+    },
+    {
+      "sku": "B57749",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 2.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57749.webp"
+    },
+    {
+      "sku": "B57758",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 3.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57758.webp"
+    },
+    {
+      "sku": "B57759",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 4.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57759.webp"
+    }
+  ]
+}

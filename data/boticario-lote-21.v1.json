@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B58982",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 120N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58982.webp"
+    },
+    {
+      "sku": "B88662",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 130Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88662.webp"
+    },
+    {
+      "sku": "B59046",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 275N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59046.webp"
+    },
+    {
+      "sku": "B59047",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 290N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59047.webp"
+    },
+    {
+      "sku": "B59048",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 300Q 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59048.webp"
+    },
+    {
+      "sku": "B59049",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 340Q 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59049.webp"
+    },
+    {
+      "sku": "B59050",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 345N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59050.webp"
+    },
+    {
+      "sku": "B59041",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 140Q 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59041.webp"
+    },
+    {
+      "sku": "B59039",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 100F 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59039.webp"
+    },
+    {
+      "sku": "B59042",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 170Q 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59042.webp"
+    },
+    {
+      "sku": "B59040",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 120N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59040.webp"
+    },
+    {
+      "sku": "B59043",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 210Q 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59043.webp"
+    },
+    {
+      "sku": "B59045",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 260N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59045.webp"
+    },
+    {
+      "sku": "B59044",
+      "nome": "Corretivo Líquido Make B. Retinol H+ Tom 225N 5,5 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 5,5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "5,5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59044.webp"
+    },
+    {
+      "sku": "B58981",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Invisível 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58981.webp"
+    },
+    {
+      "sku": "B52798",
+      "nome": "BB Cream Multiprotetor FPS 40 Make B. Sense Cor 3 (tons 220–260) 25 g",
+      "descricao": "Multiprotetor da linha Make B.. Apresentação de 25 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Multiprotetor",
+      "volume": "25 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52798.webp"
+    },
+    {
+      "sku": "B52794",
+      "nome": "BB Cream Multiprotetor FPS 40 Make B. Sense Cor 1 (tons 100–150) 25 g",
+      "descricao": "Multiprotetor da linha Make B.. Apresentação de 25 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Multiprotetor",
+      "volume": "25 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52794.webp"
+    },
+    {
+      "sku": "B52795",
+      "nome": "BB Cream Multiprotetor FPS 40 Make B. Sense Cor 2 (tons 160–220) 25 g",
+      "descricao": "Multiprotetor da linha Make B.. Apresentação de 25 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Multiprotetor",
+      "volume": "25 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52795.webp"
+    },
+    {
+      "sku": "B52797",
+      "nome": "BB Cream Multiprotetor FPS 40 Make B. Sense Cor 4 (tons 270–330) 25 g",
+      "descricao": "Multiprotetor da linha Make B.. Apresentação de 25 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Multiprotetor",
+      "volume": "25 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52797.webp"
+    },
+    {
+      "sku": "B84895",
+      "nome": "Elixir Facial Make B.Drops of Beauty 30 ml",
+      "descricao": "Cuidado facial da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Cuidado facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84895.webp"
+    }
+  ]
+}

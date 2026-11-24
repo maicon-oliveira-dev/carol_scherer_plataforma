@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B59053",
+      "nome": "Batom Líquido Make B. Retinol H+ Caramel Classic 6 ml",
+      "descricao": "Batom da linha Make B.. Apresentação de 6 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "6 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59053.webp"
+    },
+    {
+      "sku": "B59052",
+      "nome": "Batom Líquido Make B. Retinol H+ Pink Hibiscus 6 ml",
+      "descricao": "Batom da linha Make B.. Apresentação de 6 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "6 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59052.webp"
+    },
+    {
+      "sku": "B58992",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 250Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58992.webp"
+    },
+    {
+      "sku": "B58993",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 260N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58993.webp"
+    },
+    {
+      "sku": "B58994",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 270Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58994.webp"
+    },
+    {
+      "sku": "B88669",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 275N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88669.webp"
+    },
+    {
+      "sku": "B58996",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 285N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58996.webp"
+    },
+    {
+      "sku": "B58997",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 290N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58997.webp"
+    },
+    {
+      "sku": "B58998",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 300Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58998.webp"
+    },
+    {
+      "sku": "B59000",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 330Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59000.webp"
+    },
+    {
+      "sku": "B59002",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 340Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59002.webp"
+    },
+    {
+      "sku": "B59003",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 345N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59003.webp"
+    },
+    {
+      "sku": "B58990",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 215Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58990.webp"
+    },
+    {
+      "sku": "B88666",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 220Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88666.webp"
+    },
+    {
+      "sku": "B58991",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 225N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58991.webp"
+    },
+    {
+      "sku": "B88665",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 210Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88665.webp"
+    },
+    {
+      "sku": "B58986",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 205N 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58986.webp"
+    },
+    {
+      "sku": "B88664",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 185F 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88664.webp"
+    },
+    {
+      "sku": "B58983",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 170Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58983.webp"
+    },
+    {
+      "sku": "B88663",
+      "nome": "Base Líquida FPS 80 Make B. Retinol³ H+ Tom 140Q 26 g",
+      "descricao": "Base da linha Make B.. Apresentação de 26 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "26 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88663.webp"
+    }
+  ]
+}

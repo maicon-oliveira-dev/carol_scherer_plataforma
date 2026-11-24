@@ -1,0 +1,237 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B54231",
+      "nome": "Malbec Ultra Bleu Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54231.webp"
+    },
+    {
+      "sku": "B56687",
+      "nome": "Sérum Antioleosidade Malbec Facial 30 ml",
+      "descricao": "Sérum facial da linha Malbec. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56687.webp"
+    },
+    {
+      "sku": "B56690",
+      "nome": "Gel de Limpeza Antioleosidade Malbec Facial 150 g",
+      "descricao": "Gel de limpeza facial da linha Malbec. Apresentação de 150 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Gel de limpeza facial",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B56690.webp"
+    },
+    {
+      "sku": "B56688",
+      "nome": "Multiprotetor Antioleosidade FPS30 Malbec Facial 40 ml",
+      "descricao": "Protetor facial da linha Malbec. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Protetor facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56688.webp"
+    },
+    {
+      "sku": "B59019",
+      "nome": "Loção Hidratante Desodorante Corporal Malbec 200 ml",
+      "descricao": "Loção hidratante corporal da linha Malbec. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59019.webp"
+    },
+    {
+      "sku": "B59034",
+      "nome": "Condicionador Anticaspa Malbec 250 ml",
+      "descricao": "Condicionador da linha Malbec. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59034.avif"
+    },
+    {
+      "sku": "B86706",
+      "nome": "Clash Extreme Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Clash. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Clash",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86706.webp"
+    },
+    {
+      "sku": "B50677",
+      "nome": "Clash Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Clash. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Clash",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50677.webp"
+    },
+    {
+      "sku": "B86869",
+      "nome": "Loção Hidratante Desodorante Corporal Clash 200 ml",
+      "descricao": "Loção hidratante corporal da linha Clash. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Clash",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86869.webp"
+    },
+    {
+      "sku": "B86707",
+      "nome": "Body Spray Desodorante Clash Extreme 100 ml",
+      "descricao": "Body spray da linha Clash. Apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Clash",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86707.webp"
+    },
+    {
+      "sku": "B95532",
+      "nome": "Shower Gel Cabelo, Corpo e Barba Clash Extreme 150 g",
+      "descricao": "Shower gel da linha Clash. Apresentação de 150 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Clash",
+      "tipo": "Shower gel",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B95532.webp"
+    },
+    {
+      "sku": "B58729",
+      "nome": "Botica 214 Sevilla Dorada Eau de Parfum Fougére Aromático 90 ml",
+      "descricao": "Eau de parfum da linha Botica 214. Apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58729.webp"
+    },
+    {
+      "sku": "B51395",
+      "nome": "Botica 214 Fiji Paradise Fougère Especiado Eau de Parfum 90 ml",
+      "descricao": "Eau de parfum da linha Botica 214. Apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51395.webp"
+    },
+    {
+      "sku": "B54658",
+      "nome": "Botica 214 African Sunrise Fougére Amadeirado Eau de Parfum 90 ml",
+      "descricao": "Eau de parfum da linha Botica 214. Apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54658.webp"
+    },
+    {
+      "sku": "B85645",
+      "nome": "Botica 214 Arabian Oasis Fougère Ambarado Eau de Parfum 90 ml",
+      "descricao": "Eau de parfum da linha Botica 214. Apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85645.webp"
+    },
+    {
+      "sku": "B88295",
+      "nome": "Zaad Infinity Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88295.webp"
+    },
+    {
+      "sku": "B54457",
+      "nome": "Zaad Venture Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54457.webp"
+    },
+    {
+      "sku": "B51874",
+      "nome": "Zaad Arctic Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51874.webp"
+    },
+    {
+      "sku": "B47950",
+      "nome": "Zaad Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47950.webp"
+    },
+    {
+      "sku": "B58644",
+      "nome": "Zaad Intense Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58644.webp"
+    },
+    {
+      "sku": "B46898",
+      "nome": "Zaad Expedition Eau de Parfum 95 ml",
+      "descricao": "Eau de parfum da linha Zaad. Apresentação de 95 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Zaad",
+      "tipo": "Eau de parfum",
+      "volume": "95 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B46898.webp"
+    }
+  ]
+}

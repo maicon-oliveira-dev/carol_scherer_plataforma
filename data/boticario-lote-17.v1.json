@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B58227",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Deleite Chocolatudo 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58227.webp"
+    },
+    {
+      "sku": "B53510",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Show de Banho 200 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53510.webp"
+    },
+    {
+      "sku": "B47151",
+      "nome": "Antitranspirante Aerossol Jato Seco Cuide-se Bem Zero Alumínio 90 g",
+      "descricao": "Antitranspirante aerossol da linha Cuide-se Bem. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47151.webp"
+    },
+    {
+      "sku": "B59405",
+      "nome": "Gel Esfoliante Corporal Cuide-se Bem Melancia 150 g",
+      "descricao": "Esfoliante corporal da linha Cuide-se Bem. Apresentação de 150 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Esfoliante corporal",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59405.webp"
+    },
+    {
+      "sku": "B94676",
+      "nome": "Esfoliante Facial Cuide-se Bem Feira Morango 100 g",
+      "descricao": "Cuidado facial da linha Cuide-se Bem. Apresentação de 100 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Cuidado facial",
+      "volume": "100 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B94676.webp"
+    },
+    {
+      "sku": "B94675",
+      "nome": "Gel Hidratante Refrescante Facial Cuide-se Bem Feira Maçã Verde 80 g",
+      "descricao": "Cuidado facial da linha Cuide-se Bem. Apresentação de 80 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Cuidado facial",
+      "volume": "80 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B94675.webp"
+    },
+    {
+      "sku": "B54805",
+      "nome": "Máscara Facial Noturna Cuide-se Bem Melancia 50 g",
+      "descricao": "Cuidado facial da linha Cuide-se Bem. Apresentação de 50 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Cuidado facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B54805.webp"
+    },
+    {
+      "sku": "B89485",
+      "nome": "Sérum Facial Lifting Firmador Botik Peptídeos Pró-Elastina 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89485.webp"
+    },
+    {
+      "sku": "B53838",
+      "nome": "Protetor Solar Facial Fluido FPS 50 Botik Ácido Hialurônico 40 ml",
+      "descricao": "Protetor solar facial da linha Botik. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53838.webp"
+    },
+    {
+      "sku": "B53386",
+      "nome": "Protetor Solar Facial Fluido FPS 80 Botik Ácido Hialurônico 40 ml",
+      "descricao": "Protetor solar facial da linha Botik. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53386.webp"
+    },
+    {
+      "sku": "B89459",
+      "nome": "Creme Firmador para Olhos Botik Peptídeos Pró-Elastina 15 g",
+      "descricao": "Creme corporal da linha Botik. Apresentação de 15 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Creme corporal",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89459.webp"
+    },
+    {
+      "sku": "B77138",
+      "nome": "Creme Concentrado para Área dos Olhos Ácido Hialurônico e Cafeína Botik 15 g",
+      "descricao": "Creme corporal da linha Botik. Apresentação de 15 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Creme corporal",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B77138.webp"
+    },
+    {
+      "sku": "B95770",
+      "nome": "Gel de Limpeza Facial Suave Cica Pantenol e Ceramidas Botik 200 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 200 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B95770.webp"
+    },
+    {
+      "sku": "B96724",
+      "nome": "Sérum Preenchedor de Rugas Ácido Hialurônico Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B96724.webp"
+    },
+    {
+      "sku": "B87030",
+      "nome": "Refil Sérum de Alta Potência Ácido Hialurônico Botik 30 ml",
+      "descricao": "Sérum facial da linha Botik. Apresentação de 30 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Refil",
+      "linha": "Botik",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87030.webp"
+    },
+    {
+      "sku": "B87482",
+      "nome": "Creme Facial Firmador Ácido Hialurônico Botik 40 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 40 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87482.webp"
+    },
+    {
+      "sku": "B87483",
+      "nome": "Refil Creme Facial Firmador Ácido Hialurônico Botik 40 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 40 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Refil",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87483.webp"
+    },
+    {
+      "sku": "B04520",
+      "nome": "Gel Creme Facial Firmador Ácido Hialurônico Botik 40 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 40 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B04520.webp"
+    },
+    {
+      "sku": "B94197",
+      "nome": "Refil Gel Creme Facial Firmador Ácido Hialurônico Botik 40 g",
+      "descricao": "Cuidado facial da linha Botik. Apresentação de 40 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Refil",
+      "linha": "Botik",
+      "tipo": "Cuidado facial",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B94197.webp"
+    },
+    {
+      "sku": "B51468",
+      "nome": "Creme Hidratante Antioxidante Botik Vitamina C 50 g",
+      "descricao": "Creme corporal da linha Botik. Apresentação de 50 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Botik",
+      "tipo": "Creme corporal",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51468.webp"
+    }
+  ]
+}

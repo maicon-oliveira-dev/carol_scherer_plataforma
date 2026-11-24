@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B48771",
+      "nome": "Loção Hidratante Corporal FPS 15 Quinoa Nativa SPA 200 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48771.webp"
+    },
+    {
+      "sku": "B85099",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Quinoa e Amêndoas 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85099.webp"
+    },
+    {
+      "sku": "B01697",
+      "nome": "Óleo Multifuncional Glorioso Corpo e Cabelos Nativa SPA Quinoa 85 ml",
+      "descricao": "Óleo corporal e capilar da linha Nativa SPA. Apresentação de 85 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal e capilar",
+      "volume": "85 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B01697.webp"
+    },
+    {
+      "sku": "B86765",
+      "nome": "Loção Firmadora Desodorante Corporal Nativa SPA Quinoa 400 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86765.webp"
+    },
+    {
+      "sku": "B95919",
+      "nome": "Creme Perfumado Desodorante Corporal Baunilha Exclusive Nativa SPA 380 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 380 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "380 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95919.webp"
+    },
+    {
+      "sku": "B87914",
+      "nome": "Creme Hidratante para Mãos e Pés Nativa SPA Lilac 50 g",
+      "descricao": "Creme para mãos da linha Nativa SPA. Apresentação de 50 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme para mãos",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87914.webp"
+    },
+    {
+      "sku": "B95920",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Baunilha Exclusive Nativa SPA 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95920.webp"
+    },
+    {
+      "sku": "B58987",
+      "nome": "Óleo Bifásico Hidratante Desodorante Corporal Nativa SPA Uva Merlot 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58987.webp"
+    },
+    {
+      "sku": "B55707",
+      "nome": "Loção Renovadora Desodorante Hidratante Corporal Nativa SPA Lilac 180 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55707.webp"
+    },
+    {
+      "sku": "B58984",
+      "nome": "Loção Nutritiva Desodorante Nativa SPA Uva Merlot 180 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58984.webp"
+    },
+    {
+      "sku": "B53346",
+      "nome": "Loção Renovadora Desodorante Hidratante Corporal Nativa SPA Lilac 400 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53346.webp"
+    },
+    {
+      "sku": "B58980",
+      "nome": "Refil Loção Nutritiva Desodorante Nativa SPA Uva Merlot 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58980.webp"
+    },
+    {
+      "sku": "B53347",
+      "nome": "Refil Loção Renovadora Desodorante Hidratante Corporal Nativa SPA Lilac 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53347.webp"
+    },
+    {
+      "sku": "B59518",
+      "nome": "Refil Loção Firmadora Desodorante Corporal Quinoa Nativa SPA 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59518.webp"
+    },
+    {
+      "sku": "B48286",
+      "nome": "Sabonete Líquido para Mãos Nativa SPA Ameixa 400 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48286.webp"
+    },
+    {
+      "sku": "B85051",
+      "nome": "Refil Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Ameixa 150 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85051.webp"
+    },
+    {
+      "sku": "B85096",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Ameixa 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85096.webp"
+    },
+    {
+      "sku": "B88073",
+      "nome": "Creme Hidratante para Mãos Ameixa Nativa SPA 75 g",
+      "descricao": "Creme para mãos da linha Nativa SPA. Apresentação de 75 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme para mãos",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88073.webp"
+    },
+    {
+      "sku": "B88079",
+      "nome": "Loção Hidratante Corporal Desodorante Nativa SPA Ameixa 200 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88079.webp"
+    },
+    {
+      "sku": "B88077",
+      "nome": "Loção Hidratante Desodorante Corporal Nativa SPA Ameixa 400 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88077.webp"
+    }
+  ]
+}

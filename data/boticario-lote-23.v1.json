@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B87794",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 205N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87794.webp"
+    },
+    {
+      "sku": "B89073",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 290N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89073.webp"
+    },
+    {
+      "sku": "B87795",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 210Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87795.webp"
+    },
+    {
+      "sku": "B89074",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 300Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89074.webp"
+    },
+    {
+      "sku": "B87796",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 215Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87796.webp"
+    },
+    {
+      "sku": "B89075",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 330Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89075.webp"
+    },
+    {
+      "sku": "B87797",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 220Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87797.webp"
+    },
+    {
+      "sku": "B89076",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 340Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89076.webp"
+    },
+    {
+      "sku": "B87799",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 225N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87799.webp"
+    },
+    {
+      "sku": "B89077",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 345N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89077.webp"
+    },
+    {
+      "sku": "B50706",
+      "nome": "Blush em Pó Make B. Ácido Poliglutâmico Rose 5,5 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B50706.webp"
+    },
+    {
+      "sku": "B51179",
+      "nome": "Blush em Pó Make B. Ácido Poliglutâmico Brown 5,5 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51179.webp"
+    },
+    {
+      "sku": "B50705",
+      "nome": "Blush em Pó Make B. Ácido Poliglutâmico Coral 5,5 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B50705.webp"
+    },
+    {
+      "sku": "B50704",
+      "nome": "Blush em Pó Make B. Ácido Poliglutâmico Berry 5,5 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B50704.webp"
+    },
+    {
+      "sku": "B59134",
+      "nome": "Iluminador Compacto Make B. Gold 5,4 g",
+      "descricao": "Iluminador da linha Make B.. Apresentação de 5,4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Iluminador",
+      "volume": "5,4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B59134.webp"
+    },
+    {
+      "sku": "B85668",
+      "nome": "Iluminador Compacto Make B. Rose 5,4 g",
+      "descricao": "Iluminador da linha Make B.. Apresentação de 5,4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Iluminador",
+      "volume": "5,4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85668.webp"
+    },
+    {
+      "sku": "B85666",
+      "nome": "Palette de Blush Make B. Pink Hit 8 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 8 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "8 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85666.webp"
+    },
+    {
+      "sku": "B85667",
+      "nome": "Palette de Blush Make B. Cherry Hit 8 g",
+      "descricao": "Blush da linha Make B.. Apresentação de 8 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Blush",
+      "volume": "8 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85667.webp"
+    },
+    {
+      "sku": "B90664",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 290N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90664.webp"
+    },
+    {
+      "sku": "B90673",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 245Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90673.webp"
+    }
+  ]
+}

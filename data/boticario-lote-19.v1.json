@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B57750",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 1.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57750.webp"
+    },
+    {
+      "sku": "B88910",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 4.5 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88910.webp"
+    },
+    {
+      "sku": "B57761",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 5.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57761.webp"
+    },
+    {
+      "sku": "B57764",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 6.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57764.webp"
+    },
+    {
+      "sku": "B57763",
+      "nome": "Protetor Solar Facial com Cor FPS 70 Boti.Sun Tom 7.0 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57763.webp"
+    },
+    {
+      "sku": "B50396",
+      "nome": "Protetor Solar Facial Antioxidante FPS30 Boti.Sun Ultra Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50396.webp"
+    },
+    {
+      "sku": "B47598",
+      "nome": "Protetor Solar Facial Antioleosidade FPS30 Boti.Sun Acqua Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47598.webp"
+    },
+    {
+      "sku": "B47600",
+      "nome": "Protetor Solar Facial Antissinais FPS30 Boti.Sun Acqua Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47600.webp"
+    },
+    {
+      "sku": "B47602",
+      "nome": "Protetor Solar Facial Antissinais FPS70 Boti.Sun Acqua Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47602.webp"
+    },
+    {
+      "sku": "B47962",
+      "nome": "Protetor Solar Facial Antioxidante FPS 70 Boti.Sun Ultra Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47962.webp"
+    },
+    {
+      "sku": "B47599",
+      "nome": "Protetor Solar Facial Antioleosidade FPS70 Boti.Sun Acqua Fluido 40 ml",
+      "descricao": "Protetor solar facial da linha Boti.Sun. Apresentação de 40 ml.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar facial",
+      "volume": "40 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47599.webp"
+    },
+    {
+      "sku": "B47963",
+      "nome": "Protetor Solar Corporal FPS50 Boti.Sun 200 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47963.webp"
+    },
+    {
+      "sku": "B47596",
+      "nome": "Gel Hidratante Pós-Sol Boti Sun Acqua Gel Boti.Sun 120 g",
+      "descricao": "Cuidado corporal da linha Boti.Sun. Apresentação de 120 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Cuidado corporal",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47596.webp"
+    },
+    {
+      "sku": "B50395",
+      "nome": "Protetor Solar Corporal FPS30 Boti.Sun 200 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B50395.webp"
+    },
+    {
+      "sku": "B86865",
+      "nome": "Protetor Solar Corporal FPS 70 Boti.Sun 120 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 120 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86865.webp"
+    },
+    {
+      "sku": "B52342",
+      "nome": "Protetor Solar Corporal FPS70 Boti.Sun 200 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52342.webp"
+    },
+    {
+      "sku": "B86866",
+      "nome": "Protetor Solar Corporal FPS 50 Boti.Sun 120 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 120 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86866.webp"
+    },
+    {
+      "sku": "B55930",
+      "nome": "Protetor Solar Infantil FPS70 Boti Sun Kids Boti.Sun 120 g",
+      "descricao": "Protetor solar da linha Boti.Sun. Apresentação de 120 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boti.Sun",
+      "tipo": "Protetor solar",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B55930.webp"
+    },
+    {
+      "sku": "B56796",
+      "nome": "Shampoo Match Science Pré e Pós-Química 300 ml",
+      "descricao": "Creme para barba da linha Match. Apresentação de 300 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Match",
+      "tipo": "Creme para barba",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56796.webp"
+    },
+    {
+      "sku": "B59051",
+      "nome": "Batom Líquido Make B. Retinol H+ Red Velvet 6 ml",
+      "descricao": "Batom da linha Make B.. Apresentação de 6 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "6 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59051.webp"
+    }
+  ]
+}

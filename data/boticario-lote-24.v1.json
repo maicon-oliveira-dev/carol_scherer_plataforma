@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B90662",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 295Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90662.webp"
+    },
+    {
+      "sku": "B90672",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 250N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90672.webp"
+    },
+    {
+      "sku": "B90661",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 300Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90661.webp"
+    },
+    {
+      "sku": "B90671",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 255Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90671.webp"
+    },
+    {
+      "sku": "B90660",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 310Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90660.webp"
+    },
+    {
+      "sku": "B90670",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 260N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90670.webp"
+    },
+    {
+      "sku": "B90659",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 320N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90659.webp"
+    },
+    {
+      "sku": "B90669",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 265Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90669.webp"
+    },
+    {
+      "sku": "B90658",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 325F 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90658.webp"
+    },
+    {
+      "sku": "B90668",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 270Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90668.webp"
+    },
+    {
+      "sku": "B90657",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 330Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90657.webp"
+    },
+    {
+      "sku": "B90667",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 275N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90667.webp"
+    },
+    {
+      "sku": "B90656",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 335N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90656.webp"
+    },
+    {
+      "sku": "B90666",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 280Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90666.webp"
+    },
+    {
+      "sku": "B90655",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 340Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90655.webp"
+    },
+    {
+      "sku": "B90665",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 285N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90665.webp"
+    },
+    {
+      "sku": "B90654",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 345N 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90654.webp"
+    },
+    {
+      "sku": "B90653",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 350F 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90653.webp"
+    },
+    {
+      "sku": "B90674",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 240F 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90674.webp"
+    },
+    {
+      "sku": "B90728",
+      "nome": "Base Líquida Mate Make B. Salicylic Tom 110Q 30 g",
+      "descricao": "Base da linha Make B.. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90728.webp"
+    }
+  ]
+}

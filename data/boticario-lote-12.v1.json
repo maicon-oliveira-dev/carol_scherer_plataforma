@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B59517",
+      "nome": "Refil Nativa SPA Loção Desodorante Hidratante Corporal Ameixa 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59517.webp"
+    },
+    {
+      "sku": "B86798",
+      "nome": "Crème Parfumèe Ultra Perfumado Nativa SPA Ameixa 200 g",
+      "descricao": "Hidratante corporal da linha Nativa SPA. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Hidratante corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86798.webp"
+    },
+    {
+      "sku": "B95797",
+      "nome": "Refil Creme Perfumado Desodorante Corporal Nativa SPA Ameixa Intensa 350 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95797.webp"
+    },
+    {
+      "sku": "B95802",
+      "nome": "Esfoliante Corporal Nativa SPA Ameixa Intensa 180 g",
+      "descricao": "Esfoliante corporal da linha Nativa SPA. Apresentação de 180 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Esfoliante corporal",
+      "volume": "180 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B95802.webp"
+    },
+    {
+      "sku": "B95801",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Ameixa Intensa 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95801.webp"
+    },
+    {
+      "sku": "B95798",
+      "nome": "Creme Perfumado Hidratante Desodorante Corporal Nativa SPA Ameixa Intensa 180 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95798.webp"
+    },
+    {
+      "sku": "B95795",
+      "nome": "Creme Perfumado Hidratante Corporal Nativa SPA Ameixa Intensa 400 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95795.webp"
+    },
+    {
+      "sku": "B59516",
+      "nome": "Refil Loção Desodorante Hidratante Corporal Nativa SPA Ameixa Negra 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59516.webp"
+    },
+    {
+      "sku": "B85052",
+      "nome": "Refil Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Ameixa Negra 150 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85052.webp"
+    },
+    {
+      "sku": "B85097",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Ameixa Negra 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85097.webp"
+    },
+    {
+      "sku": "B87050",
+      "nome": "Óleo Multifuncional Glorioso Ameixa Negra Nativa SPA 85 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 85 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "85 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87050.webp"
+    },
+    {
+      "sku": "B87917",
+      "nome": "Creme Hidratante Desodorante para as Mãos Ameixa Negra Nativa SPA 75 g",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 75 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87917.webp"
+    },
+    {
+      "sku": "B48672",
+      "nome": "Loção Nutritiva Desodorante Corporal Nativa SPA Ameixa Negra 200 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48672.webp"
+    },
+    {
+      "sku": "B86799",
+      "nome": "Crème Parfumèe Ultra Perfumado Nativa SPA Ameixa Negra 200 g",
+      "descricao": "Hidratante corporal da linha Nativa SPA. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Hidratante corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86799.webp"
+    },
+    {
+      "sku": "B59824",
+      "nome": "Refil Creme Perfumado Desodorante Nativa SPA Orquídea Lumière 350 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59824.webp"
+    },
+    {
+      "sku": "B85584",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Orquídea Lumière 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85584.webp"
+    },
+    {
+      "sku": "B59829",
+      "nome": "Creme Perfumado Desodorante Nativa SPA Orquídea Lumière 180 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59829.webp"
+    },
+    {
+      "sku": "B49958",
+      "nome": "Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire 400 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49958.webp"
+    },
+    {
+      "sku": "B49957",
+      "nome": "Refil Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49957.webp"
+    },
+    {
+      "sku": "B85098",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Orquídea Noire 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85098.webp"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B87321",
+      "nome": "Sabonete Esfoliante Corporal Cuide-se Bem Amoruda 200 ml",
+      "descricao": "Esfoliante corporal da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Esfoliante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87321.webp"
+    },
+    {
+      "sku": "B87326",
+      "nome": "Bastão Anti-Atrito Cuide-se Bem Amoruda 35 g",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 35 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "35 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87326.webp"
+    },
+    {
+      "sku": "B89660",
+      "nome": "Manteiga Hidratante Desodorante Corporal Cuide-se Bem Deleite Caramelizado 200 g",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89660.webp"
+    },
+    {
+      "sku": "B90998",
+      "nome": "Sabonete Líquido Corporal Cuide-se Bem Deleite Caramelizado 150 ml",
+      "descricao": "Sabonete líquido da linha Cuide-se Bem. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Sabonete líquido",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90998.webp"
+    },
+    {
+      "sku": "B89662",
+      "nome": "Loção Hidratante Desodorante Corporal Cuide-se Bem Deleite Caramelizado 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89662.webp"
+    },
+    {
+      "sku": "B57043",
+      "nome": "Creme Hidratante Deslizante para Lâmina Cuide-se Bem doçura na Pessegura 200 ml",
+      "descricao": "Creme corporal da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57043.webp"
+    },
+    {
+      "sku": "B85324",
+      "nome": "Creme Hidratante Depilatório Corporal Cuide-se Bem doçura na Pessegura 150 ml",
+      "descricao": "Creme corporal da linha Cuide-se Bem. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme corporal",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85324.webp"
+    },
+    {
+      "sku": "B57042",
+      "nome": "Loção Desodorante Hidratante Cuide-se Bem doçura na Pessegura 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57042.webp"
+    },
+    {
+      "sku": "B51168",
+      "nome": "Sabonete Líquido Íntimo Cuide-se Bem Cereja Livre 200 ml",
+      "descricao": "Sabonete líquido da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Sabonete líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51168.webp"
+    },
+    {
+      "sku": "B56217",
+      "nome": "Spray Íntimo Refrescante Cuide-se Bem Cereja Livre Cherry 75 ml",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 75 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56217.webp"
+    },
+    {
+      "sku": "B94763",
+      "nome": "Loção Hidratante Desodorante Corporal Cuide-se Bem Lavandinha 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94763.webp"
+    },
+    {
+      "sku": "B88699",
+      "nome": "Refil Loção Hidratante Desodorante Corporal Cuide-se Bem Cereja Livre 350 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88699.webp"
+    },
+    {
+      "sku": "B85672",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Cereja de Fases 200 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85672.webp"
+    },
+    {
+      "sku": "B88913",
+      "nome": "Spray Íntimo Desodorante Cuide-se Bem Cereja de Fases 75 ml",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 75 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88913.webp"
+    },
+    {
+      "sku": "B87963",
+      "nome": "Óleo Térmico Corporal TPM Cuide-se Bem Cereja de Fases 110 ml",
+      "descricao": "Óleo corporal da linha Cuide-se Bem. Apresentação de 110 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Óleo corporal",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87963.webp"
+    },
+    {
+      "sku": "B85675",
+      "nome": "Creme Relaxante Corporal Cuide-se Bem Cereja de Fases 200 g",
+      "descricao": "Creme corporal da linha Cuide-se Bem. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85675.webp"
+    },
+    {
+      "sku": "B90995",
+      "nome": "Sabonete Líquido Anti-Oleosidade Corpo e Rosto Cuide-se Bem Cereja de Fases 200 ml",
+      "descricao": "Sabonete líquido da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Sabonete líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90995.webp"
+    },
+    {
+      "sku": "B95036",
+      "nome": "Creme Estilizante Capilar Cuide-se Bem Acerola e Vai 120 ml",
+      "descricao": "Modelador capilar da linha Cuide-se Bem. Apresentação de 120 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Modelador capilar",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B95036.webp"
+    },
+    {
+      "sku": "B94856",
+      "nome": "Bruma Hidratante Refrescante Corpo e Rosto Cuide-se Bem Acerola e Vai 110 ml",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 110 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94856.webp"
+    },
+    {
+      "sku": "B90220",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem Acerola e Vai 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90220.webp"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B58499",
+      "nome": "Suflê Hidratante Desodorante Corporal Egeo Choc High 250 g",
+      "descricao": "Suflê corporal da linha Egeo, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Suflê corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58499.webp"
+    },
+    {
+      "sku": "B82685",
+      "nome": "Egeo Bomb Black Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82685.webp"
+    },
+    {
+      "sku": "B83211",
+      "nome": "Refil Celebre Sua Força Desodorante Colônia Masculino 100 ml",
+      "descricao": "Refil avulso de 100 ml da linha Celebre.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Refil",
+      "linha": "Celebre",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83211.webp"
+    },
+    {
+      "sku": "B52052",
+      "nome": "Celebre Agora Masculino Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Celebre, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Celebre",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52052.webp"
+    },
+    {
+      "sku": "B52044",
+      "nome": "Celebre Agora Feminino Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Celebre, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Celebre",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52044.webp"
+    },
+    {
+      "sku": "B83060",
+      "nome": "Celebre Sua Força Desodorante Colônia Feminino 100 ml",
+      "descricao": "Desodorante colônia da linha Celebre, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Celebre",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83060.webp"
+    },
+    {
+      "sku": "B49765",
+      "nome": "Uomini Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Uomini, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Uomini",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49765.webp"
+    },
+    {
+      "sku": "B49766",
+      "nome": "Uomini Black Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Uomini, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Uomini",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49766.webp"
+    },
+    {
+      "sku": "B50418",
+      "nome": "Uomini Infinite Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Uomini, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Uomini",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50418.webp"
+    },
+    {
+      "sku": "B80888",
+      "nome": "Body Spray Desodorante Uomini Infinite 100 ml",
+      "descricao": "Body spray da linha Uomini, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Uomini",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B80888.webp"
+    },
+    {
+      "sku": "B50732",
+      "nome": "Uomini Spirit Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Uomini, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Uomini",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50732.webp"
+    },
+    {
+      "sku": "B55357",
+      "nome": "Malbec Eau de Parfum 90 ml",
+      "descricao": "Eau de parfum da linha Malbec, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55357.webp"
+    },
+    {
+      "sku": "B48785",
+      "nome": "Body Spray Desodorante Malbec 100 ml",
+      "descricao": "Body spray da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48785.webp"
+    },
+    {
+      "sku": "B54150",
+      "nome": "Malbec Icon Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54150.webp"
+    },
+    {
+      "sku": "B84391",
+      "nome": "Malbec Gold Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84391.webp"
+    },
+    {
+      "sku": "B84399",
+      "nome": "Malbec Flame Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84399.webp"
+    },
+    {
+      "sku": "B84388",
+      "nome": "Malbec Noir Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84388.webp"
+    },
+    {
+      "sku": "B84385",
+      "nome": "Malbec Signature Eau de Parfum 90 ml",
+      "descricao": "Eau de parfum da linha Malbec, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Eau de parfum",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84385.webp"
+    },
+    {
+      "sku": "B84392",
+      "nome": "Malbec Black Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84392.webp"
+    },
+    {
+      "sku": "B50125",
+      "nome": "Body Spray Desodorante Malbec Ultra Bleu 100 ml",
+      "descricao": "Body spray da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50125.webp"
+    }
+  ]
+}

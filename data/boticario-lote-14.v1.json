@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B86759",
+      "nome": "Refil Sabonete Líquido Perfumado Nativa SPA Ameixa 200 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86759.webp"
+    },
+    {
+      "sku": "B58985",
+      "nome": "Sabonete Líquido Perfumado Nativa SPA Uva Merlot 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58985.webp"
+    },
+    {
+      "sku": "B86756",
+      "nome": "Sabonete Líquido Perfumado Nativa SPA Quinoa 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86756.webp"
+    },
+    {
+      "sku": "B59830",
+      "nome": "Sabonete Líquido Perfumado Orquídea Lumière Nativa SPA 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59830.webp"
+    },
+    {
+      "sku": "B85421",
+      "nome": "Sabonete Líquido Perfumado Corporal Nativa SPA Rosas Secretas 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85421.webp"
+    },
+    {
+      "sku": "B57833",
+      "nome": "Sabonete Líquido Perfumado Nativa SPA Cereja Rouge 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57833.webp"
+    },
+    {
+      "sku": "B86757",
+      "nome": "Sabonete Líquido Perfumado Nativa SPA Ameixa Negra 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86757.webp"
+    },
+    {
+      "sku": "B86755",
+      "nome": "Sabonete Líquido Perfumado Nativa SPA Orquídea Noire 250 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 250 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86755.webp"
+    },
+    {
+      "sku": "B88468",
+      "nome": "Sabonete em Barra Ameixa Nativa SPA 90 g",
+      "descricao": "Sabonete em barra da linha Nativa SPA. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete em barra",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88468.webp"
+    },
+    {
+      "sku": "B95803",
+      "nome": "Sabonete em Barra Corporal Nativa SPA Ameixa Intensa 90 g",
+      "descricao": "Sabonete em barra da linha Nativa SPA. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete em barra",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B95803.webp"
+    },
+    {
+      "sku": "B88199",
+      "nome": "Creme Hidratante para Mãos Cuide-se Bem Nuvem 45 g",
+      "descricao": "Creme para mãos da linha Cuide-se Bem. Apresentação de 45 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme para mãos",
+      "volume": "45 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88199.webp"
+    },
+    {
+      "sku": "B51146",
+      "nome": "Antitranspirante Roll-On Cuide-se Bem Nuvem 55 ml",
+      "descricao": "Antitranspirante roll-on da linha Cuide-se Bem. Apresentação de 55 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante roll-on",
+      "volume": "55 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51146.webp"
+    },
+    {
+      "sku": "B51122",
+      "nome": "Sabonete Líquido Esfoliante Cuide-se Bem Boa Noite 200 ml",
+      "descricao": "Esfoliante corporal da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Esfoliante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51122.webp"
+    },
+    {
+      "sku": "B88700",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Pessegura 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88700.webp"
+    },
+    {
+      "sku": "B88702",
+      "nome": "Refil Loção Desodorante Hidratante Corporal Cuide-se Bem Pessegura 350 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88702.webp"
+    },
+    {
+      "sku": "B89658",
+      "nome": "Manteiga Hidratante Desodorante Corporal Cuide-se Bem Deleite 200 g",
+      "descricao": "Hidratante corporal da linha Cuide-se Bem. Apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Hidratante corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89658.webp"
+    },
+    {
+      "sku": "B51164",
+      "nome": "Antitranspirante em Creme Cuide-se Bem Rosa e Algodão 80 g",
+      "descricao": "Antitranspirante em creme da linha Cuide-se Bem. Apresentação de 80 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante em creme",
+      "volume": "80 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51164.webp"
+    },
+    {
+      "sku": "B55426",
+      "nome": "Creme Hidratante para Mãos Cuide-se Bem Rosa e Algodão 45 g",
+      "descricao": "Creme para mãos da linha Cuide-se Bem. Apresentação de 45 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme para mãos",
+      "volume": "45 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B55426.webp"
+    },
+    {
+      "sku": "B51161",
+      "nome": "Desodorante Antitranspirante Aerossol Cuide-se Bem Rosa e Algodão 125 ml",
+      "descricao": "Antitranspirante aerossol da linha Cuide-se Bem. Apresentação de 125 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "125 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51161.webp"
+    },
+    {
+      "sku": "B51229",
+      "nome": "Desodorante Roll-On Cuide-se Bem Rosa e Algodão 55 ml",
+      "descricao": "Antitranspirante roll-on da linha Cuide-se Bem. Apresentação de 55 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante roll-on",
+      "volume": "55 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51229.webp"
+    }
+  ]
+}

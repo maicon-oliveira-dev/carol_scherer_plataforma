@@ -1,0 +1,259 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B57882",
+      "nome": "Body Spray Desodorante L’eau de Lily Blanche 100 ml",
+      "descricao": "Body spray da linha Lily, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Lily",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57882.webp"
+    },
+    {
+      "sku": "B86895",
+      "nome": "L’eau de Lily Blanche Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Lily, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Lily",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86895.webp"
+    },
+    {
+      "sku": "B84228",
+      "nome": "Body Spray Desodorante Glamour 100 ml",
+      "descricao": "Body spray da linha Glamour, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Glamour",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84228.webp"
+    },
+    {
+      "sku": "B79998",
+      "nome": "Body Spray Desodorante Glamour Secrets Black 100 ml",
+      "descricao": "Body spray da linha Glamour, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Glamour",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B79998.webp"
+    },
+    {
+      "sku": "B84255",
+      "nome": "Refil Glamour Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Glamour, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Refil",
+      "linha": "Glamour",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84255.webp"
+    },
+    {
+      "sku": "B74103",
+      "nome": "Glamour Secrets Black Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Glamour, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Glamour",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B74103.webp"
+    },
+    {
+      "sku": "B84260",
+      "nome": "Refil Glamour Secret Black Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Glamour, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Refil",
+      "linha": "Glamour",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84260.avif"
+    },
+    {
+      "sku": "B51704",
+      "nome": "Glamour Midnight Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Glamour, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Glamour",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51704.webp"
+    },
+    {
+      "sku": "B84224",
+      "nome": "Glamour Fever Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Glamour, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Glamour",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84224.webp"
+    },
+    {
+      "sku": "B49249",
+      "nome": "Coffee Woman Floriental Ambarado Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Coffee, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Coffee",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49249.webp"
+    },
+    {
+      "sku": "B49250",
+      "nome": "Coffee Woman Duo Oriental Amadeirado Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Coffee, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Coffee",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49250.webp"
+    },
+    {
+      "sku": "B85483",
+      "nome": "Body Spray Desodorante Floratta Red 100 ml",
+      "descricao": "Body spray da linha Floratta, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85483.webp"
+    },
+    {
+      "sku": "B48146",
+      "nome": "Elysée Nuit Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Elysée, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48146.webp"
+    },
+    {
+      "sku": "B81331",
+      "nome": "Elysée Succès Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Elysée, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B81331.webp"
+    },
+    {
+      "sku": "B48145",
+      "nome": "Boticollection Anni Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48145.webp"
+    },
+    {
+      "sku": "B19734",
+      "nome": "Boticollection Thaty Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B19734.webp"
+    },
+    {
+      "sku": "B97384",
+      "nome": "Egeo Banana Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B97384.webp"
+    },
+    {
+      "sku": "B97381",
+      "nome": "Egeo Melancia Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B97381.webp"
+    },
+    {
+      "sku": "B82690",
+      "nome": "Egeo Red Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82690.webp"
+    },
+    {
+      "sku": "B84214",
+      "nome": "Egeo Spicy Vibe Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84214.webp"
+    },
+    {
+      "sku": "B83059",
+      "nome": "Celebre Sua Força Desodorante Colônia Masculino 100 ml",
+      "descricao": "Desodorante colônia da linha Celebre, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Celebre",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83059.webp"
+    },
+    {
+      "sku": "B49362",
+      "nome": "Desodorante Antitranspirante Malbec Aerossol 75 g/125 ml",
+      "descricao": "Antitranspirante aerossol da linha Malbec, em apresentação de 75 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B49362.webp"
+    },
+    {
+      "sku": "B84390",
+      "nome": "Malbec Magnetic Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Malbec, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Malbec",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84390.webp"
+    }
+  ]
+}

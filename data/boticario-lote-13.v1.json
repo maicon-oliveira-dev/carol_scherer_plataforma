@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B49959",
+      "nome": "Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire 200 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49959.webp"
+    },
+    {
+      "sku": "B88730",
+      "nome": "Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Cereja Rouge 200 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88730.webp"
+    },
+    {
+      "sku": "B57832",
+      "nome": "Loção Aveludada Desodorante Corporal Nativa SPA Cereja Rouge 180 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57832.webp"
+    },
+    {
+      "sku": "B57829",
+      "nome": "Loção Aveludada Desodorante Corporal Nativa SPA Cereja Rouge 400 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57829.webp"
+    },
+    {
+      "sku": "B57830",
+      "nome": "Refil Loção Aveludada Desodorante Corporal Nativa SPA Cereja Rouge 350 ml",
+      "descricao": "Loção hidratante corporal da linha Nativa SPA. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57830.webp"
+    },
+    {
+      "sku": "B85420",
+      "nome": "Creme Perfumado Desodorante Corporal Nativa SPA Rosas Secretas 180 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 180 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "180 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85420.webp"
+    },
+    {
+      "sku": "B85424",
+      "nome": "Óleo Multifuncional Glorioso Corpo e Cabelos Nativa SPA Rosas Secretas 85 ml",
+      "descricao": "Óleo corporal e capilar da linha Nativa SPA. Apresentação de 85 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal e capilar",
+      "volume": "85 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85424.webp"
+    },
+    {
+      "sku": "B85419",
+      "nome": "Creme Perfumado Desodorante Corporal Rosas Secretas Nativa SPA 400 ml",
+      "descricao": "Creme corporal da linha Nativa SPA. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85419.webp"
+    },
+    {
+      "sku": "B87272",
+      "nome": "Body Splash Desodorante Colônia Nativa SPA Uva Merlot 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87272.webp"
+    },
+    {
+      "sku": "B88027",
+      "nome": "Body Splash Desodorante Colônia Nativa SPA Morango Ruby 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88027.webp"
+    },
+    {
+      "sku": "B82052",
+      "nome": "Body Splash Desodorante Colônia Nativa SPA Jasmim Sambac 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82052.webp"
+    },
+    {
+      "sku": "B58135",
+      "nome": "Body Splash Desodorante Colônia Nativa SPA Cereja Rouge 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58135.webp"
+    },
+    {
+      "sku": "B53353",
+      "nome": "Nativa SPA Lilac Body Splash Desodorante Colônia 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53353.webp"
+    },
+    {
+      "sku": "B89366",
+      "nome": "Body Splash Nativa SPA Rosas Secretas 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89366.webp"
+    },
+    {
+      "sku": "B90981",
+      "nome": "Body Splash Desodorante Colônia Nativa SPA Ameixa Intensa 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90981.webp"
+    },
+    {
+      "sku": "B49960",
+      "nome": "Body Splash Nativa SPA Orquídea Noire 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49960.webp"
+    },
+    {
+      "sku": "B86369",
+      "nome": "Body Splash Desodorante Nativa SPA Orquídea Lumière 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86369.webp"
+    },
+    {
+      "sku": "B48280",
+      "nome": "Desodorante Colônia Body Splash Nativa SPA Ameixa Negra 200 ml",
+      "descricao": "Body splash da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48280.webp"
+    },
+    {
+      "sku": "B86758",
+      "nome": "Refil Sabonete Líquido Perfumado Nativa SPA Ameixa Negra 200 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86758.webp"
+    },
+    {
+      "sku": "B86754",
+      "nome": "Refil Sabonete Líquido Perfumado Nativa SPA Orquídea Noire 200 ml",
+      "descricao": "Sabonete líquido da linha Nativa SPA. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Sabonete líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86754.webp"
+    }
+  ]
+}

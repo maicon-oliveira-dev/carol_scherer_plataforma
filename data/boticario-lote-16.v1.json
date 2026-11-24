@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B94851",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Acerola e Vai 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94851.webp"
+    },
+    {
+      "sku": "B94307",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem doçura na Pessegura 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94307.webp"
+    },
+    {
+      "sku": "B90219",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem Deleite Caramelizado 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90219.webp"
+    },
+    {
+      "sku": "B58132",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem Deleite Chocolatudo 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58132.webp"
+    },
+    {
+      "sku": "B51130",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem Beijinho 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51130.webp"
+    },
+    {
+      "sku": "B89790",
+      "nome": "Body Splash Desodorante Colônia Cuide-se Bem Lavandinha 200 ml",
+      "descricao": "Body splash da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89790.webp"
+    },
+    {
+      "sku": "B58231",
+      "nome": "Sabonete em Barra Corporal Cuide-se Bem Deleite Chocolatudo 120 g",
+      "descricao": "Sabonete em barra da linha Cuide-se Bem. Apresentação de 120 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Sabonete em barra",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58231.webp"
+    },
+    {
+      "sku": "B51167",
+      "nome": "Antitranspirante em Creme Sem Perfume Cuide-se Bem 80 g",
+      "descricao": "Antitranspirante em creme da linha Cuide-se Bem. Apresentação de 80 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante em creme",
+      "volume": "80 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51167.webp"
+    },
+    {
+      "sku": "B47148",
+      "nome": "Desodorante Antitranspirante Aerossol Cuide-se Bem Clinical Ultra Protect 90 g",
+      "descricao": "Antitranspirante aerossol da linha Cuide-se Bem. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47148.webp"
+    },
+    {
+      "sku": "B86024",
+      "nome": "Gel Hidratante Facial Cuide-se Bem Doces Delírios Algodão Doce 50 g",
+      "descricao": "Cuidado facial da linha Cuide-se Bem. Apresentação de 50 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Cuidado facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86024.webp"
+    },
+    {
+      "sku": "B47165",
+      "nome": "Antitranspirante em Creme Cuide-se Bem Clinical Ultra Protect 50 g",
+      "descricao": "Antitranspirante em creme da linha Cuide-se Bem. Apresentação de 50 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante em creme",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47165.webp"
+    },
+    {
+      "sku": "B47146",
+      "nome": "Antitranspirante Aerossol Jato Seco Cuide-se Bem Invisible Protect 90 g",
+      "descricao": "Antitranspirante aerossol da linha Cuide-se Bem. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47146.webp"
+    },
+    {
+      "sku": "B47144",
+      "nome": "Desodorante Antitranspirante Aerossol Cuide-se Bem Protect And Care 90 g",
+      "descricao": "Antitranspirante aerossol da linha Cuide-se Bem. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47144.webp"
+    },
+    {
+      "sku": "B47154",
+      "nome": "Desodorante Roll-on Cuide-se Bem Zero Alumínio 55 ml",
+      "descricao": "Antitranspirante roll-on da linha Cuide-se Bem. Apresentação de 55 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante roll-on",
+      "volume": "55 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47154.webp"
+    },
+    {
+      "sku": "B47147",
+      "nome": "Antitranspirante Roll-on Cuide-se Bem Invisible Protect 55 ml",
+      "descricao": "Antitranspirante roll-on da linha Cuide-se Bem. Apresentação de 55 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante roll-on",
+      "volume": "55 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47147.webp"
+    },
+    {
+      "sku": "B47145",
+      "nome": "Desodorante Antitranspirante Roll-on Cuide-se Bem Protect and Care 55 ml",
+      "descricao": "Antitranspirante roll-on da linha Cuide-se Bem. Apresentação de 55 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Antitranspirante roll-on",
+      "volume": "55 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47145.webp"
+    },
+    {
+      "sku": "B53509",
+      "nome": "Refil Loção Desodorante Hidratante Corporal Cuide-se Bem Show de Banho 350 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 350 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53509.webp"
+    },
+    {
+      "sku": "B88310",
+      "nome": "Loção Hidratante Desodorante Corporal Cuide-se Bem Morango e Leite 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88310.webp"
+    },
+    {
+      "sku": "B53508",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Show de Banho 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53508.webp"
+    },
+    {
+      "sku": "B59403",
+      "nome": "Loção Desodorante Hidratante Corporal Cuide-se Bem Melancia 400 ml",
+      "descricao": "Loção hidratante corporal da linha Cuide-se Bem. Apresentação de 400 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Loção hidratante corporal",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59403.webp"
+    }
+  ]
+}

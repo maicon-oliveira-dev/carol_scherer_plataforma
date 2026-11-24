@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B48664",
+      "nome": "Boticollection Portinari Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48664.webp"
+    },
+    {
+      "sku": "B48779",
+      "nome": "Desodorante Body Spray Portinari 100 ml",
+      "descricao": "Body spray da linha Boticollection. Apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48779.webp"
+    },
+    {
+      "sku": "B52029",
+      "nome": "Boticollection Portinari Absoluto Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52029.webp"
+    },
+    {
+      "sku": "B76678",
+      "nome": "Boticollection Styletto Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76678.webp"
+    },
+    {
+      "sku": "B53934",
+      "nome": "Desodorante Aerossol Portinari 75 g",
+      "descricao": "Antitranspirante aerossol da linha Boticollection. Apresentação de 75 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B53934.webp"
+    },
+    {
+      "sku": "B85606",
+      "nome": "Insensatez Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Insensatez. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Insensatez",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85606.webp"
+    },
+    {
+      "sku": "B76665",
+      "nome": "Men Only Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Men. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76665.webp"
+    },
+    {
+      "sku": "B76666",
+      "nome": "Men Galbe Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Men. Apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76666.webp"
+    },
+    {
+      "sku": "B89493",
+      "nome": "Loção Desodorante Hidratante Corporal Men Sport 200 ml",
+      "descricao": "Loção hidratante corporal da linha Men. Apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89493.webp"
+    },
+    {
+      "sku": "B47150",
+      "nome": "Desodorante Antitranspirante Aerossol Men Cool Protect 90 g",
+      "descricao": "Antitranspirante aerossol da linha Men. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47150.webp"
+    },
+    {
+      "sku": "B47149",
+      "nome": "Desodorante Antitranspirante Aerossol Men Clinical Ultra Protect 90 g",
+      "descricao": "Antitranspirante aerossol da linha Men. Apresentação de 90 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Antitranspirante aerossol",
+      "volume": "90 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B47149.webp"
+    },
+    {
+      "sku": "B56004",
+      "nome": "Desodorante Aerossol para Os Pés Sport Men 125 ml",
+      "descricao": "Desodorante para os pés da linha Men. Apresentação de 125 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Desodorante para os pés",
+      "volume": "125 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56004.webp"
+    },
+    {
+      "sku": "B55975",
+      "nome": "Shampoo e Condicionador 2 em 1 Men 250 ml",
+      "descricao": "Shampoo da linha Men. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55975.webp"
+    },
+    {
+      "sku": "B55968",
+      "nome": "Shampoo e Condicionador Anticaspa 2 em 1 Men 250 ml",
+      "descricao": "Shampoo da linha Men. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55968.webp"
+    },
+    {
+      "sku": "B90611",
+      "nome": "Gel Secativo Facial Antiacne Men 15 g",
+      "descricao": "Gel secativo da linha Men. Apresentação de 15 g.",
+      "categoria": "Cuidados com a pele",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Gel secativo",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90611.webp"
+    },
+    {
+      "sku": "B90610",
+      "nome": "Sabonete Líquido Facial 3 em 1 MEN 150 ml",
+      "descricao": "Sabonete líquido da linha Men. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Sabonete líquido",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90610.webp"
+    },
+    {
+      "sku": "B94867",
+      "nome": "Creme Pós-Barba Men 40 g",
+      "descricao": "Creme para barba da linha Men. Apresentação de 40 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Creme para barba",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B94867.webp"
+    },
+    {
+      "sku": "B56005",
+      "nome": "Creme Pré e Pós-Barba Men 150 g",
+      "descricao": "Creme para barba da linha Men. Apresentação de 150 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Men",
+      "tipo": "Creme para barba",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B56005.webp"
+    },
+    {
+      "sku": "B85058",
+      "nome": "Refil Óleo Glorioso Hidratante Desodorante Corporal Nativa SPA Quinoa e Amêndoas 150 ml",
+      "descricao": "Óleo corporal da linha Nativa SPA. Apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Refil",
+      "linha": "Nativa SPA",
+      "tipo": "Óleo corporal",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85058.webp"
+    },
+    {
+      "sku": "B87916",
+      "nome": "Creme Antissinais para Mãos FPS 15 Nativa SPA Quinoa 75 g",
+      "descricao": "Creme para mãos da linha Nativa SPA. Apresentação de 75 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Nativa SPA",
+      "tipo": "Creme para mãos",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87916.webp"
+    }
+  ]
+}

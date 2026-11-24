@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B89030",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 225N 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89030.webp"
+    },
+    {
+      "sku": "B89031",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 260N 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89031.webp"
+    },
+    {
+      "sku": "B89032",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 275N 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89032.webp"
+    },
+    {
+      "sku": "B89033",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 290N 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89033.webp"
+    },
+    {
+      "sku": "B89153",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 340Q 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89153.webp"
+    },
+    {
+      "sku": "B88947",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 100F 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88947.webp"
+    },
+    {
+      "sku": "B89026",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 120N 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89026.webp"
+    },
+    {
+      "sku": "B89027",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 140Q 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89027.webp"
+    },
+    {
+      "sku": "B89029",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 210Q 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89029.webp"
+    },
+    {
+      "sku": "B89028",
+      "nome": "Corretivo Líquido Make B. Hyaluronic Tom 170Q 6,8 ml",
+      "descricao": "Corretivo da linha Make B.. Apresentação de 6,8 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Corretivo",
+      "volume": "6,8 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89028.webp"
+    },
+    {
+      "sku": "B89552",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 120N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89552.webp"
+    },
+    {
+      "sku": "B89067",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 250Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89067.webp"
+    },
+    {
+      "sku": "B87790",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 130Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87790.webp"
+    },
+    {
+      "sku": "B89068",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 260N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89068.webp"
+    },
+    {
+      "sku": "B87791",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 140Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87791.webp"
+    },
+    {
+      "sku": "B89069",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 270Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89069.webp"
+    },
+    {
+      "sku": "B87792",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 170Q 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87792.webp"
+    },
+    {
+      "sku": "B89070",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 275N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89070.webp"
+    },
+    {
+      "sku": "B87793",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 185F 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87793.webp"
+    },
+    {
+      "sku": "B89071",
+      "nome": "Base Líquida Make B. Hyaluronic Tom 285N 30 ml",
+      "descricao": "Base da linha Make B.. Apresentação de 30 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89071.webp"
+    }
+  ]
+}
