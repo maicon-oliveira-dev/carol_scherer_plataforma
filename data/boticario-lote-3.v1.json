@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B48375",
+      "nome": "Creme Acetinado Hidratante Desodorante Elysée Blanc 250 g",
+      "descricao": "Creme corporal da linha Elysée, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B48375.webp"
+    },
+    {
+      "sku": "B81423",
+      "nome": "Creme Acetinado Hidratante Desodorante Corporal Elysée Succès 250 g",
+      "descricao": "Creme corporal da linha Elysée, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81423.webp"
+    },
+    {
+      "sku": "B48645",
+      "nome": "Creme Acetinado Hidratante Desodorante Elysée Nuit 250 g",
+      "descricao": "Creme corporal da linha Elysée, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B48645.webp"
+    },
+    {
+      "sku": "B47553",
+      "nome": "Botica 214 Verano en Firenze Eau de Parfum Floral Frutal 75 ml",
+      "descricao": "Eau de parfum da linha Botica 214, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47553.webp"
+    },
+    {
+      "sku": "B51387",
+      "nome": "Botica 214 Fiji Paradise Floral Especiado Eau de Parfum 75 ml",
+      "descricao": "Eau de parfum da linha Botica 214, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51387.webp"
+    },
+    {
+      "sku": "B58733",
+      "nome": "Botica 214 Sevilla Dorada Eau de Parfum Floral Frutal 75 ml",
+      "descricao": "Eau de parfum da linha Botica 214, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B58733.webp"
+    },
+    {
+      "sku": "B85644",
+      "nome": "Botica 214 Arabian Oasis Floral Frutal Eau de Parfum 75 ml",
+      "descricao": "Eau de parfum da linha Botica 214, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85644.webp"
+    },
+    {
+      "sku": "B54657",
+      "nome": "Botica 214 African Sunrise Floral Frutal Eau de Parfum 75 ml",
+      "descricao": "Eau de parfum da linha Botica 214, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Botica 214",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54657.webp"
+    },
+    {
+      "sku": "B47905",
+      "nome": "Boticollection Acqua Fresca Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47905.webp"
+    },
+    {
+      "sku": "B22248",
+      "nome": "Boticollection Cecita Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B22248.webp"
+    },
+    {
+      "sku": "B71877",
+      "nome": "Boticollection Crazy Feelings Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Boticollection, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Boticollection",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B71877.webp"
+    },
+    {
+      "sku": "B81756",
+      "nome": "Linda Irresistível Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Linda, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Linda",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B81756.webp"
+    },
+    {
+      "sku": "B81849",
+      "nome": "Linda Felicidade Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Linda, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Linda",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B81849.webp"
+    },
+    {
+      "sku": "B74043",
+      "nome": "Linda Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Linda, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Linda",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B74043.webp"
+    },
+    {
+      "sku": "B47339",
+      "nome": "Liz Sublime Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Liz, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47339.webp"
+    },
+    {
+      "sku": "B77183",
+      "nome": "Creme Desodorante Hidratante Corporal Liz 250 g",
+      "descricao": "Creme corporal da linha Liz, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B77183.webp"
+    },
+    {
+      "sku": "B57488",
+      "nome": "Creme Hidratante Desodorante Corporal Liz Flora 250 g",
+      "descricao": "Creme corporal da linha Liz, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B57488.webp"
+    },
+    {
+      "sku": "B53416",
+      "nome": "Creme Hidratante Desodorante Corporal Liz Intenso 250 g",
+      "descricao": "Creme corporal da linha Liz, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B53416.webp"
+    },
+    {
+      "sku": "B86988",
+      "nome": "Creme Hidratante Desodorante Corporal Liz Aura 250 g",
+      "descricao": "Creme corporal da linha Liz, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86988.webp"
+    },
+    {
+      "sku": "B90298",
+      "nome": "Creme Hidratante Desodorante Corporal Liz D’essence 250 g",
+      "descricao": "Creme corporal da linha Liz, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90298.webp"
+    }
+  ]
+}

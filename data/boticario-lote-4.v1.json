@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B76700",
+      "nome": "Liz Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Liz, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76700.webp"
+    },
+    {
+      "sku": "B88895",
+      "nome": "Liz D’essence Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Liz, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88895.webp"
+    },
+    {
+      "sku": "B86990",
+      "nome": "Liz Aura Desodorante Colônia 100 ml",
+      "descricao": "Desodorante colônia da linha Liz, em apresentação de 100 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Liz",
+      "tipo": "Desodorante colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86990.webp"
+    },
+    {
+      "sku": "B76621",
+      "nome": "Body Splash Desodorante Colônia Dream Céu de Baunilha 200 ml",
+      "descricao": "Body splash da linha Dream, em apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Dream",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76621.webp"
+    },
+    {
+      "sku": "B48634",
+      "nome": "Body Splash Desodorante Colônia Dream Amor no Ar 200 ml",
+      "descricao": "Body splash da linha Dream, em apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Dream",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48634.webp"
+    },
+    {
+      "sku": "B47908",
+      "nome": "Body Splash Desodorante Colônia Dream Viagem Encantada 200 ml",
+      "descricao": "Body splash da linha Dream, em apresentação de 200 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Dream",
+      "tipo": "Body splash",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47908.webp"
+    },
+    {
+      "sku": "B48685",
+      "nome": "Loção Hidratante Desodorante Corporal Coffee Woman Seduction 200 ml",
+      "descricao": "Loção hidratante corporal da linha Coffee Woman Seduction, em apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Coffee Woman Seduction",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48685.webp"
+    },
+    {
+      "sku": "B48141",
+      "nome": "Accordes Desodorante Colônia 80 ml",
+      "descricao": "Desodorante colônia da linha Accordes, em apresentação de 80 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Accordes",
+      "tipo": "Desodorante colônia",
+      "volume": "80 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48141.webp"
+    },
+    {
+      "sku": "B51213",
+      "nome": "Accordes Harmonia Desodorante Colônia 80 ml",
+      "descricao": "Desodorante colônia da linha Accordes, em apresentação de 80 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Accordes",
+      "tipo": "Desodorante colônia",
+      "volume": "80 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51213.webp"
+    },
+    {
+      "sku": "B82689",
+      "nome": "Egeo Choc Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82689.webp"
+    },
+    {
+      "sku": "B82688",
+      "nome": "Egeo Dolce Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82688.webp"
+    },
+    {
+      "sku": "B59436",
+      "nome": "Egeo Choc High Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59436.webp"
+    },
+    {
+      "sku": "B87556",
+      "nome": "Creme Hidratante Desodorante Corporal Egeo Dolce Illusion 250 g",
+      "descricao": "Creme corporal da linha Egeo, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87556.webp"
+    },
+    {
+      "sku": "B85054",
+      "nome": "Egeo Dolce Illusion Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85054.webp"
+    },
+    {
+      "sku": "B73367",
+      "nome": "Body Spray Desodorante Egeo Blue 100 ml",
+      "descricao": "Body spray da linha Egeo, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B73367.webp"
+    },
+    {
+      "sku": "B49812",
+      "nome": "Egeo Original Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49812.webp"
+    },
+    {
+      "sku": "B82686",
+      "nome": "Egeo Blue Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82686.webp"
+    },
+    {
+      "sku": "B84213",
+      "nome": "Egeo Vanilla Vibe Desodorante Colônia 90 ml",
+      "descricao": "Desodorante colônia da linha Egeo, em apresentação de 90 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Desodorante colônia",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84213.webp"
+    },
+    {
+      "sku": "B72052",
+      "nome": "Mousse Hidratante Desodorante Corporal Egeo Dolce Merengue, 250 g",
+      "descricao": "Mousse corporal da linha Egeo, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Mousse corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B72052.webp"
+    },
+    {
+      "sku": "B71815",
+      "nome": "Suflê Hidratante Desodorante Corporal Egeo Choc, 250 g",
+      "descricao": "Suflê corporal da linha Egeo, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Egeo",
+      "tipo": "Suflê corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B71815.avif"
+    }
+  ]
+}

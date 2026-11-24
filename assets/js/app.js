@@ -76,6 +76,7 @@ const catalogContexts = {
   biozenthi: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line"], showOnlyUsefulFilters: true },
   jequiti: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line", "fragrance", "shade", "volume"], showOnlyUsefulFilters: true },
   natura: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation"] },
+  boticario: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation", "line", "volume"] },
   combined: { primaryFilters: ["search", "category"], refinementFilters: ["category", "brand", "presentation", "line", "fragrance", "shade", "volume"] },
   brandSmall: { primaryFilters: ["search", "type"], refinementFilters: ["category"], showOnlyUsefulFilters: true },
 };
@@ -242,7 +243,7 @@ function productCard(product) {
     return "https://wa.me/5547997854773?text=" + encodeURIComponent(lines.join("\n"));
   };
   link.href = whatsappHref();
-  if (product.brand === "Natura") details.textContent = `SKU: ${product.code}`;
+  if (["Natura", "O Boticário"].includes(product.brand)) details.textContent = `SKU: ${product.code}`;
   body.append(brand, name, category, details, description);
   if (product.variations?.length) {
     const picker = document.createElement("div"); picker.className = "variation-picker";
@@ -306,8 +307,8 @@ if (brandGrid) {
   const combined = brandGrid.id === "products";
   const audience = combined ? brandGrid.dataset.category : "";
   const brandName = brandGrid.dataset.brand || "Natura";
-  const integrated = combined || brandGrid.id === "natura-products";
-  const brandContext = combined ? catalogContexts.combined : catalogContexts[brandName.toLowerCase()] || catalogContexts.brandSmall;
+  const integrated = combined || ["natura-products", "brand-products"].includes(brandGrid.id) && ["Natura", "O Boticário"].includes(brandName);
+  const brandContext = combined ? catalogContexts.combined : brandName === "O Boticário" ? catalogContexts.boticario : catalogContexts[brandName.toLowerCase()] || catalogContexts.brandSmall;
   const sharedFilters = combined || integrated || ["Jequiti", "Biozenthi"].includes(brandName);
   if (brandContext.primaryFilters.includes("search") && !document.querySelector("#catalog-search")) {
     const oldLabel = filter?.closest("label");
@@ -363,12 +364,20 @@ if (brandGrid) {
     return !audience || product.audience === audience || product.audience === "unissex";
   });
   const loading = integrated
-    ? Promise.all([otherProducts.filter((product) => product.image), (window.loadNaturaCatalog?.() || Promise.resolve([])).catch((error) => {
-      console.error("Catálogo Natura indisponível.", error);
-      return [];
-    })]).then(([others, natura]) => [
+    ? Promise.all([
+      otherProducts.filter((product) => product.image),
+      (combined || brandName === "Natura") ? (window.loadNaturaCatalog?.() || Promise.resolve([])).catch((error) => {
+        console.error("Catálogo Natura indisponível.", error);
+        return [];
+      }) : Promise.resolve([]),
+      (combined || brandName === "O Boticário") ? (window.loadBoticarioCatalog?.() || Promise.resolve([])).catch((error) => {
+        console.error("Catálogo O Boticário indisponível.", error);
+        return [];
+      }) : Promise.resolve([]),
+    ]).then(([others, natura, boticario]) => [
       ...others.map((product) => ({ ...product, presentation: "Produto regular" })),
       ...natura.filter((product) => !audience || product.audience === audience),
+      ...boticario.filter((product) => !audience || product.audience === audience),
     ])
     : loadProducts(otherProducts);
   loading.then((items) => {
@@ -641,4 +650,22 @@ if (favorites) {
 }
 
 // Atualiza o ano do rodapé compartilhado.
+const catalogShortcuts = document.querySelector(".catalog-shortcuts");
+if (catalogShortcuts) {
+  catalogShortcuts.addEventListener("wheel", (event) => {
+    if (Math.abs(event.deltaX) >= Math.abs(event.deltaY) || !event.deltaY) return;
+
+    const maxScrollLeft = catalogShortcuts.scrollWidth - catalogShortcuts.clientWidth;
+    const nextScrollLeft = catalogShortcuts.scrollLeft + event.deltaY;
+    const canScroll = maxScrollLeft > 0 && (
+      (event.deltaY > 0 && catalogShortcuts.scrollLeft < maxScrollLeft)
+      || (event.deltaY < 0 && catalogShortcuts.scrollLeft > 0)
+    );
+
+    if (!canScroll) return;
+    event.preventDefault();
+    catalogShortcuts.scrollLeft = Math.min(maxScrollLeft, Math.max(0, nextScrollLeft));
+  }, { passive: false });
+}
+
 document.querySelectorAll("[data-footer-year]").forEach((year) => { year.textContent = String(new Date().getFullYear()); });

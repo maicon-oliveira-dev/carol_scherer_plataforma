@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B88135",
+      "nome": "Floratta Rose Sucrée Eau de Parfum 75 ml",
+      "descricao": "Eau de parfum da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88135.webp"
+    },
+    {
+      "sku": "B52507",
+      "nome": "Floratta Fleur d’Éclipse Eau de Parfum 75 ml",
+      "descricao": "Eau de parfum da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Eau de parfum",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52507.webp"
+    },
+    {
+      "sku": "B49025",
+      "nome": "Body Spray Desodorante Floratta Rose 100 ml",
+      "descricao": "Body spray da linha Floratta, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49025.webp"
+    },
+    {
+      "sku": "B48313",
+      "nome": "Floratta Rose Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48313.webp"
+    },
+    {
+      "sku": "B48296",
+      "nome": "Floratta Rose Bouquet Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48296.webp"
+    },
+    {
+      "sku": "B48310",
+      "nome": "Floratta Blue Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48310.webp"
+    },
+    {
+      "sku": "B84974",
+      "nome": "Floratta Blue Crystal Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84974.webp"
+    },
+    {
+      "sku": "B72017",
+      "nome": "Creme Hidratante Desodorante Corporal Floratta Blue 200 ml",
+      "descricao": "Creme corporal da linha Floratta, em apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Creme corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B72017.avif"
+    },
+    {
+      "sku": "B48315",
+      "nome": "Floratta Gold Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48315.webp"
+    },
+    {
+      "sku": "B87972",
+      "nome": "Body Spray Desodorante Corporal Floratta Blue Crystal 100 ml",
+      "descricao": "Body spray da linha Floratta, em apresentação de 100 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Body spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87972.webp"
+    },
+    {
+      "sku": "B48307",
+      "nome": "Floratta Flores Secretas Desodorante Colônia 75 ml",
+      "descricao": "Desodorante colônia da linha Floratta, em apresentação de 75 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Floratta",
+      "tipo": "Desodorante colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48307.webp"
+    },
+    {
+      "sku": "B50022",
+      "nome": "Her Code Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Her Code, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50022.webp"
+    },
+    {
+      "sku": "B85935",
+      "nome": "Creme Aveludado Hidratante Desodorante Corporal Her Code 250 g",
+      "descricao": "Creme corporal da linha Her Code, em apresentação de 250 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Creme corporal",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85935.webp"
+    },
+    {
+      "sku": "B85947",
+      "nome": "Loção Hidratante Desodorante Corporal Her Code Clímax 200 ml",
+      "descricao": "Loção hidratante corporal da linha Her Code, em apresentação de 200 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Loção hidratante corporal",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85947.avif"
+    },
+    {
+      "sku": "B85936",
+      "nome": "Óleo de Massagem Corporal Her Code Touch 150 ml",
+      "descricao": "Óleo corporal da linha Her Code, em apresentação de 150 ml.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Óleo corporal",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85936.webp"
+    },
+    {
+      "sku": "B96399",
+      "nome": "Creme Aveludado Hidratante Desodorante Corporal Her Code Touch 200 g",
+      "descricao": "Creme corporal da linha Her Code, em apresentação de 200 g.",
+      "categoria": "Corpo e banho",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Creme corporal",
+      "volume": "200 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B96399.webp"
+    },
+    {
+      "sku": "B86983",
+      "nome": "Her Code Clímax Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Her Code, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86983.webp"
+    },
+    {
+      "sku": "B59555",
+      "nome": "Her Code Touch Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Her Code, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Her Code",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59555.webp"
+    },
+    {
+      "sku": "B53518",
+      "nome": "Elysée Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Elysée, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53518.webp"
+    },
+    {
+      "sku": "B48143",
+      "nome": "Elysée Blanc Eau de Parfum 50 ml",
+      "descricao": "Eau de parfum da linha Elysée, em apresentação de 50 ml.",
+      "categoria": "Perfumaria",
+      "apresentacao": "Produto regular",
+      "linha": "Elysée",
+      "tipo": "Eau de parfum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B48143.webp"
+    }
+  ]
+}
