@@ -1129,3 +1129,86 @@ Páginas 124 a 124 do arquivo PDF. 20 códigos examinados, 20 aprovados. Último
 | `B90728` | 124 | Aprovado · Base Líquida Mate Make B. Salicylic Tom 110Q 30 g · [Foto oficial](https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90728/21ceb6f8-6a41-43da-94b6-5914b5310a4e-bt-07-26-90728-make-b-base-liquida-mate-salicylic-110q-30g-1.jpg) · [Ficha oficial](https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-110q-30g/) |
 
 Os três lotes foram ativados localmente. Total de 536 produtos O Boticário.
+
+## Ativação local dos lotes 25 a 27
+
+- Ativados 60 produtos unitários, 20 por lote, para um total de 596 SKUs ativos.
+- A [fila por SKU](boticario-fila-25-27.v1.json) registra os 60 aprovados, 7 excluídos e 4 pendentes.
+- Pendências preservadas: `B85857`, `B85858`, `B52618` e `B50888`.
+- Próxima retomada: página 131, SKU `B27858`.
+
+## Ativação parcial do lote 28
+
+- SKUs ativados: B27858, B71500 e B87823. Total local: 599.
+- Fotos das galerias oficiais revisadas e normalizadas para 800 × 800.
+- 57 candidatos pendentes preservados na [fila dos lotes 28 a 30](boticario-fila-28-30.v1.json). Próximo código fora da fila: B88101, página 140.
+
+
+## Complemento do lote 28
+
+- Ativados B87824, B87101, B86166 e B58813. Total local: 603 SKUs.
+- Quatro fotos oficiais revisadas em 800 × 800. Restam 53 candidatos na fila dos lotes 28 a 30.
+
+
+## Balms confirmados no lote 28
+
+- B88585 Grape Wine: print e galeria oficial confirmam o produto apesar de 51191 no nome da foto.
+- B51190 Rosewater: SKU oficial confirmado pelo print, substitui B88473 do PDF.
+- B87103 Color Repair: cadastrado como Rosa conforme ficha oficial, com Coral registrado no PDF.
+- Fotos revisadas em 800 × 800. Total local de 606 SKUs e 50 candidatos pendentes na fila.
+
+
+## Complemento do lote 28
+
+- Ativados B87102, B88516 e B88515 com fotos oficiais de 800 × 800. Total local: 609 SKUs.
+- Restam 47 candidatos. B88518 é chamado de Glossy na ficha oficial e aparece no grupo Cremoso do PDF.
+
+
+## Revisão local dos lotes 28 a 30
+
+- 47 cards ativados para conferência em tela. Total local: 656 SKUs.
+- 2 fotos oficiais instaladas para revisão e 45 cards identificados com foto pendente.
+- A fila conserva as pendências de imagem e de ficha oficial.
+
+## Revisão do lote 28 pelos prints oficiais
+
+- Fotos oficiais adicionadas: B88518, B88520 e B88522.
+- Retirados da vitrine: B82494, B88517, B88523 e B82492.
+- Total local: 652 SKUs. Restam 38 cards com foto pendente nos lotes 29 e 30.
+
+## Revisão de seis códigos do lote 29
+
+- Fotos oficiais de B81624, B81626, B51383, B81618 e B81623 adicionadas em 800 × 800.
+- B51383 corrigido para 4 g conforme ficha oficial. B82495 retirado após busca oficial sem resultado.
+- Total local: 651 SKUs. Restam 32 fotos pendentes nos lotes 29 e 30.
+
+## Revisão adicional do lote 29
+
+- Fotos oficiais adicionadas em 800 × 800: B51173, B81621, B88519, B88521, B88527.
+- B51502 retirado após busca oficial sem resultado.
+- Total local: 650 SKUs. Restam 26 fotos pendentes.
+
+## Revisão dos batons líquidos do lote 29
+
+- Fotos oficiais adicionadas em 800 × 800: B88012, B88011, B88015, B88016, B88018, B88009.
+- Total local: 650 SKUs. Restam 20 fotos pendentes.
+
+## Revisão de oito códigos do lote 30
+
+- Fotos oficiais adicionadas: B51180, B52867, B88554, B51183.
+- Retirados após busca oficial sem resultado: B86119, B88552, B88556, B89370.
+- Total local: 646 SKUs. Restam 12 fotos pendentes.
+
+## Conferência adicional do lote 30
+
+- Retirados após busca oficial sem resultado: B55230, B89203, B89204, B89205, B89368.
+- Total local: 641 SKUs. Fotos pendentes: B89369, B89206, B88099, B88102, B88100, B88098, B88103.
+
+## Encerramento das pendências de foto do lote 30
+
+- Retirados após busca oficial sem resultado: B88098, B88099, B88100, B88102, B88103, B89206, B89369.
+- Lote 30 ficou com quatro produtos confirmados e com foto oficial. Total local: 634 SKUs. Nenhuma foto pendente nos lotes 28 a 30.
+
+## Aprovação visual dos lotes 28 a 30
+
+- B88017 e B88010 aprovados em tela. Fila encerrada com 38 conferidos e 30 excluídos.

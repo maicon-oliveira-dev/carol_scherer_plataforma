@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B82815",
+      "nome": "Demaquilante Bifásico Micelar Make B. 110 ml",
+      "descricao": "Demaquilante da linha Make B. Apresentação de 110 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Demaquilante",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82815.webp"
+    },
+    {
+      "sku": "B05546",
+      "nome": "Primer Antioleosidade Make B. Mate Salicylic 30 g",
+      "descricao": "Primer da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Primer",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B05546.webp"
+    },
+    {
+      "sku": "B87819",
+      "nome": "Batom Vinho True Plum Make B. Easy Mate 3,9 g",
+      "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,9 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87819.webp"
+    },
+    {
+      "sku": "B87818",
+      "nome": "Batom Marrom Nude Whisper Beige Make B. Easy Mate 3,9 g",
+      "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,9 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87818.webp"
+    },
+    {
+      "sku": "B95419",
+      "nome": "Batom Rosa Bare Rose Make B. Easy Mate 3,9 g",
+      "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,9 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B95419.webp"
+    },
+    {
+      "sku": "B87820",
+      "nome": "Batom Vermelho Warm Clay Make B. Easy Mate 3,9 g",
+      "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,9 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87820.webp"
+    },
+    {
+      "sku": "B75742",
+      "nome": "Base em Pó Mineral Make B. Cor 10 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75742.webp"
+    },
+    {
+      "sku": "B75755",
+      "nome": "Base em Pó Mineral Make B. Cor 30 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75755.webp"
+    },
+    {
+      "sku": "B75767",
+      "nome": "Base em Pó Mineral Make B. Cor 50 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75767.webp"
+    },
+    {
+      "sku": "B75754",
+      "nome": "Base em Pó Mineral Make B. Cor 20 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75754.webp"
+    },
+    {
+      "sku": "B75766",
+      "nome": "Base em Pó Mineral Make B. Cor 60 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75766.webp"
+    },
+    {
+      "sku": "B75765",
+      "nome": "Base em Pó Mineral Make B. Cor 40 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B75765.webp"
+    },
+    {
+      "sku": "B76824",
+      "nome": "Base em Pó Mineral Make B. Cor 70 5,5 g",
+      "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "5,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B76824.webp"
+    },
+    {
+      "sku": "B85849",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 120 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85849.webp"
+    },
+    {
+      "sku": "B85846",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 130 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85846.webp"
+    },
+    {
+      "sku": "B85855",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 140 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85855.webp"
+    },
+    {
+      "sku": "B85852",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 180 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85852.webp"
+    },
+    {
+      "sku": "B85848",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 190 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85848.webp"
+    },
+    {
+      "sku": "B85864",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 210 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85864.webp"
+    },
+    {
+      "sku": "B85856",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 220 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85856.webp"
+    }
+  ]
+}

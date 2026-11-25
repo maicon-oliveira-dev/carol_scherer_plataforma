@@ -21,7 +21,24 @@
 | Marca | Estado local | Próxima auditoria |
 | --- | --- | --- |
 | Natura | 695 cards ativos | Aguardando uma nova fonte ou decisão sobre os itens pendentes. |
-| O Boticário | 536 cards ativos (piloto + lotes 1 a 24) | Página 124 do PDF do ciclo 16/2026, a partir do SKU `B90717`. |
+| O Boticário | 634 cards ativos (piloto + lotes 1 a 30). | Lotes 31 a 33 iniciados em `B88101`, página 140, na [fila dos lotes 31 a 33](boticario-fila-31-33.v1.json). Próximo SKU fora dessa fila: `B87606`, página 143. |
+
+## Importador local de O Boticário
+
+Use Node.js 18+ e, para extrair o PDF, Python com PyMuPDF. A extração usa a numeração física do arquivo e conserva o SKU como texto. O importador confere a impressão digital do PDF nas retomadas.
+
+```powershell
+$catalogo = "$env:USERPROFILE/Downloads/catalogos/catalogo_boticario_202616.pdf"
+node tools/importar-boticario.js --simular --pdf "$catalogo"
+node tools/importar-boticario.js --preparar --pdf "$catalogo"
+```
+
+A primeira execução simula a extração e valida a proposta em memória. A segunda grava [a fila por SKU](boticario-fila-25-27.v1.json) e os três manifestos inativos em `data/boticario-preparacao/`. Para outra rodada, use `--fila caminho.json` com a mesma estrutura, informando a fonte, o primeiro lote e o ponto inicial do PDF.
+
+- `ordem` guarda a sequência do PDF. `porSku` registra página, trecho, ficha, foto, status e motivo. O importador pula SKUs já cadastrados e traz evidências por SKU da auditoria existente.
+- Mantenha como `pendente` todo item ainda sem correspondência exata entre o PDF, a ficha e a foto. Use `excluido` com o motivo para itens fora do escopo. Cadastre a foto oficial com o nome do SKU e marque `conferido` com `motivo: null` e `produto` no formato do manifesto v1 após revisar o item e a foto.
+- A extração busca até 60 candidatos além das exclusões por padrão. Use `--candidatos N` com `--pdf` para ampliar a fila quando existirem pendências sem solução imediata. O próximo SKU ainda fora da fila fica em `retomada`. A saída também indica o primeiro pendente já registrado. Omita `--pdf` para validar e agrupar apenas a fila existente.
+- Após atualizar a fila, rode novamente `--simular` e depois `--preparar`. Os lotes usam até 20 itens conferidos cada. A etapa de publicação segue a regra abaixo.
 
 ## Regra de publicação
 

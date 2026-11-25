@@ -11,51 +11,61 @@ const brands = [
   { name: "O Boticário", pattern: /^boticario-lote-(?:piloto|\d+)\.v1\.json$/i, sku: /^B\d{5}$/ },
 ];
 
-let failures = 0;
+function validateCatalogs({ candidates = [], report = () => {} } = {}) {
+  const results = new Map();
+  for (const brand of brands) {
+    const files = fs.readdirSync(dataDir)
+      .filter((file) => brand.pattern.test(file))
+      .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+    const inputs = files.map((file) => ({ file }));
+    if (brand.name === "O Boticário") inputs.push(...candidates);
+    const seen = new Set();
+    const skus = new Set();
+    const failures = [];
+    const fail = (message) => { failures.push(message); report(message); };
+    let activeProducts = 0;
 
-for (const brand of brands) {
-  const files = fs.readdirSync(dataDir)
-    .filter((file) => brand.pattern.test(file))
-    .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
-  const seen = new Set();
-  let activeProducts = 0;
-
-  for (const file of files) {
-    const filePath = path.join(dataDir, file);
-    let manifest;
-    try {
-      manifest = JSON.parse(fs.readFileSync(filePath, "utf8"));
-    } catch {
-      console.error(`${brand.name}: ${file} não contém JSON válido.`);
-      failures += 1;
-      continue;
-    }
-
-    if (manifest.versao !== 1 || typeof manifest.ativo !== "boolean" || !Array.isArray(manifest.produtos)) {
-      console.error(`${brand.name}: ${file} não segue o formato do manifesto v1.`);
-      failures += 1;
-      continue;
-    }
-
-    for (const product of manifest.produtos) {
-      const sku = String(product.sku || "").trim().toUpperCase();
-      const image = String(product.imagemOficial || "").trim();
-      const expectedDirectory = brand.name === "Natura" ? "natura" : "boticario";
-      const imagePath = path.resolve(root, image);
-      if (!brand.sku.test(sku) || !image || !image.startsWith(`assets/images/catalogos/${expectedDirectory}/`) || !fs.existsSync(imagePath)) {
-        console.error(`${brand.name}: ${file} tem produto com SKU ou imagem inválida (${sku || "sem SKU"}).`);
-        failures += 1;
+    for (const { file, candidate } of inputs) {
+      const filePath = path.join(dataDir, file);
+      let manifest;
+      try {
+        manifest = candidate ?? JSON.parse(fs.readFileSync(filePath, "utf8"));
+      } catch {
+        fail(`${brand.name}: ${file} não contém JSON válido.`);
+        continue;
       }
-      if (manifest.ativo && seen.has(sku)) {
-        console.error(`${brand.name}: SKU ativo duplicado (${sku}) em ${file}.`);
-        failures += 1;
+
+      if (manifest?.versao !== 1 || typeof manifest.ativo !== "boolean" || !Array.isArray(manifest.produtos)) {
+        fail(`${brand.name}: ${file} não segue o formato do manifesto v1.`);
+        continue;
       }
-      if (manifest.ativo) seen.add(sku);
+
+      for (const product of manifest.produtos) {
+        const sku = String(product?.sku || "").trim().toUpperCase();
+        const image = String(product?.imagemOficial || "").trim();
+        const expectedDirectory = brand.name === "Natura" ? "natura" : "boticario";
+        const imagePath = path.resolve(root, image);
+        if (!brand.sku.test(sku) || !image || !image.startsWith(`assets/images/catalogos/${expectedDirectory}/`) || !fs.statSync(imagePath, { throwIfNoEntry: false })?.isFile()) {
+          fail(`${brand.name}: ${file} tem produto com SKU ou imagem inválida (${sku || "sem SKU"}).`);
+        }
+        if (manifest.ativo && seen.has(sku)) {
+          fail(`${brand.name}: SKU ativo duplicado (${sku}) em ${file}.`);
+        }
+        if (manifest.ativo) seen.add(sku);
+        if (brand.sku.test(sku)) skus.add(sku);
+      }
+      if (manifest.ativo) activeProducts += manifest.produtos.length;
     }
-    if (manifest.ativo) activeProducts += manifest.produtos.length;
+
+    results.set(brand.name, { activeProducts, seen, skus, files, failures });
   }
-
-  console.log(`${brand.name}: ${activeProducts} produtos ativos, ${seen.size} SKUs únicos, ${files.length} manifestos.`);
+  return results;
 }
 
-if (failures) process.exit(1);
+module.exports = { validateCatalogs };
+if (require.main === module) {
+  for (const [name, result] of validateCatalogs({ report: console.error })) {
+    console.log(`${name}: ${result.activeProducts} produtos ativos, ${result.seen.size} SKUs únicos, ${result.files.length} manifestos.`);
+    if (result.failures.length) process.exitCode = 1;
+  }
+}

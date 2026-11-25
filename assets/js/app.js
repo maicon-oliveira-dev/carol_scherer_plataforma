@@ -76,13 +76,14 @@ const catalogContexts = {
   biozenthi: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line"], showOnlyUsefulFilters: true },
   jequiti: { primaryFilters: ["search", "type"], refinementFilters: ["category", "line", "fragrance", "shade", "volume"], showOnlyUsefulFilters: true },
   natura: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation"] },
-  boticario: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation", "line", "volume"] },
+  boticario: { primaryFilters: ["search", "category"], refinementFilters: ["category", "presentation", "line", "volume", "shade"] },
   combined: { primaryFilters: ["search", "category"], refinementFilters: ["category", "brand", "presentation", "line", "fragrance", "shade", "volume"] },
   brandSmall: { primaryFilters: ["search", "type"], refinementFilters: ["category"], showOnlyUsefulFilters: true },
 };
+const normalizeSearch = (text) => text.normalize("NFD").replace(/\p{M}/gu, "").trim().toLocaleLowerCase("pt-BR");
 function getProductSearchText(product) {
-  return [product.name, product.shortDescription, product.code, product.codeRange, product.line, product.category, product.productType, product.fragrance, product.shade, product.volume, ...(product.variations || []).flatMap((variation) => [variation.name, variation.code])]
-    .filter(Boolean).join(" ").toLocaleLowerCase("pt-BR");
+  return normalizeSearch([product.name, product.shortDescription, product.code, product.codeRange, product.line, product.category, product.productType, product.fragrance, product.shade, product.volume, ...(product.variations || []).flatMap((variation) => [variation.name, variation.code])]
+    .filter(Boolean).join(" "));
 }
 const assetBase = new URL("../../", document.querySelector('script[src$="app.js"]').src);
 
@@ -138,14 +139,14 @@ if (menuNav && menuButton) {
   const routes = { feminino: "pages/feminino.html", masculino: "pages/masculino.html", marcas: "pages/marcas.html" };
   const media = window.matchMedia("(max-width: 959px)");
   const entries = [];
-  let active = null, closeTimer, restoringMegaFocus = false;
+  let active = null, activated = null, closeTimer;
   const url = (path) => new URL(path, assetBase).href;
   function closePanel(restore = false) {
     clearTimeout(closeTimer);
     if (!active) return;
-    const previous = active; active = null; previous.panel.hidden = true;
+    const previous = active; active = null; activated = null; previous.panel.hidden = true;
     previous.trigger.setAttribute("aria-expanded", "false"); previous.wrapper.classList.remove("is-open");
-    if (restore) { restoringMegaFocus = true; previous.trigger.focus(); restoringMegaFocus = false; }
+    if (restore) previous.trigger.focus();
   }
   function openPanel(entry) {
     clearTimeout(closeTimer);
@@ -179,7 +180,8 @@ if (menuNav && menuButton) {
     const naturaCategories = {"feminino":["Corpo e Banho","Perfumaria"],"masculino":["Corpo e Banho","Cuidados Masculinos","Cuidados pessoais","Perfumaria"]};
     const categories = [...new Set([...scope.map((product) => product.category), ...(naturaCategories[key] || [])].map(categoryName))].sort((a,b) => a.localeCompare(b,"pt-BR"));
     const brandScope = key === "marcas" ? products : products.filter((product) => product.audience === key || product.audience === "unissex");
-    const brands = [...new Set([...brandScope.map((product) => product.brand), "Natura"])].filter((name) => brandRoutes[name]).sort((a,b) => a.localeCompare(b,"pt-BR"));
+    const catalogBrands = key === "marcas" ? ["Natura", "O Boticário"] : ["Natura"];
+    const brands = [...new Set([...brandScope.map((product) => product.brand), ...catalogBrands])].filter((name) => brandRoutes[name]).sort((a,b) => a.localeCompare(b,"pt-BR"));
     if (key !== "marcas") {
       const section = document.createElement("section"); heading(section, "Categorias");
       categories.forEach((category) => {
@@ -196,7 +198,7 @@ if (menuNav && menuButton) {
       const links = document.createElement("div"); links.className = "mega-brand-list";
       brands.forEach((name) => { const a = addLink(links, name, url(`pages/marcas/${brandRoutes[name]}.html`)); a.dataset.brandName = name; });
       const noResults = document.createElement("p"); noResults.className = "mega-no-results"; noResults.hidden = true; noResults.textContent = "Nenhuma marca encontrada.";
-      input.addEventListener("input", () => { let visible = 0; links.querySelectorAll("a").forEach((a) => { const matches = a.dataset.brandName.toLocaleLowerCase("pt-BR").includes(input.value.trim().toLocaleLowerCase("pt-BR")); a.hidden = !matches; if (matches) visible++; }); noResults.hidden = visible > 0; });
+      input.addEventListener("input", () => { let visible = 0; links.querySelectorAll("a").forEach((a) => { const matches = normalizeSearch(a.dataset.brandName).includes(normalizeSearch(input.value)); a.hidden = !matches; if (matches) visible++; }); noResults.hidden = visible > 0; });
       brandSection.append(links, noResults);
     } else {
       brands.forEach((name) => { const destination = new URL(routes[key], assetBase); destination.searchParams.set("marca", name); addLink(brandSection, name, destination.href); });
@@ -208,9 +210,14 @@ if (menuNav && menuButton) {
     const entry = { wrapper, trigger, panel }; entries.push(entry);
     wrapper.addEventListener("pointerenter", (event) => { if (!media.matches && event.pointerType === "mouse") openPanel(entry); });
     wrapper.addEventListener("pointerleave", (event) => { if (!media.matches && event.pointerType === "mouse") { clearTimeout(closeTimer); closeTimer = setTimeout(() => { if (!wrapper.contains(document.activeElement)) closePanel(); }, 180); } });
-    trigger.addEventListener("focus", () => { if (!restoringMegaFocus) openPanel(entry); });
-    trigger.addEventListener("click", (event) => { event.stopPropagation(); if (active === entry && (trigger.dataset.wasOpen === "true" || event.detail === 0)) closePanel(); else openPanel(entry); delete trigger.dataset.wasOpen; });
-    trigger.addEventListener("pointerdown", () => { trigger.dataset.wasOpen = String(active === entry); });
+    trigger.addEventListener("click", () => {
+      if (activated === entry) {
+        closePanel();
+      } else {
+        openPanel(entry);
+        activated = entry;
+      }
+    });
     close.addEventListener("click", () => closePanel(true));
   }
   menuNav.classList.add("has-mega");
@@ -236,6 +243,13 @@ function productCard(product) {
   const link = document.createElement("a"); link.className = "favorite-link"; link.textContent = "Consultar com a Carol ↗";
   const whatsappHref = (selectedVariation) => {
     const code = selectedVariation?.code || product.code || product.codeRange;
+    if (product.brand === "O Boticário") {
+      const nameText = normalizeSearch(product.name);
+      const variantDetails = [product.shade, product.fragrance, product.volume, product.presentation === "Refil" && product.presentation]
+        .filter((detail) => detail && !nameText.includes(normalizeSearch(detail)));
+      const fullName = [product.name, ...variantDetails].join(" · ");
+      return "https://wa.me/5547997854773?text=" + encodeURIComponent(`Olá, Carol! Gostaria de consultar a disponibilidade de ${fullName} (SKU ${code}).`);
+    }
     const lines = [`Olá, Carol! Tenho interesse neste produto:`, "", `Produto: ${product.name}`, `Código: ${code}`];
     if (selectedVariation) { lines.push(`Tom: ${selectedVariation.name}`); if (product.volume) lines.push(`Volume: ${product.volume}`); }
     else if (product.variations?.length) { lines.push(`Tons disponíveis: ${product.toneRange || "J10 a J120"}`, ...(product.volume ? [`Volume: ${product.volume}`] : []), "", "Informe o tom desejado no atendimento."); }
@@ -341,14 +355,104 @@ if (brandGrid) {
   const refine = document.querySelector("#catalog-refine-trigger"), panel = document.querySelector("#catalog-refine-panel"), chips = document.querySelector(".catalog-active-filters");
   let available = [];
   const cards = new WeakMap();
-  const value = (id) => document.querySelector(`#catalog-${id}-filter`)?.value || "";
-  const setPanel = (open) => { if (!panel || !refine) return; panel.hidden = !open; refine.setAttribute("aria-expanded", String(open)); if (open) panel.querySelector("button, select:not(:disabled)")?.focus(); };
-  const updateRefinementUi = () => { const active = controls.filter((control) => control.value); if (refine) refine.textContent = active.length ? `Refinar filtros · ${active.length}` : "Refinar filtros"; if (!chips) return; chips.replaceChildren(); chips.hidden = !active.length; active.forEach((control) => { const chip = document.createElement("button"); chip.type = "button"; chip.className = "catalog-filter-chip"; const label = control.closest("label")?.childNodes[0]?.textContent?.trim() || "Filtro"; const option = control.selectedOptions[0]?.textContent || ""; chip.textContent = `${label}: ${option} ×`; chip.setAttribute("aria-label", `Remover filtro ${label}: ${option}`); chip.addEventListener("click", () => { control.value = ""; renderBrand(); }); chips.append(chip); }); if (active.length) { const clearAll = document.createElement("button"); clearAll.type = "button"; clearAll.className = "catalog-filter-clear-all"; clearAll.textContent = "Limpar tudo"; clearAll.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); if (sharedFilters && search) search.value = ""; renderBrand(); }); chips.append(clearAll); } };
+  const brandFilter = document.querySelector("#catalog-brand-filter");
+  const filterLabels = {
+    type: "Todos os tipos", category: "Todas as categorias", brand: "Todas as marcas",
+    presentation: "Todas as apresentações", line: "Todas as linhas",
+    fragrance: "Todas as fragrâncias", shade: "Todos os tons", volume: "Todos os volumes",
+  };
+  const filters = new Map([["type", filter], ...brandContext.refinementFilters.map((id) =>
+    [id, document.querySelector(`#catalog-${id}-filter`)])].filter(([, select]) => select));
+  const productValues = (product, id) => {
+    if (id === "type") return [product.productType];
+    if (id === "category" && sharedFilters) return [categoryName(product.category)];
+    if (id === "shade") return [product.shade, ...(product.variations || []).map((variation) => variation.name)];
+    return [product[id]];
+  };
+  function populateFilters() {
+    const scoped = brandFilter?.value
+      ? available.filter((product) => product.brand === brandFilter.value)
+      : available;
+    for (const [id, select] of filters) {
+      const items = id === "brand" ? available : scoped;
+      const values = [...new Set(items.flatMap((product) => productValues(product, id)).filter(Boolean))]
+        .sort((a, b) => a.localeCompare(b, "pt-BR"));
+      const previous = select.value;
+      select.replaceChildren(new Option(filterLabels[id], ""), ...values.map((value) => new Option(value, value)));
+      select.value = values.includes(previous) ? previous : "";
+      select.disabled = !values.length;
+      if (id !== "type") select.closest("label").hidden = !values.length ||
+        (values.length === 1 && !["category", "presentation", "line", "volume", "shade"].includes(id));
+    }
+  }
+  brandFilter?.addEventListener("change", populateFilters);
+  let savedRefinements;
+  const setPanel = (open) => {
+    if (!panel || !refine || open === !panel.hidden) return;
+    if (open) {
+      savedRefinements = controls.map((control) => [control, control.value]);
+    } else if (savedRefinements) {
+      const savedBrand = savedRefinements.find(([control]) => control === brandFilter);
+      if (savedBrand && brandFilter.value !== savedBrand[1]) {
+        brandFilter.value = savedBrand[1];
+        populateFilters();
+      }
+      savedRefinements.forEach(([control, previous]) => {
+        control.value = previous;
+        control.dispatchEvent(new Event("catalog-selection-update"));
+      });
+    }
+    panel.hidden = !open;
+    refine.setAttribute("aria-expanded", String(open));
+    if (open) panel.querySelector("button")?.focus();
+  };
+  const updateRefinementUi = () => {
+    const active = controls.filter((control) => control.value);
+    if (refine) refine.textContent = active.length ? `Refinar filtros · ${active.length}` : "Refinar filtros";
+    if (!chips) return;
+    chips.replaceChildren();
+    chips.hidden = !active.length;
+    active.forEach((control) => {
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "catalog-filter-chip";
+      const label = control.closest("label")?.childNodes[0]?.textContent?.trim() || "Filtro";
+      const option = control.selectedOptions[0]?.textContent || "";
+      chip.textContent = `${label}: ${option} ×`;
+      chip.setAttribute("aria-label", `Remover filtro ${label}: ${option}`);
+      chip.addEventListener("click", () => {
+        setPanel(false);
+        control.value = "";
+        if (control === brandFilter) populateFilters();
+        control.dispatchEvent(new Event("catalog-selection-update"));
+        renderBrand();
+      });
+      chips.append(chip);
+    });
+    if (active.length) {
+      const clearAll = document.createElement("button");
+      clearAll.type = "button";
+      clearAll.className = "catalog-filter-clear-all";
+      clearAll.textContent = "Limpar tudo";
+      clearAll.addEventListener("click", () => {
+        setPanel(false);
+        controls.forEach((control) => { control.value = ""; });
+        populateFilters();
+        if (search) search.value = "";
+        renderBrand();
+      });
+      chips.append(clearAll);
+    }
+  };
   function renderBrand() {
-    const query = search?.value.trim().toLocaleLowerCase("pt-BR") || "";
+    const query = normalizeSearch(search?.value || "");
+    const skuQuery = query.match(/^b?(\d{5})$/)?.[1];
+    const selected = [...filters].filter(([, select]) => select.value);
     const result = available.filter((p) => {
-      const hasVariation = (term) => p.variations?.some((variation) => variation.name === term || variation.code === term);
-      return (!filter?.value || p.productType === filter.value) && (!value("brand") || p.brand === value("brand")) && (!value("presentation") || p.presentation === value("presentation")) && (!value("category") || (sharedFilters ? categoryName(p.category) : p.category) === value("category")) && (!value("line") || p.line === value("line")) && (!value("audience") || p.audience === value("audience")) && (!value("fragrance") || p.fragrance === value("fragrance")) && (!value("shade") || p.shade === value("shade") || hasVariation(value("shade"))) && (!value("volume") || p.volume === value("volume")) && (!query || getProductSearchText(p).includes(query));
+      if (!selected.every(([id, select]) => productValues(p, id).includes(select.value))) return false;
+      if (!query) return true;
+      if (skuQuery && p.brand === "O Boticário") return p.code === `B${skuQuery}`;
+      return getProductSearchText(p).includes(query);
     });
     brandGrid.replaceChildren(...result.map((product) => {
       if (!cards.has(product)) cards.set(product, productCard(product));
@@ -358,7 +462,26 @@ if (brandGrid) {
   }
   if (sharedFilters) document.querySelector("#catalog-category-filter")?.addEventListener("change", renderBrand);
   else filter?.addEventListener("change", renderBrand);
-  search?.addEventListener("input", renderBrand); refine?.addEventListener("click", () => setPanel(panel?.hidden)); document.querySelector(".catalog-refine-close")?.addEventListener("click", () => { setPanel(false); refine?.focus(); }); document.querySelector(".catalog-refine-apply")?.addEventListener("click", () => { renderBrand(); setPanel(false); refine?.focus(); }); document.querySelector(".catalog-refine-clear")?.addEventListener("click", () => { controls.forEach((control) => { control.value = ""; }); }); document.addEventListener("pointerdown", (event) => { if (panel && !panel.hidden && !panel.contains(event.target) && !refine?.contains(event.target)) setPanel(false); }); document.addEventListener("keydown", (event) => { if (event.key === "Escape" && panel && !panel.hidden) { event.preventDefault(); setPanel(false); refine?.focus(); } }); renderBrand();
+  search?.addEventListener("input", () => { setPanel(false); renderBrand(); });
+  refine?.addEventListener("click", () => setPanel(panel.hidden));
+  document.querySelector(".catalog-refine-close")?.addEventListener("click", () => { setPanel(false); refine?.focus(); });
+  document.querySelector(".catalog-refine-apply")?.addEventListener("click", () => {
+    savedRefinements = undefined;
+    setPanel(false);
+    renderBrand();
+    refine?.focus();
+  });
+  document.querySelector(".catalog-refine-clear")?.addEventListener("click", () => {
+    controls.forEach((control) => { control.value = ""; });
+    populateFilters();
+  });
+  const closeRefinementsOutside = (event) => {
+    if (panel && !panel.hidden && !panel.contains(event.target) && !refine?.contains(event.target)) setPanel(false);
+  };
+  document.addEventListener("pointerdown", closeRefinementsOutside);
+  document.addEventListener("focusin", closeRefinementsOutside);
+  document.addEventListener("keydown", (event) => { if (event.key === "Escape" && panel && !panel.hidden && !event.defaultPrevented) { event.preventDefault(); setPanel(false); refine?.focus(); } });
+  renderBrand();
   const otherProducts = products.filter((product) => {
     if (!combined) return product.brand === brandName;
     return !audience || product.audience === audience || product.audience === "unissex";
@@ -382,20 +505,21 @@ if (brandGrid) {
     : loadProducts(otherProducts);
   loading.then((items) => {
     available = items;
-    if (filter) {
-      const types = [...new Set(items.map((p) => p.productType).filter(Boolean))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-      filter.replaceChildren(new Option("Todos os tipos", ""));
-      types.forEach((type) => filter.add(new Option(type, type)));
-      filter.disabled = !types.length;
-    }
-    const populate = (id, key, label) => { const select = document.querySelector(`#catalog-${id}-filter`); if (!select) return; const values=[...new Set(items.flatMap((p)=>key === "shade" ? [p[key], ...(p.variations || []).map((variation)=>variation.name)] : [sharedFilters && key === "category" ? categoryName(p[key]) : p[key]]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"pt-BR")); select.replaceChildren(new Option(label,"")); values.forEach((v)=>select.add(new Option(v,v))); select.disabled=!values.length; const field = select.closest("label"); if (field) field.hidden = values.length <= 1 && !(sharedFilters && id === "category" && values.length); };
-    const refinementLabels = { category: "Todas as categorias", brand: "Todas as marcas", presentation: "Todas as apresentações", line: "Todas as linhas", fragrance: "Todas as fragrâncias", shade: "Todos os tons", volume: "Todos os volumes" }; brandContext.refinementFilters.forEach((id) => populate(id, id, refinementLabels[id]));
+    populateFilters();
     const params = new URL(window.location.href).searchParams;
-    for (const [param, id] of [["marca", "brand"], ["categoria", "category"], ["apresentacao", "presentation"]]) {
-      const select = document.querySelector("#catalog-" + id + "-filter");
-      const requested = params.get(param);
-      if (select && Array.from(select.options).some((option) => option.value === requested)) select.value = requested;
+    const filterParams = { marca: "brand", categoria: "category", tipo: "type", linha: "line",
+      apresentacao: "presentation", fragrancia: "fragrance", volume: "volume", tom: "shade" };
+    for (const [param, id] of Object.entries(filterParams)) {
+      const select = filters.get(id);
+      const requested = params.get(param)?.trim();
+      if (!select || !requested) continue;
+      const option = [...select.options].find(({ value }) =>
+        normalizeSearch(value) === normalizeSearch(id === "category" ? categoryName(requested) : requested));
+      if (!option) continue;
+      select.value = option.value;
+      if (id === "brand") populateFilters();
     }
+    if (search) search.value = params.get("busca") || search.value;
     renderBrand();
   });
 }
@@ -409,6 +533,7 @@ function upgradeSelects() {
     const list = document.createElement("div"); list.className = "premium-select-list"; list.id = `premium-${select.id}`; list.setAttribute("role", "listbox"); list.hidden = true;
     button.setAttribute("aria-haspopup", "listbox"); button.setAttribute("aria-controls", list.id); button.setAttribute("aria-expanded", "false");
     select.before(shell); shell.append(select, button, list); select.classList.add("premium-select-native"); select.tabIndex = -1;
+    select.setAttribute("aria-hidden", "true");
     const close = () => { list.hidden = true; button.setAttribute("aria-expanded", "false"); shell.classList.remove("is-open"); };
     const render = () => {
       const selected = select.selectedOptions[0]; button.textContent = selected ? selected.textContent : ""; button.disabled = select.disabled;
@@ -421,7 +546,9 @@ function upgradeSelects() {
     button.addEventListener("keydown", (event) => { if (["ArrowDown", "ArrowUp", " ", "Enter"].includes(event.key)) { event.preventDefault(); open(); list.querySelector(".premium-select-option:not(:disabled)")?.focus(); } if (event.key === "Escape") close(); });
     list.addEventListener("click", (event) => { const item = event.target.closest(".premium-select-option"); if (!item || item.disabled) return; select.value = item.dataset.value; select.dispatchEvent(new Event("change", { bubbles: true })); close(); button.focus(); });
     list.addEventListener("keydown", (event) => { const options = [...list.querySelectorAll(".premium-select-option:not(:disabled)")]; const index = options.indexOf(document.activeElement); const focus = (next) => options[(next + options.length) % options.length]?.focus(); if (event.key === "Escape") { event.preventDefault(); close(); button.focus(); } else if (event.key === "ArrowDown") { event.preventDefault(); focus(index + 1); } else if (event.key === "ArrowUp") { event.preventDefault(); focus(index - 1); } else if (event.key === "Home") { event.preventDefault(); options[0]?.focus(); } else if (event.key === "End") { event.preventDefault(); options.at(-1)?.focus(); } else if (["Enter", " "].includes(event.key)) { event.preventDefault(); document.activeElement?.click(); } });
-    select.addEventListener("change", render); new MutationObserver(render).observe(select, { childList: true, subtree: true, attributes: true, attributeFilter: ["disabled"] });
+    select.addEventListener("change", render);
+    select.addEventListener("catalog-selection-update", render);
+    new MutationObserver(render).observe(select, { childList: true, subtree: true, attributes: true, attributeFilter: ["disabled"] });
     document.addEventListener("pointerdown", (event) => { if (!shell.contains(event.target)) close(); }); render();
   });
 }

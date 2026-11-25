@@ -2,7 +2,16 @@
   "use strict";
 
   const fields = ["sku", "nome", "descricao", "categoria", "apresentacao", "linha", "tipo", "volume", "imagemOficial"];
-  const imagePath = /^assets\/images\/catalogos\/boticario\/[A-Z]\d{5}\.(?:avif|jpe?g|png|webp)$/;
+  const imagePath = /^assets\/images\/catalogos\/boticario\/(?:[A-Z]\d{5}\.(?:avif|jpe?g|png|webp)|foto-pendente\.webp)$/;
+  // Tons escritos nos nomes do catálogo sem a indicação “Tom”.
+  const namedShades = {
+    B59051: "Red Velvet", B59052: "Pink Hibiscus", B59053: "Caramel Classic",
+    B58981: "Invisível",
+    B52794: "Cor 1 (tons 100–150)", B52795: "Cor 2 (tons 160–220)",
+    B52798: "Cor 3 (tons 220–260)", B52797: "Cor 4 (tons 270–330)",
+    B50706: "Rose", B51179: "Brown", B50705: "Coral", B50704: "Berry",
+    B59134: "Gold", B85668: "Rose", B85666: "Pink Hit", B85667: "Cherry Hit",
+  };
 
   function validate(manifest, seen = new Set()) {
     if (!manifest || manifest.versao !== 1 || typeof manifest.ativo !== "boolean" || !Array.isArray(manifest.produtos)) {
@@ -56,6 +65,12 @@
     "data/boticario-lote-22.v1.json",
     "data/boticario-lote-23.v1.json",
     "data/boticario-lote-24.v1.json",
+    "data/boticario-lote-25.v1.json",
+    "data/boticario-lote-26.v1.json",
+    "data/boticario-lote-27.v1.json",
+    "data/boticario-lote-28.v1.json",
+    "data/boticario-lote-29.v1.json",
+    "data/boticario-lote-30.v1.json",
   ];
 
   async function load() {
@@ -88,6 +103,7 @@
       line: product.linha,
       productType: product.tipo,
       volume: product.volume,
+      shade: product.nome.match(/\bTom (\d+[A-Z])\b/u)?.[1] || namedShades[product.sku] || "",
       shortDescription: product.descricao,
       image: product.imagemOficial,
     }));

@@ -1,0 +1,50 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B88554",
+      "nome": "Batom Líquido Diamond Rosa Platinum Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88554.webp"
+    },
+    {
+      "sku": "B51183",
+      "nome": "Gloss Labial Soft Silk Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Gloss",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51183.webp"
+    },
+    {
+      "sku": "B51180",
+      "nome": "Gloss Labial Crystal Icon Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Gloss",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51180.webp"
+    },
+    {
+      "sku": "B52867",
+      "nome": "Gloss Labial New Rose Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Gloss",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52867.webp"
+    }
+  ]
+}

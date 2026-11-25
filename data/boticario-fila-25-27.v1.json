@@ -1,0 +1,1330 @@
+{
+  "versao": 1,
+  "fonte": {
+    "ciclo": "16/2026",
+    "arquivo": "catalogo_boticario_202616.pdf",
+    "sha256": "c5f54270bceb7d83c63d27656aa92d33b01db2717ecda2d10f587c45af0f8150"
+  },
+  "primeiroLote": 25,
+  "retomada": {
+    "pagina": 131,
+    "sku": "B27858"
+  },
+  "ordem": [
+    "B90717",
+    "B90729",
+    "B90718",
+    "B90719",
+    "B90727",
+    "B90716",
+    "B90726",
+    "B90715",
+    "B90724",
+    "B90714",
+    "B90723",
+    "B90713",
+    "B90722",
+    "B90712",
+    "B90720",
+    "B90710",
+    "B90721",
+    "B90711",
+    "B90709",
+    "B90731",
+    "B82815",
+    "B05546",
+    "B87819",
+    "B87818",
+    "B95419",
+    "B87820",
+    "B75742",
+    "B75755",
+    "B75767",
+    "B75754",
+    "B75766",
+    "B75765",
+    "B76824",
+    "B56586",
+    "B89568",
+    "B85849",
+    "B85846",
+    "B85855",
+    "B85852",
+    "B85848",
+    "B85864",
+    "B85856",
+    "B85853",
+    "B85850",
+    "B85851",
+    "B85847",
+    "B85857",
+    "B85858",
+    "B85854",
+    "B57753",
+    "B51595",
+    "B97372",
+    "B52619",
+    "B96419",
+    "B55502",
+    "B52638",
+    "B53427",
+    "B75757",
+    "B75756",
+    "B52618",
+    "B52620",
+    "B87787",
+    "B89733",
+    "B87821",
+    "B87822",
+    "B56585",
+    "B87352",
+    "B55505",
+    "B57493",
+    "B50888",
+    "B76689"
+  ],
+  "porSku": {
+    "B90717": {
+      "pagina": 124,
+      "trechoPdf": "90717 190Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-190q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90717/0af6b173-d82a-4291-a06f-712f8b15c63e-bt-07-26-90717-make-b-base-liquida-mate-salicylic-190q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90717",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 190Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90717.webp"
+      }
+    },
+    "B90729": {
+      "pagina": 124,
+      "trechoPdf": "90729 105N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-105n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90729/d8c1c29b-f9b0-487f-835b-cdac9d7c5623-bt-07-26-90729-make-b-base-liquida-mate-salicylic-105n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90729",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 105N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90729.webp"
+      }
+    },
+    "B90718": {
+      "pagina": 124,
+      "trechoPdf": "90718 185F",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-185f-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90718/8efc206f-096e-4336-8059-1b4e1dfe13f5-bt-07-26-90718-make-b-base-liquida-mate-salicylic-185f-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90718",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 185F 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90718.webp"
+      }
+    },
+    "B90719": {
+      "pagina": 124,
+      "trechoPdf": "90719 180Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-180q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90719/9d0766ee-9a7b-4934-bc53-775828b416ea-bt-07-26-90719-make-b-base-liquida-mate-salicylic-180q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90719",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 180Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90719.webp"
+      }
+    },
+    "B90727": {
+      "pagina": 124,
+      "trechoPdf": "90727 120N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-120n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90727/f1ab1606-c3f3-407e-88df-7ca59deea401-bt-07-26-90727-make-b-base-liquida-mate-salicylic-120n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90727",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 120N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90727.webp"
+      }
+    },
+    "B90716": {
+      "pagina": 124,
+      "trechoPdf": "90716 200N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-200n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90716/7d80be73-dab7-4669-aa02-78768f55b21b-bt-07-26-90716-make-b-base-liquida-mate-salicylic-200n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90716",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 200N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90716.webp"
+      }
+    },
+    "B90726": {
+      "pagina": 124,
+      "trechoPdf": "90726 130Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-130q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90726/372b0923-a5c0-49c0-87dc-53a1d5850989-bt-07-26-90726-make-b-base-liquida-mate-salicylic-130q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90726",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 130Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90726.webp"
+      }
+    },
+    "B90715": {
+      "pagina": 124,
+      "trechoPdf": "90715 205N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-205n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90715/bfc8aa9c-4143-4b2b-bbec-43d4e18ddf44-bt-07-26-90715-make-b-base-liquida-mate-salicylic-205n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90715",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 205N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90715.webp"
+      }
+    },
+    "B90724": {
+      "pagina": 124,
+      "trechoPdf": "90724 140Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-140q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90724/3e0d4da6-292a-441f-9c9d-02c255e6ef6b-bt-07-26-90724-make-b-base-liquida-mate-salicylic-140q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90724",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 140Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90724.webp"
+      }
+    },
+    "B90714": {
+      "pagina": 124,
+      "trechoPdf": "90714 210Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-210q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90714/9d0a77db-26f9-46f3-be5f-336d8f333806-bt-07-26-90714-make-b-base-liquida-mate-salicylic-210q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90714",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 210Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90714.webp"
+      }
+    },
+    "B90723": {
+      "pagina": 124,
+      "trechoPdf": "90723 150Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-150q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90723/0177444e-cb66-4f00-a66e-e6207b5dfdad-bt-07-26-90723-make-b-base-liquida-mate-salicylic-150q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90723",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 150Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90723.webp"
+      }
+    },
+    "B90713": {
+      "pagina": 124,
+      "trechoPdf": "90713 215Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-215q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90713/1fb30ce6-7c0b-45be-9e80-1e05dc09600b-bt-07-26-90713-make-b-base-liquida-mate-salicylic-215q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90713",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 215Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90713.webp"
+      }
+    },
+    "B90722": {
+      "pagina": 124,
+      "trechoPdf": "90722 160Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-160q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90722/23c624c6-0f4c-453f-bf6b-29c6b75a9a58-bt-07-26-90722-make-b-base-liquida-mate-salicylic-160q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90722",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 160Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90722.webp"
+      }
+    },
+    "B90712": {
+      "pagina": 124,
+      "trechoPdf": "90712 220Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-220q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90712/e446d799-71dc-4957-a812-9896d8de4bf5-bt-07-26-90712-make-b-base-liquida-mate-salicylic-220q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90712",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 220Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90712.webp"
+      }
+    },
+    "B90720": {
+      "pagina": 124,
+      "trechoPdf": "90720 175N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-175n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90720/6dfddc05-ab65-49f2-a8c7-9497d9f862fd-bt-07-26-90720-make-b-base-liquida-mate-salicylic-175n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90720",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 175N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90720.webp"
+      }
+    },
+    "B90710": {
+      "pagina": 124,
+      "trechoPdf": "90710 230N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-230n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90710/949319e8-1aae-47e1-8877-62543fb0d475-bt-07-26-90710-make-b-base-liquida-mate-salicylic-230n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90710",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 230N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90710.webp"
+      }
+    },
+    "B90721": {
+      "pagina": 124,
+      "trechoPdf": "90721 170Q",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-170q-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90721/55464e27-7c41-425a-a57c-bdac745146b2-bt-07-26-90721-make-b-base-liquida-mate-salicylic-170q-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90721",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 170Q 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90721.webp"
+      }
+    },
+    "B90711": {
+      "pagina": 124,
+      "trechoPdf": "90711 225N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-225n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90711/7402622b-8d5e-4923-8695-9d90cfa44a1f-bt-07-26-90711-make-b-base-liquida-mate-salicylic-225n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90711",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 225N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90711.webp"
+      }
+    },
+    "B90709": {
+      "pagina": 124,
+      "trechoPdf": "90709 235N",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-235n-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_auto,fl_progressive,q_auto:eco,c_limit/e_trim/v1/imagens/product/B90709/e839fb83-39e6-4114-9bbe-226185685fef-bt-07-26-90709-make-b-base-liquida-mate-salicylic-235n-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90709",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 235N 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90709.webp"
+      }
+    },
+    "B90731": {
+      "pagina": 124,
+      "trechoPdf": "90731 100F",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-efeito-mate-make-b-salicylic-100f-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90731/b215c1d0-8d86-4d0b-9c7f-aa41ec028d5d-bt-07-26-90731-make-b-base-liquida-mate-salicylic-100f-30g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90731",
+        "nome": "Base Líquida Mate Make B. Salicylic Tom 100F 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90731.webp"
+      }
+    },
+    "B82815": {
+      "pagina": 124,
+      "trechoPdf": "82815",
+      "fichaOficial": "https://www.boticario.com.br/demaquilante-bifasico-micelar-make-b-110ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B82815/82815.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B82815",
+        "nome": "Demaquilante Bifásico Micelar Make B. 110 ml",
+        "descricao": "Demaquilante da linha Make B. Apresentação de 110 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Demaquilante",
+        "volume": "110 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B82815.webp"
+      }
+    },
+    "B05546": {
+      "pagina": 125,
+      "trechoPdf": "05546",
+      "fichaOficial": "https://www.boticario.com.br/produto/primer-antioleosidade-make-b-mate-salicylic-30g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B05546/MakeB_Primer_B05546.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B05546",
+        "nome": "Primer Antioleosidade Make B. Mate Salicylic 30 g",
+        "descricao": "Primer da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Primer",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B05546.webp"
+      }
+    },
+    "B87819": {
+      "pagina": 125,
+      "trechoPdf": "87819 true plum",
+      "fichaOficial": "https://www.boticario.com.br/produto/batom-vinho-true-plum-make-b-easy-mate-39g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87819/4a6173fb-c475-4910-8d79-95b62ae6fe5b-bt-87819-make-b-batom-easy-mate-true-plum-3-9g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87819",
+        "nome": "Batom Vinho True Plum Make B. Easy Mate 3,9 g",
+        "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Batom",
+        "volume": "3,9 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87819.webp"
+      }
+    },
+    "B87818": {
+      "pagina": 125,
+      "trechoPdf": "87818 whisper beige",
+      "fichaOficial": "https://www.boticario.com.br/produto/batom-marron-nude-whisper-beige-make-b-easy-mate-39g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87818/1e393d13-924b-446c-9881-134d0f3a23da-bt-07-26-87818-make-b-batom-easy-mate-whisper-beige-3-9g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87818",
+        "nome": "Batom Marrom Nude Whisper Beige Make B. Easy Mate 3,9 g",
+        "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Batom",
+        "volume": "3,9 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87818.webp"
+      }
+    },
+    "B95419": {
+      "pagina": 125,
+      "trechoPdf": "95419 bare rose",
+      "fichaOficial": "https://www.boticario.com.br/produto/batom-rosa-rose-make-b-easy-mate-39g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B95419/3ea9df7c-718a-4a98-b6bb-d478144a1c4a-bt-07-26-95419-make-b-batom-easy-mate-bare-rose-3-9g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B95419",
+        "nome": "Batom Rosa Bare Rose Make B. Easy Mate 3,9 g",
+        "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Batom",
+        "volume": "3,9 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B95419.webp"
+      },
+      "observacao": "Bare Rose no PDF e na foto oficial da variante. A ficha de mesmo SKU usa Rosa Rose."
+    },
+    "B87820": {
+      "pagina": 125,
+      "trechoPdf": "87820 warm clay",
+      "fichaOficial": "https://www.boticario.com.br/produto/batom-vermelho-warm-clay-make-b-easy-mate-39g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87820/f286938d-cd49-4cad-9cbb-899c8d9a59e1-bt-07-26-87820-make-b-batom-easy-mate-warm-clay-3-9g-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87820",
+        "nome": "Batom Vermelho Warm Clay Make B. Easy Mate 3,9 g",
+        "descricao": "Batom da linha Make B. Apresentação de 3,9 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Batom",
+        "volume": "3,9 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87820.webp"
+      }
+    },
+    "B75742": {
+      "pagina": 126,
+      "trechoPdf": "75742",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-10-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75742/75742_ABERTO.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75742",
+        "nome": "Base em Pó Mineral Make B. Cor 10 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75742.webp"
+      }
+    },
+    "B75755": {
+      "pagina": 126,
+      "trechoPdf": "75755",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-30-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75755/75755.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75755",
+        "nome": "Base em Pó Mineral Make B. Cor 30 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75755.webp"
+      }
+    },
+    "B75767": {
+      "pagina": 126,
+      "trechoPdf": "75767",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-50-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75767/base_em_po_mineral_cor_50_make_b_55g_FECHADO_TAMPA_75767.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75767",
+        "nome": "Base em Pó Mineral Make B. Cor 50 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75767.webp"
+      }
+    },
+    "B75754": {
+      "pagina": 126,
+      "trechoPdf": "75754",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-20-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75754/75754_ABERTO.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75754",
+        "nome": "Base em Pó Mineral Make B. Cor 20 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75754.webp"
+      }
+    },
+    "B75766": {
+      "pagina": 126,
+      "trechoPdf": "75766",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-60-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75766/75766-.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75766",
+        "nome": "Base em Pó Mineral Make B. Cor 60 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75766.webp"
+      }
+    },
+    "B75765": {
+      "pagina": 126,
+      "trechoPdf": "75765",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-40-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75765/75765_ABERTO.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75765",
+        "nome": "Base em Pó Mineral Make B. Cor 40 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B75765.webp"
+      }
+    },
+    "B76824": {
+      "pagina": 126,
+      "trechoPdf": "76824",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-em-po-mineral-cor-70-make-b-55g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B76824/base_em_po_mineral_cor_70_make_b_55g_FRONTAL_ABERTO_76824.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B76824",
+        "nome": "Base em Pó Mineral Make B. Cor 70 5,5 g",
+        "descricao": "Base da linha Make B. Apresentação de 5,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "5,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B76824.webp"
+      }
+    },
+    "B56586": {
+      "pagina": 126,
+      "trechoPdf": "56586",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit de pincéis, fora do escopo."
+    },
+    "B89568": {
+      "pagina": 126,
+      "trechoPdf": "89568",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Minimaleta classificada como acessório no PDF."
+    },
+    "B85849": {
+      "pagina": 127,
+      "trechoPdf": "85849",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-120-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85849/760bc26b-531b-40ff-a25d-e088b72e949d-bot-85849-make-b-glycolic-cor-120-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85849",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 120 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85849.webp"
+      }
+    },
+    "B85846": {
+      "pagina": 127,
+      "trechoPdf": "85846",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-130-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85846/a9dafba0-a24a-4c2d-9c61-87b3625ba342-bot-51268-make-b-base-glycolic-cor-130-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85846",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 130 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85846.webp"
+      }
+    },
+    "B85855": {
+      "pagina": 127,
+      "trechoPdf": "85855",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-140-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85855/e15788e1-6337-448f-8fd3-35311d9efd62-bot-51279-make-b-base-glycolic-cor-140-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85855",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 140 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85855.webp"
+      }
+    },
+    "B85852": {
+      "pagina": 127,
+      "trechoPdf": "85852",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-180-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85852/f5f9c157-2e0f-4be6-9ed8-78935bd58b38-bot-51275-make-b-base-glycolic-cor-180-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85852",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 180 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85852.webp"
+      }
+    },
+    "B85848": {
+      "pagina": 127,
+      "trechoPdf": "85848",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-190-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85848/3c45c658-7bf9-45eb-af9f-a04bac7793dd-bot-85848-make-b-glycolic-cor-190-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85848",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 190 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85848.webp"
+      }
+    },
+    "B85864": {
+      "pagina": 127,
+      "trechoPdf": "85864",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-210-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85864/6f96ac35-7e23-4038-98df-7b978ce241fd-bot-85864-make-b-glycolic-cor-210-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85864",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 210 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85864.webp"
+      }
+    },
+    "B85856": {
+      "pagina": 127,
+      "trechoPdf": "85856",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-220-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85856/057f9213-e3d5-4325-a926-71431c60ea51-bot-85856-make-b-glycolic-cor-220-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85856",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 220 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85856.webp"
+      }
+    },
+    "B85853": {
+      "pagina": 127,
+      "trechoPdf": "85853",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-make-b-glycolic-tx-cor-230-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85853/439fe28d-f727-4345-9eb1-50e938c236ea-bot-51276-make-b-base-glycolic-cor-230-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85853",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 230 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85853.webp"
+      }
+    },
+    "B85850": {
+      "pagina": 127,
+      "trechoPdf": "85850",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-260-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85850/1c03e08a-9302-4c30-b80c-6e2389b64ef0-bot-51273-make-b-base-glycolic-cor-260-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85850",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 260 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85850.webp"
+      }
+    },
+    "B85851": {
+      "pagina": 127,
+      "trechoPdf": "85851",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-270-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85851/8bbb323e-3645-4a03-b42f-b75b2abccfe9-bot-85851-make-b-glycolic-base-cor-270-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85851",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 270 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85851.webp"
+      }
+    },
+    "B85847": {
+      "pagina": 127,
+      "trechoPdf": "85847",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-300-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85847/12760468-9452-460b-9232-acdb26fa4ee2-bot-51270-make-b-base-glycolic-cor-300-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85847",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 300 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85847.webp"
+      }
+    },
+    "B85857": {
+      "pagina": 127,
+      "trechoPdf": "85857",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-320-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85857/f1397bc0-e847-4b19-9794-7a5897dffd34-bot-85857-make-b-glycolic-base-cor-310-01.jpg",
+      "status": "pendente",
+      "motivo": "O PDF e a ficha indicam cor 320, mas o arquivo da foto oficial identifica cor 310."
+    },
+    "B85858": {
+      "pagina": 127,
+      "trechoPdf": "85858",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "pendente",
+      "motivo": "A ficha localizada para a cor 330 apresenta outro SKU (B51282). Falta confirmar a ficha e a foto de B85858.",
+      "fichaDeOutroSku": "https://www.boticario.com.br/produto/base-liquida-make-b-glycolic-tx-cor-330-30g/"
+    },
+    "B85854": {
+      "pagina": 127,
+      "trechoPdf": "85854",
+      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-100-30g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85854/20dce056-460f-43e9-9a9d-5ce0fb07fecc-bot-51278-make-b-base-glycolic-cor-100-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85854",
+        "nome": "Base Líquida Make B. Glycolic TX Cor 100 30 g",
+        "descricao": "Base da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85854.webp"
+      }
+    },
+    "B57753": {
+      "pagina": 127,
+      "trechoPdf": "57753",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Esponja de maquiagem classificada como acessório no PDF."
+    },
+    "B51595": {
+      "pagina": 127,
+      "trechoPdf": "51595",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Pedra absorvente classificada como acessório no PDF."
+    },
+    "B97372": {
+      "pagina": 128,
+      "trechoPdf": "97372",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-cilios-make-b-scandal-lashes-10g-2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B97372/79a57f4b-8b4f-4377-bd51-b565eea59716-bt-07-23-mascara-scandallashes-52619-1.jpg",
+      "status": "excluido",
+      "motivo": "Opção com caixa para presente no PDF e na ficha oficial, fora do escopo."
+    },
+    "B52619": {
+      "pagina": 128,
+      "trechoPdf": "52619",
+      "fichaOficial": "https://www.boticario.com.br/mascara-de-cilios-make-b-scandal-lashes-10g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B52619/52619_MAKE-B_MASCARA-DE-CILIOS_SCANDALL-LASHES_FRONTAL_1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52619",
+        "nome": "Máscara de Cílios Make B. Scandal Lashes com Óleo de Coco 10 g",
+        "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para cílios",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B52619.webp"
+      }
+    },
+    "B96419": {
+      "pagina": 128,
+      "trechoPdf": "96419",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-cilios-make-b-scandal-full-10g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B96419/6a58cc21-f04a-4edc-b75b-ae751990deec-bt-12-26-make-b-mascara-de-cilios-scandal-full-10g-96419-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B96419",
+        "nome": "Máscara de Cílios Make B. Scandal Full 10 g",
+        "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para cílios",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B96419.webp"
+      }
+    },
+    "B55502": {
+      "pagina": 128,
+      "trechoPdf": "55502",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-para-cilios-make-b-explosion-grow-10g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55502/31a70b9c-ef80-4428-8cb5-c9a3535a027d-bot-55502-make-b-explosion-grown-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55502",
+        "nome": "Máscara de Cílios Make B. Explosion Grow 10 g",
+        "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para cílios",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B55502.webp"
+      }
+    },
+    "B52638": {
+      "pagina": 128,
+      "trechoPdf": "52638",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-cilios-make-b-4k-panoramic-10g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B52638/BOT_52638_MAKE-B_MASCARA-DE-CILIOS_4K-PANORAMIC_FRONTAL_1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52638",
+        "nome": "Máscara de Cílios Make B. 4K Panoramic 10 g",
+        "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para cílios",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B52638.webp"
+      }
+    },
+    "B53427": {
+      "pagina": 129,
+      "trechoPdf": "53427",
+      "fichaOficial": "https://www.boticario.com.br/produto/delineador-liquido-para-olhos-preto-make-b-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B53427/53427_MAKE-B_DELINEADOR-RESISTENTE-PRETO_FRONTAL_1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B53427",
+        "nome": "Delineador Líquido Preto para Olhos Make B. 5 ml",
+        "descricao": "Delineador da linha Make B. Apresentação de 5 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Delineador",
+        "volume": "5 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B53427.webp"
+      }
+    },
+    "B75757": {
+      "pagina": 129,
+      "trechoPdf": "75757",
+      "fichaOficial": "https://www.boticario.com.br/produto/caneta-para-sobrancelha-microblading-up-brow-media-make-b-1-ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75757/B75757.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75757",
+        "nome": "Caneta para Sobrancelha Microblading UP Brow Média Make B. 1 ml",
+        "descricao": "Caneta para sobrancelhas da linha Make B. Apresentação de 1 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Caneta para sobrancelhas",
+        "volume": "1 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B75757.webp"
+      }
+    },
+    "B75756": {
+      "pagina": 129,
+      "trechoPdf": "75756",
+      "fichaOficial": "https://www.boticario.com.br/produto/caneta-para-sobrancelha-microblading-up-brow-clara-make-b-1-ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B75756/B75756.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B75756",
+        "nome": "Caneta para Sobrancelha Microblading UP Brow Clara Make B. 1 ml",
+        "descricao": "Caneta para sobrancelhas da linha Make B. Apresentação de 1 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Caneta para sobrancelhas",
+        "volume": "1 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B75756.webp"
+      }
+    },
+    "B52618": {
+      "pagina": 129,
+      "trechoPdf": "52618",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-cilios-make-b-volume-extremo-10ml/",
+      "foto": null,
+      "status": "pendente",
+      "motivo": "Apresentação divergente: PDF indica 10 g; ficha oficial indica 10 ml.",
+      "auditoriaAnterior": {
+        "pagina": 118,
+        "fichaOficial": "https://www.boticario.com.br/mascara-de-cilios-make-b-volume-extremo-10ml/",
+        "foto": null,
+        "resultado": "Apresentação divergente: PDF indica 10 g; ficha oficial indica 10 ml."
+      }
+    },
+    "B52620": {
+      "pagina": 129,
+      "trechoPdf": "52620",
+      "fichaOficial": "https://www.boticario.com.br/mascara-de-cilios-make-b-explosion-effect-10g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B52620/52620_MAKE-B_MASCARA-DE-CILIOS_EXPLOSION-EFFECT_FRONTAL_1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52620",
+        "nome": "Máscara de Cílios Make B. Explosion Effect 10 g",
+        "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para cílios",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B52620.webp"
+      }
+    },
+    "B87787": {
+      "pagina": 130,
+      "trechoPdf": "87787",
+      "fichaOficial": "https://www.boticario.com.br/produto/paleta-de-maquiagem-multifuncional-make-b-soft-fusion-20g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87787/80ed9651-90aa-4b13-81fa-79eeaf292766-bot-87787-make-b-soft-fusion-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87787",
+        "nome": "Paleta Multifuncional Make B. Soft Fusion 20 g",
+        "descricao": "Paleta da linha Make B. Apresentação de 20 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Paleta",
+        "volume": "20 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87787.webp"
+      }
+    },
+    "B89733": {
+      "pagina": 130,
+      "trechoPdf": "89733",
+      "fichaOficial": "https://www.boticario.com.br/produto/paleta-de-maquiagem-multifuncional-make-b-deep-blend-20g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89733/430984fd-83f2-409b-8365-d8c6d735f3dc-bot-89733-make-b-paleta-deep-fusion-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89733",
+        "nome": "Paleta Multifuncional Make B. Deep Blend 20 g",
+        "descricao": "Paleta da linha Make B. Apresentação de 20 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Paleta",
+        "volume": "20 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B89733.webp"
+      }
+    },
+    "B87821": {
+      "pagina": 130,
+      "trechoPdf": "87821",
+      "fichaOficial": "https://www.boticario.com.br/make-b-rose-fusion-mini-o-boticario-paleta-de-maquiagem-multifuncional-25g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87821/754f8331-5f13-47c7-aec6-779a23f065f2-bot-87821-mini-paleta-rose-fusion-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87821",
+        "nome": "Minipaleta Multifuncional Make B. Rose Fusion 2,5 g",
+        "descricao": "Paleta da linha Make B. Apresentação de 2,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Paleta",
+        "volume": "2,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87821.webp"
+      }
+    },
+    "B87822": {
+      "pagina": 130,
+      "trechoPdf": "87822",
+      "fichaOficial": "https://www.boticario.com.br/produto/mini-paleta-de-maquiagem-multifuncional-make-b-brown-blend-25g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87822/94824ea5-91b3-44bc-931f-cbc25d56e8a9-bot-87822-mini-paleta-brown-blend-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87822",
+        "nome": "Minipaleta Multifuncional Make B. Brown Blend 2,5 g",
+        "descricao": "Paleta da linha Make B. Apresentação de 2,5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Paleta",
+        "volume": "2,5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B87822.webp"
+      },
+      "observacao": "O PDF indica Brown, e a ficha e a foto oficiais do mesmo SKU indicam Brown Blend."
+    },
+    "B56585": {
+      "pagina": 130,
+      "trechoPdf": "56585",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Maleta de maquiagem classificada como acessório no PDF."
+    },
+    "B87352": {
+      "pagina": 130,
+      "trechoPdf": "87352",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Pincel duplo classificado como acessório no PDF."
+    },
+    "B55505": {
+      "pagina": 131,
+      "trechoPdf": "55505",
+      "fichaOficial": "https://www.boticario.com.br/lapis-para-olhos-ultrablack-make-b-12g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55505/24ab9c5a-03c4-49f8-869b-21060e6fdc0c-bot-55505-lapis-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55505",
+        "nome": "Lápis para Olhos Ultrablack Make B. 1,2 g",
+        "descricao": "Lápis para olhos da linha Make B. Apresentação de 1,2 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Lápis para olhos",
+        "volume": "1,2 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B55505.webp"
+      }
+    },
+    "B57493": {
+      "pagina": 131,
+      "trechoPdf": "57493",
+      "fichaOficial": "https://www.boticario.com.br/produto/serum-para-cilios-e-sombrancelhas-make-b-explosion-grow-5g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57493/9a34a2e5-3466-44eb-927c-80ef9183c73b-bot-57493-make-b-explosion-grown-serum-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57493",
+        "nome": "Sérum para Cílios e Sobrancelhas Make B. Explosion Grow 5 g",
+        "descricao": "Sérum para cílios e sobrancelhas da linha Make B. Apresentação de 5 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Sérum para cílios e sobrancelhas",
+        "volume": "5 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B57493.webp"
+      }
+    },
+    "B50888": {
+      "pagina": 131,
+      "trechoPdf": "50888",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-sobrancelhas-em-gel-makeb-brow-lamination/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B50888/BOT_50888_MAKE-B_GEL-SOBRANCELHA_BROWN-LAMINATION_FRONTAL_1.jpg",
+      "status": "pendente",
+      "motivo": "Falta confirmar os 5 ml do PDF na ficha oficial ou na embalagem oficial.",
+      "fichaComplementar": "https://www.belezanaweb.com.br/makeb-o-boticario-brow-lamination-mascara-de-sobrancelhas-em-gel-5ml/"
+    },
+    "B76689": {
+      "pagina": 131,
+      "trechoPdf": "76689",
+      "fichaOficial": "https://www.boticario.com.br/produto/caneta-delineadora-para-olhos-ponta-fina-preta-make-b-12ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B76689/B76689.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B76689",
+        "nome": "Caneta Delineadora Preta para Olhos Ponta Fina Make B. 1,2 ml",
+        "descricao": "Delineador da linha Make B. Apresentação de 1,2 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Delineador",
+        "volume": "1,2 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B76689.webp"
+      }
+    }
+  },
+  "inicio": {
+    "pagina": 124,
+    "sku": "B90717"
+  }
+}

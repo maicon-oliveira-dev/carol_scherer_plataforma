@@ -1,0 +1,204 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B81624",
+      "nome": "Batom Mate Marrom Hot Brown Make B. 4 g",
+      "descricao": "Produto da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81624.webp"
+    },
+    {
+      "sku": "B81626",
+      "nome": "Batom Mate Rosa Rose Fabulous Make B. 4 g",
+      "descricao": "Produto da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81626.webp"
+    },
+    {
+      "sku": "B51383",
+      "nome": "Refil Batom Mate Rosa Rose Fabulous Make B. 4 g",
+      "descricao": "Refil de batom da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Refil",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51383.webp"
+    },
+    {
+      "sku": "B81618",
+      "nome": "Batom Mate Vermelho Red Supreme Make B. 4 g",
+      "descricao": "Produto da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81618.webp"
+    },
+    {
+      "sku": "B81623",
+      "nome": "Batom Mate Violeta Violet Make B. 4 g",
+      "descricao": "Produto da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81623.webp"
+    },
+    {
+      "sku": "B81621",
+      "nome": "Batom Mate Laranja Orange Fever Make B. 4 g",
+      "descricao": "Produto da linha Make B. Apresentação de 4 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "4 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B81621.webp"
+    },
+    {
+      "sku": "B88519",
+      "nome": "Batom Glossy Marrom Nude Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88519.webp"
+    },
+    {
+      "sku": "B88521",
+      "nome": "Batom Glossy Rosa Rose Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88521.webp"
+    },
+    {
+      "sku": "B88527",
+      "nome": "Batom Glossy Vinho Wine Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88527.webp"
+    },
+    {
+      "sku": "B51173",
+      "nome": "Gloss Labial Rose Lover Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Gloss",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51173.webp"
+    },
+    {
+      "sku": "B88017",
+      "nome": "Batom Líquido Mate Red Boost Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88017.webp"
+    },
+    {
+      "sku": "B88010",
+      "nome": "Batom Líquido Mate Dark Rouge Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88010.webp"
+    },
+    {
+      "sku": "B88009",
+      "nome": "Batom Líquido Mate Ultimate Brown Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88009.webp"
+    },
+    {
+      "sku": "B88016",
+      "nome": "Batom Líquido Mate Brown Wine Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88016.webp"
+    },
+    {
+      "sku": "B88012",
+      "nome": "Batom Líquido Mate Gourmand Berry Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88012.webp"
+    },
+    {
+      "sku": "B88018",
+      "nome": "Batom Líquido Mate Warm Cashmere Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88018.webp"
+    },
+    {
+      "sku": "B88011",
+      "nome": "Batom Líquido Mate Exotic Rose Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88011.webp"
+    },
+    {
+      "sku": "B88015",
+      "nome": "Batom Líquido Mate Deep Rose Make B. 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88015.webp"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B27858",
+      "nome": "Lápis Retrátil para Olhos Preto Make B. 0,35 g",
+      "descricao": "Produto da linha Make B. Apresentação de 0,35 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Lápis para Olhos",
+      "volume": "0,35 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B27858.webp"
+    },
+    {
+      "sku": "B71500",
+      "nome": "Lápis Retrátil para Olhos Marrom Make B. 0,35 g",
+      "descricao": "Produto da linha Make B. Apresentação de 0,35 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Lápis para Olhos",
+      "volume": "0,35 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B71500.webp"
+    },
+    {
+      "sku": "B87823",
+      "nome": "Paleta de Maquiagem Multifuncional Make B. Scandal Blend 55,7 g",
+      "descricao": "Produto da linha Make B. Apresentação de 55,7 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Paleta",
+      "volume": "55,7 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87823.webp"
+    },
+    {
+      "sku": "B87824",
+      "nome": "Lip & Cheek Tint Vermelho Make B. Scandal 7 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 7 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Lip Tint",
+      "volume": "7 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87824.webp"
+    },
+    {
+      "sku": "B87101",
+      "nome": "Balm Labial Noturno Make B. Lip Chronology Night Peeling 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87101.webp"
+    },
+    {
+      "sku": "B86166",
+      "nome": "Balm Labial Noturno Make B. Lip Chronology Night Mask 9 g",
+      "descricao": "Produto da linha Make B. Apresentação de 9 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "9 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86166.webp"
+    },
+    {
+      "sku": "B58813",
+      "nome": "Balm Labial Noturno Make B. Lip Chronology Night Plump 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B58813.webp"
+    },
+    {
+      "sku": "B88585",
+      "nome": "Balm Labial Vinho Grape Wine Make B. Micro Tint 3,6 g",
+      "descricao": "Balm labial da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88585.webp"
+    },
+    {
+      "sku": "B51190",
+      "nome": "Balm Labial Rosa Rosewater Make B. Micro Tint 3,6 g",
+      "descricao": "Balm labial da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B51190.webp"
+    },
+    {
+      "sku": "B87103",
+      "nome": "Balm Labial Rosa Make B. Lip Chronology Color Repair 3,6 g",
+      "descricao": "Balm labial da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87103.webp"
+    },
+    {
+      "sku": "B87102",
+      "nome": "Balm Labial Vermelho Make B. Lip Chronology Color Repair 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Balm Labial",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87102.webp"
+    },
+    {
+      "sku": "B88516",
+      "nome": "Batom Cremoso Nude Malva Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88516.webp"
+    },
+    {
+      "sku": "B88515",
+      "nome": "Batom Cremoso Rosa Cashmere Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88515.webp"
+    },
+    {
+      "sku": "B88518",
+      "nome": "Batom Glossy Marrom Soft Nude Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88518.webp"
+    },
+    {
+      "sku": "B88520",
+      "nome": "Batom Cremoso Vermelho Watermelon Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88520.webp"
+    },
+    {
+      "sku": "B88522",
+      "nome": "Batom Cremoso Vermelho Revolution Red Make B. 3,6 g",
+      "descricao": "Produto da linha Make B. Apresentação de 3,6 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88522.webp"
+    }
+  ]
+}

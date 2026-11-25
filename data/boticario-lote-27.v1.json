@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B85853",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 230 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85853.webp"
+    },
+    {
+      "sku": "B85850",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 260 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85850.webp"
+    },
+    {
+      "sku": "B85851",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 270 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85851.webp"
+    },
+    {
+      "sku": "B85847",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 300 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85847.webp"
+    },
+    {
+      "sku": "B85854",
+      "nome": "Base Líquida Make B. Glycolic TX Cor 100 30 g",
+      "descricao": "Base da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85854.webp"
+    },
+    {
+      "sku": "B52619",
+      "nome": "Máscara de Cílios Make B. Scandal Lashes com Óleo de Coco 10 g",
+      "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para cílios",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52619.webp"
+    },
+    {
+      "sku": "B96419",
+      "nome": "Máscara de Cílios Make B. Scandal Full 10 g",
+      "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para cílios",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B96419.webp"
+    },
+    {
+      "sku": "B55502",
+      "nome": "Máscara de Cílios Make B. Explosion Grow 10 g",
+      "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para cílios",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B55502.webp"
+    },
+    {
+      "sku": "B52638",
+      "nome": "Máscara de Cílios Make B. 4K Panoramic 10 g",
+      "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para cílios",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52638.webp"
+    },
+    {
+      "sku": "B53427",
+      "nome": "Delineador Líquido Preto para Olhos Make B. 5 ml",
+      "descricao": "Delineador da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Delineador",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53427.webp"
+    },
+    {
+      "sku": "B75757",
+      "nome": "Caneta para Sobrancelha Microblading UP Brow Média Make B. 1 ml",
+      "descricao": "Caneta para sobrancelhas da linha Make B. Apresentação de 1 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Caneta para sobrancelhas",
+      "volume": "1 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B75757.webp"
+    },
+    {
+      "sku": "B75756",
+      "nome": "Caneta para Sobrancelha Microblading UP Brow Clara Make B. 1 ml",
+      "descricao": "Caneta para sobrancelhas da linha Make B. Apresentação de 1 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Caneta para sobrancelhas",
+      "volume": "1 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B75756.webp"
+    },
+    {
+      "sku": "B52620",
+      "nome": "Máscara de Cílios Make B. Explosion Effect 10 g",
+      "descricao": "Máscara para cílios da linha Make B. Apresentação de 10 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para cílios",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52620.webp"
+    },
+    {
+      "sku": "B87787",
+      "nome": "Paleta Multifuncional Make B. Soft Fusion 20 g",
+      "descricao": "Paleta da linha Make B. Apresentação de 20 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Paleta",
+      "volume": "20 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87787.webp"
+    },
+    {
+      "sku": "B89733",
+      "nome": "Paleta Multifuncional Make B. Deep Blend 20 g",
+      "descricao": "Paleta da linha Make B. Apresentação de 20 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Paleta",
+      "volume": "20 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89733.webp"
+    },
+    {
+      "sku": "B87821",
+      "nome": "Minipaleta Multifuncional Make B. Rose Fusion 2,5 g",
+      "descricao": "Paleta da linha Make B. Apresentação de 2,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Paleta",
+      "volume": "2,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87821.webp"
+    },
+    {
+      "sku": "B87822",
+      "nome": "Minipaleta Multifuncional Make B. Brown Blend 2,5 g",
+      "descricao": "Paleta da linha Make B. Apresentação de 2,5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Paleta",
+      "volume": "2,5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B87822.webp"
+    },
+    {
+      "sku": "B55505",
+      "nome": "Lápis para Olhos Ultrablack Make B. 1,2 g",
+      "descricao": "Lápis para olhos da linha Make B. Apresentação de 1,2 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Lápis para olhos",
+      "volume": "1,2 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B55505.webp"
+    },
+    {
+      "sku": "B57493",
+      "nome": "Sérum para Cílios e Sobrancelhas Make B. Explosion Grow 5 g",
+      "descricao": "Sérum para cílios e sobrancelhas da linha Make B. Apresentação de 5 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Sérum para cílios e sobrancelhas",
+      "volume": "5 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B57493.webp"
+    },
+    {
+      "sku": "B76689",
+      "nome": "Caneta Delineadora Preta para Olhos Ponta Fina Make B. 1,2 ml",
+      "descricao": "Delineador da linha Make B. Apresentação de 1,2 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Delineador",
+      "volume": "1,2 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B76689.webp"
+    }
+  ]
+}

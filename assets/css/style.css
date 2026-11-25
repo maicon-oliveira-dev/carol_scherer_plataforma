@@ -1326,6 +1326,7 @@ body > header .head > .button { border-radius: 999px; }
 .catalog-refine-clear, .catalog-filter-clear-all { min-height: 42px; padding: 8px 12px; border: 0; background: transparent; color: #7b4057; text-decoration: underline; }
 .catalog-refine-apply { min-height: 42px; padding: 8px 16px; border: 1px solid #914c65; border-radius: 8px; background: #914c65; color: #fff; }
 .catalog-active-filters { flex-wrap: wrap; margin: -8px 0 18px; }
+.catalog-active-filters[hidden], .catalog-refine-fields > label[hidden], .catalog-toolbar > label[hidden] { display: none; }
 .catalog-filter-chip { min-height: 34px; padding: 6px 10px; border: 1px solid #d8b7c1; border-radius: 999px; background: #fff7f8; color: #713d50; }
 @media (max-width: 720px) { .catalog-toolbar { grid-template-columns: 1fr; } .catalog-refine-trigger { width: 100%; } .catalog-refine-panel { width: 100%; margin-top: -12px; box-sizing: border-box; } .catalog-refine-fields { grid-template-columns: 1fr; } .catalog-refine-footer { justify-content: space-between; } }
 
