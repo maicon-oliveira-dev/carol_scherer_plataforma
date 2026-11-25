@@ -1212,3 +1212,57 @@ Os três lotes foram ativados localmente. Total de 536 produtos O Boticário.
 ## Aprovação visual dos lotes 28 a 30
 
 - B88017 e B88010 aprovados em tela. Fila encerrada com 38 conferidos e 30 excluídos.
+
+## Ativação local do lote 31
+
+- 20 produtos Match. com ficha e foto oficial em 800 × 800.
+- SKUs: B89693, B90750, B89694, B84741, B89788, B89789, B59583, B87018, B59582, B87020, B87019, B88003, B83145, B94617, B53543, B86674, B86665, B86666, B86671, B86669.
+- Total local: 654 SKUs.
+
+## Ativação local dos lotes 32 a 32
+
+- 20 produtos com ficha e foto oficial em 800 × 800. Total local: 674 SKUs.
+
+## Ativação local dos lotes 33 a 33
+
+- 20 produtos com ficha e foto oficial em 800 × 800. Total local: 694 SKUs.
+
+## Ativação local do lote 34
+
+- 20 produtos com fotos oficiais WebP de 800 × 800. Total local: 714 SKUs.
+- SKUs: B86316, B49379, B87066, B55104, B55106, B87081, B52022, B52023, B51802, B52025, B51801, B52019, B52018, B51808, B51803, B52024, B52021, B51806, B59845, B59132.
+
+- Lote 34 aprovado em tela pelo usuário, com filtros testados.
+
+
+## Ativação local do lote 35
+
+- 20 produtos do manifesto preparado, com fotos oficiais WebP de 800 × 800. Total local: 734 SKUs.
+- SKUs: B59197, B52040, B88509, B88506, B88508, B88510, B88507, B49264, B59169, B54169, B70693, B70668, B51500, B70669, B96372, B96371, B51441, B83684, B53921, B96373.
+- B86059, B86061 e B59957 reservados para o lote 36.
+
+## Ativação local do lote 36
+
+- 20 produtos com fotos oficiais WebP de 800 × 800. Total local: 754 SKUs.
+- SKUs: B87454, B59957, B86059, B86058, B86061, B59170, B94572, B94199, B52122, B55243, B52175, B52172, B55222, B55223, B52136, B52140, B55245, B52110, B52147, B52164.
+
+## Ativação local do lote 37
+
+- Rodada final do PDF ativada com 17 produtos, mediante aprovação do usuário. Total local: 771 SKUs.
+- Referências B58521 e B58020 sem ficha oficial confirmada.
+- SKUs: B59193, B57982, B51805, B49265, B56601, B55253, B85452, B55194, B55083, B05125, B57210, B57211, B57207, B57208, B57206, B57209, B88301.
+
+## Revisão final dos lotes 31 a 37
+
+- Revisão em tela aprovada pelo usuário.
+- Auditoria local confirmou 137 produtos novos com fotos WebP de 800 × 800 e 771 SKUs únicos de O Boticário.
+
+## Revisão das quatro referências dos lotes 25 a 27
+
+- B85858 e B52618 arquivados nesta rodada após busca sem resultado.
+- B85857 (tom 320, 30 g) e B50888 (5 ml no PDF) conferidos e reservados para inclusão futura; fotos oficiais de 800 × 800.
+
+## Complemento final do ciclo
+
+- Lote 38 ativado com B85857 e B50888. Total: 773 SKUs ativos.
+- B49150 encerrado na fila antiga. O spray permanece ativo como B86316.

@@ -940,18 +940,30 @@
     "B85857": {
       "pagina": 127,
       "trechoPdf": "85857",
-      "fichaOficial": "https://www.boticario.com.br/base-liquida-make-b-glycolic-tx-cor-320-30g-v2/",
+      "fichaOficial": "https://www.boticario.com.br/produto/base-liquida-make-b-glycolic-tx-cor-320-30g-v2/",
       "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85857/f1397bc0-e847-4b19-9794-7a5897dffd34-bot-85857-make-b-glycolic-base-cor-310-01.jpg",
-      "status": "pendente",
-      "motivo": "O PDF e a ficha indicam cor 320, mas o arquivo da foto oficial identifica cor 310."
+      "status": "conferido",
+      "motivo": null,
+      "observacaoAuditoria": "Ficha e print confirmam tom 320; a foto é a exibida na galeria de B85857, embora o nome do arquivo mencione 310.",
+      "produto": {
+        "sku": "B85857",
+        "nome": "Base Líquida Make B. Glycolic TX Tom 320 30 g",
+        "descricao": "Produto da linha Make B. Apresentação de 30 g.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Base",
+        "volume": "30 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85857.webp"
+      }
     },
     "B85858": {
       "pagina": 127,
       "trechoPdf": "85858",
       "fichaOficial": null,
       "foto": null,
-      "status": "pendente",
-      "motivo": "A ficha localizada para a cor 330 apresenta outro SKU (B51282). Falta confirmar a ficha e a foto de B85858.",
+      "status": "excluido",
+      "motivo": "Busca pelo SKU sem resultado, conforme conferência do usuário. Fora desta rodada.",
       "fichaDeOutroSku": "https://www.boticario.com.br/produto/base-liquida-make-b-glycolic-tx-cor-330-30g/"
     },
     "B85854": {
@@ -1135,8 +1147,8 @@
       "trechoPdf": "52618",
       "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-cilios-make-b-volume-extremo-10ml/",
       "foto": null,
-      "status": "pendente",
-      "motivo": "Apresentação divergente: PDF indica 10 g; ficha oficial indica 10 ml.",
+      "status": "excluido",
+      "motivo": "Busca pelo SKU sem resultado, conforme conferência do usuário. Fora desta rodada.",
       "auditoriaAnterior": {
         "pagina": 118,
         "fichaOficial": "https://www.boticario.com.br/mascara-de-cilios-make-b-volume-extremo-10ml/",
@@ -1299,9 +1311,21 @@
       "trechoPdf": "50888",
       "fichaOficial": "https://www.boticario.com.br/produto/mascara-de-sobrancelhas-em-gel-makeb-brow-lamination/",
       "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B50888/BOT_50888_MAKE-B_GEL-SOBRANCELHA_BROWN-LAMINATION_FRONTAL_1.jpg",
-      "status": "pendente",
-      "motivo": "Falta confirmar os 5 ml do PDF na ficha oficial ou na embalagem oficial.",
-      "fichaComplementar": "https://www.belezanaweb.com.br/makeb-o-boticario-brow-lamination-mascara-de-sobrancelhas-em-gel-5ml/"
+      "status": "conferido",
+      "motivo": null,
+      "fichaComplementar": "https://www.belezanaweb.com.br/makeb-o-boticario-brow-lamination-mascara-de-sobrancelhas-em-gel-5ml/",
+      "observacaoAuditoria": "Ficha e print confirmam SKU, produto e foto. O volume de 5 ml vem do PDF do ciclo.",
+      "produto": {
+        "sku": "B50888",
+        "nome": "Máscara de Sobrancelhas em Gel Make B. Brow Lamination 5 ml",
+        "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+        "categoria": "Maquiagem",
+        "apresentacao": "Produto regular",
+        "linha": "Make B.",
+        "tipo": "Máscara para Sobrancelhas",
+        "volume": "5 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B50888.webp"
+      }
     },
     "B76689": {
       "pagina": 131,

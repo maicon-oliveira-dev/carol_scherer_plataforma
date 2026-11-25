@@ -1,0 +1,4117 @@
+{
+  "porSku": {
+    "B88101": {
+      "pagina": 140,
+      "trechoPdf": "88101",
+      "fichaOficial": "https://www.boticario.com.br/produto/gloss-labial-creamy-tint-vermelho-cereja-profundo-quem-disse-berenice-4ml/",
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Ficha oficial identifica Q88101, da Quem Disse, Berenice?. Fora da fila de O Boticário.",
+      "skuOficial": "Q88101"
+    },
+    "B87887": {
+      "pagina": 141,
+      "trechoPdf": "87887",
+      "fichaOficial": "https://www.boticario.com.br/produto/blush-jelly-bordo-toda-fresh-quem-disse-berenice-5g/",
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Ficha oficial identifica Q87887, da Quem Disse, Berenice?. Fora da fila de O Boticário.",
+      "skuOficial": "Q87887"
+    },
+    "B87886": {
+      "pagina": 141,
+      "trechoPdf": "87886",
+      "fichaOficial": "https://www.boticario.com.br/produto/blush-jelly-rosa-pink-toda-fresh-quem-disse-berenice-5g/",
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Ficha oficial identifica Q87886, da Quem Disse, Berenice?. Fora da fila de O Boticário.",
+      "skuOficial": "Q87886"
+    },
+    "B88635": {
+      "pagina": 142,
+      "trechoPdf": "88635",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88617": {
+      "pagina": 142,
+      "trechoPdf": "88617",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88619": {
+      "pagina": 142,
+      "trechoPdf": "88619",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88618": {
+      "pagina": 142,
+      "trechoPdf": "88618",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88599": {
+      "pagina": 142,
+      "trechoPdf": "88599",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B75298": {
+      "pagina": 142,
+      "trechoPdf": "75298",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88620": {
+      "pagina": 142,
+      "trechoPdf": "88620",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88602": {
+      "pagina": 142,
+      "trechoPdf": "88602",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "SKU sem produto O Boticário confirmado na conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56979": {
+      "pagina": 142,
+      "trechoPdf": "56979",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "O print enviado identifica B54879, kit Boti Baby. B56979 permanece sem ficha correspondente e fica fora desta rodada."
+    },
+    "B56978": {
+      "pagina": 142,
+      "trechoPdf": "56978",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88598": {
+      "pagina": 142,
+      "trechoPdf": "88598",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B75277": {
+      "pagina": 142,
+      "trechoPdf": "75277",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56728": {
+      "pagina": 142,
+      "trechoPdf": "56728",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56725": {
+      "pagina": 142,
+      "trechoPdf": "56725",
+      "fichaOficial": "https://www.boticario.com.br/produto/quem-disse-berenice-volumao-rosa-amorali-batom-liquido-4ml/",
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Print confirma Q56725, da Quem Disse, Berenice?. Fora da fila de O Boticário.",
+      "skuOficial": "Q56725"
+    },
+    "B56726": {
+      "pagina": 142,
+      "trechoPdf": "56726",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56724": {
+      "pagina": 142,
+      "trechoPdf": "56724",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56727": {
+      "pagina": 142,
+      "trechoPdf": "56727",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56723": {
+      "pagina": 142,
+      "trechoPdf": "56723",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56729": {
+      "pagina": 142,
+      "trechoPdf": "56729",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57811": {
+      "pagina": 142,
+      "trechoPdf": "57811",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56720": {
+      "pagina": 142,
+      "trechoPdf": "56720",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57825": {
+      "pagina": 142,
+      "trechoPdf": "57825",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57821": {
+      "pagina": 142,
+      "trechoPdf": "57821",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57820": {
+      "pagina": 142,
+      "trechoPdf": "57820",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57810": {
+      "pagina": 142,
+      "trechoPdf": "57810",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57828": {
+      "pagina": 142,
+      "trechoPdf": "57828",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57822": {
+      "pagina": 142,
+      "trechoPdf": "57822",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56721": {
+      "pagina": 142,
+      "trechoPdf": "56721",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57826": {
+      "pagina": 142,
+      "trechoPdf": "57826",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56977": {
+      "pagina": 142,
+      "trechoPdf": "56977",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88587": {
+      "pagina": 142,
+      "trechoPdf": "88587",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88589": {
+      "pagina": 142,
+      "trechoPdf": "88589",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B75313": {
+      "pagina": 142,
+      "trechoPdf": "75313",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56974": {
+      "pagina": 142,
+      "trechoPdf": "56974",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88588": {
+      "pagina": 142,
+      "trechoPdf": "88588",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B56973": {
+      "pagina": 142,
+      "trechoPdf": "56973",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88590": {
+      "pagina": 142,
+      "trechoPdf": "88590",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88592": {
+      "pagina": 142,
+      "trechoPdf": "88592",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88591": {
+      "pagina": 142,
+      "trechoPdf": "88591",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88597": {
+      "pagina": 142,
+      "trechoPdf": "88597",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88586": {
+      "pagina": 142,
+      "trechoPdf": "88586",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88600": {
+      "pagina": 142,
+      "trechoPdf": "88600",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo código com prefixo B sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88606": {
+      "pagina": 142,
+      "trechoPdf": "88606",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo SKU com prefixo B retornou sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88610": {
+      "pagina": 142,
+      "trechoPdf": "88610",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo SKU com prefixo B retornou sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B88614": {
+      "pagina": 142,
+      "trechoPdf": "88614",
+      "fichaOficial": "https://www.boticario.com.br/produto/batom-cremoso-hidratante-nudissimo-quem-disse-berenice-38g/",
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Ficha oficial identifica Q88614, da Quem Disse, Berenice?. Fora da fila de O Boticário.",
+      "skuOficial": "Q88614"
+    },
+    "B75285": {
+      "pagina": 142,
+      "trechoPdf": "75285",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo SKU com prefixo B retornou sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B57595": {
+      "pagina": 143,
+      "trechoPdf": "57595",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56907": {
+      "pagina": 143,
+      "trechoPdf": "56907",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56909": {
+      "pagina": 143,
+      "trechoPdf": "56909",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56905": {
+      "pagina": 143,
+      "trechoPdf": "56905",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56906": {
+      "pagina": 143,
+      "trechoPdf": "56906",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56911": {
+      "pagina": 143,
+      "trechoPdf": "56911",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56910": {
+      "pagina": 143,
+      "trechoPdf": "56910",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56912": {
+      "pagina": 143,
+      "trechoPdf": "56912",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56959": {
+      "pagina": 143,
+      "trechoPdf": "56959",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B87477": {
+      "pagina": 143,
+      "trechoPdf": "87477",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B87605": {
+      "pagina": 143,
+      "trechoPdf": "87605",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B87606": {
+      "pagina": 143,
+      "trechoPdf": "87606",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado no print enviado."
+    },
+    "B56961": {
+      "pagina": 143,
+      "trechoPdf": "56961",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56913": {
+      "foto": null,
+      "status": "excluido",
+      "fichaOficial": null,
+      "trechoPdf": "56913",
+      "pagina": 143,
+      "motivo": "Busca oficial pelo SKU retornou sem resultado no print enviado."
+    },
+    "B56858": {
+      "pagina": 143,
+      "trechoPdf": "56858",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56860": {
+      "pagina": 143,
+      "trechoPdf": "56860",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56854": {
+      "pagina": 143,
+      "trechoPdf": "56854",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56862": {
+      "pagina": 143,
+      "trechoPdf": "56862",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56944": {
+      "pagina": 143,
+      "trechoPdf": "56944",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56941": {
+      "pagina": 143,
+      "trechoPdf": "56941",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56865": {
+      "pagina": 143,
+      "trechoPdf": "56865",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56844": {
+      "pagina": 143,
+      "trechoPdf": "56844",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56948": {
+      "pagina": 143,
+      "trechoPdf": "56948",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56852": {
+      "pagina": 143,
+      "trechoPdf": "56852",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56851": {
+      "pagina": 143,
+      "trechoPdf": "56851",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56855": {
+      "pagina": 143,
+      "trechoPdf": "56855",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56847": {
+      "pagina": 143,
+      "trechoPdf": "56847",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B57616": {
+      "pagina": 143,
+      "trechoPdf": "57616",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56942": {
+      "pagina": 143,
+      "trechoPdf": "56942",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56846": {
+      "pagina": 143,
+      "trechoPdf": "56846",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56866": {
+      "pagina": 143,
+      "trechoPdf": "56866",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56946": {
+      "pagina": 143,
+      "trechoPdf": "56946",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56848": {
+      "pagina": 143,
+      "trechoPdf": "56848",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56850": {
+      "pagina": 143,
+      "trechoPdf": "56850",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56943": {
+      "pagina": 143,
+      "trechoPdf": "56943",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56945": {
+      "pagina": 143,
+      "trechoPdf": "56945",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56853": {
+      "pagina": 143,
+      "trechoPdf": "56853",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56962": {
+      "pagina": 143,
+      "trechoPdf": "56962",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56947": {
+      "pagina": 143,
+      "trechoPdf": "56947",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56859": {
+      "pagina": 143,
+      "trechoPdf": "56859",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56849": {
+      "pagina": 143,
+      "trechoPdf": "56849",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B59500": {
+      "pagina": 144,
+      "trechoPdf": "59500",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B59496": {
+      "pagina": 144,
+      "trechoPdf": "59496",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B59498": {
+      "pagina": 144,
+      "trechoPdf": "59498",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B59499": {
+      "pagina": 144,
+      "trechoPdf": "59499",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B85924": {
+      "pagina": 144,
+      "trechoPdf": "85924",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B85922": {
+      "pagina": 144,
+      "trechoPdf": "85922",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B85923": {
+      "pagina": 144,
+      "trechoPdf": "85923",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B86160": {
+      "pagina": 144,
+      "trechoPdf": "86160",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B97821": {
+      "pagina": 144,
+      "trechoPdf": "97821",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B97822": {
+      "pagina": 144,
+      "trechoPdf": "97822",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B97823": {
+      "pagina": 144,
+      "trechoPdf": "97823",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B56577": {
+      "pagina": 144,
+      "trechoPdf": "56577",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B95351": {
+      "pagina": 145,
+      "trechoPdf": "95351",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial.",
+      "auditoriaAnterior": {
+        "pagina": 58,
+        "fichaOficial": null,
+        "foto": null,
+        "resultado": "Ficha oficial e foto com SKU exato ainda sem confirmação."
+      }
+    },
+    "B95352": {
+      "pagina": 145,
+      "trechoPdf": "95352",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial.",
+      "auditoriaAnterior": {
+        "pagina": 58,
+        "fichaOficial": null,
+        "foto": null,
+        "resultado": "Ficha oficial e foto com SKU exato ainda sem confirmação."
+      }
+    },
+    "B86121": {
+      "pagina": 145,
+      "trechoPdf": "cor 120 N 86121",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B86128": {
+      "pagina": 145,
+      "trechoPdf": "cor 240 F 86128",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B86120": {
+      "pagina": 145,
+      "trechoPdf": "cor 100 F 86120",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B86127": {
+      "pagina": 145,
+      "trechoPdf": "cor 230 Q 86127",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B86126": {
+      "pagina": 145,
+      "trechoPdf": "cor 210 Q 86126",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B89235": {
+      "pagina": 145,
+      "trechoPdf": "cor 310 Q 89235",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B89255": {
+      "pagina": 145,
+      "trechoPdf": "cor 345 F 89255",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Referência da seção Quem Disse, Berenice? no PDF. O prefixo B atribuído na extração não comprova o SKU oficial."
+    },
+    "B89693": {
+      "pagina": 162,
+      "trechoPdf": "89693",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-escudo-de-hidratacao-300ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89693/a420fbee-2938-42e7-8ccb-ae562eefb88d-b89693-match-escudo-hidratacao-shampoo-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89693",
+        "nome": "Shampoo Match. Escudo de Hidratação 300 ml",
+        "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B89693.webp"
+      }
+    },
+    "B90750": {
+      "pagina": 162,
+      "trechoPdf": "90750",
+      "fichaOficial": "https://www.boticario.com.br/produto/leave-in-multibeneficios-match-escudo-de-hidratacao-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90750/5d45e057-34ae-402b-9bab-b71d1e4a808d-bt-09-26-match-escudo-hidratacao-leavein-300ml-90750-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90750",
+        "nome": "Leave-in Multibenefícios Match. Escudo de Hidratação 150 ml",
+        "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 150 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Leave-in",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B90750.webp"
+      },
+      "observacaoAuditoria": "PDF e rótulo na foto oficial indicam 150 ml. Título da ficha indica 100 ml. Usado o volume do rótulo e do PDF."
+    },
+    "B89694": {
+      "pagina": 162,
+      "trechoPdf": "89694",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-match-escudo-de-hidratacao-280ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89694/e608c063-0bcc-40d1-839b-8a3fb331b6b1-untitled-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89694",
+        "nome": "Condicionador Match. Escudo de Hidratação 280 ml",
+        "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B89694.webp"
+      }
+    },
+    "B90704": {
+      "pagina": 163,
+      "trechoPdf": "90704",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-match-nutricao-profunda-300ml-v3?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90704/961a49c5-bd4f-4ae4-9e90-7bb3901152e8-bot-90704-match-nutricao-profunda-shampoo-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90704",
+        "nome": "Shampoo Nutrição Profunda Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B90704.webp"
+      }
+    },
+    "B90706": {
+      "pagina": 163,
+      "trechoPdf": "90706",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B84741": {
+      "pagina": 163,
+      "trechoPdf": "84741",
+      "fichaOficial": "https://www.boticario.com.br/refil-shampoo-match-nutricao-profunda-250ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B84741/f8320036-b1d2-4c25-b4b3-6e8fdf04d27c-bot-84741-match-nutricao-profunda-shampoo-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B84741",
+        "nome": "Refil Shampoo Nutrição Profunda Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B84741.webp"
+      }
+    },
+    "B84743": {
+      "pagina": 163,
+      "trechoPdf": "84743",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-mascara-capilar-nutricao-profunda-250ml-v2/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B84743/36822228-35b9-470a-a736-df643dbafdfb-bot-84743-match-nutricao-profunda-mascara-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B84743",
+        "nome": "Refil Máscara Capilar Nutrição Profunda Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B84743.webp"
+      }
+    },
+    "B89788": {
+      "pagina": 163,
+      "trechoPdf": "89788",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-nutricao-profunda-250g-v3/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89788/823283e2-2044-45ea-b3b2-bb5718d359dc-bot-59577-match-nutricao-profunda-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89788",
+        "nome": "Máscara Capilar Nutrição Profunda Match. 250 g",
+        "descricao": "Produto da linha Match. Apresentação de 250 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B89788.webp"
+      }
+    },
+    "B89789": {
+      "pagina": 163,
+      "trechoPdf": "89789",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-match-nutricao-profunda-70g-v3/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89789/5874f359-17ca-4dcb-bc22-93e852f5d204-bot-89789-match-nutricao-profunda-mascara-capilar.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89789",
+        "nome": "Máscara Capilar Nutrição Profunda Match. 70 g",
+        "descricao": "Produto da linha Match. Apresentação de 70 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "70 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B89789.webp"
+      }
+    },
+    "B59574": {
+      "pagina": 163,
+      "trechoPdf": "59574",
+      "fichaOficial": "https://www.boticario.com.br/produto/oleo-nutritivo-essencial-capilar-match-nutricao-profunda-50ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59574/1a9b2970-d3b4-4458-b4e1-096e38a3ad59-bot-59574-match-oleo-nutritivo-nutricao-profunda-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59574",
+        "nome": "Óleo Capilar Nutrição Profunda Match. 50 ml",
+        "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Óleo",
+        "volume": "50 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59574.webp"
+      }
+    },
+    "B85548": {
+      "pagina": 163,
+      "trechoPdf": "85548",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-condicionador-match-nutricao-profunda-250ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85548/0b4b6137-69ca-4939-b836-1cd463d4056f-bot-85548-match-nutricao-profunda-condicionador-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85548",
+        "nome": "Refil Condicionador Nutrição Profunda Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B85548.webp"
+      }
+    },
+    "B84739": {
+      "pagina": 163,
+      "trechoPdf": "84739",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-nutricao-profunda-50ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B84739/200bd70e-757d-4bda-ac3c-7bbccbc9cdbe-bot-56186-match-nutricao-profunda-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B84739",
+        "nome": "Shampoo Nutrição Profunda Match. 50 ml",
+        "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "50 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B84739.webp"
+      },
+      "observacaoAuditoria": "PDF indica 50 g. A ficha oficial e o rótulo no print confirmam 50 ml."
+    },
+    "B59583": {
+      "pagina": 164,
+      "trechoPdf": "59583",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-nutricao-regeneradora-300ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59583/2e1dc254-f022-4dfe-b9d9-dcc4df19cbd0-bot-59583-match-shampoo-nutricao-regeneradora-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59583",
+        "nome": "Shampoo Nutrição Regeneradora Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59583.webp"
+      }
+    },
+    "B87018": {
+      "pagina": 164,
+      "trechoPdf": "87018",
+      "fichaOficial": "https://www.boticario.com.br/produto/match-o-boticario-nutricao-regeneradora-refil-shampoo-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87018/8387f072-47ba-456f-9f80-0d03e3d5f852-bot-87018-match-nutrica-regeneradora-shampoo-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87018",
+        "nome": "Refil Shampoo Nutrição Regeneradora Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87018.webp"
+      }
+    },
+    "B49091": {
+      "pagina": 164,
+      "trechoPdf": "49091",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B59582": {
+      "pagina": 164,
+      "trechoPdf": "59582",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-match-nutricao-regeneradora-280ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59582/3b41ee5e-8ceb-4343-8c16-2ccddf2a4ae3-bot-59582-match-nutricao-regeneradora-condicionador-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59582",
+        "nome": "Condicionador Nutrição Regeneradora Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59582.webp"
+      }
+    },
+    "B87020": {
+      "pagina": 164,
+      "trechoPdf": "87020",
+      "fichaOficial": "https://www.boticario.com.br/refil-mascara-capilar-match-nutricao-regeneradora-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87020/dcf73ed8-1787-43b5-b82a-adc63d7fe933-bot-87020-match-nutrica-regeneradora-mascara-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87020",
+        "nome": "Refil Máscara Capilar Nutrição Regeneradora Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87020.webp"
+      }
+    },
+    "B87019": {
+      "pagina": 164,
+      "trechoPdf": "87019",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-condicionador-match-nutricao-regeneradora-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87019/86229e3e-07e4-40de-a72e-354ff28f56db-bot-87019-match-nutricao-regeneradora-condicionador-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87019",
+        "nome": "Refil Condicionador Nutrição Regeneradora Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87019.webp"
+      }
+    },
+    "B59580": {
+      "pagina": 164,
+      "trechoPdf": "59580",
+      "fichaOficial": "https://www.boticario.com.br/produto/oleo-bifasico-capilar-match-nutricao-regeneradora-90ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59580/10f1c7c6-e8b3-4794-9ac3-a6611d2c21ab-bot-59580-match-nutricao-regenadora-oleo-bifasico-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59580",
+        "nome": "Óleo Bifásico Nutrição Regeneradora Match. 90 ml",
+        "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Óleo",
+        "volume": "90 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59580.webp"
+      }
+    },
+    "B86658": {
+      "pagina": 165,
+      "trechoPdf": "86658",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-liso-prolongado-300ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86658/ae0e9b07-bc5c-4c39-9da9-552d66c4c720-bot-86658-match-liso-prolongado-shampoo-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86658",
+        "nome": "Shampoo Liso Prolongado Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86658.webp"
+      }
+    },
+    "B83151": {
+      "pagina": 165,
+      "trechoPdf": "83151",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-shampoo-match-liso-prolongado-250ml?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B83151/4d5d3801-4920-4cdd-9447-ca6b1d83bc77-bot-83151-match-liso-prolongado-shampoo-refil-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B83151",
+        "nome": "Refil Shampoo Liso Prolongado Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B83151.webp"
+      }
+    },
+    "B88003": {
+      "pagina": 165,
+      "trechoPdf": "88003",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-match-liso-prolongado-280ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88003/eba41548-f3e2-49b1-be7d-bb1a6e2320ca-bot-82845-match-condicionador-liso-prolongado-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88003",
+        "nome": "Condicionador Liso Prolongado Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88003.webp"
+      }
+    },
+    "B82847": {
+      "pagina": 165,
+      "trechoPdf": "82847",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B83145": {
+      "pagina": 165,
+      "trechoPdf": "83145",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-condicionador-match-liso-prolongado-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B83145/bff450dd-d140-4a59-bf8e-1c57f11e6dfa-bot-83145-match-liso-prolongado-condicionador-refil-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B83145",
+        "nome": "Refil Condicionador Liso Prolongado Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B83145.webp"
+      }
+    },
+    "B94617": {
+      "pagina": 166,
+      "trechoPdf": "94617",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-para-pentear-cachos-match-ciencia-das-curvas-450ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94617/4b528caf-09e8-4227-9799-c7554b3a244d-bot-52082-match-ciencia-das-curvas-creme-pentear-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94617",
+        "nome": "Creme Para Pentear Cachos Ciência Das Curvas Match. 450 ml",
+        "descricao": "Produto da linha Match. Apresentação de 450 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Creme para Pentear",
+        "volume": "450 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94617.webp"
+      }
+    },
+    "B53543": {
+      "pagina": 166,
+      "trechoPdf": "53543",
+      "fichaOficial": "https://www.boticario.com.br/produto/serum-revitalizador-para-o-couro-cabeludo-match-ciencia-das-curvas-50ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B53543/3b21a50f-110d-449b-ae33-e8c5978bd2d0-bot-53543-match-ciencia-das-curvas-serum-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B53543",
+        "nome": "Sérum Couro Cabeludo Ciência Das Curvas Match. 50 ml",
+        "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Sérum",
+        "volume": "50 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B53543.webp"
+      }
+    },
+    "B86667": {
+      "pagina": 166,
+      "trechoPdf": "86667",
+      "fichaOficial": "https://www.boticario.com.br/produto/leave-in-leve-mach-da-ciencia-das-curvas-250ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86667/e2c73d9a-f77e-435a-a9e9-a5b5fc64130f-bot-86667-match-ciencia-das-curvas-leave-in-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86667",
+        "nome": "Leave-in Leve Ciência das Curvas Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Leave-in",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86667.webp"
+      }
+    },
+    "B86674": {
+      "pagina": 166,
+      "trechoPdf": "86674",
+      "fichaOficial": "https://www.boticario.com.br/produto/oleo-capilar-concentrado-match-ciencia-das-curvas-50ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86674/e78127c0-5e55-4cb2-8560-23ac097d5f4e-bot-52072-match-ciencia-das-curvas-oleo-capilar-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86674",
+        "nome": "Óleo Multibenefícios Ciência Das Curvas Match. 50 ml",
+        "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Óleo",
+        "volume": "50 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86674.webp"
+      }
+    },
+    "B52741": {
+      "pagina": 166,
+      "trechoPdf": "52741",
+      "fichaOficial": "https://www.boticario.com.br/refil-creme-para-pentear-cachos-match-ciencia-das-curvas-400ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52741/ce9603e7-6edb-4237-9032-0a06bf742a72-bot-52741-match-ciencia-das-curvas-creme-pentear-refil-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52741",
+        "nome": "Refil Creme para Pentear Cachos Ciência das Curvas Match. 400 ml",
+        "descricao": "Produto da linha Match. Apresentação de 400 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Creme para Pentear",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52741.webp"
+      }
+    },
+    "B86665": {
+      "pagina": 166,
+      "trechoPdf": "86665",
+      "fichaOficial": "https://www.boticario.com.br/produto/b86665-match-booster-cap-nutr-ciencurv-v2-90ml?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86665/2707d739-200c-46f1-8855-fd158440eaed-bot-52085-match-ciencia-das-curvas-booster-nutricao-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86665",
+        "nome": "Booster Nutrição Ciência Das Curvas Match. 90 ml",
+        "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Booster",
+        "volume": "90 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86665.webp"
+      }
+    },
+    "B86666": {
+      "pagina": 166,
+      "trechoPdf": "86666",
+      "fichaOficial": "https://www.boticario.com.br/produto/booster-capilar-reconstrucao-match-ciencia-das-curvas-90ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86666/3652a421-491b-4f19-a893-435c85a150b7-bot-86666-match-ciencia-das-curvas-booster-reconstrucao-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86666",
+        "nome": "Booster Reconstrução Ciência Das Curvas Match. 90 ml",
+        "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Booster",
+        "volume": "90 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86666.webp"
+      }
+    },
+    "B94200": {
+      "pagina": 167,
+      "trechoPdf": "94200 cachos 2abc a 3abc",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-hidratante-match-ciencia-das-curvas-cachos-350g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94200/bdd18ae4-0043-4436-adc1-5d3511f4bfc5-bt-14-26-94200-mascara-capilar-hidratante-match-ciencia-das-curvas-cachos-350g-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94200",
+        "nome": "Máscara Capilar Hidratante Ciência das Curvas Cachos Match. 350 g",
+        "descricao": "Produto da linha Match. Apresentação de 350 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "350 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B94200.webp"
+      }
+    },
+    "B52075": {
+      "pagina": 167,
+      "trechoPdf": "52075 crespos 4abc",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-hidratante-match-ciencia-das-curvas-crespos-350g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52075/c14785a1-b828-4b44-9ebe-b358c9d92183-bot-52075-match-ciencia-das-curvas-mascara-capilar-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52075",
+        "nome": "Máscara Capilar Hidratante Crespos 4ABC Ciência das Curvas Match. 350 g",
+        "descricao": "Produto da linha Match. Apresentação de 350 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "350 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B52075.webp"
+      }
+    },
+    "B86673": {
+      "pagina": 167,
+      "trechoPdf": "86673",
+      "fichaOficial": "https://www.boticario.com.br/produto/jelly-capilar-memorizador-match-ciencia-das-curvas-350g-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86673/bcd63cdb-0f8e-41c7-89e5-00ab829fd1f1-bot-86673-match-ciecia-das-curvas-jelly-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86673",
+        "nome": "Jelly Capilar Memorizador Ciência das Curvas Match. 350 g",
+        "descricao": "Produto da linha Match. Apresentação de 350 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Jelly",
+        "volume": "350 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B86673.webp"
+      },
+      "observacaoAuditoria": "O PDF indica 350 ml. A ficha oficial e o rótulo no print confirmam 350 g."
+    },
+    "B86668": {
+      "pagina": 167,
+      "trechoPdf": "86668",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-e-leave-in-match-ciencia-das-curvas-300ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86668/b7a0671b-1cbe-47dd-85a7-a33009677004-bot-86668-match-ciencia-das-curvas-condicionador-leave-in-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86668",
+        "nome": "Condicionador Hidratante e Leave-in de Definição Ciência das Curvas Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86668.webp"
+      }
+    },
+    "B86671": {
+      "pagina": 167,
+      "trechoPdf": "86671",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-ciencias-das-curvas-300ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86671/d1cb0894-694b-4851-80ca-26a50484ab99-bot-52076-match-ciencia-das-curvas-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86671",
+        "nome": "Shampoo Ciência Das Curvas Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86671.webp"
+      }
+    },
+    "B86670": {
+      "pagina": 167,
+      "trechoPdf": "86670",
+      "fichaOficial": "https://www.boticario.com.br/creme-para-pentear-match-ciencia-das-curvas-crespos-450ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86670/0821051c-d9a3-44bf-8f17-b1f75ff5b5f9-bot-86670-match-ciencia-das-curvas-creme-pentear-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86670",
+        "nome": "Creme para Pentear Crespos Ciência das Curvas Match. 450 ml",
+        "descricao": "Produto da linha Match. Apresentação de 450 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Creme para Pentear",
+        "volume": "450 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86670.webp"
+      }
+    },
+    "B86669": {
+      "pagina": 167,
+      "trechoPdf": "86669",
+      "fichaOficial": "https://www.boticario.com.br/refil-creme-para-pentear-match-ciencia-das-curvas-crespos-400ml-v2",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86669/ae2f7d20-5196-4845-bd2a-b0f6cc26f89a-bot-86669-match-ciencia-das-curvas-creme-pentear-refil-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86669",
+        "nome": "Refil Creme para Pentear Crespos Ciência das Curvas Match. 400 ml",
+        "descricao": "Produto da linha Match. Apresentação de 400 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Creme para Pentear",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86669.webp"
+      }
+    },
+    "B56811": {
+      "pagina": 168,
+      "trechoPdf": "56811",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-match-science-crescimento-250g-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B56811/254e6f95-4575-4593-a0cd-a46cdf4b4d1e-bot-56811-match-science-mascara-crescimento-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B56811",
+        "nome": "Máscara Capilar Science Crescimento Match. 250 g",
+        "descricao": "Produto da linha Match. Apresentação de 250 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B56811.webp"
+      }
+    },
+    "B88008": {
+      "pagina": 168,
+      "trechoPdf": "88008",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-science-crescimento-300ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88008/11fee093-d11a-4b76-876d-68ad33e29668-bot-56809-match-science-crescimento-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88008",
+        "nome": "Shampoo Science Crescimento Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88008.webp"
+      }
+    },
+    "B88007": {
+      "pagina": 168,
+      "trechoPdf": "88007",
+      "fichaOficial": "https://www.boticario.com.br/condicionador-match-science-crescimento-280ml-v2/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88007/cfd66bd9-cad9-42d5-b9a5-9cce4ab54f2a-bot-56810-match-science-crescimento-condicionador-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88007",
+        "nome": "Condicionador Science Crescimento Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88007.webp"
+      }
+    },
+    "B94619": {
+      "pagina": 168,
+      "trechoPdf": "94619",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B88006": {
+      "pagina": 169,
+      "trechoPdf": "88006",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-hidratante-match-loiro-revitalizado-280ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88006/d3e33957-dbfd-427e-a672-38bb53255c36-bot-82825-match-condicionador-loiro-reparado-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88006",
+        "nome": "Condicionador Hidratante Loiro Revitalizado Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88006.webp"
+      }
+    },
+    "B82824": {
+      "pagina": 169,
+      "trechoPdf": "82824",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-matizador-match-loiro-reparado-300ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:best/v1/imagens/product/B82824/d24b79f4-65f0-4cf7-a860-5241eb6b0a9c-bot-82824-match-shampoo-loiro-reparado-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B82824",
+        "nome": "Shampoo Matizador Loiro Reparado Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B82824.webp"
+      }
+    },
+    "B82826": {
+      "pagina": 169,
+      "trechoPdf": "82826",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário. Fora desta rodada."
+    },
+    "B94531": {
+      "pagina": 170,
+      "trechoPdf": "94531",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-match-science-reconstrucao-280ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94531/fd1b12c3-651a-4209-9bea-9b9d073b6bf1-bot-56805-match-science-reconstrucao-condicionador-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94531",
+        "nome": "Condicionador Science Reconstrução Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94531.webp"
+      }
+    },
+    "B94962": {
+      "pagina": 170,
+      "trechoPdf": "94962",
+      "fichaOficial": "https://www.boticario.com.br/produto/ampola-capilar-match-science-reconstrucao-30ml-v3/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94962/c8859297-1a23-403a-b388-058f0c915424-bt-12-26-match-ampola-science-reconstrucao-30ml-94962-frontal-0001-preview.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94962",
+        "nome": "Ampola Science Reconstrução Match. 30 ml",
+        "descricao": "Produto da linha Match. Apresentação de 30 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Ampola",
+        "volume": "30 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94962.webp"
+      }
+    },
+    "B90151": {
+      "pagina": 170,
+      "trechoPdf": "90151",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-match-science-reconstrucao-250g-v4/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90151/def88cca-d5c2-4fd1-8ddf-ff2d90255605-bot-56804-match-science-mascara-reconstrucao-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90151",
+        "nome": "Máscara Capilar Science Reconstrução Match. 250 g",
+        "descricao": "Produto da linha Match. Apresentação de 250 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B90151.webp"
+      }
+    },
+    "B94866": {
+      "pagina": 170,
+      "trechoPdf": "94866",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-science-reconstrucao-300ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94866/5da259d3-f900-4b21-b757-fd1dbf196291-bot-56819-match-science-reconstrucao-repack-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94866",
+        "nome": "Shampoo Science Reconstrução Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94866.webp"
+      }
+    },
+    "B94530": {
+      "pagina": 171,
+      "trechoPdf": "94530",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo SKU retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B56798": {
+      "pagina": 171,
+      "trechoPdf": "56798",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-match-science-pre-e-posquimica-250g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B56798/a53086a3-5a32-444d-a424-275e2692f2c3-bot-56798-match-mascara-pos-quimica-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B56798",
+        "nome": "Máscara Capilar Science Pré e Pós-Química Match. 250 g",
+        "descricao": "Produto da linha Match. Apresentação de 250 g.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Máscara Capilar",
+        "volume": "250 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B56798.webp"
+      }
+    },
+    "B89857": {
+      "pagina": 172,
+      "trechoPdf": "89857",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B94626": {
+      "pagina": 172,
+      "trechoPdf": "94626",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B89819": {
+      "pagina": 172,
+      "trechoPdf": "89819",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-match-hidratacao-e-brilho-300ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B89819/41ff053b-f93f-4b37-9ac6-483bb2a0510e-bot-89819-match-shampoo-hidratacao-brilho-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B89819",
+        "nome": "Shampoo Hidratação e Brilho Match. 300 ml",
+        "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B89819.webp"
+      }
+    },
+    "B83156": {
+      "pagina": 172,
+      "trechoPdf": "83156",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-shampoo-match-brilho-e-hidratacao-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B83156/906680af-75c4-4814-a4e3-cbbc9f928f05-bot-83156-match-hidratacao-brilho-shampoo-refil-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B83156",
+        "nome": "Refil Shampoo Hidratação e Brilho Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Shampoo",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B83156.webp"
+      }
+    },
+    "B90322": {
+      "pagina": 172,
+      "trechoPdf": "90322",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-match-hidratacao-e-brilho-280ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B90322/b1bab801-bb46-4cbd-8fc6-25c22a737644-bt-90322-match-cond-hidr-brilh-v2-280ml-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B90322",
+        "nome": "Condicionador Hidratação e Brilho Match. 280 ml",
+        "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "280 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B90322.webp"
+      }
+    },
+    "B83140": {
+      "pagina": 172,
+      "trechoPdf": "83140",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-condicionador-match-hidratacao-e-brilho-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B83140/b860279c-af45-4c1a-9346-b2ec85e0b713-bot-83140-match-hidratacao-brilho-condicionador-refil-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B83140",
+        "nome": "Refil Condicionador Hidratação e Brilho Match. 250 ml",
+        "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Refil",
+        "linha": "Match.",
+        "tipo": "Condicionador",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B83140.webp"
+      }
+    },
+    "B86272": {
+      "pagina": 172,
+      "trechoPdf": "86272",
+      "fichaOficial": "https://www.boticario.com.br/produto/spray-fluido-de-brilho-capilar-match-hidratacao-e-brilho-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86272/e8eea89e-337a-4ba5-bf7a-8fa4f9ec185a-bot-86272-match-fluido-capilar.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86272",
+        "nome": "Spray Fluido de Brilho Capilar Hidratação e Brilho Match. 100 ml",
+        "descricao": "Produto da linha Match. Apresentação de 100 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Spray",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86272.webp"
+      }
+    },
+    "B95033": {
+      "pagina": 173,
+      "trechoPdf": "95033",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca oficial pelo nome indicou que não encontrou produtos em estoque. Fora desta rodada.",
+      "skuOficial": "B86304"
+    },
+    "B47968": {
+      "pagina": 173,
+      "trechoPdf": "47968",
+      "fichaOficial": "https://www.boticario.com.br/produto/leavein-reconstrutor-match-lab-multibeneficios-150ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:best/v1/imagens/product/B47968/cf6d95c2-403f-4344-ba63-4fae161175b6-bot-47968-match-leave-in-reconstrutor-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B47968",
+        "nome": "Leave-in Reconstrutor Lab Match. 150 ml",
+        "descricao": "Produto da linha Match. Apresentação de 150 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Leave-in",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B47968.webp"
+      }
+    },
+    "B87066": {
+      "pagina": 174,
+      "trechoPdf": "87066",
+      "fichaOficial": "https://www.boticario.com.br/condicionador-cuidese-bem-feira-cachos-de-uva-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87066/fa252d33-1c62-4863-8853-35002f9344f6-bot-87066-cuide-se-bem-condicionador-cachos-de-uva-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87066",
+        "nome": "Condicionador Cachos de Uva Cuide-se Bem 250 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Condicionador",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87066.webp"
+      }
+    },
+    "B87068": {
+      "pagina": 174,
+      "trechoPdf": "87068",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-para-pentear-cuidese-bem-feira-cachos-de-uva-300ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87068/5de428a7-5c1c-4f6b-9f30-eafad74a240b-bot-87068-cuide-se-bem-cachos-de-uva-creme-pentear-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87068",
+        "nome": "Creme para Pentear Cachos de Uva Cuide-se Bem 300 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 300 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Creme para Pentear",
+        "volume": "300 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87068.webp"
+      }
+    },
+    "B87067": {
+      "pagina": 174,
+      "trechoPdf": "87067",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-cuidese-bem-feira-cachos-de-uva-250ml",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87067/e6f132f3-2a65-4753-aa38-ab705b9fdc3c-bot-87067-cuide-se-bem-mascara-capilar-cachos-de-uva-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87067",
+        "nome": "Máscara Capilar Cachos de Uva Cuide-se Bem 250 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Máscara Capilar",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87067.webp"
+      }
+    },
+    "B87064": {
+      "pagina": 174,
+      "trechoPdf": "87064",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-cuidese-bem-feira-cachos-de-uva-270ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87064/989c8131-bd5c-49f6-bdb5-232a906937b9-bot-87064-cuide-se-bem-cachos-de-uva-shampoo-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87064",
+        "nome": "Shampoo Cachos de Uva Cuide-se Bem 270 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 270 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "270 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87064.webp"
+      }
+    },
+    "B56680": {
+      "pagina": 174,
+      "trechoPdf": "56680",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Nécessaire Feira na página 170 impressa (174 do PDF). Acessório fora do escopo."
+    },
+    "B87078": {
+      "pagina": 175,
+      "trechoPdf": "87078",
+      "fichaOficial": "https://www.boticario.com.br/produto/mascara-capilar-cuidese-bem-feira-banana-250ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87078/68052aa7-e28e-4374-8976-1f3428e88731-bot-87078-cuide-se-bem-feira-banana-mascara-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87078",
+        "nome": "Máscara Capilar Banana Cuide-se Bem 250 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Máscara Capilar",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87078.webp"
+      }
+    },
+    "B59188": {
+      "pagina": 175,
+      "trechoPdf": "59188",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-banana-cuidese-bem-feira-230ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59188/a1edd7d3-b87f-491d-98af-f0dc56fc8a20-bot-59188-cuide-se-bem-feira-shampoo-banana-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59188",
+        "nome": "Shampoo Banana Cuide-se Bem 230 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59188.webp"
+      }
+    },
+    "B59193": {
+      "pagina": 175,
+      "trechoPdf": "59193",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-cuidese-bem-feira-banana-170ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59193/222499b7-8809-41f7-90c7-c20dd40cde6b-bot-59193-cuide-se-bem-feira-condicionador-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "skuOficial": "B59193",
+      "produto": {
+        "sku": "B59193",
+        "nome": "Condicionador Banana Cuide-se Bem Feira 170 ml",
+        "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem Feira",
+        "tipo": "Condicionador",
+        "volume": "170 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59193.webp"
+      },
+      "observacaoAuditoria": "Ficha v2 confirma B59193 e 170 ml. B48100 era outra ficha encontrada para o mesmo nome."
+    },
+    "B57091": {
+      "pagina": 175,
+      "trechoPdf": "57091",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-cuide-se-bem-feira-vinagre-de-maca-230ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57091/45b94736-68c0-4622-bbd3-31d6729e60ac-bot-57091-cuide-se-bem-feira-vinagre-de-maca-shampoo-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57091",
+        "nome": "Shampoo Vinagre de Maçã Cuide-se Bem 230 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57091.webp"
+      }
+    },
+    "B55104": {
+      "pagina": 175,
+      "trechoPdf": "55104",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-vinagre-de-framboesa-cuidese-bem-feira-230ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55104/6d9e60e0-dc83-4836-81ce-1c499e3ef414-bot-55104-cuide-se-bem-feira-vinagre-framboesa-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55104",
+        "nome": "Shampoo Vinagre de Framboesa Cuide-se Bem 230 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55104.webp"
+      }
+    },
+    "B55106": {
+      "pagina": 175,
+      "trechoPdf": "55106",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-mel-vegano-cuidese-bem-feira-170ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55106/f45f78e8-306c-43e8-bb49-ad683bded0f0-bot-55106-cuide-se-bem-feira-mel-condicionador.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55106",
+        "nome": "Condicionador Mel Vegano Cuide-se Bem 170 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 170 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Condicionador",
+        "volume": "170 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55106.webp"
+      }
+    },
+    "B55105": {
+      "pagina": 175,
+      "trechoPdf": "55105",
+      "fichaOficial": "https://www.boticario.com.br/creme-de-pentear-seiva-de-babosa-cuidese-bem-feira-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55105/b0ac04ab-a454-4e9e-9f7a-e8dc380f22b0-bot-55105-cuide-se-bem-feira-babosa-creme-de-pentear-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55105",
+        "nome": "Creme para Pentear Seiva de Babosa Cuide-se Bem 200 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 200 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Creme para Pentear",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55105.webp"
+      }
+    },
+    "B87454": {
+      "pagina": 176,
+      "trechoPdf": "87454",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-oleo-de-coco-cuide-se-bem-feira-170ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87454/45c121ff-ae69-4823-8a1a-e99475449b0e-bot-87454-cuide-se-bem-feira-oleo-de-coco-condicionador-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87454",
+        "nome": "Condicionador Óleo de Coco Cuide-se Bem Feira 170 ml",
+        "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem Feira",
+        "tipo": "Condicionador",
+        "volume": "170 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87454.webp"
+      }
+    },
+    "B87073": {
+      "pagina": 176,
+      "trechoPdf": "87073",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-cuidese-bem-feira-oleo-de-coco-230ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87073/bf24e3fb-66f6-4ff6-8237-485e5c5208fe-bot-87073-cuide-se-bem-feira-shampoo-coco-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87073",
+        "nome": "Shampoo Óleo de Coco Cuide-se Bem 230 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87073.webp"
+      }
+    },
+    "B57982": {
+      "pagina": 176,
+      "trechoPdf": "57982",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-cuidese-bem-nuvem-250ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57982/ab7ce4b0-ad16-4833-93d4-a43229505b87-bot-57982-cuide-se-bem-nuvem-shampoo.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57982",
+        "nome": "Shampoo Hidratante Nuvem Cuide-se Bem 250 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57982.webp"
+      }
+    },
+    "B58521": {
+      "pagina": 176,
+      "trechoPdf": "58521",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo nome e tamanho da linha Cuide-se Bem Nuvem não confirmou ficha individual. A busca pelo código do PDF também retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B58020": {
+      "pagina": 176,
+      "trechoPdf": "58020",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Busca pelo nome e tamanho da linha Cuide-se Bem Nuvem não confirmou ficha individual. A busca pelo código do PDF também retornou sem resultado, conforme conferência informada pelo usuário."
+    },
+    "B87079": {
+      "pagina": 177,
+      "trechoPdf": "87079",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-cuidese-bem-feira-pasta-de-abacate-230ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87079/8573bfbd-3d4f-4317-a465-44670eac705a-bot-87079-cuide-se-bem-feira-pasta-abacate-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87079",
+        "nome": "Shampoo Pasta de Abacate Cuide-se Bem 230 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87079.webp"
+      }
+    },
+    "B87081": {
+      "pagina": 177,
+      "trechoPdf": "87081",
+      "fichaOficial": "https://www.boticario.com.br/mascara-capilar-cuidese-bem-feira-pasta-de-abacate-250ml",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:best/v1/imagens/product/B87081/c0807ffd-f9c7-41e5-bc32-e527dc277675-bot-87081-cuide-se-bem-feira-abacate-mascara-capilar-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B87081",
+        "nome": "Máscara Pasta de Abacate Cuide-se Bem 250 ml",
+        "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem",
+        "tipo": "Máscara Capilar",
+        "volume": "250 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B87081.webp"
+      }
+    },
+    "B59197": {
+      "pagina": 177,
+      "trechoPdf": "59197",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-pasta-de-abacate-cuide-se-bem-feira-170ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59197/da133935-c978-4870-a1e5-55497f14e8a8-bt-14-26-59197-condicionador-pasta-de-abacate-cuide-se-bem-feira-170ml-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59197",
+        "nome": "Condicionador Pasta de Abacate Cuide-se Bem Feira 170 ml",
+        "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Cuide-se Bem Feira",
+        "tipo": "Condicionador",
+        "volume": "170 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59197.webp"
+      }
+    },
+    "B53725": {
+      "pagina": 178,
+      "trechoPdf": "53725",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B73388": {
+      "pagina": 178,
+      "trechoPdf": "73388",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B52040": {
+      "pagina": 178,
+      "trechoPdf": "52040",
+      "fichaOficial": "https://www.boticario.com.br/refil-locao-hidratante-corporal-banho-e-posbanho-boti-baby-350ml",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52040/2605dfaf-8a0e-4696-aaf0-9fd4b1100c5b-52040-bot-baby-refil-creme-hidratante-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52040",
+        "nome": "Refil Loção Banho e Pós-Banho Boti Baby 350 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Refil",
+        "linha": "Boti Baby",
+        "tipo": "Loção",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52040.webp"
+      }
+    },
+    "B52022": {
+      "pagina": 178,
+      "trechoPdf": "52022",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-hidratante-corporal-banho-e-posbanho-boti-baby-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52022/dd8a5933-5636-436e-b3d3-cfa201ee2513-52022-bot-baby-locao-banho-pos-banho-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52022",
+        "nome": "Loção Hidratante Corporal Banho e Pós-Banho Boti Baby 200 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Loção",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52022.webp"
+      }
+    },
+    "B52023": {
+      "pagina": 178,
+      "trechoPdf": "52023",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-hidratante-corporal-banho-e-posbanho-boti-baby-400ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52023/35fb0e98-bc0d-49f3-ad3b-4b7d386e7d08-52023-bot-baby-locao-banho-pos-banho-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52023",
+        "nome": "Loção Hidratante Corporal Banho e Pós-Banho Boti Baby 400 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Loção",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52023.webp"
+      }
+    },
+    "B51802": {
+      "pagina": 178,
+      "trechoPdf": "51802",
+      "fichaOficial": "https://www.boticario.com.br/produto/boti-baby-colonia-do-sol-100ml-v2/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51802/53dece14-2e20-4824-8e58-56a02aa82e0f-bot-51802-baby-colonia-do-sol-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51802",
+        "nome": "Colônia do Sol Boti Baby 100 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51802.webp"
+      }
+    },
+    "B53726": {
+      "pagina": 178,
+      "trechoPdf": "53726",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B52025": {
+      "pagina": 179,
+      "trechoPdf": "52025 400 ml",
+      "fichaOficial": "https://www.boticario.com.br/sabonete-liquido-de-glicerina-boti-baby-400ml-v2?from=blog",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52025/fbd553d1-30af-4129-9640-d2f647c8e3b7-52025-bot-baby-sabonete-liquido-glicerina-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52025",
+        "nome": "Sabonete Líquido de Glicerina Boti Baby 400 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Sabonete Líquido",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52025.webp"
+      }
+    },
+    "B51801": {
+      "pagina": 179,
+      "trechoPdf": "51801 200 ml",
+      "fichaOficial": "https://www.boticario.com.br/produto/sabonete-liquido-de-glicerina-boti-baby-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51801/03ebc961-3dd6-4d3e-b6bb-a0656a99b5c3-51801-bot-baby-sabonete-liquido-glicerinado-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51801",
+        "nome": "Sabonete Líquido de Glicerina Boti Baby 200 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Sabonete Líquido",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51801.webp"
+      }
+    },
+    "B52019": {
+      "pagina": 179,
+      "trechoPdf": "52019 200 ml",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-suave-boti-baby-200ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52019/bbb223ef-541b-469a-9d65-c3f589cae0ae-52019-bot-baby-shampoo-suave-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52019",
+        "nome": "Shampoo Suave Boti Baby 200 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Shampoo",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52019.webp"
+      }
+    },
+    "B52018": {
+      "pagina": 179,
+      "trechoPdf": "52018 400 ml",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-suave-boti-baby-400ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52018/8ae1eef5-21d9-4aad-aeca-72678185cfdb-52018-bot-baby-shampoo-suave-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52018",
+        "nome": "Shampoo Suave Boti Baby 400 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Shampoo",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52018.webp"
+      }
+    },
+    "B51808": {
+      "pagina": 179,
+      "trechoPdf": "51808 200 ml",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-suave-boti-baby-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51808/d1b2fd4d-da0f-4a1a-937a-e3ba452becce-51808-bot-baby-condicionador-suave-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51808",
+        "nome": "Condicionador Suave Boti Baby 200 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Condicionador",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51808.webp"
+      }
+    },
+    "B51803": {
+      "pagina": 179,
+      "trechoPdf": "51803 400 ml",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-suave-boti-baby-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51803/a1c326f6-8970-4043-800b-89ed6622fd62-51803-bot-baby-condicionador-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51803",
+        "nome": "Condicionador Suave Boti Baby 400 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Condicionador",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51803.webp"
+      }
+    },
+    "B52024": {
+      "pagina": 179,
+      "trechoPdf": "52024",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-sabonete-liquido-de-glicerina-boti-baby-350ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52024/af1a50f9-8314-4400-87f1-9035e6c09d1f-52024-bot-baby-refil-sabonete-liquido-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52024",
+        "nome": "Refil Sabonete Líquido de Glicerina Boti Baby 350 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Refil",
+        "linha": "Boti Baby",
+        "tipo": "Sabonete Líquido",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52024.webp"
+      }
+    },
+    "B52021": {
+      "pagina": 179,
+      "trechoPdf": "52021",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-shampoo-suave-boti-baby-350ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52021/6448f304-0dbb-4a73-af19-d0ba2700deb5-52021-bot-baby-refil-shampoo-suave-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52021",
+        "nome": "Refil Shampoo Suave Boti Baby 350 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Refil",
+        "linha": "Boti Baby",
+        "tipo": "Shampoo",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52021.webp"
+      }
+    },
+    "B51806": {
+      "pagina": 179,
+      "trechoPdf": "51806",
+      "fichaOficial": "https://www.boticario.com.br/produto/refil-condicionador-suave-boti-baby-350ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51806/cd4cf36e-dcc9-409b-8a54-19359bd1c4d7-51806-bot-baby-refil-condicionador-suave-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51806",
+        "nome": "Refil Condicionador Suave Boti Baby 350 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Refil",
+        "linha": "Boti Baby",
+        "tipo": "Condicionador",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51806.webp"
+      }
+    },
+    "B51805": {
+      "pagina": 179,
+      "trechoPdf": "51805",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-reparador-hidratante-boti-baby-cicababy-30ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51805/f5d35fc3-9b81-4d54-aa74-2d638ffd3c10-bot-51805-boti-baby-creme-reparador-cicababy-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51805",
+        "nome": "Cicababy Creme Reparador Hidratante Boti Baby 30 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 30 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Creme Reparador",
+        "volume": "30 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51805.webp"
+      },
+      "observacaoAuditoria": "PDF indica 50 g. Ficha e foto oficial do mesmo SKU confirmam 30 ml."
+    },
+    "B54879": {
+      "pagina": 180,
+      "trechoPdf": "54879",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B54887": {
+      "pagina": 180,
+      "trechoPdf": "54887",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B54886": {
+      "pagina": 180,
+      "trechoPdf": "54886",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B45025": {
+      "pagina": 180,
+      "trechoPdf": "45025",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B87353": {
+      "pagina": 180,
+      "trechoPdf": "87353",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B59845": {
+      "pagina": 180,
+      "trechoPdf": "59845",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-corporal-banho-e-posbanho-boti-baby-lua-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59845/0038bdd0-fbcc-4b24-a7ed-2dd5180916be-bot-59845-boti-baby-da-lua-locao-pos-banho-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59845",
+        "nome": "Loção Hidratante Corporal Banho e Pós-Banho Lua Boti Baby 200 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Loção",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59845.webp"
+      }
+    },
+    "B59957": {
+      "pagina": 180,
+      "trechoPdf": "59957",
+      "fichaOficial": "https://www.boticario.com.br/produto/espuma-de-banho-boti-baby-lua-150ml?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59957/f3f88aba-f6c6-4633-9bd7-8cfdbba12e67-bot-59957-boti-baby-lua-espuma-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59957",
+        "nome": "Espuma de Banho Lua Boti Baby 150 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 150 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Espuma de Banho",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59957.webp"
+      },
+      "observacaoAuditoria": "SKU, apresentação e foto confirmados pelo print da ficha oficial. Reservado para o próximo lote."
+    },
+    "B59132": {
+      "pagina": 180,
+      "trechoPdf": "59132",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-boti-baby-lua-100ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59132/c840a6b6-6c05-4c0d-a056-12e322196447-bot-59132-boti-baby-colonia-da-lua-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59132",
+        "nome": "Colônia da Lua Boti Baby 100 ml",
+        "descricao": "Produto da linha Boti Baby. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Boti Baby",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59132.webp"
+      }
+    },
+    "B86059": {
+      "pagina": 181,
+      "trechoPdf": "86059",
+      "fichaOficial": "https://www.boticario.com.br/produto/shimmer-splash-corpo-e-cabelo-sophie-toy-story-5-chapeu-cintilante-110ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86059/fd515c58-2cd4-44de-a1d6-d2680c14611a-bt-09-26-toy-story-sophie-chapeu-cintilante-frasco-86059-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86059",
+        "nome": "Shimmer Splash Chapéu Cintilante Sophie 110 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Shimmer Splash",
+        "volume": "110 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86059.webp"
+      },
+      "observacaoAuditoria": "SKU, apresentação e foto confirmados pelo print da ficha oficial. Reservado para o próximo lote."
+    },
+    "B86058": {
+      "pagina": 181,
+      "trechoPdf": "86058",
+      "fichaOficial": "https://www.boticario.com.br/shimmer-splash-corpo-e-cabelo-sophie-toy-story-5-brilho-intergalactico-110ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86058/cce174a6-a60a-440a-bc9a-98ee2fea052c-bt-86058-toy-story-sophie-brilho-intergalactico-frasco-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86058",
+        "nome": "Shimmer Splash Brilho Intergaláctico Sophie 110 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Shimmer Splash",
+        "volume": "110 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86058.webp"
+      }
+    },
+    "B86061": {
+      "pagina": 181,
+      "trechoPdf": "86061",
+      "fichaOficial": "https://www.boticario.com.br/produto/shimmer-splash-corpo-e-cabelo-sophie-toy-story-5-amizade-iluminada-110ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86061/010aad70-3449-4b09-b9a2-d184a57eb8be-bt-09-26-toy-story-sophie-amizade-iluminada-frasco-86061-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B86061",
+        "nome": "Shimmer Splash Amizade Iluminada Sophie 110 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Shimmer Splash",
+        "volume": "110 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86061.webp"
+      },
+      "observacaoAuditoria": "SKU, apresentação e foto confirmados pelo print da ficha oficial. Reservado para o próximo lote."
+    },
+    "B88509": {
+      "pagina": 181,
+      "trechoPdf": "88509",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-infantil-toy-story-next-boost-xerife-75ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88509/1bf246f2-a1bc-4348-90ac-6a227987a8c8-bt-14-26-next-col-toy-story-rodeio-xerife-75ml-88509-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88509",
+        "nome": "Colônia Toy Story Rodeio do Xerife Next 75 ml",
+        "descricao": "Produto da linha Next. Apresentação de 75 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Colônia",
+        "volume": "75 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88509.webp"
+      }
+    },
+    "B88506": {
+      "pagina": 181,
+      "trechoPdf": "88506",
+      "fichaOficial": "https://www.boticario.com.br/colonia-infantil-toy-story-sophie-vaqueira-valente-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88506/5baa1a04-761d-43c2-b600-37a01f65adf5-bt-14-26-sophie-col-toy-story-vaq-valente-100ml-88506-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88506",
+        "nome": "Colônia Toy Story Vaqueira Valente Sophie 100 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88506.webp"
+      }
+    },
+    "B88508": {
+      "pagina": 181,
+      "trechoPdf": "88508",
+      "fichaOficial": "https://www.boticario.com.br/balm-labial-sophie-lacada-brilhante-3g/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88508/8ef88eda-5305-4122-a553-70293db1cd90-bt-14-26-sophie-balm-labial-toy-story-lacada-brilhante-3g-88508-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88508",
+        "nome": "Balm Labial Toy Story Laçada Brilhante Sophie 3 g",
+        "descricao": "Produto da linha Sophie. Apresentação de 3 g.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Balm Labial",
+        "volume": "3 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B88508.webp"
+      }
+    },
+    "B88510": {
+      "pagina": 181,
+      "trechoPdf": "88510",
+      "fichaOficial": "https://www.boticario.com.br/sabonete-liquido-next-toy-story-gosma-intergalactica-150ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88510/dd3e54cd-29f1-4729-bfdd-dba50b15f61b-bt-14-26-toystory-next-sabonete-liquido-150ml-88510-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88510",
+        "nome": "Sabonete Líquido Toy Story Gosma Intergaláctica Next 150 ml",
+        "descricao": "Produto da linha Next. Apresentação de 150 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Sabonete Líquido",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88510.webp"
+      }
+    },
+    "B89637": {
+      "pagina": 181,
+      "trechoPdf": "89637",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B88507": {
+      "pagina": 181,
+      "trechoPdf": "88507",
+      "fichaOficial": "https://www.boticario.com.br/paleta-de-maquiagem-multifuncional-sophie-toy-story-10g",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88507/5401c95f-bbb7-4a38-8b6f-4bd6c3448131-bt-14-26-sophie-palette-multifuncional-toy-story-memorias-felizes-10g-88507-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88507",
+        "nome": "Paleta Multifuncional Toy Story Memórias Felizes Sophie 10 g",
+        "descricao": "Produto da linha Sophie. Apresentação de 10 g.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Paleta",
+        "volume": "10 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B88507.webp"
+      }
+    },
+    "B49264": {
+      "pagina": 182,
+      "trechoPdf": "49264",
+      "fichaOficial": "https://www.boticario.com.br/condicionador-para-cabelos-sophie-200ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B49264/condicionador-sophie-200ml.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B49264",
+        "nome": "Condicionador Brilho Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Condicionador",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B49264.webp"
+      }
+    },
+    "B59169": {
+      "pagina": 182,
+      "trechoPdf": "59169",
+      "fichaOficial": "https://www.boticario.com.br/condicionador-sophie-definicao-de-cachos-200ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59169/562735d9-19fe-415b-b924-d204c05d66d8-bot-59169-sophie-condicionador-cachos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59169",
+        "nome": "Condicionador Cachos Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Condicionador",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59169.webp"
+      }
+    },
+    "B49265": {
+      "pagina": 182,
+      "trechoPdf": "49265",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-para-cabelos-sophie-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B49265/shampoo-para-cabelo-sophie-200ml.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B49265",
+        "nome": "Shampoo Brilho Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Shampoo",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B49265.webp"
+      }
+    },
+    "B54169": {
+      "pagina": 182,
+      "trechoPdf": "54169",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-definicao-de-cachos-sophie-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B54169/b8204a36-05e4-4748-ac2e-bb91107c4722-bot-54169-sophie-shampoo-cachos-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B54169",
+        "nome": "Shampoo Cachos Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Shampoo",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B54169.webp"
+      }
+    },
+    "B51438": {
+      "pagina": 182,
+      "trechoPdf": "51438",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B70693": {
+      "pagina": 182,
+      "trechoPdf": "70693",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-hidratante-sophie-200-ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B70693/9cf1e57d-8434-4408-a7cb-3edb07be7ee5-locao-hidratante-sophie-200-ml.png",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B70693",
+        "nome": "Loção Hidratante Corporal Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Loção",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B70693.webp"
+      }
+    },
+    "B86297": {
+      "pagina": 182,
+      "trechoPdf": "86297",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B59170": {
+      "pagina": 182,
+      "trechoPdf": "59170",
+      "fichaOficial": "https://www.boticario.com.br/creme-para-pentear-infantil-definicao-de-cachos-sophie-200ml",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59170/659c4090-e1e3-4213-b33d-6fb770702340-bot-59170-sophie-creme-de-pentear-sophie-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B59170",
+        "nome": "Creme para Pentear Cachos Sophie 200 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Creme para Pentear",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B59170.webp"
+      }
+    },
+    "B58138": {
+      "pagina": 182,
+      "trechoPdf": "58138",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório no PDF."
+    },
+    "B70668": {
+      "pagina": 183,
+      "trechoPdf": "70668",
+      "fichaOficial": "https://www.boticario.com.br/produto/sophie-hello-colonia-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B70668/a55be38c-827f-426d-ae0f-af41a3d173f5-sophie-hello-colonia-100ml.png",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B70668",
+        "nome": "Colônia Hello Sophie 100 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B70668.webp"
+      }
+    },
+    "B51500": {
+      "pagina": 183,
+      "trechoPdf": "51500",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-infantil-sophie-candy-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51500/f3858df9-73ca-477e-8cf5-efa9fe001949-bot-51500-sophie-candy-colonia-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51500",
+        "nome": "Colônia Candy Sophie 100 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51500.webp"
+      }
+    },
+    "B70669": {
+      "pagina": 183,
+      "trechoPdf": "70669",
+      "fichaOficial": "https://www.boticario.com.br/sophie-like-colonia-100ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B70669/34aed2fc-1e40-4227-b554-52ac4acbe1e9-sophie-like-colonia-100ml.png",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B70669",
+        "nome": "Colônia Like Sophie 100 ml",
+        "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Sophie",
+        "tipo": "Colônia",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B70669.webp"
+      }
+    },
+    "B96372": {
+      "pagina": 184,
+      "trechoPdf": "96372",
+      "fichaOficial": "https://www.boticario.com.br/sabonete-liquido-corporal-infantil-dr-botica-pocao-da-diversao-150ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B96372/67381aea-0fe1-46ae-8dc3-2234174ff70f-bt-14-26-dr-bot-sab-liq-cp-poc-diversao-150ml-96372-1.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B96372",
+        "nome": "Sabonete Líquido Poção da Diversão Dr. Botica 150 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Sabonete Líquido",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B96372.webp"
+      }
+    },
+    "B96371": {
+      "pagina": 184,
+      "trechoPdf": "96371",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-hidratante-corporal-dr-botica-pocao-da-diversao-150ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B96371/e48f4bed-680e-4282-b002-0cde816ddd40-bt-14-26-dr-bot-loc-hid-cp-poc-diversao-150ml-96371-frontal-e-planta-0001-preview.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B96371",
+        "nome": "Loção Hidratante Poção da Diversão Dr. Botica 150 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Loção",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B96371.webp"
+      }
+    },
+    "B94572": {
+      "pagina": 184,
+      "trechoPdf": "94572",
+      "fichaOficial": "https://www.boticario.com.br/dr-botica-pocao-da-criatividade-colonia-infantil-120ml-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94572/1b2dcd7a-0ade-42ee-b328-f3b2bac3ea33-bot-55221-dr-botica-pocao-criatividade-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94572",
+        "nome": "Colônia Poção da Criatividade Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94572.webp"
+      }
+    },
+    "B51441": {
+      "pagina": 184,
+      "trechoPdf": "51441",
+      "fichaOficial": "https://www.boticario.com.br/produto/dr-botica-pocao-da-forca-colonia-infantil-120ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51441/b07804ce-5394-4995-bf18-ae6809622bfa-bot-51441-dr-botica-pocao-da-forca-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B51441",
+        "nome": "Colônia Poção da Força Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B51441.webp"
+      }
+    },
+    "B83684": {
+      "pagina": 184,
+      "trechoPdf": "83684",
+      "fichaOficial": "https://www.boticario.com.br/produto/dr-botica-pocao-da-aventura-colonia-120ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B83684/83684-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B83684",
+        "nome": "Colônia Poção da Aventura Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B83684.webp"
+      }
+    },
+    "B94199": {
+      "pagina": 184,
+      "trechoPdf": "94199",
+      "fichaOficial": "https://www.boticario.com.br/produto/dr-botica-pocao-da-coragem-colonia-infantil-120ml-v3/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B94199/cb9e816b-0693-4e61-9ffc-c216d9de2256-bt-14-26-94199-dr-botica-pocao-da-coragem-colonia-infantil-120ml-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B94199",
+        "nome": "Colônia Poção da Coragem Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B94199.webp"
+      }
+    },
+    "B53921": {
+      "pagina": 184,
+      "trechoPdf": "53921",
+      "fichaOficial": "https://www.boticario.com.br/dr-botica-pocao-do-coracao-colonia-infantil-120ml-v2/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B53921/87e676f6-7543-49c7-88d9-ba4e22880ba5-bot-53921-dr-botica-pocao-do-coracao-colonia-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B53921",
+        "nome": "Colônia Poção do Coração Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B53921.webp"
+      }
+    },
+    "B96373": {
+      "pagina": 184,
+      "trechoPdf": "96373",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-infantil-dr-botica-pocao-da-diversao-120ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B96373/b3185eb9-6022-492d-9779-cff4ea442fef-bt-14-26-dr-botica-diversao-colonia-96373-3.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B96373",
+        "nome": "Colônia Poção da Diversão Dr. Botica 120 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Colônia",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B96373.webp"
+      }
+    },
+    "B89561": {
+      "pagina": 184,
+      "trechoPdf": "89561",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Kit, presente ou embalagem com várias unidades no PDF."
+    },
+    "B49379": {
+      "pagina": 173,
+      "trechoPdf": "88555",
+      "fichaOficial": "https://www.boticario.com.br/produto/acidificante-capilar-match-lab-tri-acao-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B49379/42b45da0-ab16-4b2f-bbd8-80ae9a20020a-bot-49379-match-acidificante-capilar-multi-beneficios-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "skuPdf": "88555",
+      "observacaoAuditoria": "Busca por nome, linha e volume confirmou o SKU da ficha oficial.",
+      "produto": {
+        "sku": "B49379",
+        "nome": "Acidificante Capilar Lab Tri Ação Match. 100 ml",
+        "descricao": "Produto da linha Match. Apresentação de 100 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Acidificante",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B49379.webp"
+      }
+    },
+    "B86316": {
+      "pagina": 173,
+      "trechoPdf": "49150",
+      "fichaOficial": "https://www.boticario.com.br/produto/spray-capilar-match-lab-multibeneficios-150ml-v3/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86316/0356f0d0-1379-4cdd-a2af-aafb34ac0d7e-bot-49150-match-spray-capilar-multi-beneficios-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "skuPdf": "49150",
+      "observacaoAuditoria": "Busca por nome, linha e volume confirmou o SKU da ficha oficial.",
+      "produto": {
+        "sku": "B86316",
+        "nome": "Spray Capilar Lab Multibenefícios Match. 150 ml",
+        "descricao": "Produto da linha Match. Apresentação de 150 ml.",
+        "categoria": "Cabelos",
+        "apresentacao": "Produto regular",
+        "linha": "Match.",
+        "tipo": "Spray",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B86316.webp"
+      }
+    },
+    "B51436": {
+      "pagina": 185,
+      "trechoPdf": "51436",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B70683": {
+      "pagina": 185,
+      "trechoPdf": "70683",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B52122": {
+      "pagina": 185,
+      "trechoPdf": "52122 lisos",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-infantil-cabelos-lisos-1a-a-2c-drbotica-pocao-da-espuma-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52122/c5e6ed7a-d35e-4b62-b365-3b794d452d39-bot-52122-dr-botica-shampoo-lisos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52122",
+        "nome": "Shampoo Poção da Espuma Lisos Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Shampoo",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52122.webp"
+      }
+    },
+    "B56601": {
+      "pagina": 185,
+      "trechoPdf": "56601 cacheados",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-infantil-cabelos-cacheados-3-abc-drbotica-pocao-da-espuma-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B56601/d1baa99d-5b7f-4b2b-99f9-beba1ddf4b07-bot-56601-dr-botica-shampoo-cachos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B56601",
+        "nome": "Shampoo Poção da Espuma Cacheados Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Shampoo",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B56601.webp"
+      }
+    },
+    "B55243": {
+      "pagina": 185,
+      "trechoPdf": "55243 crespos",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-infantil-cabelos-crespos-4-abc-drbotica-pocao-da-espuma-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55243/2048653a-03fd-46c4-995f-3c42199ece23-bot-55243-dr-botica-shampoo-crespos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55243",
+        "nome": "Shampoo Poção da Espuma Crespos Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Shampoo",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55243.webp"
+      }
+    },
+    "B52175": {
+      "pagina": 185,
+      "trechoPdf": "52175",
+      "fichaOficial": "https://www.boticario.com.br/produto/sabonete-liquido-infantil-dr-botica-pocao-das-bolhas-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52175/c98c9f53-699c-4608-9e2d-3dea7cfbbda0-bot-52175-dr-botica-sabonete-liquido-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52175",
+        "nome": "Sabonete Líquido Poção das Bolhas Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Sabonete Líquido",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52175.webp"
+      }
+    },
+    "B52172": {
+      "pagina": 185,
+      "trechoPdf": "52172",
+      "fichaOficial": "https://www.boticario.com.br/produto/locao-hidratante-desodorante-corporal-dr-botica-pocao-das-nuvens-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52172/57c298ba-9127-4afe-92d2-3d9d0893c6b0-bot-52172-dr-botica-loco-hidratante-nuvens-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52172",
+        "nome": "Loção Hidratante Poção das Nuvens Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Loção",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52172.webp"
+      }
+    },
+    "B55222": {
+      "pagina": 185,
+      "trechoPdf": "55222",
+      "fichaOficial": "https://www.boticario.com.br/produto/espuma-de-banho-corporal-dr-botica-nuvem-de-ideias-150ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55222/640d513f-0b47-48a3-8b61-8773387c5bc3-bot-55222-dr-botica-nuvem-ideias-espuma-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55222",
+        "nome": "Espuma de Banho Nuvem de Ideias Dr. Botica 150 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Espuma de Banho",
+        "volume": "150 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55222.webp"
+      }
+    },
+    "B55223": {
+      "pagina": 185,
+      "trechoPdf": "55223",
+      "fichaOficial": "https://www.boticario.com.br/spray-capilar-desembaracante-dr-botica-chuva-de-imaginacao-100ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55223/0199e840-e588-4444-a802-a2f7b074ac94-bot-55223-dr-botica-chuva-imaginacao-spray-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55223",
+        "nome": "Spray Capilar Desembaraçante Chuva de Imaginação Dr. Botica 100 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 100 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Spray",
+        "volume": "100 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55223.webp"
+      }
+    },
+    "B59701": {
+      "pagina": 185,
+      "trechoPdf": "59701",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B52136": {
+      "pagina": 185,
+      "trechoPdf": "52136 lisos",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-infantil-cabelos-lisos-1a-a-2c-drbotica-pocao-do-brilho-400ml?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52136/5ea8c035-d906-4b2f-a13e-e170512eba62-bot-52136-dr-botica-condicionador-lisos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52136",
+        "nome": "Condicionador Poção do Brilho Lisos Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Condicionador",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52136.webp"
+      }
+    },
+    "B52140": {
+      "pagina": 185,
+      "trechoPdf": "52140 cacheados",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-infantil-cabelos-cacheados-3-abc-drbotica-pocao-do-brilho-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52140/5d0cc447-cb43-4d3b-b969-28f40229dbcc-bot-52140-dr-botica-condicionador-cachos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52140",
+        "nome": "Condicionador Poção do Brilho Cacheados Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Condicionador",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52140.webp"
+      }
+    },
+    "B55245": {
+      "pagina": 185,
+      "trechoPdf": "55245 crespos",
+      "fichaOficial": "https://www.boticario.com.br/condicionador-infantil-cabelos-crespos-4-abc-drbotica-pocao-do-brilho-400ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55245/e1e62563-ed1e-4fb1-9029-bf6f50e7f683-bot-55243-dr-botica-shampoo-crespos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55245",
+        "nome": "Condicionador Poção do Brilho Crespos Dr. Botica 400 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Condicionador",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55245.webp"
+      }
+    },
+    "B52110": {
+      "pagina": 185,
+      "trechoPdf": "52110 lisos",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-para-pentear-infantil-cabelos-lisos-1a-a-2c-drbotica-pocao-tira-no-350ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52110/557c503a-c4ac-4db5-8f87-59199278d376-bot-52110-dr-botica-creme-pentear-lisos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52110",
+        "nome": "Creme para Pentear Poção Tira Nó Lisos Dr. Botica 350 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Creme para Pentear",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52110.webp"
+      }
+    },
+    "B52147": {
+      "pagina": 185,
+      "trechoPdf": "52147 cacheados",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-para-pentear-infantil-cabelos-cacheados-3-abc-drbotica-pocao-tira-no-350ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52147/a3a7e727-4c05-4312-a90e-b7756895a2af-bot-52147-dr-botica-creme-pentear-cachos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52147",
+        "nome": "Creme para Pentear Poção Tira Nó Cacheados Dr. Botica 350 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Creme para Pentear",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52147.webp"
+      }
+    },
+    "B52164": {
+      "pagina": 185,
+      "trechoPdf": "52164 crespos",
+      "fichaOficial": "https://www.boticario.com.br/produto/creme-para-pentear-infantil-cabelos-crespos-4-abc-drbotica-pocao-tira-no-350ml?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B52164/48017aa9-2875-486d-800c-b16c06bfe42c-bot-52164-dr-botica-creme-pentear-crespos-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B52164",
+        "nome": "Creme para Pentear Poção Tira Nó Crespos Dr. Botica 350 ml",
+        "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Dr. Botica",
+        "tipo": "Creme para Pentear",
+        "volume": "350 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B52164.webp"
+      }
+    },
+    "B55253": {
+      "pagina": 186,
+      "trechoPdf": "55253",
+      "fichaOficial": "https://www.boticario.com.br/produto/desodorante-em-creme-corporal-infantil-next-80g-v2?from=blog",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55253/3ed5ca4a-6c68-4457-aa54-151bb1ab0db5-bot-55253-next-desodorante-em-creme-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55253",
+        "nome": "Desodorante em Creme Next 80 g",
+        "descricao": "Produto da linha Next. Apresentação de 80 g.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Desodorante",
+        "volume": "80 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B55253.webp"
+      },
+      "observacaoAuditoria": "PDF indica 50 ml. Ficha e foto oficial do mesmo SKU confirmam 80 g."
+    },
+    "B85452": {
+      "pagina": 186,
+      "trechoPdf": "85452",
+      "fichaOficial": "https://www.boticario.com.br/pasta-modeladora-capilar-next-150g-v2",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B85452/16766c4f-8797-4d14-baa9-e5327835af2c-bot-85452-next-pasta-modeladora-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B85452",
+        "nome": "Pasta Modeladora Capilar Next 150 g",
+        "descricao": "Produto da linha Next. Apresentação de 150 g.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Pasta Modeladora",
+        "volume": "150 g",
+        "imagemOficial": "assets/images/catalogos/boticario/B85452.webp"
+      }
+    },
+    "B55194": {
+      "pagina": 186,
+      "trechoPdf": "55194",
+      "fichaOficial": "https://www.boticario.com.br/shampoo-refrescante-2-em-1-next-230ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55194/ac5288f4-ff05-42e6-9058-6368613c3e8d-bot-55194-next-shampoo-refrescante-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55194",
+        "nome": "Shampoo Refrescante Next 230 ml",
+        "descricao": "Produto da linha Next. Apresentação de 230 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Shampoo",
+        "volume": "230 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55194.webp"
+      }
+    },
+    "B55083": {
+      "pagina": 186,
+      "trechoPdf": "55083",
+      "fichaOficial": "https://www.boticario.com.br/produto/next-colonia-75ml",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B55083/7dc4ed3c-adf9-472b-8efe-743617e18124-bot-55083-next-desodorante-colonia-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B55083",
+        "nome": "Colônia Next 75 ml",
+        "descricao": "Produto da linha Next. Apresentação de 75 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Next",
+        "tipo": "Colônia",
+        "volume": "75 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B55083.webp"
+      }
+    },
+    "B58576": {
+      "pagina": 187,
+      "trechoPdf": "validade indeterminada. 3Compre separadamente a lata (58576) por R$ 49,90",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B56198": {
+      "pagina": 187,
+      "trechoPdf": "56198",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B58511": {
+      "pagina": 187,
+      "trechoPdf": "58511",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B53922": {
+      "pagina": 187,
+      "trechoPdf": "53922",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B05125": {
+      "pagina": 187,
+      "trechoPdf": "05125",
+      "fichaOficial": "https://www.boticario.com.br/locao-desodorante-hidratante-ma-cherie-200ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/products/B05125/locao_macherie_B05125.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B05125",
+        "nome": "Loção Desodorante Hidratante Ma Chérie 200 ml",
+        "descricao": "Produto da linha Ma Chérie. Apresentação de 200 ml.",
+        "categoria": "Infantil",
+        "apresentacao": "Produto regular",
+        "linha": "Ma Chérie",
+        "tipo": "Loção",
+        "volume": "200 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B05125.webp"
+      }
+    },
+    "B56686": {
+      "pagina": 187,
+      "trechoPdf": "56686",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B58930": {
+      "pagina": 187,
+      "trechoPdf": "58930",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Acessório, kit ou embalagem com várias unidades."
+    },
+    "B57210": {
+      "pagina": 188,
+      "trechoPdf": "57210 BANHO A",
+      "fichaOficial": "https://www.boticario.com.br/produto/banho-a-seco-aumigos-pets-240ml/",
+      "foto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:best/v1/imagens/product/B57210/8ceca170-877f-492e-bb6f-c537c296d652-bot-57210-au-migos-banho-seco-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57210",
+        "nome": "Banho a Seco Au.Migos Pets 240 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 240 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Banho a Seco",
+        "volume": "240 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57210.webp"
+      }
+    },
+    "B58299": {
+      "pagina": 188,
+      "trechoPdf": "58299 LENÇO",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Embalagem com varias unidades."
+    },
+    "B57211": {
+      "pagina": 188,
+      "trechoPdf": "57211 COLÔNIA",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-aumigos-pets-60ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57211/10b365e8-0339-4074-b0ab-db8291e86e31-bot-57211-au-migos-colonia-adultos-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57211",
+        "nome": "Colônia Adultos Au.Migos Pets 60 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Colônia",
+        "volume": "60 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57211.webp"
+      }
+    },
+    "B57207": {
+      "pagina": 188,
+      "trechoPdf": "57207",
+      "fichaOficial": "https://www.boticario.com.br/produto/shampoo-5-em-1-aumigos-pets-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57207/742c0d77-892d-46ab-9c4e-8243d3f432a6-bot-57207-au-migos-shampoo-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57207",
+        "nome": "Shampoo 5 em 1 Au.Migos Pets 400 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 400 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Shampoo",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57207.webp"
+      }
+    },
+    "B57208": {
+      "pagina": 188,
+      "trechoPdf": "57208",
+      "fichaOficial": "https://www.boticario.com.br/produto/condicionador-aumigos-pets-400ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57208/1dea92c5-b9a3-4182-aa8f-3ed8bc4daf1e-bot-57208-au-migos-condicionador-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57208",
+        "nome": "Condicionador Au.Migos Pets 400 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 400 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Condicionador",
+        "volume": "400 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57208.webp"
+      }
+    },
+    "B89501": {
+      "pagina": 189,
+      "trechoPdf": "89501",
+      "fichaOficial": null,
+      "foto": null,
+      "status": "excluido",
+      "motivo": "Embalagem com varias unidades."
+    },
+    "B57206": {
+      "pagina": 189,
+      "trechoPdf": "57206",
+      "fichaOficial": "https://www.boticario.com.br/produto/limpa-e-hidrata-patinhas-aumigos-pets-120ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57206/96be5dea-76ba-4828-b6b9-56d90a7f53e1-bot-57206-au-migos-limpa-patinhas-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57206",
+        "nome": "Limpa e Hidrata Patinhas Au.Migos Pets 120 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 120 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Limpa e Hidrata Patinhas",
+        "volume": "120 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57206.webp"
+      }
+    },
+    "B57209": {
+      "pagina": 189,
+      "trechoPdf": "57209",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-filhotes-aumigos-pets-60ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B57209/b2867afd-3cfa-4c9f-ac97-059b1931cf21-bot-57209-au-migos-colonia-filhotes-frontal-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B57209",
+        "nome": "Colônia Filhotes Au.Migos Pets 60 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Colônia",
+        "volume": "60 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B57209.webp"
+      }
+    },
+    "B88301": {
+      "pagina": 189,
+      "trechoPdf": "88301",
+      "fichaOficial": "https://www.boticario.com.br/produto/colonia-pet-aumigos-chamego-60ml/",
+      "foto": "https://cdn.gbmedia.com.br/images/w_1500,f_webp,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B88301/f4a7b004-88ae-455e-bc46-1dd0055c5ebc-bot-88301-au-migos-colonia-chamego-01.jpg",
+      "status": "conferido",
+      "motivo": null,
+      "produto": {
+        "sku": "B88301",
+        "nome": "Colônia Chamego Au.Migos Pets 60 ml",
+        "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+        "categoria": "Pets",
+        "apresentacao": "Produto regular",
+        "linha": "Au.Migos Pets",
+        "tipo": "Colônia",
+        "volume": "60 ml",
+        "imagemOficial": "assets/images/catalogos/boticario/B88301.webp"
+      }
+    }
+  },
+  "inicio": {
+    "pagina": 140,
+    "sku": "B88101"
+  },
+  "retomada": null,
+  "versao": 1,
+  "ordem": [
+    "B88101",
+    "B87887",
+    "B87886",
+    "B88635",
+    "B88617",
+    "B88619",
+    "B88618",
+    "B88599",
+    "B75298",
+    "B88620",
+    "B88602",
+    "B56979",
+    "B56978",
+    "B88598",
+    "B75277",
+    "B56728",
+    "B56725",
+    "B56726",
+    "B56724",
+    "B56727",
+    "B56723",
+    "B56729",
+    "B57811",
+    "B56720",
+    "B57825",
+    "B57821",
+    "B57820",
+    "B57810",
+    "B57828",
+    "B57822",
+    "B56721",
+    "B57826",
+    "B56977",
+    "B88587",
+    "B88589",
+    "B75313",
+    "B56974",
+    "B88588",
+    "B56973",
+    "B88590",
+    "B88592",
+    "B88591",
+    "B88597",
+    "B88586",
+    "B88600",
+    "B88606",
+    "B88610",
+    "B88614",
+    "B75285",
+    "B57595",
+    "B56907",
+    "B56909",
+    "B56905",
+    "B56906",
+    "B56911",
+    "B56910",
+    "B56912",
+    "B56959",
+    "B87477",
+    "B87605",
+    "B87606",
+    "B56961",
+    "B56913",
+    "B56858",
+    "B56860",
+    "B56854",
+    "B56862",
+    "B56944",
+    "B56941",
+    "B56865",
+    "B56844",
+    "B56948",
+    "B56852",
+    "B56851",
+    "B56855",
+    "B56847",
+    "B57616",
+    "B56942",
+    "B56846",
+    "B56866",
+    "B56946",
+    "B56848",
+    "B56850",
+    "B56943",
+    "B56945",
+    "B56853",
+    "B56962",
+    "B56947",
+    "B56859",
+    "B56849",
+    "B59500",
+    "B59496",
+    "B59498",
+    "B59499",
+    "B85924",
+    "B85922",
+    "B85923",
+    "B86160",
+    "B97821",
+    "B97822",
+    "B97823",
+    "B56577",
+    "B95351",
+    "B95352",
+    "B86121",
+    "B86128",
+    "B86120",
+    "B86127",
+    "B86126",
+    "B89235",
+    "B89255",
+    "B89693",
+    "B90750",
+    "B89694",
+    "B90704",
+    "B90706",
+    "B84741",
+    "B84743",
+    "B89788",
+    "B89789",
+    "B59574",
+    "B85548",
+    "B84739",
+    "B59583",
+    "B87018",
+    "B49091",
+    "B59582",
+    "B87020",
+    "B87019",
+    "B59580",
+    "B86658",
+    "B83151",
+    "B88003",
+    "B82847",
+    "B83145",
+    "B94617",
+    "B53543",
+    "B86667",
+    "B86674",
+    "B52741",
+    "B86665",
+    "B86666",
+    "B94200",
+    "B52075",
+    "B86673",
+    "B86668",
+    "B86671",
+    "B86670",
+    "B86669",
+    "B56811",
+    "B88008",
+    "B88007",
+    "B94619",
+    "B88006",
+    "B82824",
+    "B82826",
+    "B94531",
+    "B94962",
+    "B90151",
+    "B94866",
+    "B94530",
+    "B56798",
+    "B89857",
+    "B94626",
+    "B89819",
+    "B83156",
+    "B90322",
+    "B83140",
+    "B86272",
+    "B86316",
+    "B95033",
+    "B49379",
+    "B47968",
+    "B87066",
+    "B87068",
+    "B87067",
+    "B87064",
+    "B56680",
+    "B87078",
+    "B59188",
+    "B59193",
+    "B57091",
+    "B55104",
+    "B55106",
+    "B55105",
+    "B87454",
+    "B87073",
+    "B57982",
+    "B58521",
+    "B58020",
+    "B87079",
+    "B87081",
+    "B59197",
+    "B53725",
+    "B73388",
+    "B52040",
+    "B52022",
+    "B52023",
+    "B51802",
+    "B53726",
+    "B52025",
+    "B51801",
+    "B52019",
+    "B52018",
+    "B51808",
+    "B51803",
+    "B52024",
+    "B52021",
+    "B51806",
+    "B51805",
+    "B54879",
+    "B54887",
+    "B54886",
+    "B45025",
+    "B87353",
+    "B59845",
+    "B59957",
+    "B59132",
+    "B86059",
+    "B86058",
+    "B86061",
+    "B88509",
+    "B88506",
+    "B88508",
+    "B88510",
+    "B89637",
+    "B88507",
+    "B49264",
+    "B59169",
+    "B49265",
+    "B54169",
+    "B51438",
+    "B70693",
+    "B86297",
+    "B59170",
+    "B58138",
+    "B70668",
+    "B51500",
+    "B70669",
+    "B96372",
+    "B96371",
+    "B94572",
+    "B51441",
+    "B83684",
+    "B94199",
+    "B53921",
+    "B96373",
+    "B89561",
+    "B51436",
+    "B70683",
+    "B52122",
+    "B56601",
+    "B55243",
+    "B52175",
+    "B52172",
+    "B55222",
+    "B55223",
+    "B59701",
+    "B52136",
+    "B52140",
+    "B55245",
+    "B52110",
+    "B52147",
+    "B52164",
+    "B55253",
+    "B85452",
+    "B55194",
+    "B55083",
+    "B58576",
+    "B56198",
+    "B58511",
+    "B53922",
+    "B05125",
+    "B56686",
+    "B58930",
+    "B57210",
+    "B58299",
+    "B57211",
+    "B57207",
+    "B57208",
+    "B89501",
+    "B57206",
+    "B57209",
+    "B88301"
+  ],
+  "primeiroLote": 38,
+  "fonte": {
+    "ciclo": "16/2026",
+    "arquivo": "catalogo_boticario_202616.pdf",
+    "sha256": "c5f54270bceb7d83c63d27656aa92d33b01db2717ecda2d10f587c45af0f8150"
+  },
+  "inicioTrechoBoticario": {
+    "pagina": 162,
+    "sku": "B89693"
+  }
+}

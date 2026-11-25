@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B59197",
+      "nome": "Condicionador Pasta de Abacate Cuide-se Bem Feira 170 ml",
+      "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem Feira",
+      "tipo": "Condicionador",
+      "volume": "170 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59197.webp"
+    },
+    {
+      "sku": "B52040",
+      "nome": "Refil Loção Banho e Pós-Banho Boti Baby 350 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Refil",
+      "linha": "Boti Baby",
+      "tipo": "Loção",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52040.webp"
+    },
+    {
+      "sku": "B88509",
+      "nome": "Colônia Toy Story Rodeio do Xerife Next 75 ml",
+      "descricao": "Produto da linha Next. Apresentação de 75 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88509.webp"
+    },
+    {
+      "sku": "B88506",
+      "nome": "Colônia Toy Story Vaqueira Valente Sophie 100 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88506.webp"
+    },
+    {
+      "sku": "B88508",
+      "nome": "Balm Labial Toy Story Laçada Brilhante Sophie 3 g",
+      "descricao": "Produto da linha Sophie. Apresentação de 3 g.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Balm Labial",
+      "volume": "3 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88508.webp"
+    },
+    {
+      "sku": "B88510",
+      "nome": "Sabonete Líquido Toy Story Gosma Intergaláctica Next 150 ml",
+      "descricao": "Produto da linha Next. Apresentação de 150 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Sabonete Líquido",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88510.webp"
+    },
+    {
+      "sku": "B88507",
+      "nome": "Paleta Multifuncional Toy Story Memórias Felizes Sophie 10 g",
+      "descricao": "Produto da linha Sophie. Apresentação de 10 g.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Paleta",
+      "volume": "10 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B88507.webp"
+    },
+    {
+      "sku": "B49264",
+      "nome": "Condicionador Brilho Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Condicionador",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49264.webp"
+    },
+    {
+      "sku": "B59169",
+      "nome": "Condicionador Cachos Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Condicionador",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59169.webp"
+    },
+    {
+      "sku": "B54169",
+      "nome": "Shampoo Cachos Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Shampoo",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B54169.webp"
+    },
+    {
+      "sku": "B70693",
+      "nome": "Loção Hidratante Corporal Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Loção",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B70693.webp"
+    },
+    {
+      "sku": "B70668",
+      "nome": "Colônia Hello Sophie 100 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B70668.webp"
+    },
+    {
+      "sku": "B51500",
+      "nome": "Colônia Candy Sophie 100 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51500.webp"
+    },
+    {
+      "sku": "B70669",
+      "nome": "Colônia Like Sophie 100 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B70669.webp"
+    },
+    {
+      "sku": "B96372",
+      "nome": "Sabonete Líquido Poção da Diversão Dr. Botica 150 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Sabonete Líquido",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B96372.webp"
+    },
+    {
+      "sku": "B96371",
+      "nome": "Loção Hidratante Poção da Diversão Dr. Botica 150 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Loção",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B96371.webp"
+    },
+    {
+      "sku": "B51441",
+      "nome": "Colônia Poção da Força Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51441.webp"
+    },
+    {
+      "sku": "B83684",
+      "nome": "Colônia Poção da Aventura Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83684.webp"
+    },
+    {
+      "sku": "B53921",
+      "nome": "Colônia Poção do Coração Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53921.webp"
+    },
+    {
+      "sku": "B96373",
+      "nome": "Colônia Poção da Diversão Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B96373.webp"
+    }
+  ]
+}

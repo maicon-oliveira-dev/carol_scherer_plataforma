@@ -1,0 +1,193 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B59193",
+      "nome": "Condicionador Banana Cuide-se Bem Feira 170 ml",
+      "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem Feira",
+      "tipo": "Condicionador",
+      "volume": "170 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59193.webp"
+    },
+    {
+      "sku": "B57982",
+      "nome": "Shampoo Hidratante Nuvem Cuide-se Bem 250 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57982.webp"
+    },
+    {
+      "sku": "B51805",
+      "nome": "Cicababy Creme Reparador Hidratante Boti Baby 30 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 30 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Creme Reparador",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51805.webp"
+    },
+    {
+      "sku": "B49265",
+      "nome": "Shampoo Brilho Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Shampoo",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49265.webp"
+    },
+    {
+      "sku": "B56601",
+      "nome": "Shampoo Poção da Espuma Cacheados Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Shampoo",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B56601.webp"
+    },
+    {
+      "sku": "B55253",
+      "nome": "Desodorante em Creme Next 80 g",
+      "descricao": "Produto da linha Next. Apresentação de 80 g.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Desodorante",
+      "volume": "80 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B55253.webp"
+    },
+    {
+      "sku": "B85452",
+      "nome": "Pasta Modeladora Capilar Next 150 g",
+      "descricao": "Produto da linha Next. Apresentação de 150 g.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Pasta Modeladora",
+      "volume": "150 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85452.webp"
+    },
+    {
+      "sku": "B55194",
+      "nome": "Shampoo Refrescante Next 230 ml",
+      "descricao": "Produto da linha Next. Apresentação de 230 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55194.webp"
+    },
+    {
+      "sku": "B55083",
+      "nome": "Colônia Next 75 ml",
+      "descricao": "Produto da linha Next. Apresentação de 75 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Next",
+      "tipo": "Colônia",
+      "volume": "75 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55083.webp"
+    },
+    {
+      "sku": "B05125",
+      "nome": "Loção Desodorante Hidratante Ma Chérie 200 ml",
+      "descricao": "Produto da linha Ma Chérie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Ma Chérie",
+      "tipo": "Loção",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B05125.webp"
+    },
+    {
+      "sku": "B57210",
+      "nome": "Banho a Seco Au.Migos Pets 240 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 240 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Banho a Seco",
+      "volume": "240 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57210.webp"
+    },
+    {
+      "sku": "B57211",
+      "nome": "Colônia Adultos Au.Migos Pets 60 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Colônia",
+      "volume": "60 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57211.webp"
+    },
+    {
+      "sku": "B57207",
+      "nome": "Shampoo 5 em 1 Au.Migos Pets 400 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 400 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Shampoo",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57207.webp"
+    },
+    {
+      "sku": "B57208",
+      "nome": "Condicionador Au.Migos Pets 400 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 400 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Condicionador",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57208.webp"
+    },
+    {
+      "sku": "B57206",
+      "nome": "Limpa e Hidrata Patinhas Au.Migos Pets 120 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 120 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Limpa e Hidrata Patinhas",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57206.webp"
+    },
+    {
+      "sku": "B57209",
+      "nome": "Colônia Filhotes Au.Migos Pets 60 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Colônia",
+      "volume": "60 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57209.webp"
+    },
+    {
+      "sku": "B88301",
+      "nome": "Colônia Chamego Au.Migos Pets 60 ml",
+      "descricao": "Produto da linha Au.Migos Pets. Apresentação de 60 ml.",
+      "categoria": "Pets",
+      "apresentacao": "Produto regular",
+      "linha": "Au.Migos Pets",
+      "tipo": "Colônia",
+      "volume": "60 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88301.webp"
+    }
+  ]
+}

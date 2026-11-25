@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B89693",
+      "nome": "Shampoo Match. Escudo de Hidratação 300 ml",
+      "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89693.webp"
+    },
+    {
+      "sku": "B90750",
+      "nome": "Leave-in Multibenefícios Match. Escudo de Hidratação 150 ml",
+      "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 150 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Leave-in",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90750.webp"
+    },
+    {
+      "sku": "B89694",
+      "nome": "Condicionador Match. Escudo de Hidratação 280 ml",
+      "descricao": "Produto da linha Match. Escudo de Hidratação. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89694.webp"
+    },
+    {
+      "sku": "B84741",
+      "nome": "Refil Shampoo Nutrição Profunda Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84741.webp"
+    },
+    {
+      "sku": "B89788",
+      "nome": "Máscara Capilar Nutrição Profunda Match. 250 g",
+      "descricao": "Produto da linha Match. Apresentação de 250 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89788.webp"
+    },
+    {
+      "sku": "B89789",
+      "nome": "Máscara Capilar Nutrição Profunda Match. 70 g",
+      "descricao": "Produto da linha Match. Apresentação de 70 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "70 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B89789.webp"
+    },
+    {
+      "sku": "B59583",
+      "nome": "Shampoo Nutrição Regeneradora Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59583.webp"
+    },
+    {
+      "sku": "B87018",
+      "nome": "Refil Shampoo Nutrição Regeneradora Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87018.webp"
+    },
+    {
+      "sku": "B59582",
+      "nome": "Condicionador Nutrição Regeneradora Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59582.webp"
+    },
+    {
+      "sku": "B87020",
+      "nome": "Refil Máscara Capilar Nutrição Regeneradora Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87020.webp"
+    },
+    {
+      "sku": "B87019",
+      "nome": "Refil Condicionador Nutrição Regeneradora Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87019.webp"
+    },
+    {
+      "sku": "B88003",
+      "nome": "Condicionador Liso Prolongado Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88003.webp"
+    },
+    {
+      "sku": "B83145",
+      "nome": "Refil Condicionador Liso Prolongado Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83145.webp"
+    },
+    {
+      "sku": "B94617",
+      "nome": "Creme Para Pentear Cachos Ciência Das Curvas Match. 450 ml",
+      "descricao": "Produto da linha Match. Apresentação de 450 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Creme para Pentear",
+      "volume": "450 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94617.webp"
+    },
+    {
+      "sku": "B53543",
+      "nome": "Sérum Couro Cabeludo Ciência Das Curvas Match. 50 ml",
+      "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Sérum",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B53543.webp"
+    },
+    {
+      "sku": "B86674",
+      "nome": "Óleo Multibenefícios Ciência Das Curvas Match. 50 ml",
+      "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Óleo",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86674.webp"
+    },
+    {
+      "sku": "B86665",
+      "nome": "Booster Nutrição Ciência Das Curvas Match. 90 ml",
+      "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Booster",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86665.webp"
+    },
+    {
+      "sku": "B86666",
+      "nome": "Booster Reconstrução Ciência Das Curvas Match. 90 ml",
+      "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Booster",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86666.webp"
+    },
+    {
+      "sku": "B86671",
+      "nome": "Shampoo Ciência Das Curvas Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86671.webp"
+    },
+    {
+      "sku": "B86669",
+      "nome": "Refil Creme para Pentear Crespos Ciência das Curvas Match. 400 ml",
+      "descricao": "Produto da linha Match. Apresentação de 400 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Creme para Pentear",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86669.webp"
+    }
+  ]
+}

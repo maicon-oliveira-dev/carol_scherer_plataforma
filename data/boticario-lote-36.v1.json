@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B87454",
+      "nome": "Condicionador Óleo de Coco Cuide-se Bem Feira 170 ml",
+      "descricao": "Produto da linha Cuide-se Bem Feira. Apresentação de 170 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem Feira",
+      "tipo": "Condicionador",
+      "volume": "170 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87454.webp"
+    },
+    {
+      "sku": "B59957",
+      "nome": "Espuma de Banho Lua Boti Baby 150 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 150 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Espuma de Banho",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59957.webp"
+    },
+    {
+      "sku": "B86059",
+      "nome": "Shimmer Splash Chapéu Cintilante Sophie 110 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Shimmer Splash",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86059.webp"
+    },
+    {
+      "sku": "B86058",
+      "nome": "Shimmer Splash Brilho Intergaláctico Sophie 110 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Shimmer Splash",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86058.webp"
+    },
+    {
+      "sku": "B86061",
+      "nome": "Shimmer Splash Amizade Iluminada Sophie 110 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 110 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Shimmer Splash",
+      "volume": "110 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86061.webp"
+    },
+    {
+      "sku": "B59170",
+      "nome": "Creme para Pentear Cachos Sophie 200 ml",
+      "descricao": "Produto da linha Sophie. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Sophie",
+      "tipo": "Creme para Pentear",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59170.webp"
+    },
+    {
+      "sku": "B94572",
+      "nome": "Colônia Poção da Criatividade Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94572.webp"
+    },
+    {
+      "sku": "B94199",
+      "nome": "Colônia Poção da Coragem Dr. Botica 120 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 120 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Colônia",
+      "volume": "120 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94199.webp"
+    },
+    {
+      "sku": "B52122",
+      "nome": "Shampoo Poção da Espuma Lisos Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Shampoo",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52122.webp"
+    },
+    {
+      "sku": "B55243",
+      "nome": "Shampoo Poção da Espuma Crespos Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Shampoo",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55243.webp"
+    },
+    {
+      "sku": "B52175",
+      "nome": "Sabonete Líquido Poção das Bolhas Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Sabonete Líquido",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52175.webp"
+    },
+    {
+      "sku": "B52172",
+      "nome": "Loção Hidratante Poção das Nuvens Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Loção",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52172.webp"
+    },
+    {
+      "sku": "B55222",
+      "nome": "Espuma de Banho Nuvem de Ideias Dr. Botica 150 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 150 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Espuma de Banho",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55222.webp"
+    },
+    {
+      "sku": "B55223",
+      "nome": "Spray Capilar Desembaraçante Chuva de Imaginação Dr. Botica 100 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55223.webp"
+    },
+    {
+      "sku": "B52136",
+      "nome": "Condicionador Poção do Brilho Lisos Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Condicionador",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52136.webp"
+    },
+    {
+      "sku": "B52140",
+      "nome": "Condicionador Poção do Brilho Cacheados Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Condicionador",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52140.webp"
+    },
+    {
+      "sku": "B55245",
+      "nome": "Condicionador Poção do Brilho Crespos Dr. Botica 400 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Condicionador",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55245.webp"
+    },
+    {
+      "sku": "B52110",
+      "nome": "Creme para Pentear Poção Tira Nó Lisos Dr. Botica 350 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Creme para Pentear",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52110.webp"
+    },
+    {
+      "sku": "B52147",
+      "nome": "Creme para Pentear Poção Tira Nó Cacheados Dr. Botica 350 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Creme para Pentear",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52147.webp"
+    },
+    {
+      "sku": "B52164",
+      "nome": "Creme para Pentear Poção Tira Nó Crespos Dr. Botica 350 ml",
+      "descricao": "Produto da linha Dr. Botica. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Dr. Botica",
+      "tipo": "Creme para Pentear",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52164.webp"
+    }
+  ]
+}

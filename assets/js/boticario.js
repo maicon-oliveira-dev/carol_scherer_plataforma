@@ -71,6 +71,14 @@
     "data/boticario-lote-28.v1.json",
     "data/boticario-lote-29.v1.json",
     "data/boticario-lote-30.v1.json",
+    "data/boticario-lote-31.v1.json",
+    "data/boticario-lote-32.v1.json",
+    "data/boticario-lote-33.v1.json",
+    "data/boticario-lote-34.v1.json",
+    "data/boticario-lote-35.v1.json",
+    "data/boticario-lote-36.v1.json",
+    "data/boticario-lote-37.v1.json",
+    "data/boticario-lote-38.v1.json",
   ];
 
   async function load() {

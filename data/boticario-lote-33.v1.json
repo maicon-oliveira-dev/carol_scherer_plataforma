@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B84739",
+      "nome": "Shampoo Nutrição Profunda Match. 50 ml",
+      "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84739.webp"
+    },
+    {
+      "sku": "B86667",
+      "nome": "Leave-in Leve Ciência das Curvas Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Leave-in",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86667.webp"
+    },
+    {
+      "sku": "B94200",
+      "nome": "Máscara Capilar Hidratante Ciência das Curvas Cachos Match. 350 g",
+      "descricao": "Produto da linha Match. Apresentação de 350 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "350 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B94200.webp"
+    },
+    {
+      "sku": "B86673",
+      "nome": "Jelly Capilar Memorizador Ciência das Curvas Match. 350 g",
+      "descricao": "Produto da linha Match. Apresentação de 350 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Jelly",
+      "volume": "350 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B86673.webp"
+    },
+    {
+      "sku": "B56811",
+      "nome": "Máscara Capilar Science Crescimento Match. 250 g",
+      "descricao": "Produto da linha Match. Apresentação de 250 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B56811.webp"
+    },
+    {
+      "sku": "B88008",
+      "nome": "Shampoo Science Crescimento Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88008.webp"
+    },
+    {
+      "sku": "B88006",
+      "nome": "Condicionador Hidratante Loiro Revitalizado Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88006.webp"
+    },
+    {
+      "sku": "B82824",
+      "nome": "Shampoo Matizador Loiro Reparado Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B82824.webp"
+    },
+    {
+      "sku": "B90151",
+      "nome": "Máscara Capilar Science Reconstrução Match. 250 g",
+      "descricao": "Produto da linha Match. Apresentação de 250 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B90151.webp"
+    },
+    {
+      "sku": "B83156",
+      "nome": "Refil Shampoo Hidratação e Brilho Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83156.webp"
+    },
+    {
+      "sku": "B90322",
+      "nome": "Condicionador Hidratação e Brilho Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90322.webp"
+    },
+    {
+      "sku": "B86272",
+      "nome": "Spray Fluido de Brilho Capilar Hidratação e Brilho Match. 100 ml",
+      "descricao": "Produto da linha Match. Apresentação de 100 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Spray",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86272.webp"
+    },
+    {
+      "sku": "B47968",
+      "nome": "Leave-in Reconstrutor Lab Match. 150 ml",
+      "descricao": "Produto da linha Match. Apresentação de 150 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Leave-in",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B47968.webp"
+    },
+    {
+      "sku": "B87068",
+      "nome": "Creme para Pentear Cachos de Uva Cuide-se Bem 300 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme para Pentear",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87068.webp"
+    },
+    {
+      "sku": "B87078",
+      "nome": "Máscara Capilar Banana Cuide-se Bem 250 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Máscara Capilar",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87078.webp"
+    },
+    {
+      "sku": "B59188",
+      "nome": "Shampoo Banana Cuide-se Bem 230 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59188.webp"
+    },
+    {
+      "sku": "B57091",
+      "nome": "Shampoo Vinagre de Maçã Cuide-se Bem 230 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B57091.webp"
+    },
+    {
+      "sku": "B55105",
+      "nome": "Creme para Pentear Seiva de Babosa Cuide-se Bem 200 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 200 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Creme para Pentear",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55105.webp"
+    },
+    {
+      "sku": "B87073",
+      "nome": "Shampoo Óleo de Coco Cuide-se Bem 230 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87073.webp"
+    },
+    {
+      "sku": "B87079",
+      "nome": "Shampoo Pasta de Abacate Cuide-se Bem 230 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87079.webp"
+    }
+  ]
+}

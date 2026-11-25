@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B86316",
+      "nome": "Spray Capilar Lab Multibenefícios Match. 150 ml",
+      "descricao": "Produto da linha Match. Apresentação de 150 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Spray",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86316.webp"
+    },
+    {
+      "sku": "B49379",
+      "nome": "Acidificante Capilar Lab Tri Ação Match. 100 ml",
+      "descricao": "Produto da linha Match. Apresentação de 100 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Acidificante",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B49379.webp"
+    },
+    {
+      "sku": "B87066",
+      "nome": "Condicionador Cachos de Uva Cuide-se Bem 250 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87066.webp"
+    },
+    {
+      "sku": "B55104",
+      "nome": "Shampoo Vinagre de Framboesa Cuide-se Bem 230 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 230 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "230 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55104.webp"
+    },
+    {
+      "sku": "B55106",
+      "nome": "Condicionador Mel Vegano Cuide-se Bem 170 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 170 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Condicionador",
+      "volume": "170 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B55106.webp"
+    },
+    {
+      "sku": "B87081",
+      "nome": "Máscara Pasta de Abacate Cuide-se Bem 250 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Máscara Capilar",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87081.webp"
+    },
+    {
+      "sku": "B52022",
+      "nome": "Loção Hidratante Corporal Banho e Pós-Banho Boti Baby 200 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Loção",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52022.webp"
+    },
+    {
+      "sku": "B52023",
+      "nome": "Loção Hidratante Corporal Banho e Pós-Banho Boti Baby 400 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Loção",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52023.webp"
+    },
+    {
+      "sku": "B51802",
+      "nome": "Colônia do Sol Boti Baby 100 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51802.webp"
+    },
+    {
+      "sku": "B52025",
+      "nome": "Sabonete Líquido de Glicerina Boti Baby 400 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Sabonete Líquido",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52025.webp"
+    },
+    {
+      "sku": "B51801",
+      "nome": "Sabonete Líquido de Glicerina Boti Baby 200 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Sabonete Líquido",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51801.webp"
+    },
+    {
+      "sku": "B52019",
+      "nome": "Shampoo Suave Boti Baby 200 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Shampoo",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52019.webp"
+    },
+    {
+      "sku": "B52018",
+      "nome": "Shampoo Suave Boti Baby 400 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Shampoo",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52018.webp"
+    },
+    {
+      "sku": "B51808",
+      "nome": "Condicionador Suave Boti Baby 200 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Condicionador",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51808.webp"
+    },
+    {
+      "sku": "B51803",
+      "nome": "Condicionador Suave Boti Baby 400 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 400 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Condicionador",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51803.webp"
+    },
+    {
+      "sku": "B52024",
+      "nome": "Refil Sabonete Líquido de Glicerina Boti Baby 350 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Refil",
+      "linha": "Boti Baby",
+      "tipo": "Sabonete Líquido",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52024.webp"
+    },
+    {
+      "sku": "B52021",
+      "nome": "Refil Shampoo Suave Boti Baby 350 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Refil",
+      "linha": "Boti Baby",
+      "tipo": "Shampoo",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52021.webp"
+    },
+    {
+      "sku": "B51806",
+      "nome": "Refil Condicionador Suave Boti Baby 350 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 350 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Refil",
+      "linha": "Boti Baby",
+      "tipo": "Condicionador",
+      "volume": "350 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B51806.webp"
+    },
+    {
+      "sku": "B59845",
+      "nome": "Loção Hidratante Corporal Banho e Pós-Banho Lua Boti Baby 200 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 200 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Loção",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59845.webp"
+    },
+    {
+      "sku": "B59132",
+      "nome": "Colônia da Lua Boti Baby 100 ml",
+      "descricao": "Produto da linha Boti Baby. Apresentação de 100 ml.",
+      "categoria": "Infantil",
+      "apresentacao": "Produto regular",
+      "linha": "Boti Baby",
+      "tipo": "Colônia",
+      "volume": "100 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59132.webp"
+    }
+  ]
+}

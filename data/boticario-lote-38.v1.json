@@ -1,0 +1,28 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B85857",
+      "nome": "Base Líquida Make B. Glycolic TX Tom 320 30 g",
+      "descricao": "Produto da linha Make B. Apresentação de 30 g.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Base",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B85857.webp"
+    },
+    {
+      "sku": "B50888",
+      "nome": "Máscara de Sobrancelhas em Gel Make B. Brow Lamination 5 ml",
+      "descricao": "Produto da linha Make B. Apresentação de 5 ml.",
+      "categoria": "Maquiagem",
+      "apresentacao": "Produto regular",
+      "linha": "Make B.",
+      "tipo": "Máscara para Sobrancelhas",
+      "volume": "5 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B50888.webp"
+    }
+  ]
+}

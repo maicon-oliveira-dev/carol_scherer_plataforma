@@ -1,0 +1,226 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "sku": "B90704",
+      "nome": "Shampoo Nutrição Profunda Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B90704.webp"
+    },
+    {
+      "sku": "B84743",
+      "nome": "Refil Máscara Capilar Nutrição Profunda Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B84743.webp"
+    },
+    {
+      "sku": "B59574",
+      "nome": "Óleo Capilar Nutrição Profunda Match. 50 ml",
+      "descricao": "Produto da linha Match. Apresentação de 50 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Óleo",
+      "volume": "50 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59574.webp"
+    },
+    {
+      "sku": "B85548",
+      "nome": "Refil Condicionador Nutrição Profunda Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B85548.webp"
+    },
+    {
+      "sku": "B59580",
+      "nome": "Óleo Bifásico Nutrição Regeneradora Match. 90 ml",
+      "descricao": "Produto da linha Match. Apresentação de 90 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Óleo",
+      "volume": "90 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B59580.webp"
+    },
+    {
+      "sku": "B86658",
+      "nome": "Shampoo Liso Prolongado Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86658.webp"
+    },
+    {
+      "sku": "B83151",
+      "nome": "Refil Shampoo Liso Prolongado Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83151.webp"
+    },
+    {
+      "sku": "B52741",
+      "nome": "Refil Creme para Pentear Cachos Ciência das Curvas Match. 400 ml",
+      "descricao": "Produto da linha Match. Apresentação de 400 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Creme para Pentear",
+      "volume": "400 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B52741.webp"
+    },
+    {
+      "sku": "B52075",
+      "nome": "Máscara Capilar Hidratante Crespos 4ABC Ciência das Curvas Match. 350 g",
+      "descricao": "Produto da linha Match. Apresentação de 350 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "350 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B52075.webp"
+    },
+    {
+      "sku": "B86668",
+      "nome": "Condicionador Hidratante e Leave-in de Definição Ciência das Curvas Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86668.webp"
+    },
+    {
+      "sku": "B86670",
+      "nome": "Creme para Pentear Crespos Ciência das Curvas Match. 450 ml",
+      "descricao": "Produto da linha Match. Apresentação de 450 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Creme para Pentear",
+      "volume": "450 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B86670.webp"
+    },
+    {
+      "sku": "B88007",
+      "nome": "Condicionador Science Crescimento Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B88007.webp"
+    },
+    {
+      "sku": "B94531",
+      "nome": "Condicionador Science Reconstrução Match. 280 ml",
+      "descricao": "Produto da linha Match. Apresentação de 280 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "280 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94531.webp"
+    },
+    {
+      "sku": "B94962",
+      "nome": "Ampola Science Reconstrução Match. 30 ml",
+      "descricao": "Produto da linha Match. Apresentação de 30 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Ampola",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94962.webp"
+    },
+    {
+      "sku": "B94866",
+      "nome": "Shampoo Science Reconstrução Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B94866.webp"
+    },
+    {
+      "sku": "B56798",
+      "nome": "Máscara Capilar Science Pré e Pós-Química Match. 250 g",
+      "descricao": "Produto da linha Match. Apresentação de 250 g.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Máscara Capilar",
+      "volume": "250 g",
+      "imagemOficial": "assets/images/catalogos/boticario/B56798.webp"
+    },
+    {
+      "sku": "B89819",
+      "nome": "Shampoo Hidratação e Brilho Match. 300 ml",
+      "descricao": "Produto da linha Match. Apresentação de 300 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Match.",
+      "tipo": "Shampoo",
+      "volume": "300 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B89819.webp"
+    },
+    {
+      "sku": "B83140",
+      "nome": "Refil Condicionador Hidratação e Brilho Match. 250 ml",
+      "descricao": "Produto da linha Match. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Refil",
+      "linha": "Match.",
+      "tipo": "Condicionador",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B83140.webp"
+    },
+    {
+      "sku": "B87067",
+      "nome": "Máscara Capilar Cachos de Uva Cuide-se Bem 250 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 250 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Máscara Capilar",
+      "volume": "250 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87067.webp"
+    },
+    {
+      "sku": "B87064",
+      "nome": "Shampoo Cachos de Uva Cuide-se Bem 270 ml",
+      "descricao": "Produto da linha Cuide-se Bem. Apresentação de 270 ml.",
+      "categoria": "Cabelos",
+      "apresentacao": "Produto regular",
+      "linha": "Cuide-se Bem",
+      "tipo": "Shampoo",
+      "volume": "270 ml",
+      "imagemOficial": "assets/images/catalogos/boticario/B87064.webp"
+    }
+  ]
+}
