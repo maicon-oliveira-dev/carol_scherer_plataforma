@@ -1,0 +1,539 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-262462",
+      "nome": "Avon Alice Labirinto Encantado Body Splash",
+      "volume": "200 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Alice Labirinto Encantado Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/262462.webp",
+      "sku": "262462"
+    },
+    {
+      "id": "avon-alice-iluminador-facial",
+      "nome": "Avon Alice Iluminador Facial",
+      "volume": "4,8 g",
+      "tipo": "Iluminador facial",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Alice Iluminador Facial.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-alice-iluminador-facial.webp",
+      "tons": [
+        {
+          "nome": "Hora Serena",
+          "sku": "244361"
+        },
+        {
+          "nome": "Tick Tock",
+          "sku": "244362"
+        }
+      ]
+    },
+    {
+      "id": "produto-162625",
+      "nome": "Color Trend Paleta de Sombras Zodíaco",
+      "volume": "4,2 g",
+      "tipo": "Paleta de sombras",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Paleta de Sombras Zodíaco.",
+      "imagemOficial": "assets/images/catalogos/avon/162625.webp",
+      "sku": "162625"
+    },
+    {
+      "id": "color-trend-delineador-retratil-zodiaco",
+      "nome": "Color Trend Delineador Retrátil Zodíaco",
+      "volume": "0,35 g",
+      "tipo": "Delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Delineador Retrátil Zodíaco.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-delineador-retratil-zodiaco.webp",
+      "tons": [
+        {
+          "nome": "Vibes de Água",
+          "sku": "161424"
+        },
+        {
+          "nome": "Vibes de Terra",
+          "sku": "161652"
+        },
+        {
+          "nome": "Vibes de Fogo",
+          "sku": "161425"
+        },
+        {
+          "nome": "Mystical Vibes",
+          "sku": "161650"
+        },
+        {
+          "nome": "Vibes de Ar",
+          "sku": "161651"
+        }
+      ]
+    },
+    {
+      "id": "avon-balm-labial-coffee-date",
+      "nome": "Avon Balm Labial Coffee Date",
+      "volume": "5 g",
+      "tipo": "Balm labial",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Balm Labial Coffee Date.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-balm-labial-coffee-date.webp",
+      "tons": [
+        {
+          "nome": "Caramelo",
+          "sku": "255772"
+        },
+        {
+          "nome": "Expresso",
+          "sku": "255773"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-esmalte-coffee-date",
+      "nome": "Color Trend Esmalte Coffee Date",
+      "volume": "7 ml",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Esmalte Coffee Date.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-esmalte-coffee-date.webp",
+      "tons": [
+        {
+          "nome": "Latte",
+          "sku": "245046"
+        },
+        {
+          "nome": "Moccha",
+          "sku": "245048"
+        },
+        {
+          "nome": "Cappuccino",
+          "sku": "245045"
+        }
+      ]
+    },
+    {
+      "id": "produto-244968",
+      "nome": "Multi Stick Iluminador Coffee Date Sparkle Macchiato",
+      "volume": "6,5 g",
+      "tipo": "Iluminador",
+      "categoria": "Maquiagem",
+      "descricao": "Multi Stick Iluminador Coffee Date Sparkle Macchiato.",
+      "imagemOficial": "assets/images/catalogos/avon/244968.webp",
+      "sku": "244968"
+    },
+    {
+      "id": "kiss-matte-batom-coffee-date-fps-15",
+      "nome": "Kiss Matte Batom Coffee Date FPS 15",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Kiss Matte Batom Coffee Date FPS 15.",
+      "imagemOficial": "assets/images/catalogos/avon/kiss-matte-batom-coffee-date-fps-15.webp",
+      "tons": [
+        {
+          "nome": "Latte",
+          "sku": "244986"
+        },
+        {
+          "nome": "Expresso Duplo",
+          "sku": "244987"
+        }
+      ]
+    },
+    {
+      "id": "matte-real-base-liquida-matte-a-prova-dagua",
+      "nome": "Matte Real Base Líquida Matte à Prova D’Água",
+      "volume": "20 ml",
+      "tipo": "Base facial",
+      "categoria": "Maquiagem",
+      "descricao": "Matte Real Base Líquida Matte à Prova D’Água.",
+      "imagemOficial": "assets/images/catalogos/avon/matte-real-base-liquida-matte-a-prova-dagua.webp",
+      "tons": [
+        {
+          "nome": "130 F",
+          "sku": "135425"
+        },
+        {
+          "nome": "140 Q",
+          "sku": "135426"
+        },
+        {
+          "nome": "220 NQ",
+          "sku": "135428"
+        },
+        {
+          "nome": "210 Q",
+          "sku": "135427"
+        },
+        {
+          "nome": "230 NF",
+          "sku": "135429"
+        },
+        {
+          "nome": "240 N",
+          "sku": "135430"
+        },
+        {
+          "nome": "320 Q",
+          "sku": "135432"
+        },
+        {
+          "nome": "330 Q",
+          "sku": "135433"
+        },
+        {
+          "nome": "310 NF",
+          "sku": "135431"
+        },
+        {
+          "nome": "340 Q",
+          "sku": "135434"
+        },
+        {
+          "nome": "520 NQ",
+          "sku": "135440"
+        },
+        {
+          "nome": "510 N",
+          "sku": "135439"
+        },
+        {
+          "nome": "410 NQ",
+          "sku": "135435"
+        },
+        {
+          "nome": "420 Q",
+          "sku": "135436"
+        },
+        {
+          "nome": "430 F",
+          "sku": "135437"
+        },
+        {
+          "nome": "440 NF",
+          "sku": "135438"
+        },
+        {
+          "nome": "530 N",
+          "sku": "135441"
+        },
+        {
+          "nome": "120 NQ",
+          "sku": "135424"
+        },
+        {
+          "nome": "110 F",
+          "sku": "135423"
+        },
+        {
+          "nome": "540 F",
+          "sku": "135442"
+        }
+      ]
+    },
+    {
+      "id": "matte-real-po-compacto-facial-a-prova-dagua",
+      "nome": "Matte Real Pó Compacto Facial à Prova D’Água FPS 10",
+      "volume": "8 g",
+      "tipo": "Pó compacto",
+      "categoria": "Maquiagem",
+      "descricao": "Matte Real Pó Compacto Facial à Prova D’Água FPS 10.",
+      "imagemOficial": "assets/images/catalogos/avon/matte-real-po-compacto-facial-a-prova-dagua.webp",
+      "tons": [
+        {
+          "nome": "112 F",
+          "sku": "135467"
+        },
+        {
+          "nome": "132 Q",
+          "sku": "135468"
+        },
+        {
+          "nome": "212 N",
+          "sku": "135469"
+        },
+        {
+          "nome": "232 N",
+          "sku": "135470"
+        },
+        {
+          "nome": "312 F",
+          "sku": "135471"
+        },
+        {
+          "nome": "332 Q",
+          "sku": "135472"
+        },
+        {
+          "nome": "412 Q",
+          "sku": "135473"
+        },
+        {
+          "nome": "432 N",
+          "sku": "135474"
+        },
+        {
+          "nome": "512 N",
+          "sku": "135475"
+        },
+        {
+          "nome": "532 N",
+          "sku": "135476"
+        }
+      ]
+    },
+    {
+      "id": "matte-real-po-compacto-facial-fps-10",
+      "nome": "Matte Real Pó Compacto Facial FPS 10",
+      "volume": "7 g",
+      "tipo": "Pó compacto",
+      "categoria": "Maquiagem",
+      "descricao": "Matte Real Pó Compacto Facial FPS 10.",
+      "imagemOficial": "assets/images/catalogos/avon/matte-real-po-compacto-facial-fps-10.webp",
+      "tons": [
+        {
+          "nome": "112 F",
+          "sku": "135487"
+        },
+        {
+          "nome": "132 Q",
+          "sku": "135488"
+        },
+        {
+          "nome": "212 N",
+          "sku": "135489"
+        },
+        {
+          "nome": "312 F",
+          "sku": "135490"
+        },
+        {
+          "nome": "332 Q",
+          "sku": "135491"
+        },
+        {
+          "nome": "352 N",
+          "sku": "135492"
+        },
+        {
+          "nome": "412 Q",
+          "sku": "135493"
+        },
+        {
+          "nome": "432 N",
+          "sku": "135494"
+        },
+        {
+          "nome": "512 N",
+          "sku": "135495"
+        },
+        {
+          "nome": "532 N",
+          "sku": "135496"
+        }
+      ]
+    },
+    {
+      "id": "matte-real-base-em-bastao-matte-fps-20",
+      "nome": "Matte Real Base em Bastão Matte FPS 20",
+      "volume": "6,5 g",
+      "tipo": "Base facial",
+      "categoria": "Maquiagem",
+      "descricao": "Matte Real Base em Bastão Matte FPS 20.",
+      "imagemOficial": "assets/images/catalogos/avon/matte-real-base-em-bastao-matte-fps-20.webp",
+      "tons": [
+        {
+          "nome": "120 NQ",
+          "sku": "135455"
+        },
+        {
+          "nome": "220 NQ",
+          "sku": "135458"
+        },
+        {
+          "nome": "210 Q",
+          "sku": "135457"
+        },
+        {
+          "nome": "140 Q",
+          "sku": "135456"
+        },
+        {
+          "nome": "340 Q",
+          "sku": "135462"
+        },
+        {
+          "nome": "320 Q",
+          "sku": "135460"
+        },
+        {
+          "nome": "330 Q",
+          "sku": "135461"
+        },
+        {
+          "nome": "240 N",
+          "sku": "135459"
+        },
+        {
+          "nome": "420 Q",
+          "sku": "135463"
+        },
+        {
+          "nome": "510 N",
+          "sku": "135465"
+        },
+        {
+          "nome": "430 F",
+          "sku": "135464"
+        },
+        {
+          "nome": "520 NQ",
+          "sku": "135466"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-multi-stick",
+      "nome": "Color Trend Multi Stick",
+      "volume": "6,5 g",
+      "tipo": "Multi stick",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Multi Stick.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-multi-stick.webp",
+      "tons": [
+        {
+          "nome": "Bronze Glam - Iluminador",
+          "sku": "200575"
+        },
+        {
+          "nome": "Puro Glow - Iluminador",
+          "sku": "200574"
+        },
+        {
+          "nome": "Rosé Pop - Blush",
+          "sku": "200573"
+        },
+        {
+          "nome": "Coral Fresh - Blush",
+          "sku": "200614"
+        }
+      ]
+    },
+    {
+      "id": "produto-135274",
+      "nome": "Color Trend Máscara Volume Perfeito à Prova D’Água",
+      "volume": "7 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Máscara Volume Perfeito à Prova D’Água.",
+      "imagemOficial": "assets/images/catalogos/avon/135274.webp",
+      "sku": "135274"
+    },
+    {
+      "id": "produto-156979",
+      "nome": "Color Trend Máscara Alongadora à Prova D’Água",
+      "volume": "7 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Máscara Alongadora à Prova D’Água.",
+      "imagemOficial": "assets/images/catalogos/avon/156979.webp",
+      "sku": "156979"
+    },
+    {
+      "id": "produto-152713",
+      "nome": "Color Trend Mega Blaster Máscara para Cílios",
+      "volume": "7 g",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Mega Blaster Máscara para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/152713.webp",
+      "sku": "152713"
+    },
+    {
+      "id": "produto-152766",
+      "nome": "Color Trend Máscara Incolor para Cílios e Sobrancelhas",
+      "volume": "8 g",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Máscara Incolor para Cílios e Sobrancelhas.",
+      "imagemOficial": "assets/images/catalogos/avon/152766.webp",
+      "sku": "152766"
+    },
+    {
+      "id": "color-trend-delineador-liquido-metalico",
+      "nome": "Color Trend Delineador Líquido Metálico",
+      "volume": "3 ml",
+      "tipo": "Delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Delineador Líquido Metálico.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-delineador-liquido-metalico.webp",
+      "tons": [
+        {
+          "nome": "Azul Metálico",
+          "sku": "239154"
+        },
+        {
+          "nome": "Prata Metálico",
+          "sku": "239153"
+        },
+        {
+          "nome": "Vermelho Metálico",
+          "sku": "239156"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-delineador-liquido-matte",
+      "nome": "Color Trend Delineador Líquido Matte",
+      "volume": "3 ml",
+      "tipo": "Delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Delineador Líquido Matte.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-delineador-liquido-matte.webp",
+      "tons": [
+        {
+          "nome": "Lilás",
+          "sku": "239161"
+        },
+        {
+          "nome": "Marrom",
+          "sku": "239155"
+        },
+        {
+          "nome": "Branco",
+          "sku": "239160"
+        },
+        {
+          "nome": "Preto",
+          "sku": "239158"
+        },
+        {
+          "nome": "Rosa Verão",
+          "sku": "239159"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-lapis-de-sobrancelhas",
+      "nome": "Color Trend Lápis de Sobrancelhas",
+      "volume": "1,1 g",
+      "tipo": "Lápis de sobrancelhas",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Lápis de Sobrancelhas.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-lapis-de-sobrancelhas.webp",
+      "tons": [
+        {
+          "nome": "Médio",
+          "sku": "135245"
+        },
+        {
+          "nome": "Escuro",
+          "sku": "135244"
+        }
+      ]
+    }
+  ]
+}

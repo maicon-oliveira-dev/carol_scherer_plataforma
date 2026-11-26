@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-224573",
+      "sku": "224573",
+      "nome": "Avon Creme Depilatório para o Corpo",
+      "volume": "125 g",
+      "tipo": "Creme depilatório",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Creme Depilatório para o Corpo.",
+      "imagemOficial": "assets/images/catalogos/avon/224573.webp"
+    },
+    {
+      "id": "produto-169003",
+      "sku": "169003",
+      "nome": "Avon Sabonete Líquido Íntimo Gentle",
+      "volume": "250 ml",
+      "tipo": "Sabonete íntimo",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Sabonete Líquido Íntimo Gentle.",
+      "imagemOficial": "assets/images/catalogos/avon/169003.webp"
+    },
+    {
+      "id": "produto-214705",
+      "sku": "214705",
+      "nome": "Avon Care Óleo de Coco Sabonete Líquido Corporal",
+      "volume": "200 ml",
+      "tipo": "Sabonete líquido",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Óleo de Coco Sabonete Líquido Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/214705.webp"
+    },
+    {
+      "id": "produto-136066",
+      "sku": "136066",
+      "nome": "Avon Protetor Solar FPS 70",
+      "volume": "120 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar FPS 70.",
+      "imagemOficial": "assets/images/catalogos/avon/136066.webp"
+    },
+    {
+      "id": "produto-136063",
+      "sku": "136063",
+      "nome": "Avon Protetor Solar Rosto e Corpo FPS 50",
+      "volume": "120 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar Rosto e Corpo FPS 50.",
+      "imagemOficial": "assets/images/catalogos/avon/136063.webp"
+    },
+    {
+      "id": "produto-136064",
+      "sku": "136064",
+      "nome": "Avon Protetor Solar 2 em 1 FPS 50",
+      "volume": "200 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar 2 em 1 FPS 50.",
+      "imagemOficial": "assets/images/catalogos/avon/136064.webp"
+    },
+    {
+      "id": "produto-136069",
+      "sku": "136069",
+      "nome": "Avon Protetor Solar Rosto Controle de Brilho FPS 30",
+      "volume": "40 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar Rosto Controle de Brilho FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/136069.webp"
+    },
+    {
+      "id": "produto-136067",
+      "sku": "136067",
+      "nome": "Avon Protetor Solar Refrescante FPS 30",
+      "volume": "120 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar Refrescante FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/136067.webp"
+    },
+    {
+      "id": "produto-136062",
+      "sku": "136062",
+      "nome": "Avon Protetor Solar FPS 30",
+      "volume": "200 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/136062.webp"
+    },
+    {
+      "id": "produto-187710",
+      "sku": "187710",
+      "nome": "Avon Desodorante em Creme Antitranspirante Neutro Sem Perfume",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Neutro Sem Perfume.",
+      "imagemOficial": "assets/images/catalogos/avon/187710.webp"
+    },
+    {
+      "id": "produto-187138",
+      "sku": "187138",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Neutro Sem Perfume",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Neutro Sem Perfume.",
+      "imagemOficial": "assets/images/catalogos/avon/187138.webp"
+    },
+    {
+      "id": "produto-187137",
+      "sku": "187137",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Hidratação Suave",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Hidratação Suave.",
+      "imagemOficial": "assets/images/catalogos/avon/187137.webp"
+    },
+    {
+      "id": "produto-135725",
+      "sku": "135725",
+      "nome": "Avon Desodorante em Creme Antitranspirante Aquavibe Refrescantes Baby Smell",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Aquavibe Refrescantes Baby Smell.",
+      "imagemOficial": "assets/images/catalogos/avon/135725.webp"
+    },
+    {
+      "id": "produto-135726",
+      "sku": "135726",
+      "nome": "Avon Desodorante em Creme Antitranspirante Erva-Doce",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Erva-Doce.",
+      "imagemOficial": "assets/images/catalogos/avon/135726.webp"
+    },
+    {
+      "id": "produto-179546",
+      "sku": "179546",
+      "nome": "Avon Desodorante em Creme Antitranspirante Far Away Glamour",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Far Away Glamour.",
+      "imagemOficial": "assets/images/catalogos/avon/179546.webp"
+    },
+    {
+      "id": "produto-177792",
+      "sku": "177792",
+      "nome": "Avon Desodorante em Creme Antitranspirante Far Away Splendoria",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Far Away Splendoria.",
+      "imagemOficial": "assets/images/catalogos/avon/177792.webp"
+    },
+    {
+      "id": "produto-177793",
+      "sku": "177793",
+      "nome": "Avon Desodorante em Creme Antitranspirante Far Away",
+      "volume": "50 g",
+      "tipo": "Desodorante em creme",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante em Creme Antitranspirante Far Away.",
+      "imagemOficial": "assets/images/catalogos/avon/177793.webp"
+    },
+    {
+      "id": "produto-190377",
+      "sku": "190377",
+      "nome": "Avon Desodorante Antitranspirante Roll-On 300 Km/h Quantum",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On 300 Km/h Quantum.",
+      "imagemOficial": "assets/images/catalogos/avon/190377.webp"
+    },
+    {
+      "id": "produto-190387",
+      "sku": "190387",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Musk Mineralis",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Musk Mineralis.",
+      "imagemOficial": "assets/images/catalogos/avon/190387.webp"
+    },
+    {
+      "id": "produto-190380",
+      "sku": "190380",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Musk Metropolitano",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Musk Metropolitano.",
+      "imagemOficial": "assets/images/catalogos/avon/190380.webp"
+    }
+  ]
+}

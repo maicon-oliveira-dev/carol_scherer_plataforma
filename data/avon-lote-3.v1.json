@@ -1,0 +1,268 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-155720",
+      "nome": "Renew Power Sérum Renovador 30 ml",
+      "descricao": "Renew Power Sérum Renovador 30 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/155720.webp",
+      "sku": "155720"
+    },
+    {
+      "id": "produto-199908",
+      "nome": "Refil Renew Power Sérum 30 ml",
+      "descricao": "Refil Renew Power Sérum 30 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Refil de sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/199908.webp",
+      "sku": "199908"
+    },
+    {
+      "id": "produto-168325",
+      "nome": "Renew 7 Doses Concentradas 7 x 1,3 ml",
+      "descricao": "Renew 7 Doses Concentradas 7 x 1,3 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Tratamento facial",
+      "volume": "7 x 1,3 ml",
+      "imagemOficial": "assets/images/catalogos/avon/168325.webp",
+      "sku": "168325"
+    },
+    {
+      "id": "produto-155717",
+      "nome": "Renew Power Creme 50 g",
+      "descricao": "Renew Power Creme 50 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/155717.webp",
+      "sku": "155717"
+    },
+    {
+      "id": "produto-201062",
+      "nome": "Renew Power Creme Olhos e Lábios 15 g",
+      "descricao": "Renew Power Creme Olhos e Lábios 15 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme para olhos e lábios",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/201062.webp",
+      "sku": "201062"
+    },
+    {
+      "id": "produto-159034",
+      "nome": "Renew Água Micelar Bifásica 150 ml",
+      "descricao": "Renew Água Micelar Bifásica 150 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Água micelar",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/avon/159034.webp",
+      "sku": "159034"
+    },
+    {
+      "id": "produto-169006",
+      "nome": "Renew Água Micelar Revitalizante 150 ml",
+      "descricao": "Renew Água Micelar Revitalizante 150 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Água micelar",
+      "volume": "150 ml",
+      "imagemOficial": "assets/images/catalogos/avon/169006.webp",
+      "sku": "169006"
+    },
+    {
+      "id": "produto-155733",
+      "nome": "Renew Gel de Limpeza Mini 30 g",
+      "descricao": "Renew Gel de Limpeza Mini 30 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel de limpeza",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/avon/155733.webp",
+      "sku": "155733"
+    },
+    {
+      "id": "produto-155723",
+      "nome": "Renew Gel de Limpeza 125 g",
+      "descricao": "Renew Gel de Limpeza 125 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel de limpeza",
+      "volume": "125 g",
+      "imagemOficial": "assets/images/catalogos/avon/155723.webp",
+      "sku": "155723"
+    },
+    {
+      "id": "produto-160380",
+      "nome": "Renew Solar FPS 70 40 g",
+      "descricao": "Renew Solar FPS 70 40 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Protetor solar",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/avon/160380.webp",
+      "sku": "160380"
+    },
+    {
+      "id": "renew-solar-com-cor-fps50",
+      "nome": "Renew Solar com Cor FPS 50 40 g",
+      "descricao": "Renew Solar com Cor FPS 50 40 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Protetor solar com cor",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/avon/renew-solar-com-cor-fps50.webp",
+      "tons": [
+        {
+          "nome": "Clara 1.0",
+          "sku": "167761",
+          "imagemOficial": "assets/images/catalogos/avon/167761.webp"
+        },
+        {
+          "nome": "Média Clara 2.0",
+          "sku": "167762",
+          "imagemOficial": "assets/images/catalogos/avon/167762.webp"
+        },
+        {
+          "nome": "Média 3.0",
+          "sku": "167763",
+          "imagemOficial": "assets/images/catalogos/avon/167763.webp"
+        },
+        {
+          "nome": "Média Escura 4.0",
+          "sku": "167764",
+          "imagemOficial": "assets/images/catalogos/avon/167764.webp"
+        },
+        {
+          "nome": "Escura 5.0",
+          "sku": "167765",
+          "imagemOficial": "assets/images/catalogos/avon/167765.webp"
+        },
+        {
+          "nome": "Escura 5.4",
+          "sku": "167766",
+          "imagemOficial": "assets/images/catalogos/avon/167766.webp"
+        }
+      ]
+    },
+    {
+      "id": "renew-stick-com-cor-fps70",
+      "nome": "Renew Stick com Cor FPS 70 14 g",
+      "descricao": "Renew Stick com Cor FPS 70 14 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Protetor solar em bastão com cor",
+      "volume": "14 g",
+      "imagemOficial": "assets/images/catalogos/avon/renew-stick-com-cor-fps70.webp",
+      "tons": [
+        {
+          "nome": "Clara 1.0",
+          "sku": "232072",
+          "imagemOficial": "assets/images/catalogos/avon/232072.webp"
+        },
+        {
+          "nome": "Média Clara 2.0",
+          "sku": "232069",
+          "imagemOficial": "assets/images/catalogos/avon/232069.webp"
+        },
+        {
+          "nome": "Média 3.0",
+          "sku": "232077",
+          "imagemOficial": "assets/images/catalogos/avon/232077.webp"
+        },
+        {
+          "nome": "Média Escura 4.0",
+          "sku": "232067",
+          "imagemOficial": "assets/images/catalogos/avon/232067.webp"
+        },
+        {
+          "nome": "Escura 5.0",
+          "sku": "232071",
+          "imagemOficial": "assets/images/catalogos/avon/232071.webp"
+        },
+        {
+          "nome": "Escura 5.4",
+          "sku": "232070",
+          "imagemOficial": "assets/images/catalogos/avon/232070.webp"
+        }
+      ]
+    },
+    {
+      "id": "produto-232075",
+      "nome": "Renew Solar Stick Incolor FPS 50 12 g",
+      "descricao": "Renew Solar Stick Incolor FPS 50 12 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Protetor solar em bastão",
+      "volume": "12 g",
+      "imagemOficial": "assets/images/catalogos/avon/232075.webp",
+      "sku": "232075"
+    },
+    {
+      "id": "produto-136030",
+      "nome": "Avon Care Máscara de Limpeza 3 em 1 75 g",
+      "descricao": "Avon Care Máscara de Limpeza 3 em 1 75 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Máscara de limpeza",
+      "volume": "75 g",
+      "imagemOficial": "assets/images/catalogos/avon/136030.webp",
+      "sku": "136030"
+    },
+    {
+      "id": "produto-214484",
+      "nome": "Avon Care Água Micelar 6 em 1 200 ml",
+      "descricao": "Avon Care Água Micelar 6 em 1 200 ml.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Água micelar",
+      "volume": "200 ml",
+      "imagemOficial": "assets/images/catalogos/avon/214484.webp",
+      "sku": "214484"
+    },
+    {
+      "id": "produto-214483",
+      "nome": "Avon Care Gel de Limpeza 6 em 1 120 g",
+      "descricao": "Avon Care Gel de Limpeza 6 em 1 120 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel de limpeza",
+      "volume": "120 g",
+      "imagemOficial": "assets/images/catalogos/avon/214483.webp",
+      "sku": "214483"
+    },
+    {
+      "id": "produto-214688",
+      "nome": "Avon Care Gel Esfoliante 6 em 1 80 g",
+      "descricao": "Avon Care Gel Esfoliante 6 em 1 80 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel esfoliante",
+      "volume": "80 g",
+      "imagemOficial": "assets/images/catalogos/avon/214688.webp",
+      "sku": "214688"
+    },
+    {
+      "id": "produto-244915",
+      "nome": "Avon Care Creme Radiância 6 em 1 100 g",
+      "descricao": "Avon Care Creme Radiância 6 em 1 100 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "100 g",
+      "imagemOficial": "assets/images/catalogos/avon/244915.webp",
+      "sku": "244915"
+    },
+    {
+      "id": "produto-203471",
+      "nome": "Avon Care Creme Hidratante 6 em 1 100 g",
+      "descricao": "Avon Care Creme Hidratante 6 em 1 100 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "100 g",
+      "imagemOficial": "assets/images/catalogos/avon/203471.webp",
+      "sku": "203471"
+    },
+    {
+      "id": "produto-214481",
+      "nome": "Avon Care Creme Matificante 6 em 1 100 g",
+      "descricao": "Avon Care Creme Matificante 6 em 1 100 g.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "100 g",
+      "imagemOficial": "assets/images/catalogos/avon/214481.webp",
+      "sku": "214481"
+    }
+  ]
+}

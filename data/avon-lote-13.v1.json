@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-161067",
+      "sku": "161067",
+      "nome": "Avon Care Leite de Amêndoas Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Leite de Amêndoas Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161067.webp"
+    },
+    {
+      "id": "produto-161069",
+      "sku": "161069",
+      "nome": "Avon Care Macadâmia Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Macadâmia Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161069.webp"
+    },
+    {
+      "id": "produto-161070",
+      "sku": "161070",
+      "nome": "Avon Care Aveia e Extrato de Baunilha Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Aveia e Extrato de Baunilha Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161070.webp"
+    },
+    {
+      "id": "produto-161076",
+      "sku": "161076",
+      "nome": "Avon Care Óleo de Coco Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Óleo de Coco Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161076.webp"
+    },
+    {
+      "id": "produto-161077",
+      "sku": "161077",
+      "nome": "Avon Care Manteiga de Cacau Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Manteiga de Cacau Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161077.webp"
+    },
+    {
+      "id": "produto-161065",
+      "sku": "161065",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Erva-Doce e Lavanda",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Erva-Doce e Lavanda.",
+      "imagemOficial": "assets/images/catalogos/avon/161065.webp"
+    },
+    {
+      "id": "produto-161063",
+      "sku": "161063",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Original",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Original.",
+      "imagemOficial": "assets/images/catalogos/avon/161063.webp"
+    },
+    {
+      "id": "produto-161066",
+      "sku": "161066",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Original",
+      "volume": "120 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Original.",
+      "imagemOficial": "assets/images/catalogos/avon/161066.webp"
+    },
+    {
+      "id": "produto-266546",
+      "sku": "266546",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Erva Doce",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Erva Doce.",
+      "imagemOficial": "assets/images/catalogos/avon/266546.webp"
+    },
+    {
+      "id": "produto-161079",
+      "sku": "161079",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Macadâmia",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Macadâmia.",
+      "imagemOficial": "assets/images/catalogos/avon/161079.webp"
+    },
+    {
+      "id": "produto-183284",
+      "sku": "183284",
+      "nome": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Óleo de Coco",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Luvas de Silicone Creme Protetor para as Mãos Óleo de Coco.",
+      "imagemOficial": "assets/images/catalogos/avon/183284.webp"
+    },
+    {
+      "id": "produto-222047",
+      "sku": "222047",
+      "nome": "Babies & Kids Mickey e Amigos Protetor Solar com Cor FPS 50",
+      "volume": "120 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Babies & Kids Mickey e Amigos Protetor Solar com Cor FPS 50.",
+      "imagemOficial": "assets/images/catalogos/avon/222047.webp"
+    },
+    {
+      "id": "produto-222045",
+      "sku": "222045",
+      "nome": "Disney Frutas Vermelhas Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Disney Frutas Vermelhas Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/222045.webp"
+    },
+    {
+      "id": "produto-222046",
+      "sku": "222046",
+      "nome": "Disney Frutas Vermelhas Creme para as Mãos",
+      "volume": "75 g",
+      "tipo": "Creme para mãos",
+      "categoria": "Corpo e banho",
+      "descricao": "Disney Frutas Vermelhas Creme para as Mãos.",
+      "imagemOficial": "assets/images/catalogos/avon/222046.webp"
+    },
+    {
+      "id": "produto-152794",
+      "sku": "152794",
+      "nome": "Avon Baby Calming Colônia",
+      "volume": "100 ml",
+      "tipo": "Colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Baby Calming Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/152794.webp"
+    },
+    {
+      "id": "produto-152795",
+      "sku": "152795",
+      "nome": "Avon Baby Colônia",
+      "volume": "100 ml",
+      "tipo": "Colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Baby Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/152795.webp"
+    },
+    {
+      "id": "produto-135178",
+      "sku": "135178",
+      "nome": "Avon Baby Shampoo 2 em 1",
+      "volume": "700 ml",
+      "tipo": "Shampoo",
+      "categoria": "Cabelos",
+      "descricao": "Avon Baby Shampoo 2 em 1.",
+      "imagemOficial": "assets/images/catalogos/avon/135178.webp"
+    },
+    {
+      "id": "produto-136071",
+      "sku": "136071",
+      "nome": "Avon Protetor Solar Baby FPS 40",
+      "volume": "120 g",
+      "tipo": "Protetor solar",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Protetor Solar Baby FPS 40.",
+      "imagemOficial": "assets/images/catalogos/avon/136071.webp"
+    },
+    {
+      "id": "produto-174929",
+      "sku": "174929",
+      "nome": "Avon Care Footworks Creme Hidratante Noturno para os Pés",
+      "volume": "80 g",
+      "tipo": "Creme para pés",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Footworks Creme Hidratante Noturno para os Pés.",
+      "imagemOficial": "assets/images/catalogos/avon/174929.webp"
+    },
+    {
+      "id": "produto-174931",
+      "sku": "174931",
+      "nome": "Avon Care Footworks Creme Hidratante para Pés Extrassecos",
+      "volume": "80 g",
+      "tipo": "Creme para pés",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Footworks Creme Hidratante para Pés Extrassecos.",
+      "imagemOficial": "assets/images/catalogos/avon/174931.webp"
+    }
+  ]
+}

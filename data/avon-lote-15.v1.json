@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-190388",
+      "sku": "190388",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Segno",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Segno.",
+      "imagemOficial": "assets/images/catalogos/avon/190388.webp"
+    },
+    {
+      "id": "produto-190384",
+      "sku": "190384",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Musk Marine",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Musk Marine.",
+      "imagemOficial": "assets/images/catalogos/avon/190384.webp"
+    },
+    {
+      "id": "produto-178866",
+      "sku": "178866",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Far Away Shine",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Far Away Shine.",
+      "imagemOficial": "assets/images/catalogos/avon/178866.webp"
+    },
+    {
+      "id": "produto-190379",
+      "sku": "190379",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Aquavibe Refrescantes Pretty Blue",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Aquavibe Refrescantes Pretty Blue.",
+      "imagemOficial": "assets/images/catalogos/avon/190379.webp"
+    },
+    {
+      "id": "produto-190385",
+      "sku": "190385",
+      "nome": "Avon Desodorante Antitranspirante Roll-On LOV U",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On LOV U.",
+      "imagemOficial": "assets/images/catalogos/avon/190385.webp"
+    },
+    {
+      "id": "produto-190382",
+      "sku": "190382",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Far Away",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Far Away.",
+      "imagemOficial": "assets/images/catalogos/avon/190382.webp"
+    },
+    {
+      "id": "produto-230381",
+      "sku": "230381",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Erva-Doce",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Erva-Doce.",
+      "imagemOficial": "assets/images/catalogos/avon/230381.webp"
+    },
+    {
+      "id": "produto-190386",
+      "sku": "190386",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Petit Attitude",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Petit Attitude.",
+      "imagemOficial": "assets/images/catalogos/avon/190386.webp"
+    },
+    {
+      "id": "produto-190376",
+      "sku": "190376",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Far Away Glamour",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Far Away Glamour.",
+      "imagemOficial": "assets/images/catalogos/avon/190376.webp"
+    },
+    {
+      "id": "produto-190378",
+      "sku": "190378",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Pur Blanca",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Pur Blanca.",
+      "imagemOficial": "assets/images/catalogos/avon/190378.webp"
+    },
+    {
+      "id": "produto-190383",
+      "sku": "190383",
+      "nome": "Avon Desodorante Antitranspirante Roll-On 300 Km/h Max Turbo",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On 300 Km/h Max Turbo.",
+      "imagemOficial": "assets/images/catalogos/avon/190383.webp"
+    },
+    {
+      "id": "produto-190381",
+      "sku": "190381",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Aquavibe Refrescantes Baby Smell",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Aquavibe Refrescantes Baby Smell.",
+      "imagemOficial": "assets/images/catalogos/avon/190381.webp"
+    },
+    {
+      "id": "produto-230386",
+      "sku": "230386",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Care Clareador",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Care Clareador.",
+      "imagemOficial": "assets/images/catalogos/avon/230386.webp"
+    },
+    {
+      "id": "produto-230385",
+      "sku": "230385",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Care Redutor de Pelos",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Care Redutor de Pelos.",
+      "imagemOficial": "assets/images/catalogos/avon/230385.webp"
+    },
+    {
+      "id": "produto-230390",
+      "sku": "230390",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Women Max Protection",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Women Max Protection.",
+      "imagemOficial": "assets/images/catalogos/avon/230390.webp"
+    },
+    {
+      "id": "produto-230388",
+      "sku": "230388",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Women Active",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Women Active.",
+      "imagemOficial": "assets/images/catalogos/avon/230388.webp"
+    },
+    {
+      "id": "produto-230391",
+      "sku": "230391",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Women Invisible",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Women Invisible.",
+      "imagemOficial": "assets/images/catalogos/avon/230391.webp"
+    },
+    {
+      "id": "produto-230394",
+      "sku": "230394",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Women Powder",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Women Powder.",
+      "imagemOficial": "assets/images/catalogos/avon/230394.webp"
+    },
+    {
+      "id": "produto-230387",
+      "sku": "230387",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Classic",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Classic.",
+      "imagemOficial": "assets/images/catalogos/avon/230387.webp"
+    },
+    {
+      "id": "produto-230393",
+      "sku": "230393",
+      "nome": "Avon Desodorante Antitranspirante Roll-On Men Invisible",
+      "volume": "48 ml",
+      "tipo": "Desodorante roll-on",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Desodorante Antitranspirante Roll-On Men Invisible.",
+      "imagemOficial": "assets/images/catalogos/avon/230393.webp"
+    }
+  ]
+}

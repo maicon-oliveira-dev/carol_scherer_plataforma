@@ -1,0 +1,574 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-214480",
+      "nome": "Avon Care Creme Facial Iluminador Vitaminado 6 em 1",
+      "volume": "100 g",
+      "tipo": "Creme facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Avon Care Creme Facial Iluminador Vitaminado 6 em 1.",
+      "imagemOficial": "assets/images/catalogos/avon/214480.webp",
+      "sku": "214480"
+    },
+    {
+      "id": "produto-214478",
+      "nome": "Avon Care Creme Facial Antissinais 6 em 1",
+      "volume": "100 g",
+      "tipo": "Creme facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Avon Care Creme Facial Antissinais 6 em 1.",
+      "imagemOficial": "assets/images/catalogos/avon/214478.webp",
+      "sku": "214478"
+    },
+    {
+      "id": "produto-152074",
+      "nome": "Clearskin Triplo Esfoliante Facial de Argila Rosa",
+      "volume": "50 g",
+      "tipo": "Esfoliante facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Triplo Esfoliante Facial de Argila Rosa.",
+      "imagemOficial": "assets/images/catalogos/avon/152074.webp",
+      "sku": "152074"
+    },
+    {
+      "id": "produto-152072",
+      "nome": "Clearskin Sabonete Facial Esfoliante",
+      "volume": "50 g",
+      "tipo": "Sabonete facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Sabonete Facial Esfoliante.",
+      "imagemOficial": "assets/images/catalogos/avon/152072.webp",
+      "sku": "152072"
+    },
+    {
+      "id": "produto-136041",
+      "nome": "Clearskin Loção Tônica Facial Adstringente",
+      "volume": "200 ml",
+      "tipo": "Loção tônica",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Loção Tônica Facial Adstringente.",
+      "imagemOficial": "assets/images/catalogos/avon/136041.webp",
+      "sku": "136041"
+    },
+    {
+      "id": "produto-203746",
+      "nome": "Clearskin Creme de Limpeza Máxima Concentração",
+      "volume": "50 g",
+      "tipo": "Creme de limpeza",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Creme de Limpeza Máxima Concentração.",
+      "imagemOficial": "assets/images/catalogos/avon/203746.webp",
+      "sku": "203746"
+    },
+    {
+      "id": "produto-152076",
+      "nome": "Clearskin Máscara Facial de Argila Rosa",
+      "volume": "50 g",
+      "tipo": "Máscara facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Máscara Facial de Argila Rosa.",
+      "imagemOficial": "assets/images/catalogos/avon/152076.webp",
+      "sku": "152076"
+    },
+    {
+      "id": "produto-152075",
+      "nome": "Clearskin Máscara Facial Preta com Carvão",
+      "volume": "50 g",
+      "tipo": "Máscara facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Máscara Facial Preta com Carvão.",
+      "imagemOficial": "assets/images/catalogos/avon/152075.webp",
+      "sku": "152075"
+    },
+    {
+      "id": "produto-152077",
+      "nome": "Clearskin Máscara Facial Removedora de Cravos",
+      "volume": "50 g",
+      "tipo": "Máscara facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Máscara Facial Removedora de Cravos.",
+      "imagemOficial": "assets/images/catalogos/avon/152077.webp",
+      "sku": "152077"
+    },
+    {
+      "id": "produto-131008",
+      "nome": "Clearskin Sabonete de Limpeza Extraforte com Ácido Salicílico",
+      "volume": "70 g",
+      "tipo": "Sabonete facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Sabonete de Limpeza Extraforte com Ácido Salicílico.",
+      "imagemOficial": "assets/images/catalogos/avon/131008.webp",
+      "sku": "131008"
+    },
+    {
+      "id": "produto-131007",
+      "nome": "Clearskin Sabonete de Limpeza Purificante com Carvão",
+      "volume": "70 g",
+      "tipo": "Sabonete facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Sabonete de Limpeza Purificante com Carvão.",
+      "imagemOficial": "assets/images/catalogos/avon/131007.webp",
+      "sku": "131007"
+    },
+    {
+      "id": "produto-153254",
+      "nome": "Clearskin Sabonete de Limpeza Purificante com Carvão",
+      "volume": "70 g",
+      "tipo": "Sabonete facial",
+      "categoria": "Cuidados faciais",
+      "descricao": "Clearskin Sabonete de Limpeza Purificante com Carvão.",
+      "imagemOficial": "assets/images/catalogos/avon/153254.webp",
+      "sku": "153254"
+    },
+    {
+      "id": "tratamake-hydramatic-batom-matte-fps-30",
+      "nome": "Tratamake Hydramatic Batom Matte FPS 30",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Hydramatic Batom Matte FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/tratamake-hydramatic-batom-matte-fps-30.webp",
+      "tons": [
+        {
+          "nome": "Vermelho Cereja",
+          "sku": "148281"
+        },
+        {
+          "nome": "Rosa Framboesa",
+          "sku": "200631"
+        },
+        {
+          "nome": "Nude Irresistível",
+          "sku": "135077"
+        },
+        {
+          "nome": "Vinho Autoral",
+          "sku": "135517"
+        },
+        {
+          "nome": "Rosa Rosé",
+          "sku": "148280"
+        },
+        {
+          "nome": "Rosé Sutil",
+          "sku": "200632"
+        },
+        {
+          "nome": "Nude Suave",
+          "sku": "135512"
+        },
+        {
+          "nome": "Malva Marsala",
+          "sku": "135076"
+        },
+        {
+          "nome": "Nude Intenso",
+          "sku": "135511"
+        },
+        {
+          "nome": "Marrom Intenso",
+          "sku": "200630"
+        },
+        {
+          "nome": "Rosa Blush",
+          "sku": "148279"
+        },
+        {
+          "nome": "Magenta Suave",
+          "sku": "152749"
+        },
+        {
+          "nome": "Malva Queimado",
+          "sku": "152748"
+        },
+        {
+          "nome": "Vermelho Icônico",
+          "sku": "135514"
+        }
+      ]
+    },
+    {
+      "id": "tratamake-hydramatic-batom-radiante-fps-13",
+      "nome": "Tratamake Hydramatic Batom Radiante FPS 13",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Hydramatic Batom Radiante FPS 13.",
+      "imagemOficial": "assets/images/catalogos/avon/tratamake-hydramatic-batom-radiante-fps-13.webp",
+      "tons": [
+        {
+          "nome": "Rosado Coral",
+          "sku": "152743"
+        },
+        {
+          "nome": "Nude Coral",
+          "sku": "152740"
+        },
+        {
+          "nome": "Marrom Bronze",
+          "sku": "152738"
+        },
+        {
+          "nome": "Malva Suave",
+          "sku": "152737"
+        },
+        {
+          "nome": "Malva Marrom",
+          "sku": "152736"
+        },
+        {
+          "nome": "Marsala Rosé",
+          "sku": "152744"
+        },
+        {
+          "nome": "Fúcsia Profundo",
+          "sku": "152735"
+        },
+        {
+          "nome": "Rosé Escuro",
+          "sku": "152741"
+        },
+        {
+          "nome": "Coral Sutil",
+          "sku": "152734"
+        },
+        {
+          "nome": "Rosado Frio",
+          "sku": "152747"
+        },
+        {
+          "nome": "Vinho Borgonha",
+          "sku": "152739"
+        },
+        {
+          "nome": "Vermelho Vinho",
+          "sku": "152746"
+        },
+        {
+          "nome": "Cor-de-Rosa Carmim",
+          "sku": "152720"
+        },
+        {
+          "nome": "Rosa Quente",
+          "sku": "152742"
+        }
+      ]
+    },
+    {
+      "id": "tratamake-serum-lip-gloss-fps-20",
+      "nome": "Tratamake Sérum Lip Gloss FPS 20",
+      "volume": "5,5 ml",
+      "tipo": "Gloss labial",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Sérum Lip Gloss FPS 20.",
+      "imagemOficial": "assets/images/catalogos/avon/tratamake-serum-lip-gloss-fps-20.webp",
+      "tons": [
+        {
+          "nome": "Nude Castanho",
+          "sku": "244436"
+        },
+        {
+          "nome": "Cereja Cristal",
+          "sku": "244434"
+        },
+        {
+          "nome": "Rosa Encanto",
+          "sku": "244435"
+        },
+        {
+          "nome": "Nude Rosado",
+          "sku": "244433"
+        },
+        {
+          "nome": "Natural Incolor",
+          "sku": "244438"
+        }
+      ]
+    },
+    {
+      "id": "tratamake-makeup-care-base-serum-matte-fps-30",
+      "nome": "Tratamake Makeup+Care Base Sérum Matte FPS 30",
+      "volume": "30 ml",
+      "tipo": "Base facial",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Makeup+Care Base Sérum Matte FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/tratamake-makeup-care-base-serum-matte-fps-30.webp",
+      "tons": [
+        {
+          "nome": "110 F",
+          "sku": "199873"
+        },
+        {
+          "nome": "120 NQ",
+          "sku": "199878"
+        },
+        {
+          "nome": "130 F",
+          "sku": "199892"
+        },
+        {
+          "nome": "140 Q",
+          "sku": "199868"
+        },
+        {
+          "nome": "210 Q",
+          "sku": "199901"
+        },
+        {
+          "nome": "220 NQ",
+          "sku": "199880"
+        },
+        {
+          "nome": "230 NF",
+          "sku": "199898"
+        },
+        {
+          "nome": "240 N",
+          "sku": "199887"
+        },
+        {
+          "nome": "310 NF",
+          "sku": "199885"
+        },
+        {
+          "nome": "320 Q",
+          "sku": "199866"
+        },
+        {
+          "nome": "330 Q",
+          "sku": "199895"
+        },
+        {
+          "nome": "340 Q",
+          "sku": "199875"
+        },
+        {
+          "nome": "410 NQ",
+          "sku": "199872"
+        },
+        {
+          "nome": "420 Q",
+          "sku": "199897"
+        },
+        {
+          "nome": "430 F",
+          "sku": "199870"
+        },
+        {
+          "nome": "440 NF",
+          "sku": "199883"
+        },
+        {
+          "nome": "510 N",
+          "sku": "199891"
+        },
+        {
+          "nome": "520 NQ",
+          "sku": "199867"
+        },
+        {
+          "nome": "530 N",
+          "sku": "199881"
+        },
+        {
+          "nome": "540 F",
+          "sku": "199889"
+        }
+      ]
+    },
+    {
+      "id": "tratamake-makeup-care-base-serum-radiante-fps-30",
+      "nome": "Tratamake Makeup+Care Base Sérum Radiante FPS 30",
+      "volume": "30 ml",
+      "tipo": "Base facial",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Makeup+Care Base Sérum Radiante FPS 30.",
+      "imagemOficial": "assets/images/catalogos/avon/tratamake-makeup-care-base-serum-radiante-fps-30.webp",
+      "tons": [
+        {
+          "nome": "110 F",
+          "sku": "160282"
+        },
+        {
+          "nome": "120 NQ",
+          "sku": "160283"
+        },
+        {
+          "nome": "130 F",
+          "sku": "160286"
+        },
+        {
+          "nome": "140 Q",
+          "sku": "160287"
+        },
+        {
+          "nome": "210 Q",
+          "sku": "160284"
+        },
+        {
+          "nome": "220 NQ",
+          "sku": "160285"
+        },
+        {
+          "nome": "230 NF",
+          "sku": "160288"
+        },
+        {
+          "nome": "240 N",
+          "sku": "160289"
+        },
+        {
+          "nome": "310 NF",
+          "sku": "160291"
+        },
+        {
+          "nome": "320 Q",
+          "sku": "160292"
+        },
+        {
+          "nome": "330 Q",
+          "sku": "160290"
+        },
+        {
+          "nome": "340 Q",
+          "sku": "160293"
+        },
+        {
+          "nome": "410 NQ",
+          "sku": "160297"
+        },
+        {
+          "nome": "420 Q",
+          "sku": "160294"
+        },
+        {
+          "nome": "430 F",
+          "sku": "160295"
+        },
+        {
+          "nome": "440 NF",
+          "sku": "160296"
+        },
+        {
+          "nome": "510 N",
+          "sku": "160298"
+        },
+        {
+          "nome": "520 NQ",
+          "sku": "160299"
+        },
+        {
+          "nome": "530 N",
+          "sku": "160300"
+        },
+        {
+          "nome": "540 F",
+          "sku": "160301"
+        }
+      ]
+    },
+    {
+      "id": "avon-po-compacto-facial-matte",
+      "nome": "Avon Pó Compacto Facial Matte",
+      "volume": "11 g",
+      "tipo": "Pó compacto",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Pó Compacto Facial Matte.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-po-compacto-facial-matte.webp",
+      "tons": [
+        {
+          "nome": "112 F",
+          "sku": "135403"
+        },
+        {
+          "nome": "132 Q",
+          "sku": "135404"
+        },
+        {
+          "nome": "212 N",
+          "sku": "135405"
+        },
+        {
+          "nome": "232 N",
+          "sku": "135406"
+        },
+        {
+          "nome": "322 F",
+          "sku": "135407"
+        },
+        {
+          "nome": "352 N",
+          "sku": "135408"
+        },
+        {
+          "nome": "412 Q",
+          "sku": "135409"
+        },
+        {
+          "nome": "432 N",
+          "sku": "135410"
+        },
+        {
+          "nome": "512 N",
+          "sku": "135411"
+        },
+        {
+          "nome": "532 N",
+          "sku": "135412"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-blush-facial-em-po",
+      "nome": "Ultra Color Blush Facial em Pó",
+      "volume": "8 g",
+      "tipo": "Blush",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Blush Facial em Pó.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-blush-facial-em-po.webp",
+      "tons": [
+        {
+          "nome": "Rosa Toscano",
+          "sku": "187744"
+        },
+        {
+          "nome": "Rosa Pink",
+          "sku": "188011"
+        },
+        {
+          "nome": "Iluminado",
+          "sku": "187745"
+        },
+        {
+          "nome": "Uva Borgonha",
+          "sku": "187743"
+        },
+        {
+          "nome": "Natural",
+          "sku": "200107"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-po-compacto-facial-iluminador",
+      "nome": "Ultra Color Pó Compacto Facial Iluminador",
+      "volume": "8 g",
+      "tipo": "Iluminador facial",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Pó Compacto Facial Iluminador.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-po-compacto-facial-iluminador.webp",
+      "tons": [
+        {
+          "nome": "Rosé Gold",
+          "sku": "187747"
+        },
+        {
+          "nome": "Cobre Sublime",
+          "sku": "200108"
+        }
+      ]
+    }
+  ]
+}

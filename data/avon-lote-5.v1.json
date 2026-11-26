@@ -1,0 +1,417 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-135415",
+      "nome": "Avon Magix Primer Controle de Brilho e Oleosidade",
+      "volume": "30 ml",
+      "tipo": "Primer",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Magix Primer Controle de Brilho e Oleosidade.",
+      "imagemOficial": "assets/images/catalogos/avon/135415.webp",
+      "sku": "135415"
+    },
+    {
+      "id": "produto-179117",
+      "nome": "Ultra Color Blush em Pó Vermelho",
+      "volume": "5 g",
+      "tipo": "Blush",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Blush em Pó Vermelho.",
+      "imagemOficial": "assets/images/catalogos/avon/179117.webp",
+      "sku": "179117"
+    },
+    {
+      "id": "ultra-color-batom-cremoso-fps-50",
+      "nome": "Ultra Color Batom Cremoso FPS 50",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Batom Cremoso FPS 50.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-batom-cremoso-fps-50.webp",
+      "tons": [
+        {
+          "nome": "Rosa Canela",
+          "sku": "177770"
+        },
+        {
+          "nome": "Vermelho Glamour",
+          "sku": "177753"
+        },
+        {
+          "nome": "Vermelho Supremo",
+          "sku": "177762"
+        },
+        {
+          "nome": "Malva Rosado",
+          "sku": "177765"
+        },
+        {
+          "nome": "Marrom Glam",
+          "sku": "177801"
+        },
+        {
+          "nome": "Rosa Queimado",
+          "sku": "177766"
+        },
+        {
+          "nome": "Malva Belo",
+          "sku": "177790"
+        },
+        {
+          "nome": "Nude Chic",
+          "sku": "177758"
+        },
+        {
+          "nome": "Nude Terracota",
+          "sku": "177769"
+        },
+        {
+          "nome": "Nude Cappuccino",
+          "sku": "177806"
+        },
+        {
+          "nome": "Nude Puro",
+          "sku": "177743"
+        },
+        {
+          "nome": "Marrom Puro",
+          "sku": "177745"
+        },
+        {
+          "nome": "Vermelho Puro",
+          "sku": "177741"
+        },
+        {
+          "nome": "Rosé Malva",
+          "sku": "177780"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-gloss-labial",
+      "nome": "Ultra Color Gloss Labial",
+      "volume": "7 ml",
+      "tipo": "Gloss labial",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Gloss Labial.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-gloss-labial.webp",
+      "tons": [
+        {
+          "nome": "Brilho Holo Shine",
+          "sku": "135549"
+        },
+        {
+          "nome": "Nude Glow",
+          "sku": "135086"
+        },
+        {
+          "nome": "Marrom Must Have",
+          "sku": "135087"
+        },
+        {
+          "nome": "Nude Rubi",
+          "sku": "135548"
+        },
+        {
+          "nome": "Rosa Wow",
+          "sku": "135085"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-lip-paint-batom-liquido-semimatte-fps-15",
+      "nome": "Ultra Color Lip Paint Batom Líquido Semimatte FPS 15",
+      "volume": "7 ml",
+      "tipo": "Batom líquido",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Lip Paint Batom Líquido Semimatte FPS 15.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-lip-paint-batom-liquido-semimatte-fps-15.webp",
+      "tons": [
+        {
+          "nome": "Doce Rosa",
+          "sku": "135551"
+        },
+        {
+          "nome": "Rosa Independência",
+          "sku": "135090"
+        },
+        {
+          "nome": "Rosé Destemido",
+          "sku": "135553"
+        },
+        {
+          "nome": "Atitude Nude",
+          "sku": "135550"
+        },
+        {
+          "nome": "Rosé Singular",
+          "sku": "135554"
+        },
+        {
+          "nome": "Marsala Profundo",
+          "sku": "135089"
+        },
+        {
+          "nome": "Vinho Que Quero Ser",
+          "sku": "135092"
+        },
+        {
+          "nome": "Nude Delicado",
+          "sku": "135552"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-batom-brilhante-fps-15",
+      "nome": "Ultra Color Batom Brilhante FPS 15",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Batom Brilhante FPS 15.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-batom-brilhante-fps-15.webp",
+      "tons": [
+        {
+          "nome": "Nude Terracota",
+          "sku": "177777"
+        },
+        {
+          "nome": "Glow Crystal",
+          "sku": "177807"
+        },
+        {
+          "nome": "Malva Luz",
+          "sku": "177808"
+        },
+        {
+          "nome": "Rosa Vibrante",
+          "sku": "177748"
+        },
+        {
+          "nome": "Vermelho Glitz",
+          "sku": "177746"
+        },
+        {
+          "nome": "Marrom Cobre",
+          "sku": "177803"
+        }
+      ]
+    },
+    {
+      "id": "produto-135234",
+      "nome": "Avon Genius Multibenefícios Máscara para Cílios",
+      "volume": "10 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Genius Multibenefícios Máscara para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/135234.webp",
+      "sku": "135234"
+    },
+    {
+      "id": "produto-160378",
+      "nome": "Avon Wonder Curve Máscara para Cílios",
+      "volume": "10 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Wonder Curve Máscara para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/160378.webp",
+      "sku": "160378"
+    },
+    {
+      "id": "produto-152721",
+      "nome": "Avon Fabulous Lash Máscara à Prova D’Água",
+      "volume": "10 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Fabulous Lash Máscara à Prova D’Água.",
+      "imagemOficial": "assets/images/catalogos/avon/152721.webp",
+      "sku": "152721"
+    },
+    {
+      "id": "produto-222050",
+      "nome": "Avon Supershock Volume Max Máscara para Cílios",
+      "volume": "10 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Supershock Volume Max Máscara para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/222050.webp",
+      "sku": "222050"
+    },
+    {
+      "id": "produto-199158",
+      "nome": "Tratamake Makeup+Care Máscara de Volume para Cílios",
+      "volume": "10 g",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Tratamake Makeup+Care Máscara de Volume para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/199158.webp",
+      "sku": "199158"
+    },
+    {
+      "id": "produto-135238",
+      "nome": "Avon Super à Prova D’Água Máscara para Cílios",
+      "volume": "8 ml",
+      "tipo": "Máscara para cílios",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Super à Prova D’Água Máscara para Cílios.",
+      "imagemOficial": "assets/images/catalogos/avon/135238.webp",
+      "sku": "135238"
+    },
+    {
+      "id": "avon-micro-fine-delineador-retratil-para-sobrancelhas",
+      "nome": "Avon Micro Fine Delineador Retrátil para Sobrancelhas",
+      "volume": "130 mg",
+      "tipo": "Delineador de sobrancelhas",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Micro Fine Delineador Retrátil para Sobrancelhas.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-micro-fine-delineador-retratil-para-sobrancelhas.webp",
+      "tons": [
+        {
+          "nome": "Avermelhado",
+          "sku": "150664"
+        },
+        {
+          "nome": "Loiro Claro",
+          "sku": "150667"
+        },
+        {
+          "nome": "Castanho Escuro",
+          "sku": "150665"
+        },
+        {
+          "nome": "Castanho",
+          "sku": "150666"
+        }
+      ]
+    },
+    {
+      "id": "avon-delineador-retratil-para-olhos",
+      "nome": "Avon Delineador Retrátil para Olhos",
+      "volume": "280 mg ou 350 mg, conforme tom",
+      "tipo": "Delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Delineador Retrátil para Olhos.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-delineador-retratil-para-olhos.webp",
+      "tons": [
+        {
+          "nome": "Brilho Azul-Marinho",
+          "sku": "169793"
+        },
+        {
+          "nome": "Brilho Ametista",
+          "sku": "169792"
+        },
+        {
+          "nome": "Brilho Esmeralda",
+          "sku": "169791"
+        },
+        {
+          "nome": "Bronzeei",
+          "sku": "150662"
+        },
+        {
+          "nome": "Preto Não Tem Erro",
+          "sku": "150032"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-paleta-de-sombras-quarteto",
+      "nome": "Ultra Color Paleta de Sombras Quarteto",
+      "volume": "2,8 g",
+      "tipo": "Paleta de sombras",
+      "categoria": "Maquiagem",
+      "descricao": "Ultra Color Paleta de Sombras Quarteto.",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-paleta-de-sombras-quarteto.webp",
+      "tons": [
+        {
+          "nome": "Purple",
+          "sku": "177772",
+          "imagemOficial": "assets/images/catalogos/avon/177772.webp"
+        },
+        {
+          "nome": "Natural",
+          "sku": "177776",
+          "imagemOficial": "assets/images/catalogos/avon/177776.webp"
+        }
+      ]
+    },
+    {
+      "id": "produto-136022",
+      "nome": "Avon Loção para Remover Maquiagem dos Olhos",
+      "volume": "60 ml",
+      "tipo": "Demaquilante",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Loção para Remover Maquiagem dos Olhos.",
+      "imagemOficial": "assets/images/catalogos/avon/136022.webp",
+      "sku": "136022"
+    },
+    {
+      "id": "avon-alice-gloss-labial",
+      "nome": "Avon Alice Gloss Labial",
+      "volume": "4,8 g",
+      "tipo": "Gloss labial",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Alice Gloss Labial.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-alice-gloss-labial.webp",
+      "tons": [
+        {
+          "nome": "Elixir Sereno",
+          "sku": "244327"
+        },
+        {
+          "nome": "Elixir Escarlate",
+          "sku": "244338"
+        }
+      ]
+    },
+    {
+      "id": "produto-244353",
+      "nome": "Avon Alice Iluminador Corporal",
+      "volume": "5 g",
+      "tipo": "Iluminador corporal",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Alice Iluminador Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/244353.webp",
+      "sku": "244353"
+    },
+    {
+      "id": "avon-alice-esmalte-para-unhas",
+      "nome": "Avon Alice Esmalte para Unhas",
+      "volume": "9 ml",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Alice Esmalte para Unhas.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-alice-esmalte-para-unhas.webp",
+      "tons": [
+        {
+          "nome": "Carmim Soberano",
+          "sku": "244972"
+        },
+        {
+          "nome": "Trono Negro",
+          "sku": "244985"
+        },
+        {
+          "nome": "Pura Curiosidade",
+          "sku": "244974"
+        },
+        {
+          "nome": "Sonho Curioso",
+          "sku": "244984"
+        }
+      ]
+    },
+    {
+      "id": "produto-244355",
+      "nome": "Avon Alice Paleta Multifuncional",
+      "volume": "27 g",
+      "tipo": "Paleta multifuncional",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Alice Paleta Multifuncional.",
+      "imagemOficial": "assets/images/catalogos/avon/244355.webp",
+      "sku": "244355"
+    }
+  ]
+}

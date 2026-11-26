@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-135895",
+      "nome": "Pur Blanca Serenity Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Serenity Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135895.webp",
+      "sku": "135895"
+    },
+    {
+      "id": "produto-135891",
+      "nome": "Pur Blanca Gardênia Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Gardênia Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135891.webp",
+      "sku": "135891"
+    },
+    {
+      "id": "produto-135789",
+      "nome": "Petit Attitude Lavanda Deo Colônia",
+      "volume": "50 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Petit Attitude Lavanda Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135789.webp",
+      "sku": "135789"
+    },
+    {
+      "id": "produto-135792",
+      "nome": "Petit Attitude Petit Deo Colônia",
+      "volume": "50 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Petit Attitude Petit Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135792.webp",
+      "sku": "135792"
+    },
+    {
+      "id": "produto-135790",
+      "nome": "Petit Attitude Girl Power Deo Colônia",
+      "volume": "50 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Petit Attitude Girl Power Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135790.webp",
+      "sku": "135790"
+    },
+    {
+      "id": "produto-135791",
+      "nome": "Petit Attitude Libellule Deo Colônia",
+      "volume": "50 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Petit Attitude Libellule Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135791.webp",
+      "sku": "135791"
+    },
+    {
+      "id": "produto-136090",
+      "nome": "Attraction Sensation para Ele Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Sensation para Ele Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/136090.webp",
+      "sku": "136090"
+    },
+    {
+      "id": "produto-135795",
+      "nome": "Attraction Sensation para Ela Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Sensation para Ela Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135795.webp",
+      "sku": "135795"
+    },
+    {
+      "id": "produto-169181",
+      "nome": "Attraction Closer para Ele Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Closer para Ele Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/169181.webp",
+      "sku": "169181"
+    },
+    {
+      "id": "produto-169180",
+      "nome": "Attraction Closer para Ela Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Closer para Ela Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/169180.webp",
+      "sku": "169180"
+    },
+    {
+      "id": "produto-135793",
+      "nome": "Attraction Awaken para Ela Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Awaken para Ela Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135793.webp",
+      "sku": "135793"
+    },
+    {
+      "id": "produto-135796",
+      "nome": "Attraction Awaken para Ele Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Awaken para Ele Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135796.webp",
+      "sku": "135796"
+    },
+    {
+      "id": "produto-135794",
+      "nome": "Attraction Desire para Ela Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Desire para Ela Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135794.webp",
+      "sku": "135794"
+    },
+    {
+      "id": "produto-135797",
+      "nome": "Attraction Desire para Ele Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Attraction Desire para Ele Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135797.webp",
+      "sku": "135797"
+    },
+    {
+      "id": "produto-155708",
+      "nome": "300 Km/h Boost Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Boost Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/155708.webp",
+      "sku": "155708"
+    },
+    {
+      "id": "produto-135846",
+      "nome": "300 Km/h Quantum Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Quantum Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135846.webp",
+      "sku": "135846"
+    },
+    {
+      "id": "produto-135847",
+      "nome": "300 Km/h Surfer Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Surfer Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135847.webp",
+      "sku": "135847"
+    },
+    {
+      "id": "produto-136076",
+      "nome": "300 Km/h Power Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Power Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/136076.webp",
+      "sku": "136076"
+    },
+    {
+      "id": "produto-135848",
+      "nome": "300 Km/h Pulse Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Pulse Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135848.webp",
+      "sku": "135848"
+    },
+    {
+      "id": "produto-135849",
+      "nome": "300 Km/h Max Turbo Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Max Turbo Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135849.webp",
+      "sku": "135849"
+    }
+  ]
+}

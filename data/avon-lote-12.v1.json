@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-244373",
+      "sku": "244373",
+      "nome": "Aquavibe Refrescantes Chypre Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Chypre Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244373.webp"
+    },
+    {
+      "id": "produto-244379",
+      "sku": "244379",
+      "nome": "Aquavibe Refrescantes Lichia e Baunilha Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Lichia e Baunilha Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244379.webp"
+    },
+    {
+      "id": "produto-236591",
+      "sku": "236591",
+      "nome": "Aquavibe Refrescantes Pitanga Body Splash",
+      "volume": "1 L",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Pitanga Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/236591.webp"
+    },
+    {
+      "id": "produto-236592",
+      "sku": "236592",
+      "nome": "Aquavibe Refrescantes Pretty Blue Body Splash",
+      "volume": "1 L",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Pretty Blue Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/236592.webp"
+    },
+    {
+      "id": "produto-236594",
+      "sku": "236594",
+      "nome": "Aquavibe Refrescantes Lavanda Body Splash",
+      "volume": "1 L",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Lavanda Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/236594.webp"
+    },
+    {
+      "id": "produto-236590",
+      "sku": "236590",
+      "nome": "Aquavibe Refrescantes Chypre Body Splash",
+      "volume": "1 L",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Chypre Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/236590.webp"
+    },
+    {
+      "id": "produto-236593",
+      "sku": "236593",
+      "nome": "Aquavibe Refrescantes Baby Smell Body Splash",
+      "volume": "1 L",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Baby Smell Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/236593.webp"
+    },
+    {
+      "id": "produto-243186",
+      "sku": "243186",
+      "nome": "Avon Care Radiância e Luminosidade Loção Desodorante Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Radiância e Luminosidade Loção Desodorante Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/243186.webp"
+    },
+    {
+      "id": "produto-246951",
+      "sku": "246951",
+      "nome": "Avon Care Radiância e Luminosidade Loção Desodorante Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Radiância e Luminosidade Loção Desodorante Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/246951.webp"
+    },
+    {
+      "id": "produto-243189",
+      "sku": "243189",
+      "nome": "Avon Care Radiância e Luminosidade 7 em 1 Óleo Corporal",
+      "volume": "150 ml",
+      "tipo": "Óleo corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Radiância e Luminosidade 7 em 1 Óleo Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/243189.webp"
+    },
+    {
+      "id": "produto-161654",
+      "sku": "161654",
+      "nome": "Avon Care Leite de Amêndoas Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Leite de Amêndoas Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161654.webp"
+    },
+    {
+      "id": "produto-179426",
+      "sku": "179426",
+      "nome": "Avon Care Cereja Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Cereja Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/179426.webp"
+    },
+    {
+      "id": "produto-161653",
+      "sku": "161653",
+      "nome": "Avon Care Óleo de Coco Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Óleo de Coco Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161653.webp"
+    },
+    {
+      "id": "produto-161072",
+      "sku": "161072",
+      "nome": "Avon Care Macadâmia Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Macadâmia Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161072.webp"
+    },
+    {
+      "id": "produto-161074",
+      "sku": "161074",
+      "nome": "Avon Care Manteiga de Cacau Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Manteiga de Cacau Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161074.webp"
+    },
+    {
+      "id": "produto-161075",
+      "sku": "161075",
+      "nome": "Avon Care Frutas Vermelhas Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Frutas Vermelhas Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161075.webp"
+    },
+    {
+      "id": "produto-161073",
+      "sku": "161073",
+      "nome": "Avon Care Aveia e Extrato de Baunilha Loção Corporal",
+      "volume": "200 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Aveia e Extrato de Baunilha Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/161073.webp"
+    },
+    {
+      "id": "produto-179427",
+      "sku": "179427",
+      "nome": "Avon Care Cereja Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Cereja Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/179427.webp"
+    },
+    {
+      "id": "produto-201477",
+      "sku": "201477",
+      "nome": "Avon Care Óleo de Jojoba e Karité Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Óleo de Jojoba e Karité Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/201477.webp"
+    },
+    {
+      "id": "produto-246075",
+      "sku": "246075",
+      "nome": "Avon Care Erva Doce Loção Corporal",
+      "volume": "700 ml",
+      "tipo": "Loção corporal",
+      "categoria": "Corpo e banho",
+      "descricao": "Avon Care Erva Doce Loção Corporal.",
+      "imagemOficial": "assets/images/catalogos/avon/246075.webp"
+    }
+  ]
+}

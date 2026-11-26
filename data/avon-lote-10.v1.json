@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-135842",
+      "sku": "135842",
+      "nome": "300 Km/h Virtual Adrenaline Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Virtual Adrenaline Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135842.webp"
+    },
+    {
+      "id": "produto-135844",
+      "sku": "135844",
+      "nome": "300 Km/h Nitro Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Nitro Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135844.webp"
+    },
+    {
+      "id": "produto-135843",
+      "sku": "135843",
+      "nome": "300 Km/h Electric Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "300 Km/h Electric Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135843.webp"
+    },
+    {
+      "id": "produto-175089",
+      "sku": "175089",
+      "nome": "Black Essential Secret Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Secret Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175089.webp"
+    },
+    {
+      "id": "produto-175586",
+      "sku": "175586",
+      "nome": "Black Essential Real Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Real Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175586.webp"
+    },
+    {
+      "id": "produto-175093",
+      "sku": "175093",
+      "nome": "Black Essential Real Intense Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Real Intense Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175093.webp"
+    },
+    {
+      "id": "produto-174485",
+      "sku": "174485",
+      "nome": "Black Essential Charm Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Charm Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/174485.webp"
+    },
+    {
+      "id": "produto-135820",
+      "sku": "135820",
+      "nome": "Exclusive In Black Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Exclusive In Black Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135820.webp"
+    },
+    {
+      "id": "produto-135819",
+      "sku": "135819",
+      "nome": "Exclusive Quest Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Exclusive Quest Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135819.webp"
+    },
+    {
+      "id": "produto-135821",
+      "sku": "135821",
+      "nome": "Exclusive Reserve Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Exclusive Reserve Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135821.webp"
+    },
+    {
+      "id": "produto-135818",
+      "sku": "135818",
+      "nome": "Absolute by Exclusive Deo Colônia",
+      "volume": "50 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Absolute by Exclusive Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135818.webp"
+    },
+    {
+      "id": "produto-135897",
+      "sku": "135897",
+      "nome": "Segno Visionary Deo Parfum",
+      "volume": "100 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Segno Visionary Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135897.webp"
+    },
+    {
+      "id": "produto-135898",
+      "sku": "135898",
+      "nome": "Segno Original Deo Parfum",
+      "volume": "100 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Segno Original Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135898.webp"
+    },
+    {
+      "id": "produto-175092",
+      "sku": "175092",
+      "nome": "Black Essential Original Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Original Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175092.webp"
+    },
+    {
+      "id": "produto-175087",
+      "sku": "175087",
+      "nome": "Black Essential Dark Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Dark Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175087.webp"
+    },
+    {
+      "id": "produto-176064",
+      "sku": "176064",
+      "nome": "Black Essential Intense Deo Colônia",
+      "volume": "100 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Black Essential Intense Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/176064.webp"
+    },
+    {
+      "id": "produto-152169",
+      "sku": "152169",
+      "nome": "Musk Instinct Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Instinct Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/152169.webp"
+    },
+    {
+      "id": "produto-195069",
+      "sku": "195069",
+      "nome": "Musk Marine Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Marine Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/195069.webp"
+    },
+    {
+      "id": "produto-202325",
+      "sku": "202325",
+      "nome": "Musk Rain Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Rain Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/202325.webp"
+    },
+    {
+      "id": "produto-220975",
+      "sku": "220975",
+      "nome": "Musk Exhale Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Exhale Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/220975.webp"
+    }
+  ]
+}

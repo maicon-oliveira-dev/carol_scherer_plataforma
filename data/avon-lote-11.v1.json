@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-152170",
+      "sku": "152170",
+      "nome": "Musk Air Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Air Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/152170.webp"
+    },
+    {
+      "id": "produto-152167",
+      "sku": "152167",
+      "nome": "Musk Freeze Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Freeze Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/152167.webp"
+    },
+    {
+      "id": "produto-152168",
+      "sku": "152168",
+      "nome": "Musk Mineralis Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Mineralis Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/152168.webp"
+    },
+    {
+      "id": "produto-156980",
+      "sku": "156980",
+      "nome": "Musk Metropolitano Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Metropolitano Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/156980.webp"
+    },
+    {
+      "id": "produto-178913",
+      "sku": "178913",
+      "nome": "Musk+ Marine Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Marine Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/178913.webp"
+    },
+    {
+      "id": "produto-135884",
+      "sku": "135884",
+      "nome": "Musk+ Freeze Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Freeze Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135884.webp"
+    },
+    {
+      "id": "produto-220974",
+      "sku": "220974",
+      "nome": "Musk+ Exhale Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Exhale Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/220974.webp"
+    },
+    {
+      "id": "produto-155707",
+      "sku": "155707",
+      "nome": "Musk+ Metropolitano Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Metropolitano Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/155707.webp"
+    },
+    {
+      "id": "produto-175589",
+      "sku": "175589",
+      "nome": "Musk+ Rain Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Rain Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/175589.webp"
+    },
+    {
+      "id": "produto-135885",
+      "sku": "135885",
+      "nome": "Musk+ Instinct Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Instinct Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135885.webp"
+    },
+    {
+      "id": "produto-135886",
+      "sku": "135886",
+      "nome": "Musk+ Intense Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Musk+ Intense Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135886.webp"
+    },
+    {
+      "id": "produto-152165",
+      "sku": "152165",
+      "nome": "Musk Intense Body Splash",
+      "volume": "150 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Musk Intense Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/152165.webp"
+    },
+    {
+      "id": "produto-244375",
+      "sku": "244375",
+      "nome": "Aquavibe Refrescantes Jabuticaba Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Jabuticaba Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244375.webp"
+    },
+    {
+      "id": "produto-244371",
+      "sku": "244371",
+      "nome": "Aquavibe Refrescantes Melancia Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Melancia Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244371.webp"
+    },
+    {
+      "id": "produto-244378",
+      "sku": "244378",
+      "nome": "Aquavibe Refrescantes Pitanga Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Pitanga Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244378.webp"
+    },
+    {
+      "id": "produto-244376",
+      "sku": "244376",
+      "nome": "Aquavibe Refrescantes Pretty Blue Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Pretty Blue Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244376.webp"
+    },
+    {
+      "id": "produto-244374",
+      "sku": "244374",
+      "nome": "Aquavibe Refrescantes Lavanda Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Lavanda Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244374.webp"
+    },
+    {
+      "id": "produto-244370",
+      "sku": "244370",
+      "nome": "Aquavibe Refrescantes Baby Smell Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Baby Smell Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244370.webp"
+    },
+    {
+      "id": "produto-244372",
+      "sku": "244372",
+      "nome": "Aquavibe Refrescantes Alfazema Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Alfazema Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244372.webp"
+    },
+    {
+      "id": "produto-244377",
+      "sku": "244377",
+      "nome": "Aquavibe Refrescantes Romã Body Splash",
+      "volume": "250 ml",
+      "tipo": "Body splash",
+      "categoria": "Perfumaria",
+      "descricao": "Aquavibe Refrescantes Romã Body Splash.",
+      "imagemOficial": "assets/images/catalogos/avon/244377.webp"
+    }
+  ]
+}

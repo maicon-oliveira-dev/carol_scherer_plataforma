@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-163486",
+      "nome": "Far Away Splendoria Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Splendoria Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163486.webp",
+      "sku": "163486"
+    },
+    {
+      "id": "produto-163483",
+      "nome": "Far Away Original Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Original Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163483.webp",
+      "sku": "163483"
+    },
+    {
+      "id": "produto-238376",
+      "nome": "Far Away Beyond The Secret Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Beyond The Secret Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238376.webp",
+      "sku": "238376"
+    },
+    {
+      "id": "produto-163487",
+      "nome": "Far Away Moon Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Moon Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163487.webp",
+      "sku": "163487"
+    },
+    {
+      "id": "produto-136077",
+      "nome": "LOV U Original Deo Parfum",
+      "volume": "75 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "LOV U Original Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/136077.webp",
+      "sku": "136077"
+    },
+    {
+      "id": "produto-136078",
+      "nome": "LOV U Touch Deo Parfum",
+      "volume": "75 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "LOV U Touch Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/136078.webp",
+      "sku": "136078"
+    },
+    {
+      "id": "produto-152730",
+      "nome": "LOV U Connected Deo Parfum",
+      "volume": "75 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "LOV U Connected Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/152730.webp",
+      "sku": "152730"
+    },
+    {
+      "id": "produto-135865",
+      "nome": "LOV U Date Night Deo Parfum",
+      "volume": "75 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "LOV U Date Night Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/135865.webp",
+      "sku": "135865"
+    },
+    {
+      "id": "produto-174216",
+      "nome": "LOV U Together Deo Parfum",
+      "volume": "75 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "LOV U Together Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/174216.webp",
+      "sku": "174216"
+    },
+    {
+      "id": "produto-238129",
+      "nome": "Avon Collection Paris Très Chic Café Gourmand Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Café Gourmand Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238129.webp",
+      "sku": "238129"
+    },
+    {
+      "id": "produto-238126",
+      "nome": "Avon Collection Paris Très Chic Paris En Rose Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Paris En Rose Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238126.webp",
+      "sku": "238126"
+    },
+    {
+      "id": "produto-238128",
+      "nome": "Avon Collection Paris Très Chic Blush Bouquet Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Blush Bouquet Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238128.webp",
+      "sku": "238128"
+    },
+    {
+      "id": "produto-243987",
+      "nome": "Avon Collection Paris Très Chic Macaron Amour Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Macaron Amour Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/243987.webp",
+      "sku": "243987"
+    },
+    {
+      "id": "produto-238127",
+      "nome": "Avon Collection Paris Très Chic Caramel Rouge Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Caramel Rouge Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238127.webp",
+      "sku": "238127"
+    },
+    {
+      "id": "produto-243986",
+      "nome": "Avon Collection Paris Très Chic Coco Lumière Deo Parfum",
+      "volume": "30 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Avon Collection Paris Très Chic Coco Lumière Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/243986.webp",
+      "sku": "243986"
+    },
+    {
+      "id": "produto-135890",
+      "nome": "Pur Blanca Charm Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Charm Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135890.webp",
+      "sku": "135890"
+    },
+    {
+      "id": "produto-135894",
+      "nome": "Pur Blanca Noite Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Noite Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135894.webp",
+      "sku": "135894"
+    },
+    {
+      "id": "produto-135893",
+      "nome": "Pur Blanca My Essence Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca My Essence Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135893.webp",
+      "sku": "135893"
+    },
+    {
+      "id": "produto-135889",
+      "nome": "Pur Blanca Original Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Original Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135889.webp",
+      "sku": "135889"
+    },
+    {
+      "id": "produto-135892",
+      "nome": "Pur Blanca Hope Deo Colônia",
+      "volume": "75 ml",
+      "tipo": "Deo colônia",
+      "categoria": "Perfumaria",
+      "descricao": "Pur Blanca Hope Deo Colônia.",
+      "imagemOficial": "assets/images/catalogos/avon/135892.webp",
+      "sku": "135892"
+    }
+  ]
+}

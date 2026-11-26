@@ -1,0 +1,206 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "produto-232133",
+      "sku": "232133",
+      "nome": "Renew Ultimate Creme Dia FPS 35 — Miniatura",
+      "descricao": "Miniatura do creme facial diurno Renew Ultimate com FPS 35.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232133.webp"
+    },
+    {
+      "id": "produto-232134",
+      "sku": "232134",
+      "nome": "Renew Ultimate Creme Noite — Miniatura",
+      "descricao": "Miniatura do creme facial noturno Renew Ultimate.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232134.webp"
+    },
+    {
+      "id": "produto-232138",
+      "sku": "232138",
+      "nome": "Renew Platinum Creme Dia FPS 35 — Miniatura",
+      "descricao": "Miniatura do creme facial diurno Renew Platinum com FPS 35.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232138.webp"
+    },
+    {
+      "id": "produto-232135",
+      "sku": "232135",
+      "nome": "Renew Platinum Creme Noite — Miniatura",
+      "descricao": "Miniatura do creme facial noturno Renew Platinum.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232135.webp"
+    },
+    {
+      "id": "produto-251523",
+      "sku": "251523",
+      "nome": "Renew Menopro Gel Creme Íntimo",
+      "descricao": "Gel creme íntimo da linha Renew Menopro.",
+      "categoria": "Corpo e banho",
+      "tipo": "Gel creme íntimo",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/251523.webp"
+    },
+    {
+      "id": "produto-246653",
+      "sku": "246653",
+      "nome": "Renew Menopro Creme Ultra Refrescante",
+      "descricao": "Creme da linha Renew Menopro.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/246653.webp"
+    },
+    {
+      "id": "produto-246654",
+      "sku": "246654",
+      "nome": "Renew Menopro Creme Noite",
+      "descricao": "Creme noturno da linha Renew Menopro.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/246654.webp"
+    },
+    {
+      "id": "produto-246651",
+      "sku": "246651",
+      "nome": "Renew Menopro Sérum Repositor de Barreira de Colágeno",
+      "descricao": "Sérum da linha Renew Menopro.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/246651.webp"
+    },
+    {
+      "id": "produto-185791",
+      "sku": "185791",
+      "nome": "Renew Corretor de Marcas Escuras para as Mãos",
+      "descricao": "Cosmético Renew para as mãos.",
+      "categoria": "Corpo e banho",
+      "tipo": "Cuidado para as mãos",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/185791.webp"
+    },
+    {
+      "id": "produto-201145",
+      "sku": "201145",
+      "nome": "Renew Corretor de Marcas Escuras Creme Facial Noite",
+      "descricao": "Creme facial noturno da linha Renew.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "40 g",
+      "imagemOficial": "assets/images/catalogos/avon/201145.webp"
+    },
+    {
+      "id": "produto-160381",
+      "sku": "160381",
+      "nome": "Renew Uniformizador para Olheiras Duo para os Olhos",
+      "descricao": "Duo para os olhos com creme diurno e gel noturno.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Cuidado para os olhos",
+      "volume": "Creme dia 10 g + gel noite 10 g",
+      "imagemOficial": "assets/images/catalogos/avon/160381.webp"
+    },
+    {
+      "id": "produto-201061",
+      "sku": "201061",
+      "nome": "Renew Tratamento Cosmético de Aplicação Localizada",
+      "descricao": "Cosmético Renew de aplicação localizada.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Cuidado localizado",
+      "volume": "15 ml",
+      "imagemOficial": "assets/images/catalogos/avon/201061.webp"
+    },
+    {
+      "id": "produto-155718",
+      "sku": "155718",
+      "nome": "Renew Vitamina C Super Concentrado Antioxidante",
+      "descricao": "Concentrado facial da linha Renew Vitamina C.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/155718.webp"
+    },
+    {
+      "id": "produto-199906",
+      "sku": "199906",
+      "nome": "Refil Renew Vitamina C Super Concentrado Antioxidante",
+      "descricao": "Refil do concentrado facial Renew Vitamina C.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/199906.webp"
+    },
+    {
+      "id": "produto-155732",
+      "sku": "155732",
+      "nome": "Renew Vitamina C Esfoliante Facial",
+      "descricao": "Esfoliante facial da linha Renew Vitamina C.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Esfoliante facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/155732.webp"
+    },
+    {
+      "id": "produto-169798",
+      "sku": "169798",
+      "nome": "Renew Hidratante Antioxidante com Vitamina C FPS 50",
+      "descricao": "Hidratante facial com vitamina C e FPS 50.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Hidratante facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/169798.webp"
+    },
+    {
+      "id": "produto-136013",
+      "sku": "136013",
+      "nome": "Renew Sérum de Tratamento Labial FPS 15",
+      "descricao": "Sérum labial Renew com FPS 15.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum labial",
+      "volume": "3,5 g",
+      "imagemOficial": "assets/images/catalogos/avon/136013.webp"
+    },
+    {
+      "id": "produto-155719",
+      "sku": "155719",
+      "nome": "Renew Preenchedor de Rugas com Ácido Hialurônico",
+      "descricao": "Cosmético facial Renew com ácido hialurônico.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Cuidado facial",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/avon/155719.webp"
+    },
+    {
+      "id": "produto-199903",
+      "sku": "199903",
+      "nome": "Refil Renew Preenchedor de Rugas com Ácido Hialurônico",
+      "descricao": "Refil do preenchedor Renew com ácido hialurônico.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Cuidado facial",
+      "volume": "30 g",
+      "imagemOficial": "assets/images/catalogos/avon/199903.webp"
+    },
+    {
+      "id": "produto-164956",
+      "sku": "164956",
+      "nome": "Renew Hidratante e Preenchedor Gel Creme Facial",
+      "descricao": "Hidratante facial Renew em gel creme.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/164956.webp"
+    }
+  ]
+}

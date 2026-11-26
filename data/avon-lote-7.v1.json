@@ -1,0 +1,641 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "color-trend-delineador-retratil-neon",
+      "nome": "Color Trend Delineador Retrátil Neon",
+      "volume": "350 mg",
+      "tipo": "Delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Delineador Retrátil Neon.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-delineador-retratil-neon.webp",
+      "tons": [
+        {
+          "nome": "Verde Neon",
+          "sku": "135250"
+        },
+        {
+          "nome": "Pink Neon",
+          "sku": "135248"
+        },
+        {
+          "nome": "Laranja Neon",
+          "sku": "135247"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-paleta-de-sombras-vibe",
+      "nome": "Color Trend Paleta de Sombras Vibe",
+      "volume": "4,2 g",
+      "tipo": "Paleta de sombras",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Paleta de Sombras Vibe.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-paleta-de-sombras-vibe.webp",
+      "tons": [
+        {
+          "nome": "Sun Vibe",
+          "sku": "193840",
+          "imagemOficial": "assets/images/catalogos/avon/193840.webp"
+        },
+        {
+          "nome": "Ocean Vibe",
+          "sku": "193841",
+          "imagemOficial": "assets/images/catalogos/avon/193841.webp"
+        },
+        {
+          "nome": "Candy Vibe",
+          "sku": "193839",
+          "imagemOficial": "assets/images/catalogos/avon/193839.webp"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-dlicious-matte-batom-liquido",
+      "nome": "Color Trend D’licious Matte Batom Líquido",
+      "volume": "4 ml",
+      "tipo": "Batom líquido",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend D’licious Matte Batom Líquido.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-dlicious-matte-batom-liquido.webp",
+      "tons": [
+        {
+          "nome": "Raspadinha de Groselha",
+          "sku": "169811"
+        },
+        {
+          "nome": "Cupcake",
+          "sku": "136177"
+        },
+        {
+          "nome": "Red Velvet",
+          "sku": "136176"
+        },
+        {
+          "nome": "Maçã do Amor",
+          "sku": "136175"
+        },
+        {
+          "nome": "Picolé de Uva",
+          "sku": "169810"
+        },
+        {
+          "nome": "Brownie Trufado",
+          "sku": "136170"
+        },
+        {
+          "nome": "Docinho de Leite",
+          "sku": "136168"
+        },
+        {
+          "nome": "Geladinho de Caramelo",
+          "sku": "136169"
+        },
+        {
+          "nome": "Pavê de Morango",
+          "sku": "169809"
+        },
+        {
+          "nome": "Beijinho Doce",
+          "sku": "136172"
+        },
+        {
+          "nome": "Cereja do Bolo",
+          "sku": "136174"
+        },
+        {
+          "nome": "Merengue",
+          "sku": "136171"
+        },
+        {
+          "nome": "Rosé Suspiro",
+          "sku": "136173"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-lapis-delineador-para-olhos-e-boca",
+      "nome": "Color Trend Lápis Delineador para Olhos e Boca",
+      "volume": "1,1 g",
+      "tipo": "Lápis delineador",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Lápis Delineador para Olhos e Boca.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-lapis-delineador-para-olhos-e-boca.webp",
+      "tons": [
+        {
+          "nome": "Ao Leite",
+          "sku": "159439"
+        },
+        {
+          "nome": "Paixão por Roxão",
+          "sku": "153973"
+        },
+        {
+          "nome": "Belga",
+          "sku": "159441"
+        },
+        {
+          "nome": "Amargo",
+          "sku": "159440"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-hidratante-labial-fps-20",
+      "nome": "Color Trend Hidratante Labial FPS 20",
+      "volume": "4,5 g",
+      "tipo": "Hidratante labial",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Hidratante Labial FPS 20.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-hidratante-labial-fps-20.webp",
+      "tons": [
+        {
+          "nome": "Coco",
+          "sku": "182391"
+        },
+        {
+          "nome": "Amora",
+          "sku": "182390"
+        },
+        {
+          "nome": "Morango",
+          "sku": "182392"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-kiss-hidra-batom-fps-15",
+      "nome": "Color Trend Kiss Hidra Batom FPS 15",
+      "volume": "3,6 g",
+      "tipo": "Batom",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Kiss Hidra Batom FPS 15.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-kiss-hidra-batom-fps-15.webp",
+      "tons": [
+        {
+          "nome": "Flamingo",
+          "sku": "135587"
+        },
+        {
+          "nome": "Goiaba",
+          "sku": "135582"
+        },
+        {
+          "nome": "Rosa Chiclete",
+          "sku": "135588"
+        },
+        {
+          "nome": "Grape",
+          "sku": "135584"
+        },
+        {
+          "nome": "Vermelho Café",
+          "sku": "135581"
+        },
+        {
+          "nome": "Carmim",
+          "sku": "135580"
+        },
+        {
+          "nome": "Pipoca Doce",
+          "sku": "135586"
+        },
+        {
+          "nome": "Bombom",
+          "sku": "135583"
+        },
+        {
+          "nome": "Vermelho Pop",
+          "sku": "135585"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-brilho-rollette-sem-glitter",
+      "nome": "Color Trend Brilho Rollette sem Glitter",
+      "volume": "5,5 ml",
+      "tipo": "Brilho labial",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Brilho Rollette sem Glitter.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-brilho-rollette-sem-glitter.webp",
+      "tons": [
+        {
+          "nome": "Chiclete de Tutti-Frutti",
+          "sku": "146982"
+        },
+        {
+          "nome": "Cobertura de Chocolate",
+          "sku": "146983"
+        },
+        {
+          "nome": "Drink de Amora",
+          "sku": "135103"
+        },
+        {
+          "nome": "Menta Queridinha",
+          "sku": "135104"
+        }
+      ]
+    },
+    {
+      "id": "color-trend-brilho-rollette-com-glitter",
+      "nome": "Color Trend Brilho Rollette com Glitter",
+      "volume": "5,5 ml",
+      "tipo": "Brilho labial",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Brilho Rollette com Glitter.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-brilho-rollette-com-glitter.webp",
+      "tons": [
+        {
+          "nome": "Uva Lovers",
+          "sku": "135602"
+        },
+        {
+          "nome": "Morango Vibes",
+          "sku": "135107"
+        }
+      ]
+    },
+    {
+      "id": "produto-152717",
+      "nome": "Avon Power Stay Cobertura Brilhante para Esmaltes",
+      "volume": "9 g",
+      "tipo": "Cobertura para esmaltes",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Power Stay Cobertura Brilhante para Esmaltes.",
+      "imagemOficial": "assets/images/catalogos/avon/152717.webp",
+      "sku": "152717"
+    },
+    {
+      "id": "avon-power-stay-esmalte-gel",
+      "nome": "Avon Power Stay Esmalte Gel",
+      "volume": "9 g",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Power Stay Esmalte Gel.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-power-stay-esmalte-gel.webp",
+      "tons": [
+        {
+          "nome": "Branco Absoluto",
+          "sku": "152780"
+        },
+        {
+          "nome": "Nude Pétala",
+          "sku": "152782"
+        },
+        {
+          "nome": "Vermelhaço",
+          "sku": "152769"
+        },
+        {
+          "nome": "Tô de Vinho",
+          "sku": "152771"
+        },
+        {
+          "nome": "Azul Liberdade",
+          "sku": "152775"
+        },
+        {
+          "nome": "Azul Jeans",
+          "sku": "152777"
+        },
+        {
+          "nome": "Vermelho Energia",
+          "sku": "152767"
+        },
+        {
+          "nome": "Cereja Marcante",
+          "sku": "152770"
+        },
+        {
+          "nome": "Rosê Avermelhado",
+          "sku": "152779"
+        },
+        {
+          "nome": "Uva Rosada",
+          "sku": "152773"
+        },
+        {
+          "nome": "Rosa Magenta",
+          "sku": "152772"
+        },
+        {
+          "nome": "Rosa Sutil",
+          "sku": "152778"
+        },
+        {
+          "nome": "Nude Rosê",
+          "sku": "152783"
+        },
+        {
+          "nome": "Estilo Terracota",
+          "sku": "152774"
+        },
+        {
+          "nome": "Nude Caramelito",
+          "sku": "152784"
+        },
+        {
+          "nome": "Nude Supremo",
+          "sku": "152785"
+        },
+        {
+          "nome": "Nude Grão de Areia",
+          "sku": "152781"
+        },
+        {
+          "nome": "Vermelho Mais Quente",
+          "sku": "152768"
+        }
+      ]
+    },
+    {
+      "id": "avon-crushed-crystals-esmalte",
+      "nome": "Avon Crushed Crystals Esmalte",
+      "volume": "9 ml",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Crushed Crystals Esmalte.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-crushed-crystals-esmalte.webp",
+      "tons": [
+        {
+          "nome": "Prata Crystal",
+          "sku": "135613"
+        },
+        {
+          "nome": "Preto Crystal",
+          "sku": "135614"
+        },
+        {
+          "nome": "Flamingo Vibes",
+          "sku": "135612"
+        },
+        {
+          "nome": "Rosa Crystal",
+          "sku": "135615"
+        }
+      ]
+    },
+    {
+      "id": "avon-ultra-color-esmalte-60s",
+      "nome": "Avon Ultra Color Esmalte 60s",
+      "volume": "9 ml",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Avon Ultra Color Esmalte 60s.",
+      "imagemOficial": "assets/images/catalogos/avon/avon-ultra-color-esmalte-60s.webp",
+      "tons": [
+        {
+          "nome": "Verde Urbano",
+          "sku": "135666"
+        },
+        {
+          "nome": "Meu Número",
+          "sku": "136163"
+        },
+        {
+          "nome": "Beleza Púrpura",
+          "sku": "135645"
+        },
+        {
+          "nome": "Pedra Hematita",
+          "sku": "136167"
+        },
+        {
+          "nome": "Preto Total",
+          "sku": "135663"
+        },
+        {
+          "nome": "Vinho Nobreza",
+          "sku": "135671"
+        },
+        {
+          "nome": "Suspiro",
+          "sku": "136166"
+        },
+        {
+          "nome": "Branco Supremo",
+          "sku": "135646"
+        },
+        {
+          "nome": "Nude Sofisticado",
+          "sku": "135659"
+        },
+        {
+          "nome": "Maçã Encantada",
+          "sku": "135655"
+        },
+        {
+          "nome": "Vermelho Icônico",
+          "sku": "135668"
+        },
+        {
+          "nome": "Deu na Telha",
+          "sku": "135653"
+        },
+        {
+          "nome": "Vermelho Desejo",
+          "sku": "135667"
+        },
+        {
+          "nome": "Chic Nude",
+          "sku": "135650"
+        },
+        {
+          "nome": "Pink Bistrô",
+          "sku": "135661"
+        },
+        {
+          "nome": "Reino Encantado",
+          "sku": "135664"
+        },
+        {
+          "nome": "Contos de Fadas",
+          "sku": "135651"
+        }
+      ]
+    },
+    {
+      "id": "produto-135724",
+      "nome": "Color Trend Mira-Cuticle Complexo Redutor de Cutículas",
+      "volume": "20 g",
+      "tipo": "Cuidado para unhas",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Mira-Cuticle Complexo Redutor de Cutículas.",
+      "imagemOficial": "assets/images/catalogos/avon/135724.webp",
+      "sku": "135724"
+    },
+    {
+      "id": "produto-135722",
+      "nome": "Color Trend Base Niveladora para Unhas",
+      "volume": "7 ml",
+      "tipo": "Base para unhas",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Base Niveladora para Unhas.",
+      "imagemOficial": "assets/images/catalogos/avon/135722.webp",
+      "sku": "135722"
+    },
+    {
+      "id": "produto-135723",
+      "nome": "Color Trend Cobertura Brilhante e Secagem Rápida",
+      "volume": "7 ml",
+      "tipo": "Cobertura para esmaltes",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Cobertura Brilhante e Secagem Rápida.",
+      "imagemOficial": "assets/images/catalogos/avon/135723.webp",
+      "sku": "135723"
+    },
+    {
+      "id": "color-trend-esmalte",
+      "nome": "Color Trend Esmalte",
+      "volume": "7 ml",
+      "tipo": "Esmalte",
+      "categoria": "Maquiagem",
+      "descricao": "Color Trend Esmalte.",
+      "imagemOficial": "assets/images/catalogos/avon/color-trend-esmalte.webp",
+      "tons": [
+        {
+          "nome": "Doce de Pistache",
+          "sku": "136140"
+        },
+        {
+          "nome": "Rosa Choquei",
+          "sku": "136109"
+        },
+        {
+          "nome": "Céu Azul",
+          "sku": "136111"
+        },
+        {
+          "nome": "Tijolinho",
+          "sku": "136137"
+        },
+        {
+          "nome": "Rosa Perolado",
+          "sku": "136135"
+        },
+        {
+          "nome": "Nude Rosa",
+          "sku": "159453"
+        },
+        {
+          "nome": "Raspadinha de Groselha",
+          "sku": "159455"
+        },
+        {
+          "nome": "Frescor de Menta",
+          "sku": "136139"
+        },
+        {
+          "nome": "Explosão Pink",
+          "sku": "136113"
+        },
+        {
+          "nome": "Quase para Sempre",
+          "sku": "136128"
+        },
+        {
+          "nome": "Poder do Nude",
+          "sku": "136141"
+        },
+        {
+          "nome": "Branco Leite",
+          "sku": "136132"
+        },
+        {
+          "nome": "Casaco de Linho",
+          "sku": "136130"
+        },
+        {
+          "nome": "Flor do Campo",
+          "sku": "136131"
+        },
+        {
+          "nome": "Picolé de Uva",
+          "sku": "159454"
+        },
+        {
+          "nome": "Cimento Queimado",
+          "sku": "136133"
+        },
+        {
+          "nome": "Recife de Coral",
+          "sku": "136142"
+        },
+        {
+          "nome": "Quarta de Clássico",
+          "sku": "136125"
+        },
+        {
+          "nome": "Beijo da Meia-Noite",
+          "sku": "136110"
+        },
+        {
+          "nome": "Preto Noite",
+          "sku": "136134"
+        },
+        {
+          "nome": "Mar do Caribe",
+          "sku": "136112"
+        },
+        {
+          "nome": "Bala de Uva",
+          "sku": "136129"
+        },
+        {
+          "nome": "Cappuccino Cremoso",
+          "sku": "136136"
+        },
+        {
+          "nome": "Maçã do Amor",
+          "sku": "159456"
+        },
+        {
+          "nome": "Meu Pink Favorito",
+          "sku": "136127"
+        }
+      ]
+    },
+    {
+      "id": "produto-238130",
+      "nome": "Far Away Infinity Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Infinity Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/238130.webp",
+      "sku": "238130"
+    },
+    {
+      "id": "produto-163475",
+      "nome": "Far Away Shine Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Shine Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163475.webp",
+      "sku": "163475"
+    },
+    {
+      "id": "produto-163485",
+      "nome": "Far Away Beyond Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Beyond Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163485.webp",
+      "sku": "163485"
+    },
+    {
+      "id": "produto-163484",
+      "nome": "Far Away Glamour Deo Parfum",
+      "volume": "50 ml",
+      "tipo": "Deo parfum",
+      "categoria": "Perfumaria",
+      "descricao": "Far Away Glamour Deo Parfum.",
+      "imagemOficial": "assets/images/catalogos/avon/163484.webp",
+      "sku": "163484"
+    }
+  ]
+}

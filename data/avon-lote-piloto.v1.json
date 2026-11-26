@@ -1,0 +1,299 @@
+{
+  "versao": 1,
+  "ativo": true,
+  "produtos": [
+    {
+      "id": "paleta-facial-golden",
+      "nome": "Paleta Facial Golden em Pó 3 em 1",
+      "descricao": "Iluminador, pó bronzeador e blush.",
+      "categoria": "Maquiagem",
+      "tipo": "Paleta facial",
+      "volume": "3,8 g",
+      "imagemOficial": "assets/images/catalogos/avon/paleta-facial-golden.webp",
+      "tons": [
+        {
+          "nome": "Golden Hour",
+          "sku": "231343",
+          "imagemOficial": "assets/images/catalogos/avon/231343.webp"
+        },
+        {
+          "nome": "Sunkissed",
+          "sku": "231336",
+          "imagemOficial": "assets/images/catalogos/avon/231336.webp"
+        }
+      ]
+    },
+    {
+      "id": "ultra-color-batom-matte",
+      "nome": "Ultra Color Batom Matte",
+      "descricao": "Batom com acabamento ultramatte e FPS 30.",
+      "categoria": "Maquiagem",
+      "tipo": "Batom",
+      "volume": "3,6 g",
+      "imagemOficial": "assets/images/catalogos/avon/ultra-color-batom-matte.webp",
+      "tons": [
+        {
+          "nome": "Rosa Goiaba",
+          "sku": "177785"
+        },
+        {
+          "nome": "Vermelho Rubi",
+          "sku": "177786",
+          "imagemOficial": "assets/images/catalogos/avon/177786.webp"
+        },
+        {
+          "nome": "Nude Sereno",
+          "sku": "177771"
+        },
+        {
+          "nome": "Vinho Bordô",
+          "sku": "177794"
+        },
+        {
+          "nome": "Nude Marrom",
+          "sku": "177811"
+        },
+        {
+          "nome": "Roxo Orquídea",
+          "sku": "177775"
+        },
+        {
+          "nome": "Nude Terracota",
+          "sku": "177747"
+        },
+        {
+          "nome": "Vermelho Terracota",
+          "sku": "177814"
+        },
+        {
+          "nome": "Nude Marsala",
+          "sku": "177812"
+        },
+        {
+          "nome": "Rosa Chic",
+          "sku": "177767"
+        },
+        {
+          "nome": "Nude Rosé",
+          "sku": "177788"
+        },
+        {
+          "nome": "Rosa Pink",
+          "sku": "177782"
+        },
+        {
+          "nome": "Nude Bronze",
+          "sku": "177774"
+        },
+        {
+          "nome": "Vermelho Malva",
+          "sku": "177813"
+        },
+        {
+          "nome": "Vermelho Alaranjado",
+          "sku": "177789"
+        },
+        {
+          "nome": "Vermelho Supremo",
+          "sku": "177791"
+        },
+        {
+          "nome": "Malva Rosado",
+          "sku": "177799"
+        },
+        {
+          "nome": "Nude Diva",
+          "sku": "177781"
+        },
+        {
+          "nome": "Amora Paixão",
+          "sku": "177759"
+        },
+        {
+          "nome": "Rosa Carmim",
+          "sku": "177763"
+        }
+      ]
+    },
+    {
+      "id": "produto-278876",
+      "sku": "278876",
+      "nome": "Sabonetes Ylang Ylang Dourado",
+      "descricao": "Caixa com quatro sabonetes cremosos.",
+      "categoria": "Corpo e banho",
+      "tipo": "Sabonete",
+      "volume": "4 unidades de 80 g",
+      "imagemOficial": "assets/images/catalogos/avon/278876.webp"
+    },
+    {
+      "id": "produto-278877",
+      "sku": "278877",
+      "nome": "Sabonetes Flores Exóticas",
+      "descricao": "Caixa com quatro sabonetes cremosos.",
+      "categoria": "Corpo e banho",
+      "tipo": "Sabonete",
+      "volume": "4 unidades de 80 g",
+      "imagemOficial": "assets/images/catalogos/avon/278877.webp"
+    },
+    {
+      "id": "produto-278878",
+      "sku": "278878",
+      "nome": "Sabonetes Pink Bouquet",
+      "descricao": "Caixa com quatro sabonetes cremosos.",
+      "categoria": "Corpo e banho",
+      "tipo": "Sabonete",
+      "volume": "4 unidades de 80 g",
+      "imagemOficial": "assets/images/catalogos/avon/278878.webp"
+    },
+    {
+      "id": "produto-278875",
+      "sku": "278875",
+      "nome": "Sabonetes Sortidos",
+      "descricao": "Caixa com quatro sabonetes cremosos.",
+      "categoria": "Corpo e banho",
+      "tipo": "Sabonete",
+      "volume": "4 unidades de 80 g",
+      "imagemOficial": "assets/images/catalogos/avon/278875.webp"
+    },
+    {
+      "id": "produto-232124",
+      "sku": "232124",
+      "nome": "Renew Platinum Creme Dia",
+      "descricao": "Creme facial diurno com FPS 35.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232124.webp"
+    },
+    {
+      "id": "produto-232123",
+      "sku": "232123",
+      "nome": "Renew Platinum Creme Noite",
+      "descricao": "Creme facial noturno da linha Platinum.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232123.webp"
+    },
+    {
+      "id": "produto-155721",
+      "sku": "155721",
+      "nome": "Renew Platinum Sérum Lift & Firmeza",
+      "descricao": "Sérum facial da linha Platinum.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/155721.webp"
+    },
+    {
+      "id": "produto-190374",
+      "sku": "190374",
+      "nome": "Refil Renew Platinum Sérum Lift & Firmeza",
+      "descricao": "Refil do sérum facial da linha Platinum.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Sérum facial",
+      "volume": "30 ml",
+      "imagemOficial": "assets/images/catalogos/avon/190374.webp"
+    },
+    {
+      "id": "produto-155722",
+      "sku": "155722",
+      "nome": "Renew Lift & Firmeza Duo de Tratamento Cosmético para os Olhos",
+      "descricao": "Duo de tratamento cosmético para os olhos com gel e creme.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Cuidado para os olhos",
+      "volume": "Gel 10 g + creme 10 g",
+      "imagemOficial": "assets/images/catalogos/avon/155722.webp"
+    },
+    {
+      "id": "produto-232125",
+      "sku": "232125",
+      "nome": "Renew Ultimate Creme Dia",
+      "descricao": "Creme facial diurno com FPS 35.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232125.webp"
+    },
+    {
+      "id": "produto-232128",
+      "sku": "232128",
+      "nome": "Renew Ultimate Creme Noite",
+      "descricao": "Creme facial noturno da linha Ultimate.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232128.webp"
+    },
+    {
+      "id": "produto-232127",
+      "sku": "232127",
+      "nome": "Renew Reversalist Creme Dia",
+      "descricao": "Creme facial diurno com FPS 35.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232127.webp"
+    },
+    {
+      "id": "produto-232130",
+      "sku": "232130",
+      "nome": "Renew Reversalist Creme Noite",
+      "descricao": "Creme facial noturno da linha Reversalist.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232130.webp"
+    },
+    {
+      "id": "produto-232129",
+      "sku": "232129",
+      "nome": "Renew Reversalist Gel Creme Dia",
+      "descricao": "Gel creme diurno para peles mistas e oleosas.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel creme facial",
+      "volume": "50 g",
+      "imagemOficial": "assets/images/catalogos/avon/232129.webp"
+    },
+    {
+      "id": "produto-232136",
+      "sku": "232136",
+      "nome": "Renew Reversalist Gel Creme Dia — Miniatura",
+      "descricao": "Miniatura do gel creme facial diurno da linha Reversalist.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Gel creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232136.webp"
+    },
+    {
+      "id": "produto-232131",
+      "sku": "232131",
+      "nome": "Renew Reversalist Creme Dia — Miniatura",
+      "descricao": "Miniatura do creme facial diurno da linha Reversalist.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232131.webp"
+    },
+    {
+      "id": "produto-232132",
+      "sku": "232132",
+      "nome": "Renew Reversalist Creme Noite — Miniatura",
+      "descricao": "Miniatura do creme facial noturno da linha Reversalist.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232132.webp"
+    },
+    {
+      "id": "produto-232469",
+      "sku": "232469",
+      "nome": "Renew Power Creme — Miniatura",
+      "descricao": "Miniatura do creme facial Renew Power.",
+      "categoria": "Cuidados faciais",
+      "tipo": "Creme facial",
+      "volume": "15 g",
+      "imagemOficial": "assets/images/catalogos/avon/232469.webp"
+    }
+  ]
+}
